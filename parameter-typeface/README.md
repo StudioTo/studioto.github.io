@@ -1,4 +1,4 @@
-# 🧬 *Parameter a typeface*
+# 🧬 *Parameter typefaces*
   Paramètres de dessin d'une police de caractères
 # &nbsp;
 ## 🔍 Forme
