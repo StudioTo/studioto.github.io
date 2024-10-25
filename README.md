@@ -1,3 +1,3 @@
-# Studio To Index Graphic Ressources
+# StudioTo Index Graphic Ressources
 # &nbsp;
 ## [🌀 Littérature Visuelle](/index-visual-literacy)
