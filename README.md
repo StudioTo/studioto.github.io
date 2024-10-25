@@ -1,4 +1,4 @@
-# StudioTo *Index Graphic Ressources*
+# *Index Graphic Ressources*
 # &nbsp;
 ## [👀 Littérature Visuelle](/index-visual-literacy)
 ## [🧬 Paramètres Typo](/parameter-typeface)
