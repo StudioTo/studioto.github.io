@@ -2,4 +2,4 @@
 # &nbsp;
 ## [👀 Littérature Visuelle](/index-visual-literacy)
 ## [🧬 Paramètres Typo](/parameter-typeface)
-## [✍🏻 Timeline Écriture](/index-visual-literacy)
+## [✍🏻 Timeline Écriture](/overview-writing-history)
