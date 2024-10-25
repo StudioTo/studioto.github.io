@@ -1,4 +1,4 @@
-# 🍥 *Index of Visual Literacy*
+# 🍥 *Index Visual Literacy*
   Glossaire de littérature visuelle
 # &nbsp;
 # A
