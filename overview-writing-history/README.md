@@ -1,4 +1,4 @@
-# 🕰️ OVERVIEW OF WRITING HISTORY ✍🏻
+# ✍🏻 OVERVIEW OF WRITING HISTORY 
   Timeline visuelle de l'histoire de l'écriture
 
 ## 🗂️ Classification Historique
