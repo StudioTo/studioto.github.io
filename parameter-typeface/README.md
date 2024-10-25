@@ -1,4 +1,5 @@
-# 🧬 PARAMÈTRES TYPO
+# 🧬 *Parameter a typeface*
+  Paramètres de dessin d'une police de caractères
 # &nbsp;
 ## 🔍 Forme
 ## Principe
