@@ -1,5 +1,5 @@
 # StudioTo *Index Graphic Ressources*
 # &nbsp;
 ## [👀 Littérature Visuelle](/index-visual-literacy)
-## [🧬 Paramètres Typo](/index-visual-literacy)
+## [🧬 Paramètres Typo](/parameter-typeface)
 ## [✍🏻 Timeline Écriture](/index-visual-literacy)
