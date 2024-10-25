@@ -36,7 +36,7 @@ Les traces peintes dans les grottes préhistoriques représentaient probablement
 # -38'800: Pictographes
 Un pictographe est un dessin ou une image qui représente un objet, un être ou une scène de manière simplifiée et stylisée (sens littéral, boeuf = boeuf).
 
-|![](/links/overview-writing-history-v2_002.jpg)|
+|![](/overview-writing-history/links/overview-writing-history-v2_002.jpg)|
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
