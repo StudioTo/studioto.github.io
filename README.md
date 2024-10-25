@@ -1,3 +1,3 @@
 # StudioTo: ressources graphiques
 # &nbsp;
-### [🌀 Littérature Visuelle](/index-visual-literacy)
+## [🌀 Littérature Visuelle](/index-visual-literacy)
