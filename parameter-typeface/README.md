@@ -9,7 +9,7 @@
 ## Hauteur
 ## Angle
 ## 🎛️ Style
-## Futs
+## Fûts
 ## Empatements
 ## Ornements
 ## 💥 Sémiotique
