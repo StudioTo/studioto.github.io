@@ -1,5 +1,4 @@
-# 🌀 V I S U A L - L I T E R A C Y 👀
-  Index de ressources visuelles
+# 🍥 LITTÉRATURE VISUELLE
 
 # A
   📁 Adobe Font Folder:  
