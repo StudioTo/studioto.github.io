@@ -1,3 +1,4 @@
-# S t u d i o T o : Catalogue graphic ressources
+# StudioTo
+# Catalogue graphic ressources
 
-# [Histoire de l'écriture](/index-visual-literacy)
+# [Littérature Visuelle](/index-visual-literacy)
