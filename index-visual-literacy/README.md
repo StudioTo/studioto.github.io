@@ -1,5 +1,6 @@
-# 🍥 LITTÉRATURE VISUELLE
-
+# 🍥 *Index of Visual Literacy*
+  Glossaire de littérature visuelle
+# &nbsp;
 # A
   📁 Adobe Font Folder:  
   🔗 Assemblage:  
