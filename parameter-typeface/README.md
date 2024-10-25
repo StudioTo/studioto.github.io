@@ -1,4 +1,4 @@
-# 🧬 Paramètres Typo
+# 🧬 PARAMÈTRES TYPO
 # &nbsp;
 ## 🔍 Forme
 ## Principe
