@@ -1,4 +1,4 @@
 # StudioTo
-#Ressources graphiques
+# Ressources graphiques
 # 
 # [🌀 Littérature Visuelle](/index-visual-literacy)
