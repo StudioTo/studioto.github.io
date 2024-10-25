@@ -1,4 +1,4 @@
 # StudioTo
-### Catalogue graphic ressources
+### Ressources graphiques
 # 
 # [🌀 Littérature Visuelle](/index-visual-literacy)
