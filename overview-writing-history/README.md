@@ -143,8 +143,7 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 
 # -753: Antiquité Romaine
 # 🗂️ Incises
-À mesure que l'Empire Romain est devenue la puissance dominante, il a synthétisé les influences étrusques pour créer une culture monumentale unique qui a laissé un héritage durable dans l’histoire.
-La Fondation de Rome marque le développement architectural et urbain de Rome. La capitale monumentale romaine incarne l'autorié de l'empire.
+À mesure que l'Empire Romain est devenue la puissance dominante, il a synthétisé les influences étrusques pour créer une culture unique qui a marqué durablement l’histoire. La Fondation de Rome marque le développement architectural et urbain de Rome. La capitale monumentale romaine incarne l'autorié de l'empire.
 
 |![](/overview-writing-history/links/overview-writing-history-v2_017.jpg)|
 |:------------------------------------------:|
