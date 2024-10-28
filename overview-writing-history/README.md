@@ -274,7 +274,7 @@ Apparition de l’italique, inspirée de l’écriture utilisée par la chancell
 
 # 1540: Imprimeurs Français
 # 🗂️ Garaldes
-Successeur des Vénitiens, Claude Garamond affine le dessin des lettres en privilégiant des formes plus fines et élancées.
+Successeur des Vénitiens, Claude Garamond affine le dessin des lettres en privilégiant des formes plus raffinées et élancées.
 
 |![](/overview-writing-history/links/overview-writing-history_087.jpg)|
 |:------------------------------------------:|
