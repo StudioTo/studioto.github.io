@@ -184,7 +184,7 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 
 |![](/overview-writing-history/links/overview-writing-history_055.jpg)|![](/overview-writing-history/links/overview-writing-history_047.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Moine copiste dans un scriptorium                                        | Simplification des formes des lettres permettant une écriture plus rapide et fluide, adaptée aux besoins croissants de la correspondance et des documents administratifs au cours du Moyen Âge.                                        |
+| Moine copiste dans un scriptorium                                        | Simplification des formes des lettres permettant une écriture plus rapide et fluide, adaptée aux besoins croissants de la correspondance et des documents administratifs au cours du Moyen Âge                                        |
 
 |![](/overview-writing-history/links/overview-writing-history_048.jpg)|
 |:------------------------------------------:|
