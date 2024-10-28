@@ -117,7 +117,7 @@ Les alphabets sémitiques sont des systèmes d’écriture qui utilisent princip
 | Alphabet phénicien         |
 
 # -1100: Alpabet occidental moderne
-L’alphabet grec introduit un système complet qui inclut des symboles pour les voyelles ainsi que pour les consonnes. Chaque symbole représente un son, y compris les voyelles, ce qui permet une transcription plus précise de la langue parlée.
+L’alphabet grec introduit un système complet: chaque symbole représente un son, y compris les voyelles, ce qui permet une transcription plus précise de la langue parlée.
 
 |![](/overview-writing-history/links/overview-writing-history-v2_016.jpg)|
 |:------------------------------------------:|
