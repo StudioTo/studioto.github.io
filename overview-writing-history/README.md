@@ -531,14 +531,6 @@ La grilles de pixels finalement est remplacée par des tracés vectoriels, qui p
 |:------------------------------------------:|
 | PostScript (PS): deux fichiers (un pour l’écran et un pour l’impression). TrueType (TT): un seul fichier qui fait à la fois office de fichier d’écran et d’impression.                                        |
 
-# 1996: TrueType + PostScript
-# 🛠️ Opentype
-Le format OpenType est un format de police de caractères unifié qui combine les technologies TrueType (Apple) et Type 1 PostScript (Adobe), offrant une large compatibilité multiplateforme et la prise en charge de fonctionnalités typographiques telles que les substitutions ou la gestion de différents systèmes d’écriture.
-
-|![](/overview-writing-history/links/overview-writing-history_175.jpg)|
-|:------------------------------------------:|
-| En raison de sa flexibilité, l’openType s’impose comme le format de référence sur les plates-formes informatiques                                        |
-
 # 1978: Character-sets étendus
 # 🗂️ Non-Alphabétiques
 Symboles (pictos, maths)
@@ -554,6 +546,14 @@ Famille hybrides qui comprennent notamment des fontes avec et sans empatements, 
 |![](/overview-writing-history/links/overview-writing-history_161.jpg)|
 |:------------------------------------------:|
 | Rotis, Otl Aicher                                        |
+
+# 1996: TrueType + PostScript
+# 🛠️ Opentype
+Le format OpenType est un format de police de caractères unifié qui combine les technologies TrueType (Apple) et Type 1 PostScript (Adobe), offrant une large compatibilité multiplateforme et la prise en charge de fonctionnalités typographiques telles que les substitutions ou la gestion de différents systèmes d’écriture.
+
+|![](/overview-writing-history/links/overview-writing-history_175.jpg)|
+|:------------------------------------------:|
+| En raison de sa flexibilité, l’openType s’impose comme le format de référence sur les plates-formes informatiques                                        |
 
 # 2016: Interpolations
 # 🛠️ OpenType Variable Fonts
