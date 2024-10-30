@@ -24,7 +24,7 @@
 - [Invention de l’alphabet](#-1100-alpabet-occidental-moderne)
 - [Invention des chiffres latins](#1202-chiffres-latins)
 - [Invention de l’italique](#1500-litalique)
-- [Invention des caractères mobiles](#1450-Gutemberg)
+- [Invention des caractères mobiles](#1450-Gutenberg)
 - [Invention de la machine à écrire](#1829-machine-à-écrire)
 - [Invention de la composition à chaud](#1880-automatisation)
 - [Invention de la photo-composition](#1950-développements-daprès-guerre)
@@ -221,7 +221,7 @@ La minuscule carolingienne devient plus étroite (plus de lettres sur une ligne)
 |:------------------------------------------:|
 | Ductus gothique                                        |
   
-# 1450: Gutemberg
+# 1450: Gutenberg
 # 🛠️ Caractères mobiles
 L’invention de l’imprimerie par Gutenberg marque le début de la Renaissance en révolutionnant la manière dont le savoir est partagé et conservé en Europe.
 
