@@ -23,8 +23,14 @@
 | Avec (empattements)           | Sans (empattements)             |
 ## 📐 Proportions
 ## Largeur
+|![](links/Typo_Parameters_13.jpg)|
+|:------------------------------------------:|
 ## Hauteur
+|![](links/Typo_Parameters_14.jpg)|
+|:------------------------------------------:|
 ## Angle
+|![](links/Typo_Parameters_15.jpg)|
+|:------------------------------------------:|
 ## 🎛️ Style
 ## Fûts
 ## Empatements
