@@ -3,7 +3,7 @@
 # &nbsp;
 |![](/links/Typo_Parameters_01.jpg)|
 |:------------------------------------------:|
-| Abc              |
+| Le «n» et le «o» contiennent l'ADN d'une fonte           |
 ## 🔍 Forme
 ## Principe
 ## Contraste
