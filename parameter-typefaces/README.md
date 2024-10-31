@@ -22,6 +22,10 @@
 |:------------------------------------------:|:------------------------------------------:|
 | Avec (empattements)           | Sans (empattements)             |
 ## 📐 Proportions
+## Rapports
+|![](links/Typo_Parameters_17.jpg)|
+|:------------------------------------------:|
+| Cohérence visuelle des fûts, des ascendantes et descendantes            |
 ## Graisse
 |![](links/Typo_Parameters_16.jpg)|
 |:------------------------------------------:|
