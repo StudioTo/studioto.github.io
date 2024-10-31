@@ -82,5 +82,7 @@
 |:---:|
 | Principe dynamique           |^
 
+## 📎 Sources
+
 [^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980
 
