@@ -1,5 +1,5 @@
-# 🧬 *Parameter typefaces*
-  Paramètres de dessin d'une police de caractères
+# 🧬 *Parameter a typefaces*
+  ADN d'une police de caractères
 # &nbsp;
 |![](links/Typo_Parameters_01.jpg)|
 |:------------------------------------------:|
