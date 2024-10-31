@@ -42,6 +42,4 @@
 ## Fûts
 ## Empatements
 ## Ornements
-## 💥 Sémiotique
-## Tags
 
