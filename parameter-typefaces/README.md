@@ -14,36 +14,70 @@
 |:---:|:---:|:---:|
 | Principe dynamique           | Principe statique           | Principe géométrique           |
 
+| ![]() | ![]() | ![]() |
+|:---:|:---:|:---:|
+| Principe dynamique           | Principe statique           | Principe géométrique           |
+
 ## Contraste
 
+| ![]() | ![]() |
+|:---:|:---:|
+| Principe dynamique           | Principe statique           |
 
 ## Terminaisons
 
+| ![]() | ![]() |
+|:---:|:---:|
+| Principe dynamique           | Principe statique           |
 
 ## 📐 Proportions
 
 ## Rapports
 
+| ![]() |
+|:---:|
+| Principe dynamique           |
 
 ## Graisse
 
+| ![]() |
+|:---:|
+| Principe dynamique           |
 
 ## Largeur
 
+| ![]() |
+|:---:|
+| Principe dynamique           |
 
 ## Hauteur
 
+| ![]() |
+|:---:|
+| Principe dynamique           |
+
 ## Angle
 
+| ![]() |
+|:---:|
+| Principe dynamique           |
 
 ## 🗜️ Style
 
 ## Fûts
 
+| ![]() |
+|:---:|
+| Principe dynamique           |
 
 ## Empattements
 
+| ![]() |
+|:---:|
+| Principe dynamique           |
 
 ## Ornements
 
-
+| ![]() |
+|:---:|
+| Principe dynamique           |
