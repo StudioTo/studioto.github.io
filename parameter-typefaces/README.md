@@ -4,7 +4,7 @@
 
 |![](links/Typo_Parameters_01.jpg) |
 |:---:|
-| Le «n» et le «o» contiennent l'ADN d'une fonte           |
+| Le «n» et le «o» contiennent l'ADN d'une fonte[^1]           |
 
 ## 🪚 Forme
 
@@ -80,4 +80,7 @@
 
 | ![]() |
 |:---:|
-| Principe dynamique           |
+| Principe dynamique           |^
+
+[^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980
+
