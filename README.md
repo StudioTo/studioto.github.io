@@ -1,5 +1,6 @@
-# *Index Graphic Ressources*
+*Index Graphic Ressources*
 # &nbsp;
+
 ## [📝 Checklists]()
 ## [🏢 Index Grid Systems]()
 ## [🌐 Index Terminologie](/index-graphic-terminology)
