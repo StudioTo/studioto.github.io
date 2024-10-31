@@ -7,7 +7,7 @@
 ## [🗂️ Typo Classification]()
 ## [🌀 Typo Illusions]()
 ## [🔍 Typo Macro-Micro]()
-## [🧬 Typo Paramètres](/parameter-typefaces)
+## [🧬 Typo ADN](/parameter-typefaces)
 ## [💥 Typo Sémiotique]()
 ## [🕰️ Typo Timeline](/overview-writing-history)
 ## [🔡 Typothèque](http://typo.eracom.ch)
