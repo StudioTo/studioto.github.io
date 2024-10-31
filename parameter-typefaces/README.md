@@ -44,6 +44,9 @@
 | L’angle des lettres, italique (cursive dessinée) ou slanted (mathématiquement penchée)            |
 ## 🗜️ Style
 ## Fûts
+|![](links/Typo_Parameters_18.jpg)|![](links/Typo_Parameters_19.jpg)|![](links/Typo_Parameters_20.jpg)|
+|:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
+| Concaves           | Droits           | Convexes          |
 ## Empatements
 ## Ornements
 
