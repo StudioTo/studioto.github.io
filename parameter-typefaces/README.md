@@ -4,7 +4,7 @@
 |![](links/Typo_Parameters_01.jpg)|
 |:------------------------------------------:|
 | Le «n» et le «o» contiennent l'ADN d'une fonte           |
-## 🔍 Forme
+## 🪚 Forme
 ## Principe
 |![](links/Typo_Parameters_02.jpg)|![](links/Typo_Parameters_03.jpg)|![](links/Typo_Parameters_04.jpg)|
 |:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
@@ -22,16 +22,23 @@
 |:------------------------------------------:|:------------------------------------------:|
 | Avec (empattements)           | Sans (empattements)             |
 ## 📐 Proportions
+## Graisse
+|![](links/Typo_Parameters_16.jpg)|
+|:------------------------------------------:|
+| L’épaisseur du tracé           |
 ## Largeur
 |![](links/Typo_Parameters_13.jpg)|
 |:------------------------------------------:|
+| La largeur des lettres, par rapport à la hauteur de x          |
 ## Hauteur
 |![](links/Typo_Parameters_14.jpg)|
 |:------------------------------------------:|
+| La hauteur des lettres, par rapport à la hauteur de x           |
 ## Angle
 |![](links/Typo_Parameters_15.jpg)|
 |:------------------------------------------:|
-## 🎛️ Style
+| L’angle des lettres,            |
+## 🗜️ Style
 ## Fûts
 ## Empatements
 ## Ornements
