@@ -1,10 +1,10 @@
   Index Graphic Ressources
 # &nbsp;
 
-## [📝 Checklists]()
-## [🏢 Index Grid Systems]()
+## [📝 Checklists](/check-things)
+## [🏢 Index Grid Systems](/index-grid-systems)
 ## [🌐 Index Terminologie](/index-graphic-terminology)
-## [👁️ Typo Anatomie]()
+## [👁️ Typo Anatomie](/describe-typefaces)
 ## [🗂️ Typo Classification](/classify-typefaces)
 ## [🌀 Typo Illusions]()
 ## [🔍 Typo Macro-Micro]()
