@@ -5,7 +5,7 @@
 ## [🏢 Index Grid Systems]()
 ## [🌐 Index Terminologie](/index-graphic-terminology)
 ## [👁️ Typo Anatomie]()
-## [🗂️ Typo Classification]()
+## [🗂️ Typo Classification](/classify-typefaces)
 ## [🌀 Typo Illusions]()
 ## [🔍 Typo Macro-Micro]()
 ## [🧬 Typo ADN](/parameter-typefaces)
