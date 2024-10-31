@@ -29,15 +29,15 @@
 ## Largeur
 |![](links/Typo_Parameters_13.jpg)|
 |:------------------------------------------:|
-| La largeur des lettres, par rapport à la hauteur de x          |
+| La largeur des lettres (par rapport à la hauteur de x)          |
 ## Hauteur
 |![](links/Typo_Parameters_14.jpg)|
 |:------------------------------------------:|
-| La hauteur des lettres, par rapport à la hauteur de x           |
+| La hauteur des lettres (par rapport à la hauteur de x)           |
 ## Angle
 |![](links/Typo_Parameters_15.jpg)|
 |:------------------------------------------:|
-| L’angle des lettres,            |
+| L’angle des lettres, italique (cursive dessinée) ou slanted (mathématiquement penchée)            |
 ## 🗜️ Style
 ## Fûts
 ## Empatements
