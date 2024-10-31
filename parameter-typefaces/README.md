@@ -8,7 +8,7 @@
 
 ## 🪚 Forme
 
-## Principe
+## Principe[^2]
 
 | ![](links/Typo_Parameters_02.jpg) | ![](links/Typo_Parameters_03.jpg) | ![](links/Typo_Parameters_04.jpg) |
 |:---:|:---:|:---:|
@@ -85,4 +85,5 @@
 ### 📎 Sources
 
 [^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980
+[^2]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
 
