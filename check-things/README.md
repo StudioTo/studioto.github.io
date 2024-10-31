@@ -1,4 +1,4 @@
-# 👁️ *Check things*
+# 📝 *Check things*
   Vérification avant d'exporter, d'imprimer, de publier, de mettre en ligne,…
 # &nbsp;
 
