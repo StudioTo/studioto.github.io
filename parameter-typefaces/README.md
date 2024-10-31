@@ -10,7 +10,7 @@
 
 ## Principe[^2]
 
-| ![](links/Typo_Parameters_02.jpg) | ![](links/Typo_Parameters_03.jpg) | ![](links/Typo_Parameters_04.jpg) |
+| ![](links/Typo_Parameters_02.jpg) | ![](links/Typo_Parameters_03.jpg) | ![](links/Typo_Parameters_04_alt.jpg) |
 |:---:|:---:|:---:|
 | Principe dynamique           | Principe statique           | Principe géométrique           |
 
