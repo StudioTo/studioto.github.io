@@ -8,7 +8,7 @@
 
 ## 🪚 Forme
 
-### Principe
+## Principe
 
 | ![]() | ![]() | ![]() |
 |:---:|:---:|:---:|
@@ -18,13 +18,13 @@
 |:---:|:---:|:---:|
 | Principe dynamique           | Principe statique           | Principe géométrique           |
 
-### Contraste
+## Contraste
 
 | ![]() | ![]() |
 |:---:|:---:|
 | Principe dynamique           | Principe statique           |
 
-### Terminaisons
+## Terminaisons
 
 | ![]() | ![]() |
 |:---:|:---:|
@@ -32,25 +32,25 @@
 
 ## 📐 Proportions
 
-### Rapports
+## Rapports
 
 | ![]() |
 |:---:|
 | Principe dynamique           |
 
-### Graisse
+## Graisse
 
 | ![]() |
 |:---:|
 | Principe dynamique           |
 
-### Largeur
+## Largeur
 
 | ![]() |
 |:---:|
 | Principe dynamique           |
 
-### Hauteur
+## Hauteur
 
 | ![]() |
 |:---:|
