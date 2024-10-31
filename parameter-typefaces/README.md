@@ -46,7 +46,7 @@
 ## Fûts
 |![](links/Typo_Parameters_18.jpg)|![](links/Typo_Parameters_19.jpg)|![](links/Typo_Parameters_20.jpg)|
 |:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
-| Concaves           | Droits           | Convexes          |
+| Concaves           | Rectilignes           | Convexes          |
 ## Empatements
 ## Ornements
 
