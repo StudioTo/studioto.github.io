@@ -47,6 +47,12 @@
 |![](links/Typo_Parameters_18.jpg)|![](links/Typo_Parameters_19.jpg)|![](links/Typo_Parameters_20.jpg)|
 |:------------------------------------------:|:------------------------------------------:|:------------------------------------------:|
 | Concaves           | Rectilignes           | Convexes          |
-## Empatements
+## Empattements
+|![](links/Typo_Parameters_21.jpg)|
+|:------------------------------------------:|
+| Variation de la forme des empattements (sans, rectangulaire, triangulaire, arrondi)            |
 ## Ornements
+|![](links/Typo_Parameters_22.jpg)|
+|:------------------------------------------:|
+| Variation de l'effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)            |
 
