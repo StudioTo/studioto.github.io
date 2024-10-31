@@ -1,5 +1,5 @@
 # 🗂️ *Classify typefaces*
-  Classer des polices de caractères selon leur principe de forme[^1]
+  Classer des polices de caractères selon les principes de forme[^1]
 # &nbsp;
 
 | ![](links/Typo_Parameters_02.jpg) | ![](links/Typo_Parameters_03.jpg) | ![](links/Typo_Parameters_04_alt.jpg) |
