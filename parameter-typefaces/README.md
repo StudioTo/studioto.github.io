@@ -80,7 +80,7 @@
 
 | ![](links/Typo_Parameters_22.jpg) |
 |:---:|
-| Variation de l'effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |^
+| Variation de l'effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |
 
 ### 📎 Sources
 
