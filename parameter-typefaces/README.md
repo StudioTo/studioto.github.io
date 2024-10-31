@@ -50,7 +50,7 @@
 ## Empattements
 |![](links/Typo_Parameters_21.jpg)|
 |:------------------------------------------:|
-| Variation de la forme des empattements (sans, rectangulaire, triangulaire, transitionel, intersection)            |
+| Variation de la forme des empattements (sans, rectangulaire, triangulaire, transitionnel, intersection)            |
 ## Ornements
 |![](links/Typo_Parameters_22.jpg)|
 |:------------------------------------------:|
