@@ -7,10 +7,10 @@
 ## 🪚 Forme
 ## Principe
 |![](links/Typo_Parameters_02.jpg)|![](links/Typo_Parameters_03.jpg)|![](links/Typo_Parameters_04.jpg)|
-|:---:|:---:|:---:|
+|:\-\-\-:|:\-\-\-:|:\-\-\-:|
 | Principe dynamique           | Principe statique           | Principe géométrique           |
 
-|![](links/Typo_Parameters_05.jpg)|![](links/Typo_Parameters_06.jpg)|![](links/Typo_Parameters_07.jpg)|
+|![](links/Typo_Parameters_05.jpg)|![](links/Typo_Parameters_06.jpg)|![](links/Typo_Parameters_07.jpg)
 |:---:|:---:|:---:|
 | Principe dynamique           | Principe statique           | Principe géométrique           |
 ## Contraste
