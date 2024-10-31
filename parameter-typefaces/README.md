@@ -7,9 +7,9 @@
 ## 🪚 Forme
 ## Principe
 
-|![](links/Typo_Parameters_01.jpg)                  |B|C|
-|:---:|:---:|:---:|
-| Principe dynamique           | Principe statique           | Principe géométrique           |
+|![](links/Typo_Parameters_01.jpg)                  |
+|:---:|
+| Principe dynamique           |
 
 |![](links/Typo_Parameters_02.jpg)|![](links/Typo_Parameters_03.jpg)|![](links/Typo_Parameters_04.jpg)|
 |:---:|:---:|:---:|
