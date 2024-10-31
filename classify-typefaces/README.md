@@ -4,7 +4,7 @@
 
 |![](links/Typo_Parameters_01.jpg) |
 |:---:|
-| Le «n» et le «o» contiennent l'ADN d'une fonte[^1]           |
+| Le «n» et le «o» contiennent l'ADN d'une fonte           |
 
 ## 🪚 Forme
 
@@ -13,23 +13,21 @@ L'écriture avec une plume large, maintenue à un angle constant, permet d'obten
 
 |![](links/Typo_Parameters_01.jpg) |
 |:---:|
-| Le «n» et le «o» contiennent l'ADN d'une fonte[^1]           |
+| Le «n» et le «o» contiennent l'ADN d'une fonte           |
 
 ## Principe Statique
 Dans l'écriture à la plume pointue, l'épaisseur du trait est liée à la pression exercée sur la plume lors d'un trait descendant, alors que les autres traits restent fins. L'axe est vertical avec un contraste élevé mais moins modulé et des ouvertures plutôt fermées. Cela donne aux lettres une impression plus statique et rigide. Les formes de lettres (par exemple q, p, d, b) et leurs proportions sont assez similaires, en particulier la largeur des capitales.
 
-Traduit avec www.DeepL.com/Translator (version gratuite)
-
 |![](links/Typo_Parameters_01.jpg) |
 |:---:|
-| Le «n» et le «o» contiennent l'ADN d'une fonte[^1]           |
+| Le «n» et le «o» contiennent l'ADN d'une fonte           |
 
 ## Principe Géométrique
 La plume ronde permet d'obtenir des formes linéaires, plus « dessinées » et construites (par exemple, le o circulaire) comme dans les écritures Futura ou monoline. Les capitales reprennent souvent les proportions classiques des capitales.
 
 |![](links/Typo_Parameters_01.jpg) |
 |:---:|
-| Le «n» et le «o» contiennent l'ADN d'une fonte[^1]           |
+| Le «n» et le «o» contiennent l'ADN d'une fonte           |
 
 
 ### 📎 Sources
