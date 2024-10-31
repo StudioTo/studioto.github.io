@@ -1,7 +1,7 @@
 # *Index Graphic Ressources*
 # &nbsp;
 ## [📝 Checklists]()
-## [🌐 Glossaire Graphique](/index-graphic-terminology)
+## [🌐 Index Graphique](/index-graphic-terminology)
 ## [👁️ Typo Anatomie]()
 ## [🗂️ Typo Classification]()
 ## [🌀 Typo Illusions]()
