@@ -7,7 +7,7 @@
 ## 🪚 Forme
 ## Principe
 
-|A|B|C|
+||![](links/Typo_Parameters_01.jpg)                  ||B|C|
 |:---:|:---:|:---:|
 | Principe dynamique           | Principe statique           | Principe géométrique           |
 
