@@ -8,6 +8,6 @@
 ## [🌀 Typo Illusions]()
 ## [🔍 Typo Macro-Micro]()
 ## [🧬 Typo ADN](/parameter-typefaces)
-## [💥 Typo Sémiotique]()
+## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🕰️ Typo Timeline](/overview-writing-history)
 ## [🔡 Typothèque](http://typo.eracom.ch)
