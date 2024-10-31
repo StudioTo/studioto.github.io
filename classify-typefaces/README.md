@@ -2,9 +2,9 @@
   Classer des polices de caractères selon leur principe de forme[^1]
 # &nbsp;
 
-|![](links/Typo_Parameters_01.jpg) |
-|:---:|
-| Le «n» et le «o» contiennent l'ADN d'une fonte           |
+| ![](links/Typo_Parameters_02.jpg) | ![](links/Typo_Parameters_03.jpg) | ![](links/Typo_Parameters_04_alt.jpg) |
+|:---:|:---:|:---:|
+| Principe dynamique           | Principe statique           | Principe géométrique           |
 
 ## 🪚 Forme
 
