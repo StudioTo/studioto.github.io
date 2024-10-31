@@ -22,13 +22,13 @@
 
 | ![](links/Typo_Parameters_08.jpg) | ![](links/Typo_Parameters_09.jpg) |
 |:---:|:---:|
-| Principe dynamique           | Principe statique           |
+| Contrasté           | Linéaire           |
 
 ## Terminaisons
 
 | ![](links/Typo_Parameters_10.jpg) | ![](links/Typo_Parameters_11.jpg) |
 |:---:|:---:|
-| Principe dynamique           | Principe statique           |
+| Avec (empattements)           | Sans (empattements)           |
 
 ## 📐 Proportions
 
@@ -36,31 +36,31 @@
 
 | ![](links/Typo_Parameters_17.jpg) |
 |:---:|
-| Principe dynamique           |
+| Cohérence visuelle des fûts, des ascendantes et descendantes           |
 
 ## Graisse
 
 | ![](links/Typo_Parameters_16.jpg) |
 |:---:|
-| Principe dynamique           |
+| L’épaisseur du tracé (light, regular, bold,…)           |
 
 ## Largeur
 
 | ![](links/Typo_Parameters_13.jpg) |
 |:---:|
-| Principe dynamique           |
+| La largeur des lettres (par rapport à la hauteur de x)           |
 
 ## Hauteur
 
 | ![](links/Typo_Parameters_14.jpg) |
 |:---:|
-| Principe dynamique           |
+| La hauteur des lettres (par rapport à la hauteur de x)           |
 
 ## Angle
 
 | ![](links/Typo_Parameters_15.jpg) |
 |:---:|
-| Principe dynamique           |
+| L’angle des lettres, italique (cursive dessinée) ou slanted (mathématiquement penchée)           |
 
 ## 🗜️ Style
 
@@ -68,19 +68,19 @@
 
 | ![](links/Typo_Parameters_18.jpg) | ![](links/Typo_Parameters_19.jpg) | ![](links/Typo_Parameters_20.jpg) |
 |:---:|:---:|:---:|
-| Principe dynamique           | Principe statique           | Principe géométrique           |
+| Concaves           | Rectilignes           | Convexes           |
 
 ## Empattements
 
 | ![](links/Typo_Parameters_21.jpg) |
 |:---:|
-| Principe dynamique           |
+| Variation de la forme des empattements (sans, rectangulaire, triangulaire, transitionnel, intersection)           |
 
 ## Ornements
 
 | ![](links/Typo_Parameters_22.jpg) |
 |:---:|
-| Principe dynamique           |^
+| Variation de l'effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |^
 
 ### 📎 Sources
 
