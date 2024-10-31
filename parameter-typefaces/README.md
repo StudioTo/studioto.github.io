@@ -1,4 +1,4 @@
-# 🧬 *Parameter a typeface*
+# 🧬 *Parameter a typefaceA*
   ADN d'une police de caractères
 # &nbsp;
 |![](links/Typo_Parameters_01.jpg)|
