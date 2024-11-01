@@ -25,7 +25,7 @@ Dans l'écriture à la plume pointue, l'épaisseur du trait est liée à la pres
 ## Principe Géométrique
 La plume ronde permet d'obtenir des formes linéaires, plus « dessinées » et construites (par exemple, le o circulaire) comme dans les écritures Futura ou monoline. Les capitales reprennent souvent les proportions classiques des capitales.
 
-|![](links/Typo_Classification_3_geométrique.gif) |
+|![](links/Typo_Classification_3_geometrique.gif) |
 |:---:|
 | Construction modulaire           |
 
