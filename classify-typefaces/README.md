@@ -35,7 +35,7 @@ Ce principe découle historiquement du constructivisme post-moderne (XXe) réali
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
-## 🗂️ Classification
+## 💠 Classification
 
 |![](links/Era_Typ_Class_01.jpg) |
 |:---:|
@@ -63,6 +63,10 @@ Ce principe découle historiquement du constructivisme post-moderne (XXe) réali
 |![](links/Pair_Fonts.gif) |
 |:---:|
 | Combiner des fontes avec la classification formelle           |
+
+|![](links/Pair_Fonts.gif) |
+|:---:|
+| Exemples de combinaisons           |
 
 En se basant sur la classification formelle de Indra Kupferschmid, on peut faire les remarques suivantes concernant les combinaisons:
 
