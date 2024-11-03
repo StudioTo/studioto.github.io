@@ -52,8 +52,8 @@ Ce principe découle historiquement du constructivisme post-moderne (XXe) réali
       Plume à bec rond (linéaire)  
       Construction modulaire  
 2. **Contraste**
-   -  contrasté (avec)
-   -  linéaire (sans)
+   -  Contrasté (avec)
+   -  Linéaire (sans)
 3. **Terminaisons**
    -  Avec (empattements)
    -  Sans (empattement)
