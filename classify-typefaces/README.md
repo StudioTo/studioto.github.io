@@ -64,10 +64,6 @@ Ce principe découle historiquement du constructivisme post-moderne (XXe) réali
 |:---:|
 | Combiner des fontes avec la classification formelle           |
 
-|![](links/Pair_Fonts.gif) |
-|:---:|
-| Exemples de combinaisons           |
-
 En se basant sur la classification formelle de Indra Kupferschmid, on peut faire les remarques suivantes concernant les combinaisons:
 
 - Les fontes du même modèle s'accordent bien
@@ -83,6 +79,18 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 - les styles
 - les character-sets
 - etc.
+
+|![](links/Typo_Classification_13b1.gif) |
+|:---:|
+| Exemples de combinaisons           |
+
+|![](links/Typo_Classification_13b2.gif) |
+|:---:|
+| Exemples de combinaisons           |
+
+|![](links/Typo_Classification_13b3.gif) |
+|:---:|
+| Exemples de combinaisons           |
 
 ### 📎 Sources
 
