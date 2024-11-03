@@ -39,7 +39,7 @@ Ce principe découle historiquement du constructivisme post-moderne (XXe) réali
 
 |![](links/Era_Typ_Class_01.jpg) |
 |:---:|
-| Classification formelle           |
+| Classification formelle[^2]           |
 
 1. **Principe**
    -  Dynamique  
@@ -62,7 +62,7 @@ Ce principe découle historiquement du constructivisme post-moderne (XXe) réali
 
 |![](links/Pair_Fonts.gif) |
 |:---:|
-| Combiner des fontes avec la classification formelle           |
+| Combiner des fontes avec la classification formelle[^3]           |
 
 En se basant sur la classification formelle de Indra Kupferschmid, on peut faire les remarques suivantes concernant les combinaisons:
 
@@ -82,18 +82,20 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 
 |![](links/Typo_Classification_13b1.gif) |
 |:---:|
-| Exemples de combinaisons           |
+| Différents principes | Même principe           |
 
 |![](links/Typo_Classification_13b2.gif) |
 |:---:|
-| Exemples de combinaisons           |
+| Même principe  | Différents contrastes & terminaisons           |
 
 |![](links/Typo_Classification_13b3.gif) |
 |:---:|
-| Exemples de combinaisons           |
+| Différents principes, contrastes & terminaisons           |
 
 ### 📎 Sources
 
 [^1]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
+[^2]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
+[^3]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
 
 
