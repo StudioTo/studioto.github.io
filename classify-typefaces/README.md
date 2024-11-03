@@ -82,15 +82,15 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 
 |![](links/Typo_Classification_13b1.gif) |
 |:---:|
-| Différents principes | Même principe           |
+| Différents principes \| Même principe           |
 
 |![](links/Typo_Classification_13b2.gif) |
 |:---:|
-| Même principe  | Différents contrastes & terminaisons           |
+| Même principe  \| Différents contrastes & terminaisons           |
 
 |![](links/Typo_Classification_13b3.gif) |
 |:---:|
-| Différents principes, contrastes & terminaisons           |
+| Différents principes \| Différents contrastes & terminaisons           |
 
 ### 📎 Sources
 
