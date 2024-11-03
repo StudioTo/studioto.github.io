@@ -15,7 +15,7 @@ Ce principe découle historiquement de la calligraphie humaniste (Renaissance) r
 
 |![](links/Typo_Classification_1_dynamique.gif) |
 |:---:|
-| Translation           |
+| Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
 ## Principe Statique
 Ce principe découle historiquement de la calligraphie moderne (Renaissance) réalisée à la plume à bec pointu. La **tension verticale** ainsi que les **terminaisons fermées** des lettres résultent de l’**expansion** du bec carré, qui évolue avec la pression de la main.
@@ -24,7 +24,7 @@ Ce principe découle historiquement de la calligraphie moderne (Renaissance) ré
 
 |![](links/Typo_Classification_2_statique.gif) |
 |:---:|
-| Expansion           |
+| Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
 ## Principe Géométrique
 Ce principe découle historiquement du constructivisme post-moderne (XXe) réalisée à la plume à bec rond. La **construction** modulaire des lettres résultent du bec rond qui produit un contraste **monolinéaire**.
@@ -33,7 +33,7 @@ Ce principe découle historiquement du constructivisme post-moderne (XXe) réali
 
 |![](links/Typo_Classification_3_geometrique.gif) |
 |:---:|
-| Construction           |
+| Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
 
 ### 📎 Sources
