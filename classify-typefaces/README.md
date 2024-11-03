@@ -35,6 +35,11 @@ Ce principe découle historiquement du constructivisme post-moderne (XXe) réali
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
+## 🗂️ Classification
+
+|![](links/Era_Typ_Class_01.jpg) |
+|:---:|
+| Classification formelle           |
 
 ### 📎 Sources
 
