@@ -9,4 +9,4 @@
 ## 👂🏻 Parties
 
 
-## 📐 Dimensions
+## 📐 Proportions
