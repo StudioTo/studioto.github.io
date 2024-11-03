@@ -41,6 +41,45 @@ Ce principe découle historiquement du constructivisme post-moderne (XXe) réali
 |:---:|
 | Classification formelle           |
 
+1. **Principe**
+   -  Dynamique  
+      Plume à bec large (translation)  
+      Axe diagonal + extrémités ouvertes  
+   -  Statique  
+      Plume à bec pointu (expansion)  
+      Axe vertical + extrémités fermées  
+   -  Géométrique  
+      Plume à bec rond (linéaire)  
+      Construction modulaire  
+2. **Contraste**
+   -  contrasté (avec)
+   -  linéaire (sans)
+3. **Terminaisons**
+   -  Avec (empattements)
+   -  Sans (empattement)
+
+## 🥂 Combinaisons
+
+|![](links/Pair_Fonts.gif) |
+|:---:|
+| Combiner des fontes avec la classification formelle           |
+
+En se basant sur la classification formelle de Indra Kupferschmid, on peut faire les remarques suivantes concernant les combinaisons:
+
+- Les fontes du même modèle s'accordent bien
+- Les fontes de modèles différents qui partagent le même contraste et les mêmes terminaisons ne s'accordent pas bien
+- Les fontes de modèles différents s'accordent bien seulement si elles sont éloignées dans le tableau (plus qu'une colonne d'écart)
+
+Ce système est un point de départ, il n'y a pas de règles absolues en matière de design. Il est nécesaire d'affiner les combinaisons en prenant en compte le contexte de votre projet, notamment les points suivants:
+
+- la concordance des proportions (hauteur de x, hauteur des capitales)
+- les hiérarchies
+- les corps
+- les graisses
+- les styles
+- les character-sets
+- etc.
+
 ### 📎 Sources
 
 [^1]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
