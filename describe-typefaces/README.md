@@ -29,19 +29,19 @@
 
 |![](links/Typo_Anatomy_cover_2.jpg) |
 |:---:|
-| La ligne de base est la ligne sur laquelle reposent les lettres. C’est le repère principal pour l’alignement des caractères           |
+|            |
 
 ### Ligne de base
 
 |![](links/Typo_Anatomy_03_edit.jpg) |
 |:---:|
-| La hauteur de x correspond à la hauteur des lettres minuscules sans ascendantes ni descendantes, tel que le « x »          |
+| La ligne de base est la ligne sur laquelle reposent les lettres. C’est le repère principal pour l’alignement des caractères         |
 
 ### Hauteur de x
 
 |![](links/Typo_Anatomy_04.jpg) |
 |:---:|
-| Abc           |
+| La hauteur de x correspond à la hauteur des lettres minuscules sans ascendantes ni descendantes, tel que le « x »            |
 
 ### Hateur des capitales
 
