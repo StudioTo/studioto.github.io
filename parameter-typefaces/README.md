@@ -36,7 +36,7 @@
 
 | ![](links/Typo_Parameters_17.jpg) |
 |:---:|
-| Cohérence visuelle des fûts, des ascendantes et descendantes           |
+| Cohérence visuelle des fûts, des connexions, des ascendantes et descendantes           |
 
 ## Graisse
 
