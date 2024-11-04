@@ -249,25 +249,25 @@
 |:---:|
 | Abc           |
 
-### Chiffres proportionels
+### Chiffres tabulaires
 
 |![](links/Typo_Anatomy_44.jpg) |
 |:---:|
 | Abc           |
 
-### Chiffres tabulaires
+### Chiffres elzéviriens (old style)
 
 |![](links/Typo_Anatomy_43.jpg) |
 |:---:|
 | Abc           |
 
-### Chiffres elzéviriens (old style)
+### Chiffres numérateurs & dénominateurs (superscripts & subscripts)
 
 |![](links/Typo_Anatomy_45.jpg) |
 |:---:|
 | Abc           |
 
-### Chiffres numérateurs & dénominateurs (superscripts & subscripts)
+### Italique
 
 |![](links/Typo_Anatomy_46.jpg) |
 |:---:|
