@@ -288,3 +288,5 @@
 |![](links/Typo_Anatomy_47.jpg) |
 |:---:|
 | Les petites capitales sont des lettres majuscules qui ont une taille réduite, souvent équivalente à la hauteur de x           |
+
+[^1] 
