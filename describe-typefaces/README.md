@@ -237,43 +237,43 @@
 |:---:|
 | Abc           |
 
-### Apex
+### Ligature
 
 |![](links/Typo_Anatomy_41.jpg) |
 |:---:|
 | Abc           |
 
-### Apex
+### Chiffres proportionels
 
 |![](links/Typo_Anatomy_42.jpg) |
 |:---:|
 | Abc           |
 
-### Apex
-
-|![](links/Typo_Anatomy_43.jpg) |
-|:---:|
-| Abc           |
-
-### Apex
+### Chiffres proportionels
 
 |![](links/Typo_Anatomy_44.jpg) |
 |:---:|
 | Abc           |
 
-### Apex
+### Chiffres tabulaires
+
+|![](links/Typo_Anatomy_43.jpg) |
+|:---:|
+| Abc           |
+
+### Chiffres elzéviriens (old style)
 
 |![](links/Typo_Anatomy_45.jpg) |
 |:---:|
 | Abc           |
 
-### Apex
+### Chiffres numérateurs & dénominateurs (superscripts & subscripts)
 
 |![](links/Typo_Anatomy_46.jpg) |
 |:---:|
 | Abc           |
 
-### Apex
+### Petites capitales (small caps)
 
 |![](links/Typo_Anatomy_47.jpg) |
 |:---:|
