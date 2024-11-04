@@ -18,7 +18,7 @@
 | [Hateur des descendantes](#hateur-des-descendantes)           | [Colonne](#colonne)           | [Espace blanc](#espace-blanc)           | [Sortie](#sortie)           | [Chiffres numérateurs & dénominateurs](#chiffres-numérateurs--dénominateurs-superscripts--subscripts)             |
 | [Bas de casse](#bas-de-casse)           | [Bras](#bras)           |            |           | [Italique](#Italique)             |
 | [Capitales](#capitales)           | [Jambe](#jambe)           |            |            | [Petites capitales](#petites-capitales-small-caps)             |
-| [Chasse](#ehasse)           | [Pied](#pied)           |            |            |              |
+| [Chasse](#chasse)           | [Pied](#pied)           |            |            |              |
 | [Espacement](##espacement-spacing)           | [Queue](#queue)           |            |            |              |
 | [Crénage](#crénage-kerning)           |            |           |            |             |
 | [Mesures verticales](#mesures-verticales-vertical-metrics)           |            |            |           |             |
