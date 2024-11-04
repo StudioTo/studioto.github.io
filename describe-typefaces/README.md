@@ -17,7 +17,7 @@
 | [Hateur des ascendantes](#hateur-des-ascendantes)           | [Panse](#panse)           | [Contre-forme](#pleins--déliés)           | [Boucle](#boucle)           | [Chiffres elzéviriens](#chiffres-elzéviriens-old-style)             |
 | [Hateur des descendantes](#hateur-des-descendantes)           | [Colonne](#colonne)           | [Espace blanc](#pleins--déliés)           | [Sortie](#sortie)           | [Chiffres numérateurs & dénominateurs](#chiffres-numérateurs--dénominateurs-superscripts--subscripts)             |
 | [Bas de casse](#bas-de-casse)           | [Bras](#bras)           |            |           | [Italique](#Italique)             |
-| [Capitales](#capitales)           | [Jambe](#jambe)           |            |            | [Petites capitales](#petites-capitales)             |
+| [Capitales](#capitales)           | [Jambe](#jambe)           |            |            | [Petites capitales](#petites-capitales-small-caps)             |
 | [Chasse](#ehasse)           | [Pied](#pied)           |            |            |              |
 | [Espacement](##espacement-spacing)           | [Queue](#queue)           |            |            |              |
 | [Crénage](#crénage-kerning)           |            |           |            |             |
