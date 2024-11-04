@@ -7,7 +7,7 @@
 
 |![](links/Typo_Anatomy_01.jpg) |
 |:---:|
-| Abc [^1]           |
+| Abc[^1]           |
 
 ## 📐 Proportions
 
@@ -68,6 +68,54 @@
 | Abc           |
 
 ## 👂🏻 Parties
+
+|![](links/Typo_Anatomy_16.jpg) |
+|:---:|
+| Abc           |
+
+|![](links/Typo_Anatomy_17.jpg) |
+|:---:|
+| Abc           |
+
+|![](links/Typo_Anatomy_18.jpg) |
+|:---:|
+| Abc           |
+
+|![](links/Typo_Anatomy_19.jpg) |
+|:---:|
+| Abc           |
+
+|![](links/Typo_Anatomy_20.jpg) |
+|:---:|
+| Abc           |
+
+|![](links/Typo_Anatomy_21.jpg) |
+|:---:|
+| Abc           |
+
+|![](links/Typo_Anatomy_22.jpg) |
+|:---:|
+| Abc           |
+
+|![](links/Typo_Anatomy_23.jpg) |
+|:---:|
+| Abc           |
+
+|![](links/Typo_Anatomy_24.jpg) |
+|:---:|
+| Abc           |
+
+|![](links/Typo_Anatomy_25.jpg) |
+|:---:|
+| Abc           |
+
+|![](links/Typo_Anatomy_26.jpg) |
+|:---:|
+| Abc           |
+
+|![](links/Typo_Anatomy_27.jpg) |
+|:---:|
+| Abc           |
 
 ## 🪨 Masses
 
