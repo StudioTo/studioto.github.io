@@ -15,15 +15,19 @@
 |:---:|
 | Abc           |
 
-## Hauteur de x
+## Ligne de base
 
 |![](links/Typo_Anatomy_03.jpg) |
 |:---:|
 | Abc           |
 
+## Hauteur de x
+
 |![](links/Typo_Anatomy_04.jpg) |
 |:---:|
 | Abc           |
+
+## Hateur des capitales
 
 |![](links/Typo_Anatomy_05.jpg) |
 |:---:|
