@@ -11,7 +11,7 @@
 
 | 📐 Proportions | 👂🏻 Parties | 🪨 Masses | ☝🏻 Terminaisons | 🎭 Substitutions |
 |:---:|:---:|:---:|:---:|:---:|
-| [Ligne de base](#Ligne de base)           | Abc           | Abc           | Abc           | Abc           |
+| [Ligne de base](#ligne-de-base)           | Abc           | Abc           | Abc           | Abc           |
 
 ## 📐 Proportions
 
