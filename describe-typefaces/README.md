@@ -35,7 +35,7 @@
 
 |![](links/Typo_Anatomy_03_edit.jpg) |
 |:---:|
-| La ligne de base est la ligne sur laquelle reposent les lettres. C’est le repère principal pour l’alignement des caractères         |
+| La ligne de base est la ligne sur laquelle reposent toutes les lettres. C’est le repère principal pour l’alignement des caractères         |
 
 ### Hauteur de x
 
@@ -47,61 +47,61 @@
 
 |![](links/Typo_Anatomy_05.jpg) |
 |:---:|
-| Abc           |
+| La hauteur des capitales est la hauteur des lettres majuscules, qui est normalement plus haute que celle des minuscules           |
 
 ### Hateur des ascendantes
 
 |![](links/Typo_Anatomy_06.jpg) |
 |:---:|
-| Abc           |
+| La hauteur des ascendantes est la distance des parties de lettres minuscules qui s’élèvent au-dessus de la hauteur de x. Elle peut être égale ou inférieure à la hauteur des capitales           |
 
 ### Hateur des descendantes
 
 |![](links/Typo_Anatomy_07.jpg) |
 |:---:|
-| Abc           |
+| La hauteur des descendantes est la distance entre la ligne de base et le point le plus bas des parties de lettres qui descendent en dessous de celle-ci           |
 
 ### Bas de casse
 
 |![](links/Typo_Anatomy_09.jpg) |
 |:---:|
-| Abc           |
+| Le terme « bas de casse » fait référence aux lettres minuscules           |
 
 ### Capitales
 
 |![](links/Typo_Anatomy_08.jpg) |
 |:---:|
-| Abc           |
+| Le terme « capitales » fait référence aux lettres majuscules           |
 
 ### Chasse
 
 |![](links/Typo_Anatomy_10.jpg) |
 |:---:|
-| Abc           |
+| La chasse est la largeur totale occupée par un caractère, incluant l’espace autour du caractère lui-même           |
 
 ### Espacement (spacing)
 
 |![](links/Typo_Anatomy_11.jpg) |
 |:---:|
-| Abc           |
+| L’espacement désigne la gestion des espaces autour d’un caractère au sein même de sa chasse           |
 
 ### Crénage (kerning)
 
 |![](links/Typo_Anatomy_13.jpg) |
 |:---:|
-| Abc           |
+| Le crénage désigne la gestion de l’espace entre certaines paires de lettres pour en améliorer l’harmonie visuelle           |
 
 ### Mesures verticales (vertical metrics)
 
 |![](links/Typo_Anatomy_12.jpg) |
 |:---:|
-| Abc           |
+| Les mesures verticales regroupent toutes les dimensions de hauteur dans une police, allant du glyphe le plus bas au plus haut           |
 
 ### Corps
 
 |![](links/Typo_Anatomy_14.jpg) |
 |:---:|
-| Abc           |
+| Le corps est la taille totale de la police de caractères, mesurée de la ligne des ascendantes à celle des descendantes           |
 
 ### Em square
 
