@@ -113,61 +113,61 @@
 
 |![](links/Typo_Anatomy_cover_3.jpg) |
 |:---:|
-| Abc           |
+|            |
 
 ### Oeil
 
 |![](links/Typo_Anatomy_17.jpg) |
 |:---:|
-| Abc           |
+| L’œil désigne la partie intérieure fermée d’une lettre comme le « e » ou le « o »           |
 
 ### Oreille
 
 |![](links/Typo_Anatomy_18.jpg) |
 |:---:|
-| Abc           |
+| L’oreille est une extension qui se trouve sur certaines lettres comme le « g »           |
 
 ### Épaule
 
 |![](links/Typo_Anatomy_19.jpg) |
 |:---:|
-| Abc           |
+| L’épaule fait référence à la partie arrondie d’une lettre qui connecte souvent un fût à une courbe, comme dans le « h », le « m » ou le « n »           |
 
 ### Panse
 
 |![](links/Typo_Anatomy_20.jpg) |
 |:---:|
-| Abc           |
+| La panse désigne la partie arrondie d’une lettre, généralement dans les lettres comme le « b », le « d » ou le « p »           |
 
 ### Colonne
 
 |![](links/Typo_Anatomy_23.jpg) |
 |:---:|
-| Abc           |
+| La colonne est la zone médiane qui relie les courbes et donne à la lettre sa structure générale           |
 
 ### Bras
 
 |![](links/Typo_Anatomy_24.jpg) |
 |:---:|
-| Abc           |
+| Le bras est une partie horizontale d’une lettre qui ne touche pas la ligne de base, comme dans le « T » ou le « E »           |
 
 ### Jambe
 
 |![](links/Typo_Anatomy_25.jpg) |
 |:---:|
-| Abc           |
+| La jambe est la partie d’une lettre qui descend vers la ligne de base à partir d’un trait fût, comme dans le « k » ou le « r »           |
 
 ### Pied
 
 |![](links/Typo_Anatomy_26.jpg) |
 |:---:|
-| Abc           |
+| Le pied est la partie inférieure d’une lettre qui repose sur la ligne de base, comme dans le « R » ou le « A »           |
 
 ### Queue
 
 |![](links/Typo_Anatomy_27.jpg) |
 |:---:|
-| Abc           |
+| La queue est une extension qui s’étend en dehors de la lettre, comme dans le « Q » ou le « J »           |
 
 ## 🪨 Masses
 
@@ -215,31 +215,31 @@
 
 |![](links/Typo_Anatomy_39.jpg) |
 |:---:|
-| Abc           |
+| L’apex désigne la pointe supérieure d’une lettre, où deux traits se rejoignent           |
 
 ### Empattement (sérif)
 
 |![](links/Typo_Anatomy_35.jpg) |
 |:---:|
-| Abc           |
+| L’empattement (sérif) est une extension ou un ornement à l’extrémité des tracés d’une lettre           |
 
 ### Goutte
 
 |![](links/Typo_Anatomy_36.jpg) |
 |:---:|
-| Abc           |
+| La goutte est une forme arrondie qui se trouve souvent à l’extrémité d’un tracé           |
 
 ### Boucle
 
 |![](links/Typo_Anatomy_38.jpg) |
 |:---:|
-| Abc           |
+| La boucle est la partie inférieure d’une lettre où le trait se replie sur lui même           |
 
 ### Sortie
 
 |![](links/Typo_Anatomy_37.jpg) |
 |:---:|
-| Abc           |
+| La sortie est un trait qui s’étend à l’extérieur d’une lettre           |
 
 ## 🎭 Substitutions
 
