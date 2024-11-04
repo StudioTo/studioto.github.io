@@ -33,41 +33,61 @@
 |:---:|
 | Abc           |
 
+### Hateur des ascendantes
+
 |![](links/Typo_Anatomy_06.jpg) |
 |:---:|
 | Abc           |
+
+### Hateur des descendantes
 
 |![](links/Typo_Anatomy_07.jpg) |
 |:---:|
 | Abc           |
 
-|![](links/Typo_Anatomy_08.jpg) |
-|:---:|
-| Abc           |
+### Bas de casse
 
 |![](links/Typo_Anatomy_09.jpg) |
 |:---:|
 | Abc           |
 
+### Capitales
+
+|![](links/Typo_Anatomy_08.jpg) |
+|:---:|
+| Abc           |
+
+### Chasse
+
 |![](links/Typo_Anatomy_10.jpg) |
 |:---:|
 | Abc           |
+
+### Spacing
 
 |![](links/Typo_Anatomy_11.jpg) |
 |:---:|
 | Abc           |
 
-|![](links/Typo_Anatomy_12.jpg) |
-|:---:|
-| Abc           |
+### Kerning
 
 |![](links/Typo_Anatomy_13.jpg) |
 |:---:|
 | Abc           |
 
+### Vertical metrics
+
+|![](links/Typo_Anatomy_12.jpg) |
+|:---:|
+| Abc           |
+
+### Corps
+
 |![](links/Typo_Anatomy_14.jpg) |
 |:---:|
 | Abc           |
+
+### Em square
 
 |![](links/Typo_Anatomy_15.jpg) |
 |:---:|
