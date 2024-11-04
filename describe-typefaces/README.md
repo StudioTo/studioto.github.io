@@ -7,7 +7,7 @@
 
 |![](links/Typo_Anatomy_cover_1.jpg) |
 |:---:|
-| L'art et la science de la proportion des lettres attiques ou romaines anciennes, d'après le corps et le visage humains [^1]           |
+| L'art et la science de la proportion des lettres attiques ou romaines anciennes, d'après le corps et le visage humains[^1]           |
 
 | 📐 Proportions | 👂🏻 Parties | 🪨 Masses | ☝🏻 Terminaisons | 🎭 Substitutions |
 |:---|:---|:---|:---|:---|
@@ -289,4 +289,4 @@
 |:---:|
 | Les petites capitales sont des lettres majuscules qui ont une taille réduite, souvent équivalente à la hauteur de x           |
 
-[^1] Geoffroy Tory, Champfleury, 1529
+[^1]: Geoffroy Tory, Champfleury, 1529
