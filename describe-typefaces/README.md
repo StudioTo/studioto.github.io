@@ -12,16 +12,16 @@
 | 📐 Proportions | 👂🏻 Parties | 🪨 Masses | ☝🏻 Terminaisons | 🎭 Substitutions |
 |:---|:---|:---|:---|:---|
 | [Ligne de base](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Hauteur de x](#ligne-de-base)           | [Oreille](#oeil)           | [Fût](#pleins--déliés)           | [Empattement](#apex)           | [Chiffres proportionels](#ligature)             |
-| [Hateur des capitales](#ligne-de-base)           | [Épaule](#oeil)           | [Traverse](#pleins--déliés)           | [Goutte](#apex)           | [Chiffres tabulaires](#ligature)             |
-| [Hateur des ascendantes](#ligne-de-base)           | [Panse](#oeil)           | [Contre-forme](#pleins--déliés)           | [Boucle](#apex)           | [Chiffres elzéviriens](#ligature)             |
-| [Hateur des descendantes](#ligne-de-base)           | [Colonne](#oeil)           | [Espace blanc](#pleins--déliés)           | [Sortie](#apex)           | [Chiffres numérateurs & dénominateurs](#ligature)             |
-| [Bas de casse](#ligne-de-base)           | [Bras](#oeil)           |            |           | [Italique](#ligature)             |
-| [Capitales](#ligne-de-base)           | [Jambe](#oeil)           |            |            | [Petites capitales](#ligature)             |
-| [Chasse](#ligne-de-base)           | [Pied](#oeil)           |            |            |              |
-| [Spacing](#ligne-de-base)           | [Queue](#oeil)           |            |            |              |
-| [Kerning](#ligne-de-base)           |            |           |            |             |
-| [Vertical metrics](#ligne-de-base)           |            |            |           |             |
+| [Hauteur de x](#hauteur-de-x)           | [Oreille](#oeil)           | [Fût](#pleins--déliés)           | [Empattement](#apex)           | [Chiffres proportionels](#ligature)             |
+| [Hateur des capitales](#hateur-des-capitales)           | [Épaule](#oeil)           | [Traverse](#pleins--déliés)           | [Goutte](#apex)           | [Chiffres tabulaires](#ligature)             |
+| [Hateur des ascendantes](#hateur-des-ascendantes)           | [Panse](#oeil)           | [Contre-forme](#pleins--déliés)           | [Boucle](#apex)           | [Chiffres elzéviriens](#ligature)             |
+| [Hateur des descendantes](#hateur-des-descendantes)           | [Colonne](#oeil)           | [Espace blanc](#pleins--déliés)           | [Sortie](#apex)           | [Chiffres numérateurs & dénominateurs](#ligature)             |
+| [Bas de casse](#bas-de-casse)           | [Bras](#oeil)           |            |           | [Italique](#ligature)             |
+| [Capitales](#capitales)           | [Jambe](#oeil)           |            |            | [Petites capitales](#ligature)             |
+| [Chasse](#ehasse)           | [Pied](#oeil)           |            |            |              |
+| [Espacement](#espacement)           | [Queue](#oeil)           |            |            |              |
+| [Crénage](#crénage)           |            |           |            |             |
+| [Mesures verticales](#ligne-de-base)           |            |            |           |             |
 | [Corps](#ligne-de-base)           |            |           |            |             |
 | [Em square](#ligne-de-base)           |            |            |            |              |
 
@@ -79,19 +79,19 @@
 |:---:|
 | Abc           |
 
-### Spacing
+### Espacement (spacing)
 
 |![](links/Typo_Anatomy_11.jpg) |
 |:---:|
 | Abc           |
 
-### Kerning
+### Crénage (kerning)
 
 |![](links/Typo_Anatomy_13.jpg) |
 |:---:|
 | Abc           |
 
-### Vertical metrics
+### Mesures verticales (vertical metrics)
 
 |![](links/Typo_Anatomy_12.jpg) |
 |:---:|
