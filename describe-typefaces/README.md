@@ -289,4 +289,4 @@
 |:---:|
 | Les petites capitales sont des lettres majuscules qui ont une taille réduite, souvent équivalente à la hauteur de x           |
 
-[^1] 
+[^1] Geoffroy Tory, Champfleury, 1529
