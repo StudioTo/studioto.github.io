@@ -165,13 +165,13 @@
 |:---:|
 | Abc           |
 
-### Fûts
+### Fût
 
 |![](links/Typo_Anatomy_30.jpg) |
 |:---:|
 | Abc           |
 
-### Traverses
+### Traverse
 
 |![](links/Typo_Anatomy_22.jpg) |
 |:---:|
