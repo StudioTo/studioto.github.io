@@ -183,7 +183,7 @@
 |:---:|
 | Abc           |
 
-### Contre-formes avec et sans sérifs
+### Contre-forme avec et sans sérifs
 
 |![](links/Typo_Anatomy_32.jpg) |
 |:---:|
@@ -197,4 +197,84 @@
 
 ## ☝🏻 Terminaisons
 
+|![](links/Typo_Anatomy_34.jpg) |
+|:---:|
+| Abc           |
+
+### Apex
+
+|![](links/Typo_Anatomy_39.jpg) |
+|:---:|
+| Abc           |
+
+### Sérif ou empattement
+
+|![](links/Typo_Anatomy_35.jpg) |
+|:---:|
+| Abc           |
+
+### Goutte
+
+|![](links/Typo_Anatomy_36.jpg) |
+|:---:|
+| Abc           |
+
+### Boucle
+
+|![](links/Typo_Anatomy_38.jpg) |
+|:---:|
+| Abc           |
+
+### Sortie
+
+|![](links/Typo_Anatomy_37.jpg) |
+|:---:|
+| Abc           |
+
 ## 🎭 Substitutions
+
+|![](links/Typo_Anatomy_40.jpg) |
+|:---:|
+| Abc           |
+
+### Apex
+
+|![](links/Typo_Anatomy_41.jpg) |
+|:---:|
+| Abc           |
+
+### Apex
+
+|![](links/Typo_Anatomy_42.jpg) |
+|:---:|
+| Abc           |
+
+### Apex
+
+|![](links/Typo_Anatomy_43.jpg) |
+|:---:|
+| Abc           |
+
+### Apex
+
+|![](links/Typo_Anatomy_44.jpg) |
+|:---:|
+| Abc           |
+
+### Apex
+
+|![](links/Typo_Anatomy_45.jpg) |
+|:---:|
+| Abc           |
+
+### Apex
+
+|![](links/Typo_Anatomy_46.jpg) |
+|:---:|
+| Abc           |
+
+### Apex
+
+|![](links/Typo_Anatomy_47.jpg) |
+|:---:|
+| Abc           |
