@@ -179,31 +179,31 @@
 
 |![](links/Typo_Anatomy_29.jpg) |
 |:---:|
-| Abc           |
+| Les pleins sont les parties plus épaisses des caractères, tandis que les déliés sont les parties plus fines           |
 
 ### Fût
 
 |![](links/Typo_Anatomy_30.jpg) |
 |:---:|
-| Abc           |
+| Le fût est la partie verticale rectiligne d’une lettre, généralement de valeur identique à travers les minuscules et les majuscules           |
 
 ### Traverse
 
 |![](links/Typo_Anatomy_22.jpg) |
 |:---:|
-| Abc           |
+| La traverse est la partie horizontale rectiligne qui traverse une lettre           |
 
 ### Contre-forme
 
 |![](links/Typo_Anatomy_31.jpg) |
 |:---:|
-| Abc           |
+| La contre-forme désigne les espaces vides à l’intérieur d’une lettre, elles peuvent être ouvertes ou fermées           |
 
 ### Espace blanc
 
 |![](links/Typo_Anatomy_33.jpg) |
 |:---:|
-| Abc           |
+| L’espace blanc est crucial pour la lisibilité et l’esthétique générale d’un caractère car il permet de distinguer les caractères et de créer un contraste visuel avec le fond           |
 
 ## ☝🏻 Terminaisons
 
@@ -251,40 +251,40 @@
 
 |![](links/Typo_Anatomy_41.jpg) |
 |:---:|
-| Abc           |
+| Une ligature est une combinaison de deux ou plusieurs lettres qui sont jointes pour former un seul caractère           |
 
 ### Chiffres proportionels
 
 |![](links/Typo_Anatomy_43.jpg) |
 |:---:|
-| Abc           |
+| Les chiffres proportionnels sont des chiffres qui ont des largeurs différentes, semblables aux lettres           |
 
 ### Chiffres tabulaires
 
 |![](links/Typo_Anatomy_42.jpg) |
 |:---:|
-| Abc           |
+| Les chiffres tabulaires, en revanche, ont tous la même largeur, ce qui permet de les aligner facilement sur des colonnes           |
 
 ### Chiffres elzéviriens (old style)
 
 |![](links/Typo_Anatomy_44.jpg) |
 |:---:|
-| Abc           |
+| Les chiffres elzéviriens sont des chiffres qui varient en hauteur, certains plus élevés et d'autres plus bas que la ligne de base (ils se fondent généralement mieux dans le texte)           |
 
 ### Chiffres numérateurs & dénominateurs (superscripts & subscripts)
 
 |![](links/Typo_Anatomy_45.jpg) |
 |:---:|
-| Abc           |
+| Les chiffres numérateurs et dénominateurs se réfèrent aux nombres utilisés dans les fractions           |
 
 ### Italique
 
 |![](links/Typo_Anatomy_46.jpg) |
 |:---:|
-| Abc           |
+| L’italique est un style typographique dans lequel les caractères sont inclinés, ce qui permet notamment de mettre en avant des mots dans un texte           |
 
 ### Petites capitales (small caps)
 
 |![](links/Typo_Anatomy_47.jpg) |
 |:---:|
-| Abc           |
+| Les petites capitales sont des lettres majuscules qui ont une taille réduite, souvent équivalente à la hauteur de x           |
