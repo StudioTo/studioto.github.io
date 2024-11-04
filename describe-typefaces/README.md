@@ -101,13 +101,13 @@
 
 |![](links/Typo_Anatomy_14.jpg) |
 |:---:|
-| Le corps est la taille totale de la police de caractères, mesurée de la ligne des ascendantes à celle des descendantes           |
+| Le corps est la taille totale de la police de caractères, mesurée de la ligne la plus basse à la ligne la plus haute comprises dans les mesures verticales           |
 
 ### Em square
 
 |![](links/Typo_Anatomy_15.jpg) |
 |:---:|
-| Abc           |
+| Le em square est une unité de référence qui représente un carré imaginaire dont chaque côté mesure la taille du corps de la police           |
 
 ## 👂🏻 Parties
 
