@@ -33,7 +33,7 @@
 
 ### Ligne de base
 
-|![](links/Typo_Anatomy_03.jpg) |
+|![](links/Typo_Anatomy_03_edit.jpg) |
 |:---:|
 | Abc           |
 
