@@ -6,7 +6,15 @@
 |:---:|
 | Le «n» et le «o» contiennent l'ADN d'une fonte[^1]           |
 
-## 👂🏻 Parties
 
+## 🦴 Anatomie
 
 ## 📐 Proportions
+
+## 👂🏻 Parties
+
+## 🪨 Masses
+
+## ☝🏻 Terminaisons
+
+## 🎭 Substitutions
