@@ -15,7 +15,7 @@
 
 ## 📐 Proportions
 
-|![](links/Typo_Anatomy_02.jpg) |
+|![](links/Typo_Anatomy_cover_2.jpg) |
 |:---:|
 | Abc           |
 
@@ -99,7 +99,7 @@
 
 ## 👂🏻 Parties
 
-|![](links/Typo_Anatomy_16.jpg) |
+|![](links/Typo_Anatomy_cover_3.jpg) |
 |:---:|
 | Abc           |
 
@@ -159,7 +159,7 @@
 
 ## 🪨 Masses
 
-|![](links/Typo_Anatomy_28.jpg) |
+|![](links/Typo_Anatomy_cover_4.jpg) |
 |:---:|
 | Abc           |
 
@@ -201,7 +201,7 @@
 
 ## ☝🏻 Terminaisons
 
-|![](links/Typo_Anatomy_34.jpg) |
+|![](links/Typo_Anatomy_cover_5.jpg) |
 |:---:|
 | Abc           |
 
@@ -237,7 +237,7 @@
 
 ## 🎭 Substitutions
 
-|![](links/Typo_Anatomy_40.jpg) |
+|![](links/Typo_Anatomy_cover_6.jpg) |
 |:---:|
 | Abc           |
 
