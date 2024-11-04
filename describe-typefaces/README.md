@@ -12,14 +12,14 @@
 | 📐 Proportions | 👂🏻 Parties | 🪨 Masses | ☝🏻 Terminaisons | 🎭 Substitutions |
 |:---|:---|:---|:---|:---|
 | [Ligne de base](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Hauteur de x](#hauteur-de-x)           | [Oreille](#oeil)           | [Fût](#pleins--déliés)           | [Empattement](#apex)           | [Chiffres proportionels](#ligature)             |
-| [Hateur des capitales](#hateur-des-capitales)           | [Épaule](#oeil)           | [Traverse](#pleins--déliés)           | [Goutte](#apex)           | [Chiffres tabulaires](#ligature)             |
-| [Hateur des ascendantes](#hateur-des-ascendantes)           | [Panse](#oeil)           | [Contre-forme](#pleins--déliés)           | [Boucle](#apex)           | [Chiffres elzéviriens](#ligature)             |
-| [Hateur des descendantes](#hateur-des-descendantes)           | [Colonne](#oeil)           | [Espace blanc](#pleins--déliés)           | [Sortie](#apex)           | [Chiffres numérateurs & dénominateurs](#ligature)             |
-| [Bas de casse](#bas-de-casse)           | [Bras](#oeil)           |            |           | [Italique](#ligature)             |
-| [Capitales](#capitales)           | [Jambe](#oeil)           |            |            | [Petites capitales](#ligature)             |
-| [Chasse](#ehasse)           | [Pied](#oeil)           |            |            |              |
-| [Espacement](##espacement-spacing)           | [Queue](#oeil)           |            |            |              |
+| [Hauteur de x](#hauteur-de-x)           | [Oreille](#oreille)           | [Fût](#pleins--déliés)           | [Empattement](#apex)           | [Chiffres proportionels](#ligature)             |
+| [Hateur des capitales](#hateur-des-capitales)           | [Épaule](#epaule)           | [Traverse](#pleins--déliés)           | [Goutte](#apex)           | [Chiffres tabulaires](#ligature)             |
+| [Hateur des ascendantes](#hateur-des-ascendantes)           | [Panse](#panse)           | [Contre-forme](#pleins--déliés)           | [Boucle](#apex)           | [Chiffres elzéviriens](#ligature)             |
+| [Hateur des descendantes](#hateur-des-descendantes)           | [Colonne](#colonne)           | [Espace blanc](#pleins--déliés)           | [Sortie](#apex)           | [Chiffres numérateurs & dénominateurs](#ligature)             |
+| [Bas de casse](#bas-de-casse)           | [Bras](#bras)           |            |           | [Italique](#ligature)             |
+| [Capitales](#capitales)           | [Jambe](#jambe)           |            |            | [Petites capitales](#ligature)             |
+| [Chasse](#ehasse)           | [Pied](#pied)           |            |            |              |
+| [Espacement](##espacement-spacing)           | [Queue](#queue)           |            |            |              |
 | [Crénage](#crénage-kerning)           |            |           |            |             |
 | [Mesures verticales](#mesures-verticales-vertical-metrics)           |            |            |           |             |
 | [Corps](#Corps)           |            |           |            |             |
