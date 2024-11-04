@@ -9,6 +9,10 @@
 |:---:|
 | Abc[^1]           |
 
+| 📐 Proportions | 👂🏻 Parties | 🪨 Masses | ☝🏻 Terminaisons | 🎭 Substitutions |
+|:---:|:---:|:---:|:---:|:---:|
+| Abc           | Abc           | Abc           | Abc           | Abc           |
+
 ## 📐 Proportions
 
 |![](links/Typo_Anatomy_02.jpg) |
