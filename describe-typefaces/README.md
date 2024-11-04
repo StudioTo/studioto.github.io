@@ -17,13 +17,13 @@
 | [Hateur des ascendantes](#ligne-de-base)           | [Panse](#oeil)           | [Contre-forme](#pleins--déliés)           | [Boucle](#apex)           | [Chiffres elzéviriens](#ligature)             |
 | [Hateur des descendantes](#ligne-de-base)           | [Colonne](#oeil)           | [Contre-poinçon](#pleins--déliés)           | [Sortie](#apex)           | [Chiffres numérateurs & dénominateurs](#ligature)             |
 | [Bas de casse](#ligne-de-base)           | [Bras](#oeil)           | [Espace blanc](#pleins--déliés)           |           | [Italique](#ligature)             |
-| [Capitales](#ligne-de-base)           | [Jambe](#oeil)           |            | [Apex](#apex)           | [Petites capitales](#ligature)             |
-| [Chasse](#ligne-de-base)           | [Pied](#oeil)           |            | [Apex](#apex)           |              |
-| [Spacing](#ligne-de-base)           | [Queue](#oeil)           |            | [Apex](#apex)           |              |
-| [Kerning](#ligne-de-base)           |            |           | [Apex](#apex)           |             |
-| [Vertical metrics](#ligne-de-base)           |            |            | [Apex](#apex)           |             |
-| [Corps](#ligne-de-base)           |            |           | [Apex](#apex)           |             |
-| [Em square](#ligne-de-base)           |            |            | [Apex](#apex)           |              |
+| [Capitales](#ligne-de-base)           | [Jambe](#oeil)           |            |            | [Petites capitales](#ligature)             |
+| [Chasse](#ligne-de-base)           | [Pied](#oeil)           |            |            |              |
+| [Spacing](#ligne-de-base)           | [Queue](#oeil)           |            |            |              |
+| [Kerning](#ligne-de-base)           |            |           |            |             |
+| [Vertical metrics](#ligne-de-base)           |            |            |           |             |
+| [Corps](#ligne-de-base)           |            |           |            |             |
+| [Em square](#ligne-de-base)           |            |            |            |              |
 
 ## 📐 Proportions
 
