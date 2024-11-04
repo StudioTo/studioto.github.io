@@ -29,7 +29,7 @@
 
 |![](links/Typo_Anatomy_cover_2.jpg) |
 |:---:|
-|            |
+| Les proportions font référence aux dimensions relatives et à l’échelle des différentes parties d’une lettre           |
 
 ### Ligne de base
 
@@ -113,7 +113,7 @@
 
 |![](links/Typo_Anatomy_cover_3.jpg) |
 |:---:|
-|            |
+| Les parties désignent les composants spécifiques qui forment les lettres           |
 
 ### Oeil
 
@@ -173,7 +173,7 @@
 
 |![](links/Typo_Anatomy_cover_4.jpg) |
 |:---:|
-| Abc           |
+| Les masses font référence aux variations d’épaisseur et de densité des traits dans une lettre           |
 
 ### Pleins & déliés
 
@@ -209,7 +209,7 @@
 
 |![](links/Typo_Anatomy_cover_5.jpg) |
 |:---:|
-| Abc           |
+| Les terminaisons désignent les détails et ornements qui se trouvent à l’extrémité des tracés d’une lettre           |
 
 ### Apex
 
@@ -245,7 +245,7 @@
 
 |![](links/Typo_Anatomy_cover_6.jpg) |
 |:---:|
-| Abc           |
+| Les substitutions désignent les variations ou les remplacements de caractères dans une police pour des raisons esthétiques ou fonctionnelles           |
 
 ### Ligature
 
