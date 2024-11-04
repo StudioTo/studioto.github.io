@@ -19,11 +19,11 @@
 | [Bas de casse](#bas-de-casse)           | [Bras](#oeil)           |            |           | [Italique](#ligature)             |
 | [Capitales](#capitales)           | [Jambe](#oeil)           |            |            | [Petites capitales](#ligature)             |
 | [Chasse](#ehasse)           | [Pied](#oeil)           |            |            |              |
-| [Espacement](#espacement)           | [Queue](#oeil)           |            |            |              |
-| [Crénage](#crénage)           |            |           |            |             |
-| [Mesures verticales](#ligne-de-base)           |            |            |           |             |
-| [Corps](#ligne-de-base)           |            |           |            |             |
-| [Em square](#ligne-de-base)           |            |            |            |              |
+| [Espacement](##espacement-spacing)           | [Queue](#oeil)           |            |            |              |
+| [Crénage](#crénage-kerning)           |            |           |            |             |
+| [Mesures verticales](#mesures-verticales-vertical-metrics)           |            |            |           |             |
+| [Corps](#Corps)           |            |           |            |             |
+| [Em square](#em-square)           |            |            |            |              |
 
 ## 📐 Proportions
 
