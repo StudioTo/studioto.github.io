@@ -15,8 +15,8 @@
 | [Hauteur de x](#ligne-de-base)           | [Oreille](#oeil)           | [Fût](#pleins--déliés)           | [Empattement](#apex)           | [Chiffres proportionels](#ligature)             |
 | [Hateur des capitales](#ligne-de-base)           | [Épaule](#oeil)           | [Traverse](#pleins--déliés)           | [Goutte](#apex)           | [Chiffres tabulaires](#ligature)             |
 | [Hateur des ascendantes](#ligne-de-base)           | [Panse](#oeil)           | [Contre-forme](#pleins--déliés)           | [Boucle](#apex)           | [Chiffres elzéviriens](#ligature)             |
-| [Hateur des descendantes](#ligne-de-base)           | [Colonne](#oeil)           | [Contre-poinçon](#pleins--déliés)           | [Sortie](#apex)           | [Chiffres numérateurs & dénominateurs](#ligature)             |
-| [Bas de casse](#ligne-de-base)           | [Bras](#oeil)           | [Espace blanc](#pleins--déliés)           |           | [Italique](#ligature)             |
+| [Hateur des descendantes](#ligne-de-base)           | [Colonne](#oeil)           | [Espace blanc](#pleins--déliés)           | [Sortie](#apex)           | [Chiffres numérateurs & dénominateurs](#ligature)             |
+| [Bas de casse](#ligne-de-base)           | [Bras](#oeil)           |            |           | [Italique](#ligature)             |
 | [Capitales](#ligne-de-base)           | [Jambe](#oeil)           |            |            | [Petites capitales](#ligature)             |
 | [Chasse](#ligne-de-base)           | [Pied](#oeil)           |            |            |              |
 | [Spacing](#ligne-de-base)           | [Queue](#oeil)           |            |            |              |
@@ -196,12 +196,6 @@
 ### Contre-forme
 
 |![](links/Typo_Anatomy_31.jpg) |
-|:---:|
-| Abc           |
-
-### Contre-poinçons
-
-|![](links/Typo_Anatomy_32.jpg) |
 |:---:|
 | Abc           |
 
