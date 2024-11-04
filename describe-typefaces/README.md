@@ -245,19 +245,19 @@
 
 ### Chiffres proportionels
 
-|![](links/Typo_Anatomy_42.jpg) |
+|![](links/Typo_Anatomy_43.jpg) |
 |:---:|
 | Abc           |
 
 ### Chiffres tabulaires
 
-|![](links/Typo_Anatomy_44.jpg) |
+|![](links/Typo_Anatomy_42.jpg) |
 |:---:|
 | Abc           |
 
 ### Chiffres elzéviriens (old style)
 
-|![](links/Typo_Anatomy_43.jpg) |
+|![](links/Typo_Anatomy_44.jpg) |
 |:---:|
 | Abc           |
 
