@@ -5,7 +5,7 @@
 
 ## 🦴 Anatomie
 
-|![](links/Typo_Anatomy_01.jpg) |
+|![](links/Typo_Anatomy_cover_1.jpg) |
 |:---:|
 | Abc[^1]           |
 
