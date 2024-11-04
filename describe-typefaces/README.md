@@ -12,18 +12,18 @@
 | 📐 Proportions | 👂🏻 Parties | 🪨 Masses | ☝🏻 Terminaisons | 🎭 Substitutions |
 |:---|:---|:---|:---|:---|
 | [Ligne de base](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Hauteur de x](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Hateur des capitales](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Hateur des ascendantes](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Hateur des descendantes](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Bas de casse](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Capitales](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Chasse](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Spacing](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Kerning](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Vertical metrics](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Corps](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Em square](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
+| [Hauteur de x](#ligne-de-base)           | [Oreille](#oeil)           | [Fût](#pleins--déliés)           | [Empattement](#apex)           | [Chiffres proportionels](#ligature)             |
+| [Hateur des capitales](#ligne-de-base)           | [Épaule](#oeil)           | [Traverse](#pleins--déliés)           | [Goutte](#apex)           | [Chiffres tabulaires](#ligature)             |
+| [Hateur des ascendantes](#ligne-de-base)           | [Panse](#oeil)           | [Contre-forme](#pleins--déliés)           | [Boucle](#apex)           | [Chiffres elzéviriens](#ligature)             |
+| [Hateur des descendantes](#ligne-de-base)           | [Colonne](#oeil)           | [Contre-poinçon](#pleins--déliés)           | [Sortie](#apex)           | [Chiffres numérateurs & dénominateurs](#ligature)             |
+| [Bas de casse](#ligne-de-base)           | [Bras](#oeil)           | [Espace blanc](#pleins--déliés)           |           | [Italique](#ligature)             |
+| [Capitales](#ligne-de-base)           | [Jambe](#oeil)           |            | [Apex](#apex)           | [Petites capitales](#ligature)             |
+| [Chasse](#ligne-de-base)           | [Pied](#oeil)           |            | [Apex](#apex)           |              |
+| [Spacing](#ligne-de-base)           | [Queue](#oeil)           |            | [Apex](#apex)           |              |
+| [Kerning](#ligne-de-base)           |            |           | [Apex](#apex)           |             |
+| [Vertical metrics](#ligne-de-base)           |            |            | [Apex](#apex)           |             |
+| [Corps](#ligne-de-base)           |            |           | [Apex](#apex)           |             |
+| [Em square](#ligne-de-base)           |            |            | [Apex](#apex)           |              |
 
 ## 📐 Proportions
 
@@ -193,19 +193,19 @@
 |:---:|
 | Abc           |
 
-### Forme & contre-forme
+### Contre-forme
 
 |![](links/Typo_Anatomy_31.jpg) |
 |:---:|
 | Abc           |
 
-### Contre-forme avec et sans sérifs
+### Contre-poinçons
 
 |![](links/Typo_Anatomy_32.jpg) |
 |:---:|
 | Abc           |
 
-### Contre-formes
+### Espace blanc
 
 |![](links/Typo_Anatomy_33.jpg) |
 |:---:|
@@ -223,7 +223,7 @@
 |:---:|
 | Abc           |
 
-### Sérif ou empattement
+### Empattement (sérif)
 
 |![](links/Typo_Anatomy_35.jpg) |
 |:---:|
