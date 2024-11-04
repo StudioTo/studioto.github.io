@@ -12,10 +12,10 @@
 | 📐 Proportions | 👂🏻 Parties | 🪨 Masses | ☝🏻 Terminaisons | 🎭 Substitutions |
 |:---|:---|:---|:---|:---|
 | [Ligne de base](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
-| [Hauteur de x](#hauteur-de-x)           | [Oreille](#oreille)           | [Fût](#pleins--déliés)           | [Empattement](#Empattement-serif)           | [Chiffres proportionels](#chiffres-proportionels)             |
-| [Hateur des capitales](#hateur-des-capitales)           | [Épaule](#epaule)           | [Traverse](#pleins--déliés)           | [Goutte](#goutte)           | [Chiffres tabulaires](#chiffres-tabulaires)             |
-| [Hateur des ascendantes](#hateur-des-ascendantes)           | [Panse](#panse)           | [Contre-forme](#pleins--déliés)           | [Boucle](#boucle)           | [Chiffres elzéviriens](#chiffres-elzéviriens-old-style)             |
-| [Hateur des descendantes](#hateur-des-descendantes)           | [Colonne](#colonne)           | [Espace blanc](#pleins--déliés)           | [Sortie](#sortie)           | [Chiffres numérateurs & dénominateurs](#chiffres-numérateurs--dénominateurs-superscripts--subscripts)             |
+| [Hauteur de x](#hauteur-de-x)           | [Oreille](#oreille)           | [Fût](#fut)           | [Empattement](#Empattement-serif)           | [Chiffres proportionels](#chiffres-proportionels)             |
+| [Hateur des capitales](#hateur-des-capitales)           | [Épaule](#epaule)           | [Traverse](#traverse)           | [Goutte](#goutte)           | [Chiffres tabulaires](#chiffres-tabulaires)             |
+| [Hateur des ascendantes](#hateur-des-ascendantes)           | [Panse](#panse)           | [Contre-forme](#contre-forme)           | [Boucle](#boucle)           | [Chiffres elzéviriens](#chiffres-elzéviriens-old-style)             |
+| [Hateur des descendantes](#hateur-des-descendantes)           | [Colonne](#colonne)           | [Espace blanc](#espace-blanc)           | [Sortie](#sortie)           | [Chiffres numérateurs & dénominateurs](#chiffres-numérateurs--dénominateurs-superscripts--subscripts)             |
 | [Bas de casse](#bas-de-casse)           | [Bras](#bras)           |            |           | [Italique](#Italique)             |
 | [Capitales](#capitales)           | [Jambe](#jambe)           |            |            | [Petites capitales](#petites-capitales-small-caps)             |
 | [Chasse](#ehasse)           | [Pied](#pied)           |            |            |              |
