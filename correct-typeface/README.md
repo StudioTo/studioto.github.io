@@ -6,6 +6,8 @@
 |:---:|
 | Abc [^1]           |
 
+La création de caractères est une bataille contre les illusions d'optique, que nous ne gagnons qu'en y renonçant complètement que nous ne gagnons qu'au prix d'une capitulation totale. Nous convainquons l'œil de voir les choses clairement, non pas en créant des rationnels, mais par des dessins irrationnels, en introduisant des distorsions étranges qui déjouent l'œil : façonner non pas ce que nous pas ce que nous voyons, mais ce que nous croyons voir.
+
 # 👀 Principes d'optique
 
 |![](links/Illusion.gif) |
