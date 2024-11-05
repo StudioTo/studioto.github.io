@@ -64,19 +64,11 @@ La création de caractères est une bataille contre les illusions d'optique, que
 |:---:|
 | Abc           |
 
-### 🚨 Biais d’alignement
-
-|![](links/Compositions_alignement.gif) |
-|:---:|
-| Abc           |
-
-
-
 # 🚃 Séquence
 
 ### Alignement
 
-|![](links/Alignement_Seq.gif) |
+|![](links/Compositions_alignement.gif) |
 |:---:|
 | Abc           |
 
