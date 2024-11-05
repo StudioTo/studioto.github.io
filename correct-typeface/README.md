@@ -24,7 +24,7 @@ La création de caractères est une bataille contre les illusions d'optique, que
 
 ### Rond
 
-|![](links/) |
+|![](links/Rond_format) |
 |:---:|
 | Abc           |
 
