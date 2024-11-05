@@ -26,7 +26,7 @@
 |:---:|
 | Abc           |
 
-# Ligne
+# Croix
 
 |![](links/Typo_Semiotic_01.jpg) |
 |:---:|
