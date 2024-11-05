@@ -10,11 +10,11 @@ La création de caractères est une bataille contre les illusions d'optique, que
 
 # 👀 Principes d'optique
 
+### Biais de proportions
+
 |![](links/Illusion.gif) |
 |:---:|
 | Abc           |
-
-# 🧩 Formes primaires
 
 ### Carré
 
@@ -22,21 +22,33 @@ La création de caractères est une bataille contre les illusions d'optique, que
 |:---:|
 | Abc           |
 
+### Croix
+
+|![](links/Croix.gif) |
+|:---:|
+| Abc           |
+
 ### Rond
+
+|![](links/) |
+|:---:|
+| Abc           |
+
+### Biais de dimensions
+
+|![](links/Illusion.gif) |
+|:---:|
+| Abc           |
+
+### Courbes
 
 |![](links/Rond.gif) |
 |:---:|
 | Abc          |
 
-### Trianle
+### Pointes
 
 |![](links/Triangle.gif) |
-|:---:|
-| Abc           |
-
-### Croix
-
-|![](links/Croix.gif) |
 |:---:|
 | Abc           |
 
