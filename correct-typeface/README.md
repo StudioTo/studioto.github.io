@@ -40,20 +40,6 @@ La création de caractères est une bataille contre les illusions d'optique, que
 |:---:|
 | Abc           |
 
-# 🚃 Séquence
-
-### Alignement
-
-|![](links/Alignement_Seq.gif) |
-|:---:|
-| Abc           |
-
-### Espacement
-
-|![](links/Espacement.gif) |
-|:---:|
-| Abc           |
-
 # 🎼 Composition
 
 ### Contraste
@@ -62,7 +48,7 @@ La création de caractères est une bataille contre les illusions d'optique, que
 |:---:|
 | Abc           |
 
-### Equilibre
+### Position
 
 |![](links/Compositions_position.gif) |
 |:---:|
@@ -77,6 +63,20 @@ La création de caractères est une bataille contre les illusions d'optique, que
 ### Rotation
 
 |![](links/Compositions_lines.gif) |
+|:---:|
+| Abc           |
+
+# 🚃 Séquence
+
+### Alignement
+
+|![](links/Alignement_Seq.gif) |
+|:---:|
+| Abc           |
+
+### Espacement
+
+|![](links/Espacement.gif) |
 |:---:|
 | Abc           |
 
