@@ -46,6 +46,32 @@
 |:---:|
 | Abc           |
 
+# 🎼 Composition
+
+### Négatif
+
+|![](links/a.gif) |
+|:---:|
+| Abc           |
+
+### Poids
+
+|![](links/a.gif) |
+|:---:|
+| Abc           |
+
+### Alignement
+
+|![](links/a.gif) |
+|:---:|
+| Abc           |
+
+### Angle
+
+|![](links/a.gif) |
+|:---:|
+| Abc           |
+
 # 🪩 Effets d'optique
 
 [^1]: Test
