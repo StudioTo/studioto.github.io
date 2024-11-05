@@ -80,7 +80,7 @@
 
 # 🪩 Optique appliquée aux caractères
 
-### Angle
+### Formes > Caractères
 
 |![](links/Conversion.gif) |
 |:---:|
