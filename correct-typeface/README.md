@@ -8,7 +8,7 @@
 
 # 🧩 Formes primaires
 
-## Carré
+### Carré
 
 |![](links/Carre.gif) |
 |:---:|
