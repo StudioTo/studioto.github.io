@@ -28,7 +28,7 @@ La création de caractères est une bataille contre les illusions d'optique, que
 |:---:|
 | Abc           |
 
-### Diagonales
+### Diagonale
 
 |![](links/Compositions_lines.gif) |
 |:---:|
