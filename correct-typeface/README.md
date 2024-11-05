@@ -10,7 +10,7 @@ La création de caractères est une bataille contre les illusions d'optique, que
 
 # 👀 Principes d'optique
 
-### Biais de proportions
+### 🚨 Biais de proportions
 
 |![](links/Illusion.gif) |
 |:---:|
@@ -28,7 +28,7 @@ La création de caractères est une bataille contre les illusions d'optique, que
 |:---:|
 | Abc           |
 
-### Biais de dimensions
+### 🚨 Biais de dimensions
 
 |![](links/Illusion.gif) |
 |:---:|
