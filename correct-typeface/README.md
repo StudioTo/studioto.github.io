@@ -32,7 +32,7 @@
 |:---:|
 | Abc           |
 
-# 🚃 Espacement
+# 🚃 Séquence
 
 ### Alignement
 
