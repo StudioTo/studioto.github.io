@@ -46,27 +46,25 @@ La création de caractères est une bataille contre les illusions d'optique, que
 |:---:|
 | Abc           |
 
-# 🎼 Composition
-
-### Contraste
+### 🚨 Biais de contraste
 
 |![](links/Compositions_negatif.gif) |
 |:---:|
 | Abc           |
 
-### Position
+### 🚨 Biais de position
 
 |![](links/Compositions_position.gif) |
 |:---:|
 | Abc           |
 
-### Alignement
+### 🚨 Biais d’alignement
 
 |![](links/Compositions_alignement.gif) |
 |:---:|
 | Abc           |
 
-### Rotation
+### 🚨 Biais de rotation
 
 |![](links/Compositions_lines.gif) |
 |:---:|
