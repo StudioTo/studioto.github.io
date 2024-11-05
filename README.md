@@ -10,5 +10,5 @@
 ## [🔍 Typo Macro-Micro]()
 ## [🧬 Typo Caractèristiques](/parameter-typefaces)
 ## [💥 Typo Sémiotique](/denote-typefaces)
-## [🕰️ Typo Timeline](/overview-writing-history)
+## [🕰️ Typo Histoire](/overview-writing-history)
 ## [🔡 Typothèque](http://typo.eracom.ch)
