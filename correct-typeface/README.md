@@ -8,25 +8,25 @@
 
 # 🧩 Formes primaires
 
-# Carré
+## Carré
 
 |![](links/Carre.gif) |
 |:---:|
 | Abc           |
 
-# Rond
+## Rond
 
 |![](links/Rond.gif) |
 |:---:|
 | Abc          |
 
-# Trianle
+## Trianle
 
 |![](links/Triangle.gif) |
 |:---:|
 | Abc           |
 
-# Croix
+## Croix
 
 |![](links/Croix.gif) |
 |:---:|
@@ -34,13 +34,13 @@
 
 # 🚃 Espacement
 
-# Alignement
+## Alignement
 
 |![](links/Alignement.gif) |
 |:---:|
 | Abc           |
 
-# Espacement
+## Espacement
 
 |![](links/Espacement.gif) |
 |:---:|
