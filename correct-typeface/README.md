@@ -36,7 +36,7 @@
 
 ### Alignement
 
-|![](links/Alignement.gif) |
+|![](links/Alignement_Seq.gif) |
 |:---:|
 | Abc           |
 
@@ -50,28 +50,34 @@
 
 ### Négatif
 
-|![](links/a.gif) |
+|![](links/Compositions_negatif.gif) |
 |:---:|
 | Abc           |
 
 ### Position
 
-|![](links/a.gif) |
+|![](Compositions_position.gif) |
 |:---:|
 | Abc           |
 
 ### Alignement
 
-|![](links/a.gif) |
+|![](links/Compositions_alignement.gif) |
 |:---:|
 | Abc           |
 
 ### Angle
 
-|![](links/a.gif) |
+|![](links/Compositions_lines.gif) |
 |:---:|
 | Abc           |
 
 # 🪩 Optique appliquée aux caractères
+
+### Angle
+
+|![](links/Conversion.gif) |
+|:---:|
+| Abc           |
 
 [^1]: Test
