@@ -56,7 +56,7 @@
 
 ### Position
 
-|![](Compositions_position.gif) |
+|![](links/Compositions_position.gif) |
 |:---:|
 | Abc           |
 
