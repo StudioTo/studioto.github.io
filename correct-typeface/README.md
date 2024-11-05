@@ -10,29 +10,41 @@
 
 # Carré
 
-|![](links/Typo_Semiotic_01.jpg) |
+|![](links/Carre.gif) |
 |:---:|
 | Abc           |
 
 # Rond
 
-|![](links/Typo_Semiotic_01.jpg) |
+|![](links/Rond.gif) |
 |:---:|
 | Abc          |
 
 # Trianle
 
-|![](links/Typo_Semiotic_01.jpg) |
+|![](links/Triangle.gif) |
 |:---:|
 | Abc           |
 
 # Croix
 
-|![](links/Typo_Semiotic_01.jpg) |
+|![](links/Croix.gif) |
 |:---:|
 | Abc           |
 
 # 🚃 Espacement
+
+# Alignement
+
+|![](links/Alignement.gif) |
+|:---:|
+| Abc           |
+
+# Espacement
+
+|![](links/Espacement.gif) |
+|:---:|
+| Abc           |
 
 # 🪩 Effets d'optique
 
