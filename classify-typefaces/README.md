@@ -95,8 +95,10 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 ### 📎 Sources
 
 [^1]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
+
 [^2]: Indra Kupferschmid
 www.kupferschrift.de
+
 [^3]: Oliver Schöndorfer
 www.pimpmytype.com/font-matrix
 
