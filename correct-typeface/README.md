@@ -56,13 +56,13 @@ La création de caractères est une bataille contre les illusions d'optique, que
 
 # 🎼 Composition
 
-### Négatif
+### Contraste
 
 |![](links/Compositions_negatif.gif) |
 |:---:|
 | Abc           |
 
-### Position
+### Equilibre
 
 |![](links/Compositions_position.gif) |
 |:---:|
@@ -74,7 +74,7 @@ La création de caractères est une bataille contre les illusions d'optique, que
 |:---:|
 | Abc           |
 
-### Angle
+### Rotation
 
 |![](links/Compositions_lines.gif) |
 |:---:|
