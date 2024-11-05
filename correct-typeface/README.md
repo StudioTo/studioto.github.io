@@ -2,7 +2,7 @@
   Corrections optiques
 # &nbsp;
 
-|![](links/Typo_Semiotic_01.jpg) |
+|![](links/Illusion.gif) |
 |:---:|
 | Abc [^1]           |
 
