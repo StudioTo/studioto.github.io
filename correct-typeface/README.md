@@ -54,7 +54,7 @@
 |:---:|
 | Abc           |
 
-### Poids
+### Position
 
 |![](links/a.gif) |
 |:---:|
@@ -72,6 +72,6 @@
 |:---:|
 | Abc           |
 
-# 🪩 Effets d'optique
+# 🪩 Optique appliquée aux caractères
 
 [^1]: Test
