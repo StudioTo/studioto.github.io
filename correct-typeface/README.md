@@ -70,7 +70,7 @@ La création de caractères est une bataille contre les illusions d'optique, que
 
 |![](links/Compositions_lines.gif) |
 |:---:|
-| Abc           |
+| Les traits verticaux sont sensiblement plus épais que les traits horizontaux, les traits diagonaux se situent donc entre les deux.           |
 
 # 🚃 Séquence
 
