@@ -60,7 +60,7 @@ La création de caractères est une bataille contre les illusions d'optique, que
 
 ### 🚨 Biais de position
 
-|![](links/Compositions_position.gif) |
+|![](links/Rond_position.gif) |
 |:---:|
 | Abc           |
 
