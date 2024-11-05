@@ -74,6 +74,10 @@ La création de caractères est une bataille contre les illusions d'optique, que
 
 ### Espacement
 
+|![](links/Spacing.gif) |
+|:---:|
+| Abc           |
+
 |![](links/Espacement.gif) |
 |:---:|
 | Abc           |
