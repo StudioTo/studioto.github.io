@@ -8,7 +8,7 @@
 ## [🗂️ Typo Classification](/classify-typefaces)
 ## [🌀 Typo Illusions](/correct-typeface)
 ## [🔍 Typo Macro-Micro]()
-## [🧬 Typo ADN](/parameter-typefaces)
+## [🧬 Typo Caractèristiques](/parameter-typefaces)
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🕰️ Typo Timeline](/overview-writing-history)
 ## [🔡 Typothèque](http://typo.eracom.ch)
