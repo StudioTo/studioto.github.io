@@ -28,6 +28,12 @@ La création de caractères est une bataille contre les illusions d'optique, que
 |:---:|
 | Abc           |
 
+### Diagonales
+
+|![](links/Compositions_lines.gif) |
+|:---:|
+| Les traits verticaux sont sensiblement plus épais que les traits horizontaux, les traits diagonaux se situent donc entre les deux.           |
+
 ### 🚨 Biais de dimensions
 
 |![](links/Illusion.gif) |
@@ -64,11 +70,7 @@ La création de caractères est une bataille contre les illusions d'optique, que
 |:---:|
 | Abc           |
 
-### 🚨 Biais de rotation
 
-|![](links/Compositions_lines.gif) |
-|:---:|
-| Les traits verticaux sont sensiblement plus épais que les traits horizontaux, les traits diagonaux se situent donc entre les deux.           |
 
 # 🚃 Séquence
 
