@@ -82,7 +82,7 @@ La création de caractères est une bataille contre les illusions d'optique, que
 |:---:|
 | Abc           |
 
-# 🪩 Formes > Caractères
+# 🪩 Formes → Caractères
 
 ### Conversion
 
