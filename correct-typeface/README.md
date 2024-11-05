@@ -10,7 +10,7 @@
 
 |![](links/Illusion.gif) |
 |:---:|
-| Abc [^1]           |
+| Abc           |
 
 # 🧩 Formes primaires
 
