@@ -6,6 +6,12 @@
 |:---:|
 | Abc [^1]           |
 
+# 👀 Principes d'optique
+
+|![](links/Illusion.gif) |
+|:---:|
+| Abc [^1]           |
+
 # 🧩 Formes primaires
 
 ### Carré
