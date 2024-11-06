@@ -20,13 +20,13 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 |![](links/Carre.gif) |
 |:---:|
-| Un carré mathématique parait plus large que haut           |
+| Un carré mathématique paraît plus large que haut           |
 
 ### Rond
 
 |![](links/Rond_format.gif) |
 |:---:|
-| Un rond mathématique parait plus large que haut           |
+| Un rond mathématique paraît plus large que haut           |
 
 ### Diagonale
 
@@ -56,7 +56,7 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 |![](links/Compositions_negatif.gif) |
 |:---:|
-| Abc           |
+| Un carré de même taille en blanc sur noir paraît plus grans que en noir sur blanc           |
 
 ### 🚨 Biais de position
 
