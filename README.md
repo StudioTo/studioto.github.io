@@ -2,8 +2,9 @@
 # &nbsp;
 
 <!---
-## [📝 Checklists]()
+## [📝 Checklists](InDesign, Glyphs, MicroTypo)
 ## [🏢 Index Grid Systems]()
+## [🦚 Index Littérature Visuelle]()
 ## [⚡ Index Logos]()
 ## [🔍 Typo Macro-Micro]()
 ## [🧪 Typo Specimens]()
