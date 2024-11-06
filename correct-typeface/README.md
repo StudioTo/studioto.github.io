@@ -84,11 +84,11 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 # 🪩 Formes → Caractères
 
-### Conversion
+### Transposition
 
 |![](links/Conversion.gif) |
 |:---:|
-| Abc           |
+| Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi aux caractères, qu'ils soient géométriques, statiques ou dynamiques           |
 
 ### Conversion
 
