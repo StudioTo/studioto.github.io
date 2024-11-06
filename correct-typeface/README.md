@@ -92,31 +92,39 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 ### Hauteur des caractères
 
+Les caractères doivent avoir optiquement la même hauteur (de x, des capitales, etc.).
+
 |![](links/Letters_3.gif) |
 |:---:|
-| Les caractères doivent avoir optiquement la même hauteur (de x, des capitales, etc.)           |
+|            |
 
 ### Contraste des droites
 
+Les droites comportent soit un contraste optiquement linéaire, soit un contraste optiquement marqué.
+
 |![](links/Letters_1.gif) |
 |:---:|
-| Les droites comportent soit un contraste optiquement linéaire, soit un contraste optiquement marqué         |
+|          |
 
 ### Contraste des courbes
 
+Les courbes comportent soit un contraste optiquement linéaire, soit un contraste optiquement marqué.
+
 |![](links/Letters_2.gif) |
 |:---:|
-| Les courbes comportent soit un contraste optiquement linéaire, soit un contraste optiquement marqué           |
+|            |
 
 ### Contraste calligraphique
 
+La forme des lettres latines est le fruit d'une construction à la plume à bec large qui produit des traits fins vers le haut et des traits épais vers le bas.
+
 |![](links/Letters_7.gif) |
 |:---:|
-| Abc           |
+| Le A parait symétrique, mais en réalité la diagonale descendante est toujours plus épaisse, comme pour le V, W, X, Y           |
 
-### Poids des traverses
+### Equilibre statique des lettres
 
-|![](links/Letters_5.gif) |
+|![](links/Letters_6.gif) |
 |:---:|
 | Abc           |
 
@@ -126,11 +134,13 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 |:---:|
 | Abc           |
 
-### Equilibre statique des lettres
+### Poids des traverses
 
-|![](links/Letters_6.gif) |
+|![](links/Letters_5.gif) |
 |:---:|
 | Abc           |
+
+
 
 ### 📎 Sources
 
