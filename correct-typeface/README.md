@@ -102,7 +102,7 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 |:---:|
 | Abc           |
 
-### Conversion
+### Hauteur des lettres
 
 |![](links/Letters_3.gif) |
 |:---:|
