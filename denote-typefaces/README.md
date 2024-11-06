@@ -5,3 +5,7 @@
 |![](links/Typo_Semiotic_01.jpg) |
 |:---:|
 | Abc [^1]           |
+
+### 📎 Sources
+
+[^1]: Abc
