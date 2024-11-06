@@ -82,3 +82,9 @@
 |:---:|
 | Abc           |
 
+# Weingart, Wolfgang
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc           |
+
