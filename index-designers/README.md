@@ -40,7 +40,13 @@
 |:---:|
 | Abc           |
 
-# Jeker, Werner
+# Itten, Johannes
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc           |
+
+# Klee, Paul
 
 |![](links/Typo_Semiotic_01.jpg) |
 |:---:|
@@ -89,6 +95,12 @@
 | Abc          |
 
 # Saville, Peter
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc          |
+
+# Tauber-Arp, Sophie
 
 |![](links/Typo_Semiotic_01.jpg) |
 |:---:|
