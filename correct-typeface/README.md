@@ -6,7 +6,7 @@
 |:---:|
 | Illusion de Müller-Lyer[^1]           |
 
-La création de caractères est une bataille contre les illusions d'optique, que nous ne gagnons qu'en y renonçant complètement que nous ne gagnons qu'au prix d'une capitulation totale. Nous convainquons l'œil de voir les choses clairement, non pas en créant des rationnels, mais par des dessins irrationnels, en introduisant des distorsions étranges qui déjouent l'œil : façonner non pas ce que nous pas ce que nous voyons, mais ce que nous croyons voir.
+Notre esprit conçoit les formes différement de comment nos yeux les perçoivent. En effet, l’oeil a tendance à agrandir les éléments horizontaux et à minimiser les éléments verticaux. Une partie du travail de conception des caractères consiste donc à gérer cette éternelle friction entre logique et optique.
 
 # 👀 Principes d'optique
 
