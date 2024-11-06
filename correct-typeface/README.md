@@ -6,7 +6,7 @@
 |:---:|
 | Illusion de Müller-Lyer[^1]           |
 
-Notre esprit conçoit les formes différement de comment nos yeux les perçoivent. Une partie du travail de conception des caractères consiste donc à gérer cette friction entre logique et optique.
+Notre esprit conçoit les formes différement de comment nos yeux les perçoivent. En effet, notre oeil perçoit les traits horizontaux comme étant plus épais qu'ils ne le sont en réalité. D'autre part, les horizontales paraîssent plus longues qu'elles ne le sont mathématiquement. Une partie du travail de conception des caractères consiste donc à gérer cette friction entre logique et optique.
 
 # 👀 Principes d'optique
 
@@ -20,7 +20,7 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 |![](links/Carre.gif) |
 |:---:|
-| Un carré mathématique paraît plus large que haut           |
+| Un carré mathématique paraît plus large que haut, il faut donc réduire sa largeur.           |
 
 ### Rond
 
@@ -90,23 +90,23 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 |:---:|
 | Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi aux caractères, qu'ils soient géométriques, statiques ou dynamiques           |
 
-### Hauteur des lettres
+### Hauteur des caractères
 
 |![](links/Letters_3.gif) |
 |:---:|
-| Abc           |
+| Les caractères doivent avoir optiquement la même hauteur (de x, des capitales, etc.)           |
 
 ### Contraste des droites
 
 |![](links/Letters_1.gif) |
 |:---:|
-| Abc           |
+| Les droites comportent soit un contraste optiquement linéaire, soit un contraste optiquement marqué         |
 
 ### Contraste des courbes
 
 |![](links/Letters_2.gif) |
 |:---:|
-| Abc           |
+| Les courbes comportent soit un contraste optiquement linéaire, soit un contraste optiquement marqué           |
 
 ### Contraste calligraphique
 
