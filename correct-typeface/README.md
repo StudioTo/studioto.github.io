@@ -134,6 +134,8 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 ### 📎 Sources
 
+- **Jost Hochuli**  
+  *Detail in Typography*, 1987
 - **Jonathan Hoefler**  
   Hoefler & Co., *Typographic Illusions*  
   www.typography.com  
