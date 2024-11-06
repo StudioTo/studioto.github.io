@@ -58,6 +58,12 @@
 |:---:|
 | Abc          |
 
+# Munari, Bruno
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc          |
+
 # Norzij, Gerrit
 
 |![](links/Typo_Semiotic_01.jpg) |
