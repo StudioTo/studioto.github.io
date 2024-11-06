@@ -74,13 +74,13 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 ### Espacement
 
-|![](links/Spacing.gif) |
-|:---:|
-| Abc           |
-
 |![](links/Espacement.gif) |
 |:---:|
-| Abc           |
+| Un espacement unique reporté entre les extrêmités des formes ne fonctionnent pas. Il faut plutôt visualiser un ballon rempli d’air (d'un volume unique) qui se déforme en fonction de l'espace disponible entre les formes.           |
+
+|![](links/Spacing.gif) |
+|:---:|
+| De manière générale, plus la forme comporte une extrimité linéaire et vericale, plus l'espace sera grand. L’espacement devient de plus en plus petit: droite-droite, courbe-courbe, diagonale-diagonale, etc. Dans certains cas de formes complexes comme la croix, les formes peuvent se toucher ou se collisionner pour harmoniser l'espacer (crénage)          |
 
 # 🪩 Formes → Caractères
 
