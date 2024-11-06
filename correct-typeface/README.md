@@ -134,8 +134,10 @@ La création de caractères est une bataille contre les illusions d'optique, que
 
 ### 📎 Sources
 
-[^1]: Franz Carl Müller-Lyer, sociologiste, *Müller-Lyer Illusion*, 1889
+- **Jonathan Hoefler**  
+  Hoefler & Co., *Typographic Illusions*, www.typography.com  
+- **Anton Studer**  
+  *Is What I See What I Get? — Math & Optics in Type Design*, www.typographica.org
 
-Jonathan Hoefler, Hoefler & Co., *Typographic Illusions*, www.typography.com  
-Anton Studer, *Is What I See What I Get? — Math & Optics in Type Design*, www.typographica.org
+[^1]: Franz Carl Müller-Lyer, sociologiste, *Müller-Lyer Illusion*, 1889
 
