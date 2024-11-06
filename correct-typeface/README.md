@@ -70,7 +70,7 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 |![](links/Compositions_alignement.gif) |
 |:---:|
-| Abc           |
+| Les formes ne sont pas alignées par rapport à leur centre mais par rapport à la ligne de base et aux différentes hauteurs (x, capitales). Le triangle s'aligne sur son côté droit, en fonction de son orientation soit sur la ligne de base soit sur la hauteur de x          |
 
 ### Espacement
 
