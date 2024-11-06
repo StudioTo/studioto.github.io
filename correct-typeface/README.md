@@ -94,7 +94,7 @@ Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi a
 
 ### Hauteur des caractères
 
-Les caractères doivent avoir optiquement la même hauteur (de x, des capitales, etc.).
+Les caractères doivent être compensés (overshoot) pour avoir optiquement la même hauteur (de x, des capitales, etc.).
 
 |![](links/Letters_3.gif) |
 |:---:|
