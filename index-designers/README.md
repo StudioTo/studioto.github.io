@@ -4,6 +4,12 @@
 
 
 
+# Bill, Max
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc           |
+
 # Frutiger, Adrian
 
 |![](links/Typo_Semiotic_01.jpg) |
@@ -11,6 +17,12 @@
 | Abc           |
 
 # Gerstner, Karl
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc           |
+
+# Hochuli, Jost
 
 |![](links/Typo_Semiotic_01.jpg) |
 |:---:|
@@ -34,6 +46,12 @@
 |:---:|
 | Abc          |
 
+# Norzij, Gerrit
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc          |
+
 # Novarese, Aldo
 
 |![](links/Typo_Semiotic_01.jpg) |
@@ -47,6 +65,12 @@
 | Abc          |
 
 # Rüder, Emil
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc          |
+
+# Tschichold, Jan
 
 |![](links/Typo_Semiotic_01.jpg) |
 |:---:|
