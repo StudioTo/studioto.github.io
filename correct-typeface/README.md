@@ -90,6 +90,12 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 |:---:|
 | Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi aux caractères, qu'ils soient géométriques, statiques ou dynamiques           |
 
+### Hauteur des lettres
+
+|![](links/Letters_3.gif) |
+|:---:|
+| Abc           |
+
 ### Contraste des droites
 
 |![](links/Letters_1.gif) |
@@ -102,15 +108,9 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 |:---:|
 | Abc           |
 
-### Hauteur des lettres
+### Contraste calligraphique
 
-|![](links/Letters_3.gif) |
-|:---:|
-| Abc           |
-
-### Equilibre des lettres
-
-|![](links/Letters_4.gif) |
+|![](links/Letters_7.gif) |
 |:---:|
 | Abc           |
 
@@ -120,15 +120,15 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 |:---:|
 | Abc           |
 
-### Conversion
+### Equilibre du centre des lettres
 
-|![](links/Letters_6.gif) |
+|![](links/Letters_4.gif) |
 |:---:|
 | Abc           |
 
-### Conversion
+### Equilibre statique des lettres
 
-|![](links/Letters_7.gif) |
+|![](links/Letters_6.gif) |
 |:---:|
 | Abc           |
 
