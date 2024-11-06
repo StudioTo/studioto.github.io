@@ -6,7 +6,7 @@
 |:---:|
 | Illusion de Müller-Lyer[^1]           |
 
-Notre esprit conçoit les formes différement de comment nos yeux les perçoivent. Une partie du travail de conception des caractères consiste donc à gérer cette éternelle friction entre logique et optique.
+Notre esprit conçoit les formes différement de comment nos yeux les perçoivent. Une partie du travail de conception des caractères consiste donc à gérer cette friction entre logique et optique.
 
 # 👀 Principes d'optique
 
