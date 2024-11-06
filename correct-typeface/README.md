@@ -108,13 +108,13 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 |:---:|
 | Abc           |
 
-### Conversion
+### Equilibre des lettres
 
 |![](links/Letters_4.gif) |
 |:---:|
 | Abc           |
 
-### Conversion
+### Poids des traverses
 
 |![](links/Letters_5.gif) |
 |:---:|
