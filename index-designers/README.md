@@ -22,6 +22,12 @@
 |:---:|
 | Abc           |
 
+# Crouwel, Wim
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc           |
+
 # Frutiger, Adrian
 
 |![](links/Typo_Semiotic_01.jpg) |
@@ -101,6 +107,12 @@
 | Abc          |
 
 # Saville, Peter
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc          |
+
+# Schmidt, Helmut
 
 |![](links/Typo_Semiotic_01.jpg) |
 |:---:|
