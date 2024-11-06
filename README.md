@@ -18,6 +18,6 @@
 ## [🗂️ Typo Classification](/classify-typefaces)
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🌐 Wiki](/index-graphic-terminology)
-## [☎️ Annuaire Graphique]()
+## [☎️ Annuaire]()
 
 ## [🔡 Typothèque](http://typo.eracom.ch)
