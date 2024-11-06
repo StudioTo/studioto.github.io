@@ -21,4 +21,4 @@
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
 
-## [🔡 Typothèque](http://typo.eracom.ch)
+## [➡️ Typothèque](http://typo.eracom.ch)
