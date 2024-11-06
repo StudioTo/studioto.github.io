@@ -10,13 +10,13 @@
 |:---:|
 | Abc           |
 
-# Hofmann, Armin
+# Gerstner, Karl
 
 |![](links/Typo_Semiotic_01.jpg) |
 |:---:|
 | Abc           |
 
-# Gerstner, Karl
+# Hofmann, Armin
 
 |![](links/Typo_Semiotic_01.jpg) |
 |:---:|
