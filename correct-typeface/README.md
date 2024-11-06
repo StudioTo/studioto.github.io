@@ -38,19 +38,19 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 |![](links/Taille.gif) |
 |:---:|
-| Abc           |
+| À hauteur égale, le rond et le triangle paraissent plus petits que le carré            |
 
 ### Courbes
 
 |![](links/Rond.gif) |
 |:---:|
-| Abc          |
+| Les courbes doivent doivent dépasser du carré (tout autour si c'est un cercle)        |
 
 ### Pointes
 
 |![](links/Triangle.gif) |
 |:---:|
-| Abc           |
+| Les pointes doivent dépasser, souvent plus que les courbes (seulement au niveau des angles)           |
 
 ### 🚨 Biais de contraste
 
