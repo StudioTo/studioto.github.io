@@ -291,6 +291,7 @@
 
 ### 📎 Sources
 
-Robert Bringhurst, *The Elements of Typographic Style*, Hartley & Marks, 2016
+- **Robert Bringhurst**
+  *The Elements of Typographic Style*, Hartley & Marks, 2016
 
 [^1]: Geoffroy Tory, Champfleury, 1529
