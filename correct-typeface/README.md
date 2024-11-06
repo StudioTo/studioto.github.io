@@ -90,13 +90,13 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 |:---:|
 | Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi aux caractères, qu'ils soient géométriques, statiques ou dynamiques           |
 
-### Contraste linéaire
+### Contraste des droites
 
 |![](links/Letters_1.gif) |
 |:---:|
 | Abc           |
 
-### Hauteur équivalente
+### Contraste des courbes
 
 |![](links/Letters_2.gif) |
 |:---:|
