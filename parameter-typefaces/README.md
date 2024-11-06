@@ -88,6 +88,8 @@
   *Type, Sign, Symbol*, 1980
 - **Indra Kupferschmid**  
   *www.kupferschrift.de*
+- **Gerrit Noordzij**  
+  *Le trait. Une théorie de l’écriture*, 2010
 
 [^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980
 [^2]: Illustration tirée du livre *Le trait. Une théorie de l’écriture* de Gerrit Noordzij (2010) + ajout du principe géométrique basé sur le système de classification de Indra Kupferschmid.
