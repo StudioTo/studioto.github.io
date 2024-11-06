@@ -86,9 +86,11 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 ### Transposition
 
+Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi aux caractères.
+
 |![](links/Conversion.gif) |
 |:---:|
-| Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi aux caractères, qu'ils soient géométriques, statiques ou dynamiques           |
+| Transposition des formes primaires aux caractères construits sur un principe géométrique, statique et dynamique           |
 
 ### Hauteur des caractères
 
