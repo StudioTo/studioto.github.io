@@ -8,4 +8,9 @@
 
 ### 📎 Sources
 
-[^1]: Abc
+- **Adrian Frutiger**  
+  *Type, Sign, Symbol*, 1980
+- **Karl Gerstner**  
+  *Compendium for Literates, A System of Writing*, 1974
+
+[^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980
