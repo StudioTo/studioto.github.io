@@ -135,3 +135,7 @@ La création de caractères est une bataille contre les illusions d'optique, que
 ### 📎 Sources
 
 [^1]: Test
+
+Jonathan Hoefler, Hoefler & Co., *Typographic Illusions*, www.typography.com
+Anton Studer, *Is What I See What I Get? — Math & Optics in Type Design*, www.typographica.org
+
