@@ -572,3 +572,5 @@ Les polices variables contiennent plusieurs masters dans un fichier unique et pe
 |![](/overview-writing-history/links/overview-writing-history_178.jpg)|
 |:------------------------------------------:|
 | Adrian Frutiger, Quelles seront les formes de demain?                                        |
+
+# 📎 Sources
