@@ -10,6 +10,12 @@
 |:---:|
 | Abc           |
 
+# Carson, David
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc           |
+
 # Frutiger, Adrian
 
 |![](links/Typo_Semiotic_01.jpg) |
@@ -65,6 +71,12 @@
 | Abc          |
 
 # Rüder, Emil
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc          |
+
+# Saville, Peter
 
 |![](links/Typo_Semiotic_01.jpg) |
 |:---:|
