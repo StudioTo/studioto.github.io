@@ -90,6 +90,48 @@ La création de caractères est une bataille contre les illusions d'optique, que
 |:---:|
 | Abc           |
 
+### Conversion
+
+|![](links/Letter_1.gif) |
+|:---:|
+| Abc           |
+
+### Conversion
+
+|![](links/Letter_2.gif) |
+|:---:|
+| Abc           |
+
+### Conversion
+
+|![](links/Letter_3.gif) |
+|:---:|
+| Abc           |
+
+### Conversion
+
+|![](links/Letter_4.gif) |
+|:---:|
+| Abc           |
+
+### Conversion
+
+|![](links/Letter_5.gif) |
+|:---:|
+| Abc           |
+
+### Conversion
+
+|![](links/Letter_6.gif) |
+|:---:|
+| Abc           |
+
+### Conversion
+
+|![](links/Letter_7.gif) |
+|:---:|
+| Abc           |
+
 ### 📎 Sources
 
 [^1]: Test
