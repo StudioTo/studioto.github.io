@@ -1,9 +1,9 @@
   Index Graphic Ressources
 # &nbsp;
 
-```
+<!---
 ## [📝 Checklists]()
-```
+--->
 ## [🏢 Index Grid Systems]()
 ## [⚡ Index Logos]()
 ## [🔬 Typo Anatomie](/describe-typefaces)
