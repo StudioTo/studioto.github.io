@@ -6,7 +6,7 @@
 |:---:|
 | Illusion de Müller-Lyer[^1]           |
 
-Notre esprit conçoit les formes différement de comment nos yeux les perçoivent. En effet, l’oeil a tendance à agrandir les éléments horizontaux et à minimiser les éléments verticaux. Une partie du travail de conception des caractères consiste donc à gérer cette éternelle friction entre logique et optique.
+Notre esprit conçoit les formes différement de comment nos yeux les perçoivent. Une partie du travail de conception des caractères consiste donc à gérer cette éternelle friction entre logique et optique.
 
 # 👀 Principes d'optique
 
@@ -14,7 +14,7 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 |![](links/Contraste.gif) |
 |:---:|
-| Abc           |
+| Les traits horizontaux paraissent plus épaisses que les traits verticaux           |
 
 ### Carré
 
@@ -32,7 +32,7 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 |![](links/Compositions_lines.gif) |
 |:---:|
-| Les traits verticaux sont sensiblement plus épais que les traits horizontaux, les traits diagonaux se situent donc entre les deux.           |
+| Il faut donc compenser graduellement les traits diagonaux, plus le trait est horizontal, plus il faut le compenser           |
 
 ### 🚨 Biais de dimensions
 
