@@ -40,6 +40,12 @@
 |:---:|
 | Abc           |
 
+# Jeker, Werner
+
+|![](links/Typo_Semiotic_01.jpg) |
+|:---:|
+| Abc           |
+
 # Lutz, Hans-Rudolf
 
 |![](links/Typo_Semiotic_01.jpg) |
