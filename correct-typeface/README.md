@@ -56,13 +56,13 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 |![](links/Compositions_negatif.gif) |
 |:---:|
-| Un carré de même taille en blanc sur noir paraît plus grans que en noir sur blanc           |
+| Un carré de même taille en blanc sur noir paraît plus grand que en noir sur blanc           |
 
 ### 🚨 Biais de position
 
 |![](links/Rond_position.gif) |
 |:---:|
-| Abc           |
+| Une forme placé au centre d'un format paraît trop basse, il faut donc la surélever pour qu'elle semble centrée. Une forme positionée en bas semble tomber. Inversément, placée en haut, elle semble s'envoler           |
 
 # 🚃 Séquence
 
