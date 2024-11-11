@@ -12,7 +12,15 @@
 
 | 💬 Langage | ⚙️ Technique | 💥 Images | 🫥 Expression |
 |:---|:---|:---|:---|
-| [Ligne de base](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           |
+| [Script]()           | [Écriture]()           | [Lettre]()           | [Coordonnées]()           |
+| [Direction]()           | [Peinture]()           | [Mot]()           | [Articulation]()           |
+| []()           | [Dessin]()           | [Composition]()           | []()           |
+| []()           | [Construction]()           | []()           | [Arrangement]()           |
+| []()           | [Combinaison]()           | []()           | [Soulignement]()           |
+| []()           | [Gravure]()           | []()           | [Soulignement]()           |
+| []()           | []()           | []()           | [Dérivation]()           |
+| []()           | []()           | []()           | [Visualisation]()           |
+| []()           | []()           | []()           | [Jeux]()           |
 
 # 💬 Langage
 
