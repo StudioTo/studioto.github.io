@@ -6,7 +6,7 @@
 
 # Arp, Hans
 
-|![](links/Typo_Semiotic_01.jpg) |
+|![](links/Annuaire_Arp_Hans.gif) |
 |:---:|
 | Abc           |
 
