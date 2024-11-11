@@ -8,7 +8,7 @@
 
 |![](links/Annuaire_Arp_Hans.gif) |
 |:---:|
-| Abc           |
+| Hans Arp (1886-1966)           |
 
 # Bill, Max
 
