@@ -6,6 +6,22 @@
 |:---:|
 | Abc [^1]           |
 
+|![](links/Typo_Semiotic_02.jpg) |
+|:---:|
+| Abc [^1]           |
+
+| 💬 Langage | ⚙️ Technique | 💥 Images | 🫥 Expression |
+|:---|:---|:---|:---|
+| [Ligne de base](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           |
+
+# 💬 Langage
+
+###  Direction
+
+|![](links/Typo_Semiotic_01_Langage_02_Direction.gif) |
+|:---:|
+| Abc [^1]           |
+
 ### 📎 Sources
 
 - **Adrian Frutiger**  
