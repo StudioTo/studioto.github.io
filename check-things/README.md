@@ -6,16 +6,16 @@
 |:---:|
 | Le «n» et le «o» contiennent l'ADN d'une fonte[^1]           |
 
-# 🖨️ Impression
-
-- [X] abc
-- [X] abc
-- [X] abc
-- [X] abc
-- [ ] abc
-- [ ] abc
-
 # 🔎 Micro-Typo
+
+- [X] abc
+- [X] abc
+- [X] abc
+- [X] abc
+- [ ] abc
+- [ ] abc
+
+# 🖨️ Impression
 
 - [X] abc
 - [X] abc
