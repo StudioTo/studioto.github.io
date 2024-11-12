@@ -9,8 +9,8 @@
 # 🖨️ Impression
 
 - [X] abc
-- [ ] abc
-- [ ] abc
-- [ ] abc
+- [X] abc
+- [X] abc
+- [X] abc
 - [ ] abc
 - [ ] abc
