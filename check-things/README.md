@@ -23,3 +23,21 @@
 - [X] abc
 - [ ] abc
 - [ ] abc
+
+# 💻 Digital
+
+- [X] abc
+- [X] abc
+- [X] abc
+- [X] abc
+- [ ] abc
+- [ ] abc
+
+# 🌐 Web
+
+- [X] abc
+- [X] abc
+- [X] abc
+- [X] abc
+- [ ] abc
+- [ ] abc
