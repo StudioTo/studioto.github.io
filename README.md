@@ -6,8 +6,10 @@
 ## [🏢 Index Grid Systems]()
 ## [🦚 Index Littérature Visuelle]()
 ## [⚡ Index Logos]()
+## [🔨 Typo Construction]()
 ## [🔍 Typo Macro-Micro]()
 ## [🧪 Typo Specimens]()
+## [⚙️ Tech Support]()
 ## [💼 Portfolio](Student's projects)
 --->
 
