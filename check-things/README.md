@@ -14,3 +14,12 @@
 - [X] abc
 - [ ] abc
 - [ ] abc
+
+# 🔎 Micro-Typo
+
+- [X] abc
+- [X] abc
+- [X] abc
+- [X] abc
+- [ ] abc
+- [ ] abc
