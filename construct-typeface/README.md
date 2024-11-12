@@ -1,4 +1,4 @@
-# 📝 *Construct a typeface*
+# 🔨 *Construct a typeface*
   Guidelines pour commencer
 # &nbsp;
 
