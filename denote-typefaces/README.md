@@ -38,7 +38,7 @@
 
 |![](links/Typo_Semiotic_v2_Tech.gif) |
 |:---:|
-| La manière dont les symboles sont liés entre eux (séquence)           |
+| L'écriture peut prendre autant de formes différentes qu'il y a d’outils pour la tracer.           |
 
 ### 📎 Sources
 
