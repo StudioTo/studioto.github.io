@@ -3,7 +3,7 @@
 ### &nbsp;
 
 
-|![](links/Checklists.jpg.jpg) |
+|![](links/Checklists.jpg) |
 |:---:|
 | Vérification[^1]           |
 
