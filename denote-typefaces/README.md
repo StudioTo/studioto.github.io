@@ -2,11 +2,7 @@
   Sémiotique du langage écrit
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc [^1]           |
-
-|![](links/Typo_Semiotic_02.jpg) |
+|![](links/Typo_Semiotic_01_intro.gif) |
 |:---:|
 | Abc [^1]           |
 
