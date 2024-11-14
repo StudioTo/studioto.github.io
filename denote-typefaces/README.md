@@ -6,6 +6,8 @@
 |:---:|
 | Abc [^1]           |
 
+# 🧠 Système
+
 | 💬 Langage | ⚙️ Technique | 💥 Images | 🫥 Expression |
 |:---|:---|:---|:---|
 | [Script]()           | [Écriture]()           | [Lettre]()           | [Coordonnées]()           |
