@@ -32,18 +32,25 @@
 
 # 🔎 Micro-Typo
 
-- Il n’y a pas de veuve ni d’orpheline
-- Aucun paragraphe ne finit par une ligne composée d’un petit mot seul ou un mot avec césure
-- Il n’y a plus de doubles espaces
+- Les langues adaptées sont appliquées aux paragraphes via les styles
 - Les guillemets sont adaptés à la langue du texte, jamais ceux-ci "…"
+- Les espaces avec les ponctuations sont justes et adaptés à la langue du texte (espaces fines)
+  
 - Les apostrophes sont typographiques ’ et non '
-- Les espaces avec les ponctuations sont justes et adaptés à la langue du texte
 - Les … utilisent le glyphe adéquat et non 3 points
-- Les paires oe, ae … sont remplacées par les glyphes œ, æ (Langue française).
 - Les - dans le texte ont été remplacés par – ou — sauf pour les mots composés et césures
 - Les multiplications utilisent le glyphe × et non x
-- Les chiffres dans le texte sont à chasse proportionnelle ou utilisent l’interlettrage optique.
-- L’interlettrage de la fonte est bon, aucun problème de crénage
+- Les paires oe, ae … sont remplacées par les ligature œ, æ (en française)
+  
+- Aucun paragraphe ne finit par une ligne composée d’un mot seul ou d’un mot avec césure
+- Il n’y a pas de veuve ni d’orpheline
+- Il n’y a pas de doubles espaces
+
+- Les styles de paragraphes et de caractères n’ont pas d'exception
+- L’interlignage de la fonte est systématique (pour chaque style de pararaphe, aligné sur la grille de lignes de base)
+- L’interlettrage de la fonte est en métrique, aucun problème de crénage
+- Les chiffres dans le texte sont à chasse proportionnelle
+
 
 <!---
 # 💻 Digital
