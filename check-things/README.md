@@ -5,14 +5,14 @@
 
 # 📁 Rendu 
 
-- [X] Sur fileserver, dans le dossier correspondant à l’exercice (GRXXX → Typographie → Dossier exercice)
-- [X] En un seul fichier (et non plusieurs fichiers dans un dossier)
-- [X] Avec l'extension correcte (p. ex. PDF)
-- [X] Dans le format mentionné sur le brief (p. ex. A4)
-- [X] Dans l’ordre des pages mentionné sur le brief
-- [X] Avec l'orientation correcte pour toutes les pages (horizontal ou vertical)
-- [X] Scanné proprement (scan et non photo au téléphone, à plat, avec uniquement du noir et blanc, net)
-- [X] Nommé correctement (GRXXX_Nom_Prénom_Exercice)
+- Sur fileserver, dans le dossier correspondant à l’exercice (GRXXX → Typographie → Dossier exercice)
+- En un seul fichier (et non plusieurs fichiers dans un dossier)
+- Avec l'extension correcte (p. ex. PDF)
+- Dans le format mentionné sur le brief (p. ex. A4)
+- Dans l’ordre des pages mentionné sur le brief
+- Avec l'orientation correcte pour toutes les pages (horizontal ou vertical)
+- Scanné proprement (scan et non photo au téléphone, à plat, avec uniquement du noir et blanc, net)
+- Nommé correctement (GRXXX_Nom_Prénom_Exercice)
 
 ⚠️ Si le rendu est transmis après la date prévue, vous devez l'envoyer par mail avec une justification du retard (et non le mettre sur le serveur)
 
