@@ -67,4 +67,4 @@
 - **Adrian Frutiger**  
   *Type, Sign, Symbol*, 1980
 
-[^1]: Irene Wellington, *The Foundation Hand*, 1980
+[^1]: Irene Wellington, *The Foundational Hand*, 1980
