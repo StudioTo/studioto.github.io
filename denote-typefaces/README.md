@@ -1,6 +1,6 @@
 # 💥 *Denote a typeface*
   Sémiotique du langage écrit
-# &nbsp;
+### &nbsp;
 
 |![](links/Typo_Semiotic_01.jpg) |
 |:---:|
