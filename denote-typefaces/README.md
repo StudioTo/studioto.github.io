@@ -2,11 +2,11 @@
   Sémiotique du langage écrit
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro.gif) |
+|![](links/Typo_Semiotic_01_intro_v2.gif) |
 |:---:|
 | Abc [^1]           |
 
-# 🧠 Système
+# 🧠 Perceptions
 
 | 💬 Langage | ⚙️ Technique | 💥 Images | 🫥 Expression |
 |:---|:---|:---|:---|
