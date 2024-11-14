@@ -8,6 +8,12 @@
 
 # 🚨 Règles
 
+
+
+La cohérence dans le dessin des lettres est maintenue par divers principes:
+- les proportions sont constantes à travers les caractères d'une même police (hauteur de x, ascendante, descendante, etc.)
+- la répartition de la graisse entre les pleins et les déliés est systématique à travers les caractères d'une même fonte (fûts, traverses, pleins, déliés)
+
 |![](links/Typo_Construction_1_rotation.gif) |
 |:---:|
 | Ductus           |
