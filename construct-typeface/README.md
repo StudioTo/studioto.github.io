@@ -1,5 +1,5 @@
 # 🔨 *Construct a typeface*
-  Guidelines pour commencer
+  Guidelines pour débuter la construction d’une fonte
 ### &nbsp;
 
 |![](links/Typo_Construction_00.jpg) |
