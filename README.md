@@ -8,6 +8,7 @@
 ## [🔍 Typo Macro-Micro]()
 ## [🧪 Typo Specimens]()
 ## [💼 Portfolio](Student's projects)
+## [⚙️ Tech Support](/support-technology)
 --->
 
 ## [📝 Checklists](/check-things)
@@ -20,6 +21,5 @@
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
-## [⚙️ Tech Support](/support-technology)
 
 ## [➡️ Typothèque](http://typo.eracom.ch)
