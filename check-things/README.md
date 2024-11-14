@@ -36,8 +36,8 @@
 - abc
 - abc
 - abc
-- [ ] abc
-- [ ] abc
+- abc
+- abc
 
 <!---
 # 💻 Digital
@@ -46,8 +46,8 @@
 - abc
 - abc
 - abc
-- [ ] abc
-- [ ] abc
+- abc
+- abc
 
 # 🌐 Web
 
@@ -55,8 +55,8 @@
 - abc
 - abc
 - abc
-- [ ] abc
-- [ ] abc
+- abc
+- abc
 --->
 
 # 📎 Sources
