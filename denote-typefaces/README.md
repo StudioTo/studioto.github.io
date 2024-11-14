@@ -1,10 +1,13 @@
 # 💥 *Denote a typeface*
-  Sémiotique du langage écrit
+  Sémiotique en typographie
+	1.	Dénotation: la signification littérale et objective d’un texte.
+ 	2.	Connotation : les significations subjectives et culturelles associées à la forme typographique utilisée.
+  
 ### &nbsp;
 
 |![](links/Typo_Semiotic_01_intro_v2.gif) |
 |:---:|
-| La forme des caractères vient soutenir la teneur du texte[^1]           |
+| La forme des caractères change la connotation du texte[^1]           |
 
 # 💬 Langage
 
