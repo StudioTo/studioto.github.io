@@ -34,8 +34,8 @@
 
 - Les langues adaptées sont appliquées aux paragraphes via les styles
 - Les guillemets sont adaptés à la langue du texte, jamais ceux-ci "…"
-- Les espaces avec les ponctuations sont justes et adaptés à la langue du texte (espaces fines)
-  
+- Les espaces avec les ponctuations sont justes et adaptés à la langue du texte (espaces fines)  
+    
 - Les apostrophes sont typographiques ’ et non '
 - Les … utilisent le glyphe adéquat et non 3 points
 - Les - dans le texte ont été remplacés par – ou — sauf pour les mots composés et césures
