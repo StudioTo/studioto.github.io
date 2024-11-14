@@ -14,7 +14,7 @@
 - Scanné proprement (scan et non photo au téléphone, à plat, avec uniquement du noir et blanc, net)
 - Nommé correctement (GRXXX_Nom_Prénom_Exercice)
 
-⚠️  Si le rendu est transmis après la date prévue, vous devez l'envoyer par mail avec une justification du retard
+⚠️  Si le rendu est transmis après la date prévue, vous devez l'envoyer par mail avec une justification du retard  
     (et non le mettre sur le serveur)
 
 
