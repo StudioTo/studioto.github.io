@@ -59,3 +59,9 @@
 - [X] abc
 - [ ] abc
 - [ ] abc
+
+# 📎 Sources
+
+- **ECAL/ Ecole Cantonale d’art de Lausanne**
+  Harry Bloch, Pierrick Brégeon & Philippe Karrer  
+  *Gas for my Cadillac Manuel et quelques trucs de mise en page pour InDesign*, 2013
