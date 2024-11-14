@@ -55,7 +55,7 @@
 
 |![](links/Typo_Semiotic_02.jpg) |
 |:---:|
-| « Booba » ou « Kiki »?           |
+| « Maluma » ou « Takete »?           |
 
 ### 📎 Sources
 
