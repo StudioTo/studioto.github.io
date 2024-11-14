@@ -24,11 +24,12 @@
 
 - [X] Le format du document est correct
 - [X] Le voyant contrôle en amont (preflight) est vert
-- [X] Les blocs textes sont bien alignés sur la grille et les marges
+- [X] Il n'y a pas de lien manquant ou modifé
+- [X] Il n’y a pas de fontes inutilisées ou manquantes (trouver des polices)
 - [X] Les images sont au ratio original (1/1), minimum à 300dpi
+- [X] Les blocs textes sont bien alignés sur la grille et les marges
 - [X] L'application des gabarits aux pages est correcte (folio, section, etc.)
 - [X] Le nombre de page est correct par rapport à la reliure (multiple de 2 ou 4)
-- [X] Il n’y a pas de fontes inutilisées ou manquantes (trouver des polices)
 - [X] Il n’y a pas de teintes inutilisées (nuancier)
 - [X] Il n’y a pas styles de paragraphes ou de caractères inutilisés
 
