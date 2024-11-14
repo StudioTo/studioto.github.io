@@ -15,7 +15,7 @@ Voici une correspondance entre les règles mentionnées par Irene Wellington ci-
 
 1. l’angle de la plume est constant → la répartition de la graisse entre les pleins et les déliés est systématique à travers les caractères d'une même fonte (fûts, traverses, pleins, déliés)
 2. l’alphabet entier est basée sur le cercle (ou autre forme) → l’alphabet est «construit», dans le sens ou il ré-utilise des tracés similaires dans plusieures lettres
-3. a → les proportions sont constantes à travers les caractères d'une même police (hauteur de x, ascendante, descendante, etc.)
+3. une bonne proportion → les proportions sont constantes à travers les caractères d'une même police (hauteur de x, ascendante, descendante, etc.)
 
 |![](links/Typo_Construction_1_rotation.gif) |
 |:---:|
