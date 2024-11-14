@@ -4,7 +4,7 @@
 
 |![](links/Typo_Construction_00.jpg) |
 |:---:|
-| Ductus           |
+| Ductus[^1]           |
 
 # 🚨 Règles
 
