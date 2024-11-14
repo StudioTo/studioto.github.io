@@ -55,7 +55,7 @@
 
 |![](links/Typo_Semiotic_02.jpg) |
 |:---:|
-| « Maluma » ou « Takete »?           |
+| «Maluma» ou «Takete»?           |
 
 ### 📎 Sources
 
