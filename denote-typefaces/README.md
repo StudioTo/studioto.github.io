@@ -6,7 +6,7 @@
 |:---:|
 | Abc [^1]           |
 
-# 🧠 Perceptions
+# 🧠 Système[^2]
 
 | 💬 Langage | ⚙️ Technique | 💥 Images | 🫥 Expression |
 |:---|:---|:---|:---|
@@ -26,7 +26,7 @@
 
 |![](links/Typo_Semiotic_01_Langage_02_Direction.gif) |
 |:---:|
-| Abc [^1]           |
+| Abc           |
 
 ### 📎 Sources
 
@@ -36,3 +36,5 @@
   *Type, Sign, Symbol*, 1980
 
 [^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980
+[^2]: Karl Gerstner, *Compendium for Literates, A System of Writing*, 1974
+
