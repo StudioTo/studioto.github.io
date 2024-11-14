@@ -8,8 +8,8 @@
 
 # 🚨 Règles
 
-Plusieurs principes de dessin (ductus) hérités de la calligraphie régissent encore la construction de nos alphabets modernes à l'ère digitale.
-Ces principes permettent de maintenir une cohérence des lettres entre elles, de sorte à ce qu'elles aient l'air d'avoir été «tracées» avec le même outil (ce qui était le cas en calligraphie).
+Plusieurs principes de dessin (ductus) hérités de la calligraphie régissent encore la construction de nos alphabets modernes.
+Ces principes permettent de maintenir une cohérence des lettres entre elles, de sorte à ce qu'elles aient l'air d'avoir été «tracées» avec le même outil (ce qui était le cas en calligraphie).  
 
 Voici une correspondance entre les règles mentionnées par Irene Wellington ci-dessus et leur application contemporaine:
 
