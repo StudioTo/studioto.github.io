@@ -104,7 +104,7 @@ Les caractères doivent être compensés (overshoot) pour avoir optiquement la m
 
 Les droites comportent soit un contraste optiquement linéaire, soit un contraste optiquement marqué.
 
-|![](links/Letters_1.gif) |
+|![](links/Letters_1_edit.gif) |
 |:---:|
 | Les traits verticaux sont plus épais que les horizontaux, les diagonales sont entre les deux, comme dans le E, F, H, L, T         |
 
