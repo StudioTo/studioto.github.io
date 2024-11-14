@@ -37,7 +37,7 @@
 # 🔎 Micro-Typo
 
 - Les langues adaptées sont appliquées aux paragraphes via les styles
-- Les guillemets sont adaptés à la langue du texte, « Français », „Deutsch“, “English”, etc., jamais ceux-ci "…"
+- Les guillemets sont adaptés à la langue du texte, « Français », „Deutsch“, “English”, etc., jamais ceux-ci \"…\"
 - Les espaces avec les ponctuations sont justes et adaptés à la langue du texte (espaces fines)
 
 &nbsp;
