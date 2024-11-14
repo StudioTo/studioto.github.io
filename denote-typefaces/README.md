@@ -6,7 +6,7 @@
 |:---:|
 | Abc [^1]           |
 
-### 🧠 Système
+## 🧠 Système
 
 | 💬 Langage | ⚙️ Technique | 💥 Images | 🫥 Expression |
 |:---|:---|:---|:---|
