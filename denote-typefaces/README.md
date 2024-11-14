@@ -6,7 +6,7 @@
 
 |![](links/Typo_Semiotic_01_intro_v2.gif) |
 |:---:|
-| La forme des caractères change la connotation du texte[^1]           |
+| La forme des caractères renforce la connotation du texte[^1]           |
 
 La typographie crée du sens bien au-delà de la simple signification explicite du message écrit.
 En effet, la forme des caractères et leur agencement véhiculent eux aussi une grande variété d’interprétations implicites et contextuelles.
