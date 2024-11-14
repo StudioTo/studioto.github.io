@@ -48,6 +48,14 @@
 |:---:|
 | L'image de la lettre est avant tout l'expression d'un style           |
 
+# 🫥 Expression
+
+###  Lettre
+
+|![](links/Typo_Semiotic_v2_Tech.gif) |
+|:---:|
+| « Booba » ou « Kiki »?           |
+
 ### 📎 Sources
 
 - **Karl Gerstner**  
