@@ -38,24 +38,24 @@
 
 |![](links/Typo_Construction_6_n.gif) |
 |:---:|
-| Ductus           |
+| n → h, m, r, u          |
 
 |![](links/Typo_Construction_7_bdpq.gif) |
 |:---:|
-| Ductus           |
+| h + o → b, d, p, q, g           |
 
 |![](links/Typo_Construction_8_tjf.gif) |
 |:---:|
-| Ductus           |
+| i, u → j, f, t            |
 
 |![](links/Typo_Construction_9_aces.gif) |
 |:---:|
-| Ductus           |
+| a, c, e, s           |
 
 |![](links/Typo_Construction_10_vwy.gif) |
 |:---:|
-| Ductus           |
+| v → w, y            |
 
 |![](links/Typo_Construction_11_kx.gif) |
 |:---:|
-| Ductus           |
+| v → x, k           |
