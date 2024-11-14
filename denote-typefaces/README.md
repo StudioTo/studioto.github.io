@@ -22,11 +22,17 @@
 
 # 💬 Langage
 
+###  Script
+
+|![](links/Typo_Semiotic_01_Langage_02_Direction.gif) |
+|:---:|
+| L'alphabet est une sorte d'écriture, un script phonétique, dont il existe de nombreuses variétés           |
+
 ###  Direction
 
 |![](links/Typo_Semiotic_01_Langage_02_Direction.gif) |
 |:---:|
-| Comment les symboles sont-ils liés entre eux (séquence)           |
+| La manière dont les symboles sont liés entre eux (séquence)           |
 
 ### 📎 Sources
 
