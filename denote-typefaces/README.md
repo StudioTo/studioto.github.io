@@ -38,7 +38,13 @@
 
 |![](links/Typo_Semiotic_v2_Tech.gif) |
 |:---:|
-| L'écriture peut prendre autant de formes différentes qu'il y a d’outils pour la tracer.           |
+| L'écriture peut prendre autant de formes différentes qu'il y a d’outils pour la tracer           |
+
+# 💥 Images
+
+|![](links/Typo_Semiotic_v2_Tech.gif) |
+|:---:|
+| L'image de la lettre est avant tout l'expression d'un style           |
 
 ### 📎 Sources
 
