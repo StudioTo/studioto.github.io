@@ -60,7 +60,7 @@
 |:---:|
 | v → x, k           |
 
-### 📎 Sources
+# 📎 Sources
 
 - **Walter Käch**  
   *Type, Sign, Symbol*, 1980
