@@ -52,7 +52,7 @@
 
 ###  Lettre
 
-|![](links/Typo_Semiotic_01.jpg) |
+|![](links/Typo_Semiotic_02.jpg) |
 |:---:|
 | « Booba » ou « Kiki »?           |
 
