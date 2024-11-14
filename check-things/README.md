@@ -42,6 +42,9 @@
 - [ ] abc
 - [ ] abc
 
+
+
+<!---
 # 💻 Digital
 
 - [X] abc
@@ -59,6 +62,7 @@
 - [X] abc
 - [ ] abc
 - [ ] abc
+--->
 
 # 📎 Sources
 
