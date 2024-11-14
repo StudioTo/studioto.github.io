@@ -22,29 +22,29 @@ Voici une correspondance entre les règles mentionnées par Irene Wellington ci-
 
 |![](links/Typo_Construction_1_rotation.gif) |
 |:---:|
-| Ductus           |
+| La rotation est autorisée: réalisabe à la plume (cohérent)           |
 
 |![](links/Typo_Construction_2_symetrie.gif) |
 |:---:|
-| Ductus           |
+| La symétrie est interdite: impossible à réaliser à la plume (et donc incohérent)             |
 
 # 🪵 Fûts
 
 |![](links/Typo_Construction_3_futs.gif) |
 |:---:|
-| Ductus           |
+| La fûts ont la même largeur à travers les caractères d'une même fonte            |
 
 # ⚽️ Courbes
 
 |![](links/Typo_Construction_4_courbes.gif) |
 |:---:|
-| Ductus           |
+| La répartition de la graisse entre les pleins et les déliés est systématique à travers les caractères           |
 
 # 📐 Proportions
 
 |![](links/Typo_Construction_5_proportions.gif) |
 |:---:|
-| Ductus           |
+| Les proportions sont constantes à travers les caractères d'une même police (hauteur de x, ascendante, descendante, etc.)           |
 
 # 🔡 Minuscules
 
