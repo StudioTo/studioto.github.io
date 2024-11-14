@@ -1,6 +1,6 @@
 # 🔨 *Construct a typeface*
   Guidelines pour commencer
-# &nbsp;
+### &nbsp;
 
 |![](links/Typo_Construction_00.jpg) |
 |:---:|
