@@ -1,13 +1,18 @@
 # 💥 *Denote a typeface*
   Sémiotique en typographie
-	1.	Dénotation: la signification littérale et objective d’un texte.
- 	2.	Connotation : les significations subjectives et culturelles associées à la forme typographique utilisée.
+
   
 ### &nbsp;
 
 |![](links/Typo_Semiotic_01_intro_v2.gif) |
 |:---:|
 | La forme des caractères change la connotation du texte[^1]           |
+
+La typographie crée du sens bien au-delà de la simple signification explicite du message écrit.
+En effet, la forme des caractères et leur agencement véhiculent eux aussi une grande variété d’interprétations implicites et contextuelles.
+1.	Dénotation: la signification littérale et objective d’un texte.
+2.	Connotation : les significations subjectives et culturelles associées à la forme typographique utilisée.
+Une bonne maîtrise de ces deux aspects de transmettre des messages plus riches et de s'assurer que la forme visuelle du texte communique efficacement l'intention souhaitée.
 
 # 💬 Langage
 
