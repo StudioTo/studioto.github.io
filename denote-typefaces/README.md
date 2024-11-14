@@ -46,7 +46,7 @@
 
 |![](links/Typo_Semiotic_v2_Tech.gif) |
 |:---:|
-| L'image de la lettre est avant tout l'expression d'un style           |
+| L'image de la lettre est avant tout l'expression d'un style, d'une époque           |
 
 # 🫥 Expression
 
