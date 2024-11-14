@@ -59,3 +59,12 @@
 |![](links/Typo_Construction_11_kx.gif) |
 |:---:|
 | v → x, k           |
+
+### 📎 Sources
+
+- **Walter Käch**  
+  *Type, Sign, Symbol*, 1980
+- **Adrian Frutiger**  
+  *Type, Sign, Symbol*, 1980
+
+[^1]: Irene Wellington, *The Foundation Hand*, 1980
