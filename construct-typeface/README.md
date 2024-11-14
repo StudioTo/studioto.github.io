@@ -63,8 +63,8 @@
 # 📎 Sources
 
 - **Walter Käch**  
-  *Type, Sign, Symbol*, 1980
+  *Die Gezeichnete Schrift*, 1949
 - **Adrian Frutiger**  
   *Type, Sign, Symbol*, 1980
 
-[^1]: Irene Wellington, *The Foundational Hand*, 1980
+[^1]: Irene Wellington, *The Foundational Hand*, 1920
