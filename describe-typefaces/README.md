@@ -1,6 +1,6 @@
 # 🔬 *Describe a typeface*
   Anatomie d'une police de caractères
-# &nbsp;
+### &nbsp;
 
 
 ## 🦴 Anatomie
