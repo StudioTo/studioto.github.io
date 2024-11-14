@@ -42,9 +42,6 @@ Une bonne maîtrise de ces deux aspects de transmettre des messages plus riches 
 |:---:|
 | L'image de la lettre est avant tout l'expression d'un style, d'une époque           |
 
-###  Mot
-###  Composition
-
 # 🫥 Expression
 
 |![](links/Typo_Semiotic_02.jpg) |
