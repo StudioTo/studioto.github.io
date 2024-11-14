@@ -2,17 +2,15 @@
 # &nbsp;
 
 <!---
-## [📝 Checklists](InDesign, Glyphs, MicroTypo)
 ## [🏢 Index Grid Systems]()
 ## [🦚 Index Littérature Visuelle]()
 ## [⚡ Index Logos]()
 ## [🔍 Typo Macro-Micro]()
 ## [🧪 Typo Specimens]()
-## [⚙️ Tech Support]()
 ## [💼 Portfolio](Student's projects)
 --->
 
-
+## [📝 Checklists](/check-things)
 ## [🔬 Typo Anatomie](/describe-typefaces)
 ## [🧬 Typo Caractèristiques](/parameter-typefaces)
 ## [🌀 Typo Optique](/correct-typeface)
@@ -21,6 +19,7 @@
 ## [🗂️ Typo Classification](/classify-typefaces)
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🌐 Wiki](/index-graphic-terminology)
+## [⚙️ Tech Support](support)
 ## [☎️ Annuaire](/index-designers)
 
 ## [➡️ Typothèque](http://typo.eracom.ch)
