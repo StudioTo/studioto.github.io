@@ -4,15 +4,18 @@
 
 |![](links/Typo_Construction_00.jpg) |
 |:---:|
-| Ductus[^1]: mode d'emploi pour dessiner un caractère spécifique (ordre, la direction et le nombre de traits nécessaires pour tracer une lettre)           |
+| Ductus[^1]: mode d'emploi pour dessiner un caractère spécifique (ordre, direction et nombre de segments nécessaires pour tracer une lettre)           |
 
 # 🚨 Règles
 
+Plusieurs principes de dessin (ductus) hérités de la calligraphie régissent encore la construction de nos alphabets modernes à l'ère digitale.
+Ces principes permettent de maintenir une cohérence des lettres entre elles, de sorte à ce qu'elles aient l'air d'avoir été «tracées» avec le même outil (ce qui était le cas en calligraphie).
 
+Voici une correspondance entre les règles mentionnées par Irene Wellington ci-dessus et leur application contemporaine:
 
-La cohérence dans le dessin des lettres est maintenue par divers principes:
-- les proportions sont constantes à travers les caractères d'une même police (hauteur de x, ascendante, descendante, etc.)
-- la répartition de la graisse entre les pleins et les déliés est systématique à travers les caractères d'une même fonte (fûts, traverses, pleins, déliés)
+1. l'angle de la plume est constant → la répartition de la graisse entre les pleins et les déliés est systématique à travers les caractères d'une même fonte (fûts, traverses, pleins, déliés)
+2. la construction est basée sur le cercle → 
+3. a → les proportions sont constantes à travers les caractères d'une même police (hauteur de x, ascendante, descendante, etc.)
 
 |![](links/Typo_Construction_1_rotation.gif) |
 |:---:|
