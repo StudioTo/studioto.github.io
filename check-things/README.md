@@ -35,23 +35,17 @@
 - Les langues adaptées sont appliquées aux paragraphes via les styles
 - Les guillemets sont adaptés à la langue du texte, jamais ceux-ci "…"
 - Les espaces avec les ponctuations sont justes et adaptés à la langue du texte (espaces fines)
-
 &nbsp;
-
 - Les apostrophes sont typographiques ’ et non '
 - Les … utilisent le glyphe adéquat et non 3 points
 - Les - dans le texte ont été remplacés par – ou — sauf pour les mots composés et césures
 - Les multiplications utilisent le glyphe × et non x
 - Les paires oe, ae … sont remplacées par les ligature œ, æ (en française)
-
 &nbsp;
-
 - Aucun paragraphe ne finit par une ligne composée d’un mot seul ou d’un mot avec césure
 - Il n’y a pas de veuve ni d’orpheline
 - Il n’y a pas de doubles espaces
-
 &nbsp;
-
 - Les styles de paragraphes et de caractères n’ont pas d'exception
 - L’interlignage de la fonte est systématique (pour chaque style de pararaphe, aligné sur la grille de lignes de base)
 - L’interlettrage de la fonte est en métrique, aucun problème de crénage
