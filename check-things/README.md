@@ -3,9 +3,9 @@
 ### &nbsp;
 
 
-|![](links/Typo_Anatomy_cover_1.jpg) |
+|![](links/Checklists.jpg.jpg) |
 |:---:|
-| [^1]           |
+| Vérification[^1]           |
 
 # 📁 Rendu 
 
@@ -89,3 +89,5 @@
   *Gas for my Cadillac Manuel et quelques trucs de mise en page pour InDesign*, 2013
 - **François Rappo**  
   *Checklist — micro-typographie*, 2009
+
+[^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980
