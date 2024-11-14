@@ -48,6 +48,9 @@
 |:---:|
 | L'image de la lettre est avant tout l'expression d'un style, d'une époque           |
 
+###  Mot
+###  Composition
+
 # 🫥 Expression
 
 |![](links/Typo_Semiotic_02.jpg) |
