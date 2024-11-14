@@ -1,6 +1,6 @@
 # 🧬 *Parameter a typeface*
   Caractèristiques d'une police de caractères
-# &nbsp;
+### &nbsp;
 
 |![](links/Typo_Parameters_01.jpg) |
 |:---:|
