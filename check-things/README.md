@@ -19,16 +19,20 @@
 
 ⚠️ Si le rendu est transmis après la date prévue, vous devez l'envoyer par mail avec une justification du retard (et non le mettre sur le serveur)
 
+
+# 💻 InDesign
+
+- [X] Le format du document est correct
+- [X] Le voyant contrôle en amont (preflight) est vert
+- [X] Les blocs textes sont bien alignés sur la grille et les marges
+- [X] Les images sont au ratio original (1/1), minimum à 300dpi
+- [X] Il n’y a pas de fontes inutilisées ou manquantes (trouver des polices)
+- [X] Il n’y a pas de teintes inutilisées (nuancier)
+- [X] Il n’y a pas styles de paragraphes ou de caractères inutilisés
+- [X] L'application des gabarits aux pages est correcte (folio, section, etc.)
+- [X] Le nombre de page est correct par rapport à la reliure (multiple de 2 ou 4)
+
 # 🔎 Micro-Typo
-
-- [X] abc
-- [X] abc
-- [X] abc
-- [X] abc
-- [ ] abc
-- [ ] abc
-
-# 🖨️ Impression
 
 - [X] abc
 - [X] abc
