@@ -19,7 +19,7 @@
 ## [🔨 Typo Construction](/construct-typeface)
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🌐 Wiki](/index-graphic-terminology)
-## [⚙️ Tech Support](/support-technology)
 ## [☎️ Annuaire](/index-designers)
+## [⚙️ Tech Support](/support-technology)
 
 ## [➡️ Typothèque](http://typo.eracom.ch)
