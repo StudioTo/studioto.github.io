@@ -6,20 +6,6 @@
 |:---:|
 | La forme des caractères vient soutenir la teneur du texte[^1]           |
 
-# 🧠 Système[^2]
-
-| 💬 Langage | ⚙️ Technique | 💥 Images | 🫥 Expression |
-|:---|:---|:---|:---|
-| [Script]()           | [Écriture]()           | [Lettre]()           | [Coordonnées]()           |
-| [Direction]()           | [Peinture]()           | [Mot]()           | [Articulation]()           |
-| []()           | [Dessin]()           | [Composition]()           | []()           |
-| []()           | [Construction]()           | []()           | [Arrangement]()           |
-| []()           | [Combinaison]()           | []()           | [Soulignement]()           |
-| []()           | [Gravure]()           | []()           | [Soulignement]()           |
-| []()           | []()           | []()           | [Dérivation]()           |
-| []()           | []()           | []()           | [Visualisation]()           |
-| []()           | []()           | []()           | [Jeux]()           |
-
 # 💬 Langage
 
 ###  Script
@@ -56,6 +42,22 @@
 |![](links/Typo_Semiotic_02.jpg) |
 |:---:|
 | «Maluma» ou «Takete»?           |
+
+<!---
+# 🧠 Système[^2]
+
+| 💬 Langage | ⚙️ Technique | 💥 Images | 🫥 Expression |
+|:---|:---|:---|:---|
+| [Script]()           | [Écriture]()           | [Lettre]()           | [Coordonnées]()           |
+| [Direction]()           | [Peinture]()           | [Mot]()           | [Articulation]()           |
+| []()           | [Dessin]()           | [Composition]()           | []()           |
+| []()           | [Construction]()           | []()           | [Arrangement]()           |
+| []()           | [Combinaison]()           | []()           | [Soulignement]()           |
+| []()           | [Gravure]()           | []()           | [Soulignement]()           |
+| []()           | []()           | []()           | [Dérivation]()           |
+| []()           | []()           | []()           | [Visualisation]()           |
+| []()           | []()           | []()           | [Jeux]()           |
+--->
 
 ### 📎 Sources
 
