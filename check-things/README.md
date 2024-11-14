@@ -1,6 +1,6 @@
 # 📝 *Check things*
   Vérification avant d'exporter, d'imprimer, de publier, de mettre en ligne,…
-# &nbsp;
+### &nbsp;
 
 |![](links/Typo_Parameters_01.jpg) |
 |:---:|
