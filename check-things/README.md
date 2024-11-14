@@ -3,6 +3,10 @@
 ### &nbsp;
 
 
+|![](links/Typo_Anatomy_cover_1.jpg) |
+|:---:|
+| [^1]           |
+
 # 📁 Rendu 
 
 - Sur fileserver, dans le dossier correspondant à l’exercice (GRXXX → Typographie → Dossier exercice)
