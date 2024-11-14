@@ -22,11 +22,11 @@
 
 # 💬 Langage
 
-###  Direction: comment les symboles sont-ils liés entre eux (séquence)
+###  Direction
 
 |![](links/Typo_Semiotic_01_Langage_02_Direction.gif) |
 |:---:|
-| Abc           |
+| Comment les symboles sont-ils liés entre eux (séquence)           |
 
 ### 📎 Sources
 
