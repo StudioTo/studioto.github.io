@@ -4,7 +4,7 @@
 
 |![](links/Typo_Semiotic_01_intro_v2.gif) |
 |:---:|
-| Abc [^1]           |
+| La forme des caractères vient soutenir la teneur du texte[^1]           |
 
 # 🧠 Système[^2]
 
