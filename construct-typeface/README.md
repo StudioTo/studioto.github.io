@@ -4,7 +4,7 @@
 
 |![](links/Typo_Construction_00.jpg) |
 |:---:|
-| Ductus[^1]: mode d'emploi pour dessiner un caractère spécifique (ordre, direction et nombre de segments nécessaires pour tracer une lettre)           |
+| Ductus[^1]: mode d'emploi pour dessiner un caractère spécifique(ordre, direction et nombre de segments)           |
 
 # 🚨 Règles
 
