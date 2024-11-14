@@ -1,6 +1,6 @@
 # 🍥 *Index Graphic Terminology*
   Glossaire de termes graphiques
-# &nbsp;
+### &nbsp;
 # A
   📁 Adobe Font Folder:  
   🔗 Assemblage:  
