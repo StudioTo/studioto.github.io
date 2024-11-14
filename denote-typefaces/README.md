@@ -23,6 +23,7 @@
 # 💬 Langage
 
 ###  Direction
+how are the letters linked together
 
 |![](links/Typo_Semiotic_01_Langage_02_Direction.gif) |
 |:---:|
