@@ -2,7 +2,7 @@
   Glossaire de termes graphiques
 ### &nbsp;
 # A
-  📁 Adobe Font Folder:  
+  📁 Adobe Font Folder: le dossier des polices Adobe sur Mac (Macintosh HD > Bibliothèque > Application Support > Adobe > Fonts) est un répertoire dans lequel les polices conçues avec Glyphs sont placées pour une intégration immédiate dans les applications Adobe.  
   🔗 Assemblage:  
 # B
   🚘 Bézier:  
