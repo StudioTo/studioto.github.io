@@ -7,7 +7,7 @@
 
 
   🔗 **Assemblage**  
-  L’assemblage (dans InDesign) désigne le processus de regroupement et d’exportation de tous les fichiers liés (polices, images, et documents) nécessaires pour garantir le partage sans erreur du fichier source en vue de sa production (impression, découpe, etc.).
+  L’assemblage (dans InDesign) désigne le processus de regroupement et d’exportation de tous les fichiers liés (polices, images, et documents) nécessaires pour garantir le partage sans erreur du fichier source en vue de sa production (impression, découpe, etc).
 # B
   🚘 Bézier:  
   🌅 Bmp:  
