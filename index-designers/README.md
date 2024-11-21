@@ -12,7 +12,7 @@
 
 # Bill, Max
 
-|![](links/Annuaire_Max_Bill.gif) |
+|![](links/Annuaire_Bill_Max.gif) |
 |:---:|
 | Max Bill (1908-1994)           |
 
