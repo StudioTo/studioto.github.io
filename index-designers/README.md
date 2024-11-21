@@ -12,7 +12,7 @@
 
 # Bill, Max
 
-|![](links/Annuaire_Arp_Hans.gif) |
+|![](links/Annuaire_Max_Bill.gif) |
 |:---:|
 | Max Bill (1908-1994)           |
 
