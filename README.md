@@ -1,4 +1,4 @@
-  Index Graphic Ressources  
+  **Index Graphic Ressources**  
   Tancrède Ottiger
 # &nbsp;
 
