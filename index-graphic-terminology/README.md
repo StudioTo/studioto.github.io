@@ -9,8 +9,13 @@
   🔗 **Assemblage**  
   L’assemblage (dans InDesign) désigne le processus de regroupement et d’exportation de tous les fichiers liés (polices, images, et documents) nécessaires pour garantir le partage sans erreur du fichier source en vue de sa production (impression, découpe, etc).
 # B
-  🚘 Bézier:  
-  🌅 Bmp:  
+  🚘 **Bézier**
+Une courbe de Bézier est un tracé mathématique défini par des points de contrôle, utilisée pour créer des courbes fluides et précises dans des logiciels de dessin vectoriel comme Glyphs Illustrator.
+
+
+  🌅 **Bmp**
+Format d’image raster (trame) qui stocke chaque pixel individuellement. En format 1 bit, chaque pixel est soit noir (0), soit blanc (1). Ces images peuvent ensuite être colorisée dans InDesign.
+  
 # C
   ✅ Cheklist:  
   📖 Cahier:  
