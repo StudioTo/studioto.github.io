@@ -61,6 +61,3 @@
 # X
 # Y
 # Z
-
-# Sources
-  abc
