@@ -3,7 +3,7 @@
 ### &nbsp;
 # A
   📁 **Adobe Font Folder**  
-  Le dossier des polices Adobe sur Mac (Macintosh HD > Bibliothèque > Application Support > Adobe > Fonts) est un répertoire dans lequel les polices conçues avec Glyphs sont placées pour une intégration immédiate dans les applications Adobe.
+  Le dossier des polices Adobe sur Mac (*Macintosh HD > Bibliothèque > Application Support > Adobe > Fonts*) est un répertoire dans lequel les polices conçues avec Glyphs sont placées pour une intégration immédiate dans les applications Adobe.
 
 
   🔗 **Assemblage**  
