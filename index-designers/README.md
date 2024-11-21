@@ -14,7 +14,7 @@
 
 |![](links/Annuaire_Arp_Hans.gif) |
 |:---:|
-| Max Bill ()           |
+| Max Bill (1908-1994)           |
 
 # Carson, David
 
