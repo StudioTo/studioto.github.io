@@ -4,7 +4,8 @@
 # A
   📁 **Adobe Font Folder**  
   Le dossier des polices Adobe sur Mac (Macintosh HD > Bibliothèque > Application Support > Adobe > Fonts) est un répertoire dans lequel les polices conçues avec Glyphs sont placées pour une intégration immédiate dans les applications Adobe.
-&nbsp;  
+
+
   🔗 **Assemblage**  
   L’assemblage (dans InDesign) désigne le processus de regroupement et d’exportation de tous les fichiers liés (polices, images, et documents) nécessaires pour garantir le partage sans erreur du fichier source en vue de sa production (impression, découpe, etc.).
 # B
