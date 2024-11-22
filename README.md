@@ -1,16 +1,18 @@
   **Index Graphic Ressources**  
   Tancrède Ottiger
+  studioto@ik.me
 # &nbsp;
 
 <!---
-## [🔮 Design Theories]()
-## [🏢 Index Grid Systems]()
 ## [🦚 Index Littérature Visuelle]()
-## [⚡ Index Logos]()
 ## [💼 Portfolio](Student's projects)
 --->
 
-## [📝 Checklists](/check-things)
+## [⚡ Index Logos]()
+## [🏢 Index Grid Systems]()
+# &nbsp;
+## [🔮 Design Theories](/)
+## [📄 Design Gestalt](/)
 # &nbsp;
 ## [🕰️ Typo Histoire](/overview-writing-history)
 ## [🗂️ Typo Classification](/classify-typefaces)
@@ -18,13 +20,13 @@
 ## [🧬 Typo Caractèristiques](/parameter-typefaces)
 ## [🌀 Typo Optique](/correct-typeface)
 ## [🔨 Typo Construction](/construct-typeface)
+## [📐 Typo Dessin Vectoriel](/)
 ## [🔍 Typo Macro-Micro]()
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🧪 Typo Specimens]()
 # &nbsp;
+## [📝 Checklists](/check-things)
 ## [⚙️ Tech Support](/support-technology)
-## [📐 Tuto Dessin Vectoriel](/)
-## [📄 Tuto Mise en page](/)
 # &nbsp;
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
