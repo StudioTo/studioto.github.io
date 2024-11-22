@@ -7,6 +7,7 @@
 ## [💼 Portfolio](Student's projects)
 --->
 
+## [📝 Checklists](/check-things)
 ## [⚡ Index Logos]()
 ## [🏢 Index Grid Systems]()
 ## [🔮 Design Theories](/)
@@ -21,9 +22,8 @@
 ## [🔍 Typo Macro-Micro]()
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🧪 Typo Specimens]()
-## [📝 Checklists](/check-things)
-## [⚙️ Tech Support](/support-technology)
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
+## [⚙️ Tech Support](/support-technology)
 &nbsp;
 ## [➡️ Typothèque](http://typo.eracom.ch)
