@@ -1,6 +1,5 @@
   **Index Graphic Ressources**  
   Tancrède Ottiger  
-  studioto@ik.me
 # &nbsp;
 
 <!---
