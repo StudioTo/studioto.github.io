@@ -18,7 +18,7 @@
 ## [🧬 Typo Caractèristiques](/parameter-typefaces)
 ## [🌀 Typo Optique](/correct-typeface)
 ## [🔨 Typo Construction](/construct-typeface)
-## [📐 Typo Dessin Vectoriel](/)
+## [📐 Typo Dessin Vectoriel](/draw-vectors)
 ## [🔍 Typo Macro-Micro]()
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🧪 Typo Specimens]()
