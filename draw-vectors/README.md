@@ -52,11 +52,11 @@ Abc
 |:---:|
 | Abc           |
 
-### Masquer votre scan en background pour évaluder votre dessin
+### Corriger
 
 |![](links/Contraste.gif) |
 |:---:|
-| Abc           |
+| Masquer votre scan en background pour évaluder votre dessin           |
 
 # 🖥️ Interfaçe
 
