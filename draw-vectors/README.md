@@ -4,14 +4,42 @@
 
 |![](links/Illusion.gif) |
 |:---:|
-| Illusion de Müller-Lyer[^1]           |
+| Abc[^1]           |
 
-Notre esprit conçoit les formes différement de comment nos yeux les perçoivent. En effet, notre oeil perçoit les traits horizontaux comme étant plus épais qu'ils ne le sont en réalité. D'autre part, les horizontales paraîssent plus longues qu'elles ne le sont mathématiquement. Une partie du travail de conception des caractères consiste donc à gérer cette friction entre logique et optique.
+Abc
 
-# 👀 Principes d'optique
+# 📏 Marche à suivre pour créer une nouvelle fonte
 
-### 🚨 Biais de proportions
+### Nouveau fichier
 
 |![](links/Contraste.gif) |
 |:---:|
-| Les traits horizontaux paraissent plus épaisses que les traits verticaux           |
+| Abc           |
+
+### Nommer la fonte
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
+### Enregistrer le fichier
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
+### Importer votre scan
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
+### Définissez les proportions
+
+# 📏 Principes de dessin
+
+### Biais de proportions
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
