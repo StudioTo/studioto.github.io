@@ -58,6 +58,12 @@ Abc
 |:---:|
 | Masquer votre scan en background pour évaluder votre dessin           |
 
+### Recommençer
+
+|![](links/Contraste.gif) |
+|:---:|
+| Masquer votre scan en background pour évaluder votre dessin           |
+
 # 🖥️ Interfaçe
 
 ### Vues
