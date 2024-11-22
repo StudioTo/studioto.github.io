@@ -8,7 +8,7 @@
 
 Abc
 
-# 📝 Marche à suivre pour créer une nouvelle fonte
+# 📝 Créer une nouvelle fonte
 
 ### Nouveau fichier
 
