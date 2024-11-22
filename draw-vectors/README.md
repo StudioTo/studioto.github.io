@@ -60,6 +60,12 @@ Abc
 
 # 🖥️ Interfaçe
 
+### Vues
+
+|![](links/Contraste.gif) |
+|:---:|
+| Characterset, plan de travail           |
+
 ### Types de point
 
 |![](links/Contraste.gif) |
