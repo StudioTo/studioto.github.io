@@ -9,10 +9,8 @@
 
 ## [⚡ Index Logos]()
 ## [🏢 Index Grid Systems]()
-# &nbsp;
 ## [🔮 Design Theories](/)
 ## [📄 Design Gestalt](/)
-# &nbsp;
 ## [🕰️ Typo Histoire](/overview-writing-history)
 ## [🗂️ Typo Classification](/classify-typefaces)
 ## [🔬 Typo Anatomie](/describe-typefaces)
@@ -23,10 +21,8 @@
 ## [🔍 Typo Macro-Micro]()
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🧪 Typo Specimens]()
-# &nbsp;
 ## [📝 Checklists](/check-things)
 ## [⚙️ Tech Support](/support-technology)
-# &nbsp;
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
 # &nbsp;
