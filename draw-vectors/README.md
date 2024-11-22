@@ -58,10 +58,76 @@ Abc
 |:---:|
 | Abc           |
 
-# 📏 Principes de dessin
+# 🖥️ Interfaçe
 
-### Biais de proportions
+### Types de point
+
+|![](links/Contraste.gif) |
+|:---:|
+| Carré, rond, losange, contrôle           |
+
+### Segments
+
+|![](links/Contraste.gif) |
+|:---:|
+| Courbes, droites           |
+
+### Plans
+
+|![](links/Contraste.gif) |
+|:---:|
+| 1er plan, 2eme plan           |
+
+### Calques (sauvegardes)
+
+|![](links/Contraste.gif) |
+|:---:|
+| Icône "+"           |
+
+### Letterbox
+
+|![](links/Contraste.gif) |
+|:---:|
+| Largeur, espace à gauche, espace à droite           |
+
+# 🛠️ Outils
+
+### Formes
 
 |![](links/Contraste.gif) |
 |:---:|
 | Abc           |
+
+### Plume
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
+### Règle
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
+# 📏 Principes de dessin
+
+### triangle magique
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
+### points aux extrémités
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
+### minimum de points possible
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
+
