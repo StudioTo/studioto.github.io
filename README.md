@@ -7,12 +7,11 @@
 ## [🏢 Index Grid Systems]()
 ## [🦚 Index Littérature Visuelle]()
 ## [⚡ Index Logos]()
-## [🧪 Typo Specimens]()
 ## [💼 Portfolio](Student's projects)
-## [⚙️ Tech Support](/support-technology)
 --->
 
 ## [📝 Checklists](/check-things)
+# &nbsp;
 ## [🕰️ Typo Histoire](/overview-writing-history)
 ## [🗂️ Typo Classification](/classify-typefaces)
 ## [🔬 Typo Anatomie](/describe-typefaces)
@@ -21,9 +20,13 @@
 ## [🔨 Typo Construction](/construct-typeface)
 ## [🔍 Typo Macro-Micro]()
 ## [💥 Typo Sémiotique](/denote-typefaces)
+## [🧪 Typo Specimens]()
+# &nbsp;
 ## [📐 Tuto Dessin Vectoriel](/)
 ## [📄 Tuto Mise en page](/)
+# &nbsp;
+## [⚙️ Tech Support](/support-technology)
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
-
+# &nbsp;
 ## [➡️ Typothèque](http://typo.eracom.ch)
