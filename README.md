@@ -22,10 +22,10 @@
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🧪 Typo Specimens]()
 # &nbsp;
+## [⚙️ Tech Support](/support-technology)
 ## [📐 Tuto Dessin Vectoriel](/)
 ## [📄 Tuto Mise en page](/)
 # &nbsp;
-## [⚙️ Tech Support](/support-technology)
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
 # &nbsp;
