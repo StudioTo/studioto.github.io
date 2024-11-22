@@ -22,7 +22,7 @@
 ## [🔍 Typo Macro-Micro]()
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [📐 Tuto Dessin Vectoriel](/)
-## [⿲ Tuto Mise en page](/)
+## [📄 Tuto Mise en page](/)
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
 
