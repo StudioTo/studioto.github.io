@@ -118,22 +118,26 @@ Abc
 
 # 📏 Principes de dessin
 
-### triangle magique
+### Triangle magique
 
 |![](links/Contraste.gif) |
 |:---:|
 | Abc           |
 
-### points aux extrémités
+### Points aux extrémités
 
 |![](links/Contraste.gif) |
 |:---:|
 | Abc           |
 
-### minimum de points possible
+### Minimum de points possible
 
 |![](links/Contraste.gif) |
 |:---:|
 | Abc           |
 
+### Systématiser les valeurs
 
+|![](links/Contraste.gif) |
+|:---:|
+| Fûts, overshoot, etc           |
