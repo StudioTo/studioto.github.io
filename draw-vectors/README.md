@@ -40,6 +40,24 @@ Abc
 |:---:|
 | Abc           |
 
+### Vérouiller le scan
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
+### Dessiner
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
+### Masquer votre scan en background pour évaluder votre dessin
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
 # 📏 Principes de dessin
 
 ### Biais de proportions
