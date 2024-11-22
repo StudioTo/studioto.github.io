@@ -1,4 +1,4 @@
-# 🍥 *Index Graphic Terminology*
+# 🌐 *Index Graphic Terminology*
   Glossaire de termes graphiques
 ### &nbsp;
 # A
