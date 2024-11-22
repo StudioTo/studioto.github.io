@@ -3,6 +3,7 @@
 # &nbsp;
 
 <!---
+## [🔮 Design Theories]()
 ## [🏢 Index Grid Systems]()
 ## [🦚 Index Littérature Visuelle]()
 ## [⚡ Index Logos]()
