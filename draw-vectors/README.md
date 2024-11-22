@@ -8,7 +8,7 @@
 
 Abc
 
-# 📏 Marche à suivre pour créer une nouvelle fonte
+# 📝 Marche à suivre pour créer une nouvelle fonte
 
 ### Nouveau fichier
 
@@ -35,6 +35,10 @@ Abc
 | Abc           |
 
 ### Définissez les proportions
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
 
 # 📏 Principes de dessin
 
