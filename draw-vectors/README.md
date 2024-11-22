@@ -58,6 +58,10 @@ Abc
 |:---:|
 | Masquer votre scan en background pour évaluder votre dessin           |
 
+|![](links/Contraste.gif) |
+|:---:|
+| Visualiser toujours en noir, en détails et en petite taille           |
+
 ### Recommençer
 
 |![](links/Contraste.gif) |
