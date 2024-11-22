@@ -25,5 +25,5 @@
 ## [⚙️ Tech Support](/support-technology)
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
-# &nbsp;
+ &nbsp;
 ### [➡️ Typothèque](http://typo.eracom.ch)
