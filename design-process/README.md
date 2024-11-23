@@ -1,5 +1,5 @@
-# 🔲 *Design Gestalt*
-  Principes graphiques
+# 🔲 *Design Process*
+  Processus de conception
 ### &nbsp;
 
 
