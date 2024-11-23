@@ -7,4 +7,12 @@
 |:---:|
 | Abc[^1]           |
 
-# Rendu 
+# Layering
+
+Texte
+Forme
+Images
+
+# Figuration - Abstraction
+
+# Scope Lisible - Graphique
