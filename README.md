@@ -11,7 +11,7 @@
 ## [⚡ Index Logos]()
 ## [🏢 Index Grid Systems]()
 ## [🔮 Design Theories](/)
-## [📄 Design Gestalt](/)
+## [🔲 Design Gestalt](/)
 ## [🏗️ Design Grids](/)
 ## [🕰️ Typo Histoire](/overview-writing-history)
 ## [🗂️ Typo Classification](/classify-typefaces)
