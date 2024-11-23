@@ -22,6 +22,7 @@
 ## [🔍 Typo Macro-Micro]()
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🧪 Typo Specimens]()
+&nbsp;
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
 ## [⚙️ Tech Support](/support-technology)
