@@ -10,7 +10,7 @@ Abc
 
 # 📝 Créer une nouvelle fonte
 
-### Nouveau fichier
+### Nouveau fichier (choisir le script)
 
 |![](links/Contraste.gif) |
 |:---:|
@@ -126,7 +126,31 @@ Abc
 |:---:|
 | Abc           |
 
+### Fusion
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
+### Déplacement des points
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
 # 📏 Principes de dessin
+
+### 1er Point
+
+|![](links/Contraste.gif) |
+|:---:|
+| Abc           |
+
+### Sens des tracés
+
+|![](links/Contraste.gif) |
+|:---:|
+| Forme, contreforme           |
 
 ### Triangle magique
 
