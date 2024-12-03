@@ -5,12 +5,12 @@
 
 ## 📠 Scan
 
-|![](links/scan.gif) |
+|![](links/Scan.gif) |
 |:---:|
 |            |
 
 ## 📄 Name
 
-|![](links/naming.gif) |
+|![](links/Naming.gif) |
 |:---:|
 |            |
