@@ -14,3 +14,9 @@
 |![](links/Scan.gif) |
 |:---:|
 | Scanner un travail sur les photocopieuses           |
+
+## 🌗 Corriger
+
+|![](links/Scan_Edit.gif) |
+|:---:|
+| Adapter les niveaux dans Photoshop d’une image scannée           |
