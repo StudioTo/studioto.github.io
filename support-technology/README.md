@@ -5,12 +5,12 @@
 
 ## 📠 Scan
 
-|![](links/Typo_Anatomy_cover_1.jpg) |
+|![](links/scan.gif) |
 |:---:|
 |            |
 
 ## 📄 Name
 
-|![](links/Typo_Anatomy_cover_1.jpg) |
+|![](links/naming.gif) |
 |:---:|
 |            |
