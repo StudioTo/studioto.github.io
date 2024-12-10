@@ -27,19 +27,11 @@
 
 # Carson, David
 
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc           |
-
 # Carter, Matthew
 
 # Corbusier, Le
 
 # Crouwel, Wim
-
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc           |
 
 # Depero, Fortunato
 
@@ -51,15 +43,7 @@
 
 # Frutiger, Adrian
 
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc           |
-
 # Gerstner, Karl
-
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc           |
 
 # Gill, Eric
 
@@ -75,23 +59,11 @@
 
 # Hochuli, Jost
 
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc           |
-
 # Hofmann, Armin
-
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc           |
 
 # Holder, Will
 
 # Itten, Johannes
-
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc           |
 
 # Johnston, Edward
 
@@ -103,17 +75,9 @@
 
 # Klee, Paul
 
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc           |
-
 # Lubalin, Herbert
 
 # Lutz, Hans-Rudolf
-
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc          |
 
 # Martens, Karel
 
@@ -125,15 +89,7 @@
 
 # Müller-Brockmann, Josef
 
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc          |
-
 # Munari, Bruno
-
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc          |
 
 # Nawrot, Karl
 
@@ -141,21 +97,9 @@
 
 # Norzij, Gerrit
 
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc          |
-
 # Novarese, Aldo
 
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc          |
-
 # Rand, Paul
-
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc          |
 
 # Ray, Man
 
@@ -163,23 +107,11 @@
 
 # Ruder, Emil
 
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc          |
-
 # Saville, Peter
-
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc          |
 
 # Scher, Paula
 
 # Schmidt, Helmut
-
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc          |
 
 # Schwitters, Kurt
 
@@ -189,19 +121,11 @@
 
 # Tauber-Arp, Sophie
 
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc          |
-
 # Team77
 
 # Troxler, Niklaus
 
 # Tschichold, Jan
-
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc          |
 
 # Unger, Gehard
 
@@ -211,23 +135,11 @@
 
 # Von Arx, Peter
 
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc           |
-
 # Weiner, Laurence
 
 # Wellington, Irene
 
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc           |
-
 # Weingart, Wolfgang
-
-|![](links/Typo_Semiotic_01.jpg) |
-|:---:|
-| Abc           |
 
 # Widmer, Jean
 
