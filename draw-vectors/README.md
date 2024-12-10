@@ -12,7 +12,7 @@ Abc
 
 ### Nouveau fichier
 
-|![](links/New_File.png) |
+|![](links/New_File.gif) |
 |:---:|
 | Script latin           |
 
@@ -60,7 +60,7 @@ Abc
 
 ### Prévisualiser
 
-|![](links/preview.gif) |
+|![](links/Preview.gif) |
 |:---:|
 | Abc           |
 
