@@ -54,7 +54,13 @@ Abc
 
 ### Dessiner
 
-|![](links/Build.gif) |
+|![](links/Draw.gif) |
+|:---:|
+| Abc           |
+
+### Prévisualiser
+
+|![](links/preview.gif) |
 |:---:|
 | Abc           |
 
@@ -64,11 +70,7 @@ Abc
 |:---:|
 | Masquer votre scan en background pour évaluder votre dessin           |
 
-|![](links/Contraste.gif) |
-|:---:|
-| Visualiser toujours en noir, en détails et en petite taille           |
-
-### Recommençer
+### Espacer
 
 |![](links/Space.gif) |
 |:---:|
