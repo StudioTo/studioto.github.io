@@ -9,6 +9,7 @@
 
 ## [📝 Checklists](/check-things)
 ## [⚡ Index Logos]()
+## [🐦‍⬛ Index Animations]()
 ## [🏢 Index Grid Systems]()
 ## [🔮 Design Theories](/)
 ## [🔲 Design Gestalt](/)
