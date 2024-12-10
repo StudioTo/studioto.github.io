@@ -2,9 +2,9 @@
   Dessin vectoriel
 ### &nbsp;
 
-|![](links/Illusion.gif) |
+|![](links/Typo_Vectors_Drawing_1.jpg) |
 |:---:|
-| Abc[^1]           |
+| Frutiger[^1]           |
 
 Abc
 
