@@ -10,11 +10,11 @@ Abc
 
 # 📝 Créer une nouvelle fonte
 
-### Nouveau fichier (choisir le script)
+### Nouveau fichier
 
 |![](links/Contraste.gif) |
 |:---:|
-| Abc           |
+| Script latin           |
 
 ### Nommer la fonte
 
