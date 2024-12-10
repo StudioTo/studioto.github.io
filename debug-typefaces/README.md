@@ -1,4 +1,4 @@
-# 📐 *Debug typefaces drawings*
+# 🔧 *Debug typefaces drawings*
   Erreurs communes de dessin dans les lettres
 ### &nbsp;
 
