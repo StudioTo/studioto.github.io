@@ -14,31 +14,31 @@ Abc
 
 |![](links/New_File.gif) |
 |:---:|
-| Script latin           |
+| Fichier > Nouveau document           |
 
 ### Nommer la fonte
 
 |![](links/Naming.gif) |
 |:---:|
-| Abc           |
+| Fichier > Informations de la police           |
 
 ### Enregistrer le fichier
 
 |![](links/Saving.gif) |
 |:---:|
-| Abc           |
+| Fichier > Enregistrer           |
 
 ### Préparer votre scan
 
 |![](links/Scan.gif) |
 |:---:|
-| Cadrage + Contraste           |
+| Niveaux + Recadrage dans Photoshop           |
 
 ### Importer votre scan
 
 |![](links/Import.gif) |
 |:---:|
-| Abc           |
+| Drag & drop depuis le finder dans la case de la lettre          |
 
 ### Définissez les proportions
 
