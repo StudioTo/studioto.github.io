@@ -28,6 +28,12 @@ Abc
 |:---:|
 | Abc           |
 
+### Préparer votre scan
+
+|![](links/Contraste.gif) |
+|:---:|
+| Cadrage + Contraste           |
+
 ### Importer votre scan
 
 |![](links/Contraste.gif) |
