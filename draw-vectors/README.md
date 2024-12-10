@@ -38,7 +38,7 @@ Abc
 
 |![](links/Import.gif) |
 |:---:|
-| Drag & drop depuis le finder dans la case de la lettre          |
+| Drag & drop depuis le finder dans la case du glyphe          |
 
 ### Définissez les proportions
 
