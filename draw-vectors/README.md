@@ -40,29 +40,35 @@ Abc
 |:---:|
 | Drag & drop depuis le finder dans la case du glyphe          |
 
+### Redimenssioner
+
+|![](links/Resize.gif) |
+|:---:|
+| Affichage > Afficher la bounding-box          |
+
 ### Définissez les proportions
 
 |![](links/Resize.gif) |
 |:---:|
-| Abc           |
+| Fichier > Informations de la police > Masters > Mesures           |
 
 ### Vérouiller le scan
 
 |![](links/Lock.gif) |
 |:---:|
-| Abc           |
+| Clic droit > vérouiller l‘image           |
 
 ### Dessiner
 
 |![](links/Draw.gif) |
 |:---:|
-| Abc           |
+| Formes privitives           |
 
 ### Prévisualiser
 
 |![](links/Preview.gif) |
 |:---:|
-| Abc           |
+| Bouton oeil en bas à gauche           |
 
 ### Corriger
 
