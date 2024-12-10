@@ -70,17 +70,17 @@ Abc
 |:---:|
 | Bouton oeil en bas à gauche           |
 
-### Corriger
+### Éditer
 
 |![](links/Edit.gif) |
 |:---:|
-| Masquer votre scan en background pour évaluder votre dessin           |
+| Éditer les formes en déplacer les points de manière systématique           |
 
 ### Espacer
 
 |![](links/Space.gif) |
 |:---:|
-| Masquer votre scan en background pour évaluder votre dessin           |
+| Définir les valeurs d’espacement de manière systématique           |
 
 # 🖥️ Interfaçe
 
