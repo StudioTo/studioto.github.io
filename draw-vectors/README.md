@@ -24,7 +24,7 @@ Abc
 
 ### Enregistrer le fichier
 
-|![](links/Saving.png) |
+|![](links/Saving.gif) |
 |:---:|
 | Abc           |
 
