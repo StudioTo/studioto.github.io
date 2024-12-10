@@ -12,55 +12,55 @@ Abc
 
 ### Nouveau fichier
 
-|![](links/Contraste.gif) |
+|![](links/New_File.png) |
 |:---:|
 | Script latin           |
 
 ### Nommer la fonte
 
-|![](links/Contraste.gif) |
+|![](links/Naming.gif) |
 |:---:|
 | Abc           |
 
 ### Enregistrer le fichier
 
-|![](links/Contraste.gif) |
+|![](links/Saving.png) |
 |:---:|
 | Abc           |
 
 ### Préparer votre scan
 
-|![](links/Contraste.gif) |
+|![](links/Scan.gif) |
 |:---:|
 | Cadrage + Contraste           |
 
 ### Importer votre scan
 
-|![](links/Contraste.gif) |
+|![](links/Import.gif) |
 |:---:|
 | Abc           |
 
 ### Définissez les proportions
 
-|![](links/Contraste.gif) |
+|![](links/Resize.gif) |
 |:---:|
 | Abc           |
 
 ### Vérouiller le scan
 
-|![](links/Contraste.gif) |
+|![](links/Lock.gif) |
 |:---:|
 | Abc           |
 
 ### Dessiner
 
-|![](links/Contraste.gif) |
+|![](links/Build.gif) |
 |:---:|
 | Abc           |
 
 ### Corriger
 
-|![](links/Contraste.gif) |
+|![](links/Edit.gif) |
 |:---:|
 | Masquer votre scan en background pour évaluder votre dessin           |
 
@@ -70,7 +70,7 @@ Abc
 
 ### Recommençer
 
-|![](links/Contraste.gif) |
+|![](links/Space.gif) |
 |:---:|
 | Masquer votre scan en background pour évaluder votre dessin           |
 
