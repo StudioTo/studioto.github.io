@@ -1,5 +1,5 @@
-  **Graphic ressources for teaching**  
-  Tancrède Ottiger, [graphic](https://t-o.studio) and [type](https://t-o.supply) designer, teacher
+  **Index Graphic Ressources**  
+  Tancrède Ottiger, [graphic](https://t-o.studio) and [type](https://t-o.supply) designer, [teacher](https://studioto.github.io)
 # &nbsp;
 
 <!---
