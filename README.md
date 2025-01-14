@@ -8,12 +8,15 @@
 --->
 
 ## [📝 Checklists](/check-things)
+&nbsp;
 ## [⚡ Index Logos]()
 ## [🐦‍⬛ Index Animations]()
 ## [🏢 Index Grid Systems]()
+&nbsp;
 ## [🔮 Design Theories](/)
 ## [🔲 Design Gestalt](/)
 ## [🏗️ Design Grids](/)
+&nbsp;
 ## [🕰️ Typo Histoire](/overview-writing-history)
 ## [🗂️ Typo Classification](/classify-typefaces)
 ## [🔬 Typo Anatomie](/describe-typefaces)
