@@ -19,4 +19,4 @@
 
 |![](links/Scan_Edit.gif) |
 |:---:|
-| Adapter les niveaux dans Photoshop d’une image scannée: sélectionner le calque, puis Image > Réglages > Niveaux           |
+| Adapter les niveaux dans Photoshop d’une image scannée: **sélectionner le calque, puis Image > Réglages > Niveaux**           |
