@@ -72,4 +72,26 @@ La micro-typographie concerne les règlages de la composition du texte (détails
 
 # 🔗 Règles
 
-La macro-typographie concerne les règlages liés à la mise en page.
+Abc Abc Abc.
+
+Les langues adaptées sont appliquées aux paragraphes via les styles
+Les guillemets sont adaptés à la langue du texte, « Français », „Deutsch“, “English”, etc., jamais ceux-ci "…"
+Les espaces avec les ponctuations sont justes et adaptés à la langue du texte (espaces fines)
+ 
+
+Les apostrophes sont typographiques ’ et non '
+Les … utilisent le glyphe adéquat et non 3 points
+Les - dans le texte ont été remplacés par – ou — sauf pour les mots composés et césures
+Les multiplications utilisent le glyphe × et non x
+Les paires oe, ae … sont remplacées par les ligature œ, æ (en française)
+ 
+
+Aucun paragraphe ne finit par une ligne composée d’un mot seul ou d’un mot avec césure
+Il n’y a pas de veuve ni d’orpheline
+Il n’y a pas de doubles espaces
+ 
+
+Les styles de paragraphes et de caractères n’ont pas d'exception
+L’interlignage de la fonte est systématique (pour chaque style de pararaphe, aligné sur la grille de lignes de base)
+L’interlettrage de la fonte est en métrique, aucun problème de crénage
+Les chiffres dans le texte sont à chasse proportionnelle
