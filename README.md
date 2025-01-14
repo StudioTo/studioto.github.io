@@ -16,6 +16,7 @@
 ## [🔮 Design Theories](/)
 ## [🔲 Design Gestalt](/)
 ## [🏗️ Design Grids](/)
+## [📊 Design Hiérarchies](/)
 &nbsp;
 ## [🕰️ Typo Histoire](/overview-writing-history)
 ## [🗂️ Typo Classification](/classify-typefaces)
