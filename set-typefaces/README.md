@@ -18,7 +18,7 @@ La macro-typographie concerne les règlages liés à la mise en page.
 |:---:|
 | Abc          |
 
-###  La grille
+###  La grille (marges, mirroir)
 
 |![](links/Typo_Semiotic_v2_script.gif) |
 |:---:|
@@ -32,7 +32,7 @@ La macro-typographie concerne les règlages liés à la mise en page.
 
 # 🦠 Micro
 
-La micro-typographie concerne les règlages liés à la composition du texte :
+La micro-typographie concerne les règlages liés à la composition du texte.
 
 ###  Le choix de la police
 
