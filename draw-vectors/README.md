@@ -225,3 +225,9 @@ Abc
 | ~/Library/Application Support/Adobe/Fonts            |
 
 # 🐞 Debug des erreurs communes
+
+### Autohinting
+
+|![](links/Contraste.gif) |
+|:---:|
+| Aller vérifier la lettre mentionnée dans la fenêtre d'erreur (corriger les tracés)            |
