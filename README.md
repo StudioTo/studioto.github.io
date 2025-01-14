@@ -26,7 +26,7 @@
 ## [🔨 Typo Construction](/construct-typeface)
 ## [📐 Typo Dessin Vectoriel](/draw-vectors)
 ## [🪲 Typo Debug](/debug-typefaces)
-## [🔍 Typo Macro-Micro]()
+## [🔍 Typo Macro-Micro](/set-typefaces)
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🧪 Typo Specimens]()
 &nbsp;
