@@ -4,7 +4,7 @@
   
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro_v2.gif) |
+|![](links/Eames_Power_of_Ten.gif) |
 |:---:|
 | Power of Ten: un film qui traite de la taille relative des choses dans l’univers[^1]           |
 
