@@ -21,6 +21,7 @@
 ## [🌀 Typo Optique](/correct-typeface)
 ## [🔨 Typo Construction](/construct-typeface)
 ## [📐 Typo Dessin Vectoriel](/draw-vectors)
+## [📐 Typo Debug](/debug-typeface)
 ## [🔍 Typo Macro-Micro]()
 ## [💥 Typo Sémiotique](/denote-typefaces)
 ## [🧪 Typo Specimens]()
