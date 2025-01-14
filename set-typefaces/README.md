@@ -69,3 +69,7 @@ La micro-typographie concerne les règlages liés à la composition du texte.
 |![](links/Typo_Semiotic_v2_script.gif) |
 |:---:|
 | Abc          |
+
+# 🔗 Règles
+
+La macro-typographie concerne les règlages liés à la mise en page.
