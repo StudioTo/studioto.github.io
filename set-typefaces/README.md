@@ -10,6 +10,12 @@
 
 # 🌏 Macro
 
+La macro-typographie concerne, en principe, les règlages directement liés à la mise en page :
+
+- le format
+- le système de grille
+- les hiérarchies
+
 ###  Script
 
 |![](links/Typo_Semiotic_v2_script.gif) |
