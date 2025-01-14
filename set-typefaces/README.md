@@ -10,7 +10,7 @@
 
 # 🌏 Macro
 
-La macro-typographie (layout) concerne les règlages de la mise en page.
+La macro-typographie concerne les règlages de la mise en page (layout).
 
 ###  Le format
 
@@ -32,7 +32,7 @@ La macro-typographie (layout) concerne les règlages de la mise en page.
 
 # 🦠 Micro
 
-La micro-typographie (détails) concerne les règlages de la composition du texte.
+La micro-typographie concerne les règlages de la composition du texte (détails).
 
 ###  Le choix de la police
 
