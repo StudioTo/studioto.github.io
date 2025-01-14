@@ -10,22 +10,62 @@
 
 # 🌏 Macro
 
-La macro-typographie concerne, en principe, les règlages directement liés à la mise en page :
+La macro-typographie concerne les règlages liés à la mise en page.
 
-- le format
-- le système de grille
-- les hiérarchies
-
-###  Script
+###  Le format
 
 |![](links/Typo_Semiotic_v2_script.gif) |
 |:---:|
-| L'alphabet est une sorte d'écriture, un script phonétique, dont il existe de nombreuses variétés           |
+| Abc          |
+
+###  La grille
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
+
+###  Les hiérarchies
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
 
 # 🦠 Micro
 
-###  Script
+La micro-typographie concerne les règlages liés à la composition du texte :
+
+###  Le choix de la police
 
 |![](links/Typo_Semiotic_v2_script.gif) |
 |:---:|
-| L'alphabet est une sorte d'écriture, un script phonétique, dont il existe de nombreuses variétés           |
+| Abc          |
+
+###  Interlettrage
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
+
+###  Interligne
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
+
+###  Alignement
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
+
+###  Justification
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
+
+###  Retraits
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
