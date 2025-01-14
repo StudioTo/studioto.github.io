@@ -195,3 +195,33 @@ Abc
 |![](links/Contraste.gif) |
 |:---:|
 | =o, =o+10           |
+
+# 📦 Export
+
+### Générer les fonctionnalités OpenType
+
+|![](links/Contraste.gif) |
+|:---:|
+| Fichier > Informations de la police > Fonctionnalités > Générer + Compiler             |
+
+### Créer le dossier d'export Adobe Fonts
+
+|![](links/Contraste.gif) |
+|:---:|
+| ~/Library/Application Support/Adobe/Fonts            |
+
+### Exporter
+
+|![](links/Contraste.gif) |
+|:---:|
+| Fichier > Exporter > PostScriptCFF, .otf, supprimer le chevauchement, autohint, destination: dossier Adobe            |
+
+# 🔍 Test
+
+### Choississez votre fonte dans le menu déroulant de InDesign
+
+|![](links/Contraste.gif) |
+|:---:|
+| ~/Library/Application Support/Adobe/Fonts            |
+
+# 🐞 Debug des erreurs communes
