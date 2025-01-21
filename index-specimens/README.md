@@ -5,7 +5,7 @@
 
 |![](links/Typo_Specimens.gif) |
 |:---:|
-| Abc[^1]           |
+| Sélection de specimens de Design Reviewed[^1]           |
 
 
 # Internet Archive
