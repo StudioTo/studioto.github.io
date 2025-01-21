@@ -22,3 +22,5 @@ https://library.typographica.org/specimen-books-of-metal-wood-type
 https://klingspor-type-archive.de/archive?document=6482f62c4cc069edfa025bfb
 # Design Reviewed
 https://designreviewed.com/type-specimens
+
+[^1]: https://designreviewed.com/type-specimens
