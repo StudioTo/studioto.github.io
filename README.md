@@ -28,7 +28,7 @@
 ## [🪲 Typo Debug](/debug-typefaces)
 ## [🔍 Typo Macro-Micro](/set-typefaces)
 ## [💥 Typo Sémiotique](/denote-typefaces)
-## [🧪 Typo Specimens]()
+## [🧪 Typo Specimens](/index-specimens)
 &nbsp;
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
