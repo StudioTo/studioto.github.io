@@ -3,7 +3,7 @@
 ### &nbsp;
 
 
-|![](links/Checklists.jpg) |
+|![](links/Typo_Specimens.gif) |
 |:---:|
 | Abc[^1]           |
 
