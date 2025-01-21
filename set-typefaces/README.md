@@ -70,7 +70,7 @@ La micro-typographie concerne les règlages de la composition du texte (détails
 |:---:|
 | Abc          |
 
-# 🔗 Règles
+# 🚨 Règles
 
 Abc Abc Abc.
 
