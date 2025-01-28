@@ -7,16 +7,16 @@
 
 |![](links/Naming.gif) |
 |:---:|
-| Déposer un rendu sur le serveur           |
+| Déposer un rendu           |
 
 ## 📠 Scanner
 
 |![](links/Scan.gif) |
 |:---:|
-| Scanner un travail sur les photocopieuses           |
+| Scanner un travail           |
 
 ## 🌗 Corriger
 
 |![](links/Scan_Edit.gif) |
 |:---:|
-| Adapter les niveaux dans Photoshop d’une image scannée: **sélectionner le calque, puis Image > Réglages > Niveaux**           |
+| Adapter les niveaux d’un scan dans Photoshop: **sélectionner le calque, puis Image > Réglages > Niveaux**           |
