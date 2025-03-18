@@ -152,7 +152,7 @@ Abc
 |:---:|
 | Abc           |
 
-# 📏 Principes de dessin
+# ✏️ Principes de dessin
 
 ### 1er Point
 
