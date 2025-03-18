@@ -170,25 +170,25 @@ Abc
 
 |![](links/Contraste.gif) |
 |:---:|
-| Abc           |
+| Bounding box segment verification           |
 
 ### Points aux extrémités
 
 |![](links/Contraste.gif) |
 |:---:|
-| Abc           |
+| Ajouter les extrêmes           |
 
 ### Points orthogonaux???
 
 |![](links/Contraste.gif) |
 |:---:|
-| Abc           |
+| Bounding box?           |
 
 ### Minimum de points possible
 
 |![](links/Contraste.gif) |
 |:---:|
-| Abc           |
+| Nettoyer les tracés           |
 
 # 📏 Spacing
 
