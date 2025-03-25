@@ -94,7 +94,7 @@ Abc
 
 |![](links/Contraste.gif) |
 |:---:|
-| Carré, rond, losange, contrôle           |
+| Carré, rond           |
 
 ### Segments
 
