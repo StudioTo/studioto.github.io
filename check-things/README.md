@@ -69,6 +69,7 @@
 - Les fûts ont la même largeur dans toutes les lettres
 - Les courbes du « o » sont équivalentes (rotation de 180°)
 - Les pleins et les déliés sont cohérents dans toutes les lettres
+- Les mesures de compensation sont inscrites dans le fichier Glyphs (Fichier > Informations de la police > Master > Mesures)
 - La compensation est cohérente dans toutes les lettres en haut et en bas, selon les principes d‘optique (carré, rond, triangle)
 - La position du point de départ est correcte
 - Le sens des tracés est correct
