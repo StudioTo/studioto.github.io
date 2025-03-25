@@ -178,7 +178,7 @@ Abc
 |:---:|
 | Ajouter les extrêmes           |
 
-### Points orthogonaux???
+### Contrôles horizontaux ou verticaux
 
 |![](links/Contraste.gif) |
 |:---:|
