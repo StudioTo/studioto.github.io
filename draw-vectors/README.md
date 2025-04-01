@@ -88,7 +88,7 @@ Abc
 
 |![](links/View.gif) |
 |:---:|
-| Characterset, plan de travail           |
+| Characterset (fenêtre), plan de travail (onglet)           |
 
 ### Terminologie
 
@@ -100,7 +100,7 @@ Abc
 
 |![](links/Segments.gif) |
 |:---:|
-| Courbes, droites           |
+| Droites, courbes           |
 
 ### Points d'ancrage
 
