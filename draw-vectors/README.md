@@ -132,7 +132,7 @@ Abc
 
 |![](links/Primitives.gif) |
 |:---:|
-| Cercle, carré           |
+| Carré, Cercle           |
 
 ### Plume
 
