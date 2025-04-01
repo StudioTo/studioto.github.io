@@ -90,17 +90,23 @@ Abc
 |:---:|
 | Characterset, plan de travail           |
 
+### Types de points
+
+|![](links/abc.gif) |
+|:---:|
+| Points d'ancrage vs Points de contrôle           |
+
 ### Points d'ancrage
 
 |![](links/Point_Types.gif) |
 |:---:|
-| Angle (bleu), courbe (vert)          |
+| Les points qui sont sur le segment: angle (bleu), courbe (vert)          |
 
 ### Points de contrôle
 
 |![](links/abc.gif) |
 |:---:|
-| Gris (BCPs)           |
+| Les points qui sont en dehors du segment           |
 
 ### Segments
 
