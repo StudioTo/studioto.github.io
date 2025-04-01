@@ -90,11 +90,17 @@ Abc
 |:---:|
 | Characterset, plan de travail           |
 
-### Types de point
+### Points d'ancrage
 
 |![](links/Point_Types.gif) |
 |:---:|
-| Carré, rond           |
+| Angle (bleu), courbe (vert)          |
+
+### Points de contrôle
+
+|![](links/abc.gif) |
+|:---:|
+| Gris (BCPs)           |
 
 ### Segments
 
@@ -132,7 +138,7 @@ Abc
 
 |![](links/Pen_Tool.gif) |
 |:---:|
-| Clic = point angle, Clic + Drag = point courbe           |
+| Clic = segment droit, Clic + Drag = segment courbe           |
 
 ### Règle
 
@@ -146,7 +152,7 @@ Abc
 |:---:|
 | Tracé > Supprimer le chevauchement           |
 
-### Déplacement des points
+### Déplacement d'un point sur un segment
 
 |![](links/Point_Displacement.gif) |
 |:---:|
@@ -170,7 +176,7 @@ Abc
 
 |![](links/Magic_Triangle.gif) |
 |:---:|
-| Les points de contrôle            |
+| Les points de contrôle doivent être contenus dans le triangle qui contient le segment            |
 
 ### Points aux extrémités
 
@@ -182,17 +188,17 @@ Abc
 
 |![](links/BCPs.gif) |
 |:---:|
-| Bounding box?           |
+| Les points de contrôle doivent être alignés horizontalement ou verticalement           |
 
 ### Minimum de points possible
 
 |![](links/Less_Points.gif) |
 |:---:|
-| Nettoyer les tracés           |
+| Tracé > Nettoyer les tracés: utiliser le moins de points possible           |
 
-# 📏 Spacing
+# 📏 Mesures
 
-### Systématiser les valeurs
+### Systématiser les proportions
 
 |![](links/Contraste.gif) |
 |:---:|
