@@ -212,6 +212,12 @@ Abc
 
 # 📦 Export
 
+### Créer le dossier Adobe Fonts dans Application Support
+
+|![](links/abc.gif) |
+|:---:|
+| ~/Library/Application Support/Adobe/Fonts            |
+
 ### Générer les fonctionnalités OpenType
 
 |![](links/Contraste.gif) |
