@@ -86,37 +86,37 @@ Abc
 
 ### Vues
 
-|![](links/Contraste.gif) |
+|![](links/View.gif) |
 |:---:|
 | Characterset, plan de travail           |
 
 ### Types de point
 
-|![](links/Contraste.gif) |
+|![](links/Point_Types.gif) |
 |:---:|
 | Carré, rond           |
 
 ### Segments
 
-|![](links/Contraste.gif) |
+|![](links/Segments.gif) |
 |:---:|
 | Courbes, droites           |
 
 ### Plans
 
-|![](links/Contraste.gif) |
+|![](links/Grounds.gif) |
 |:---:|
 | 1er plan, 2eme plan           |
 
 ### Calques (sauvegardes)
 
-|![](links/Contraste.gif) |
+|![](links/Layers.gif) |
 |:---:|
 | Icône "+"           |
 
 ### Letterbox
 
-|![](links/Contraste.gif) |
+|![](links/Letterbox.gif) |
 |:---:|
 | Largeur, espace à gauche, espace à droite           |
 
@@ -124,31 +124,31 @@ Abc
 
 ### Formes
 
-|![](links/Contraste.gif) |
+|![](links/Primitives.gif) |
 |:---:|
 | Abc           |
 
 ### Plume
 
-|![](links/Contraste.gif) |
+|![](links/Pen_Tool.gif) |
 |:---:|
 | Abc           |
 
 ### Règle
 
-|![](links/Contraste.gif) |
+|![](links/Ruler.gif) |
 |:---:|
 | Abc           |
 
 ### Fusion
 
-|![](links/Contraste.gif) |
+|![](links/Remove_Overlap.gif) |
 |:---:|
 | Abc           |
 
 ### Déplacement des points
 
-|![](links/Contraste.gif) |
+|![](links/Point_Displacement.gif) |
 |:---:|
 | Abc           |
 
@@ -156,37 +156,37 @@ Abc
 
 ### 1er Point
 
-|![](links/Contraste.gif) |
+|![](links/First_Point.gif) |
 |:---:|
 | Abc           |
 
 ### Sens des tracés
 
-|![](links/Contraste.gif) |
+|![](links/Path_Direction.gif) |
 |:---:|
 | Forme, contreforme           |
 
 ### Triangle magique
 
-|![](links/Contraste.gif) |
+|![](links/Magic_Triangle.gif) |
 |:---:|
 | Bounding box segment verification           |
 
 ### Points aux extrémités
 
-|![](links/Contraste.gif) |
+|![](links/Extremums.gif) |
 |:---:|
 | Ajouter les extrêmes           |
 
 ### Contrôles horizontaux ou verticaux
 
-|![](links/Contraste.gif) |
+|![](links/BCPs.gif) |
 |:---:|
 | Bounding box?           |
 
 ### Minimum de points possible
 
-|![](links/Contraste.gif) |
+|![](links/Less_Points.gif) |
 |:---:|
 | Nettoyer les tracés           |
 
