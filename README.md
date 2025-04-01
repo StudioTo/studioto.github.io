@@ -24,7 +24,7 @@
 ## [🧬 Typo Caractèristiques](/parameter-typefaces)
 ## [🌀 Typo Optique](/correct-typeface)
 ## [🔨 Typo Construction](/construct-typeface)
-## [📸 Typo Numérisation](/digitize-typeface)
+## [📸 Typo Numérisation](/digitize-typefaces)
 ## [📐 Typo Dessin Vectoriel](/draw-vectors)
 ## [🪲 Typo Debug](/debug-typefaces)
 ## [🔍 Typo Macro-Micro](/set-typefaces)
