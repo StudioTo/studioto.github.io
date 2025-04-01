@@ -1,4 +1,4 @@
-# 📸 *Digitize typefaces*
+# 📸 *Digitalization*
   Numérisation
 ### &nbsp;
 
