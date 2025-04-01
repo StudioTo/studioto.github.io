@@ -122,35 +122,35 @@ Abc
 
 # 🛠️ Outils
 
-### Formes
+### Formes primitives
 
 |![](links/Primitives.gif) |
 |:---:|
-| Abc           |
+| Cercle, carré           |
 
 ### Plume
 
 |![](links/Pen_Tool.gif) |
 |:---:|
-| Abc           |
+| Clic = point angle, Clic + Drag = point courbe           |
 
 ### Règle
 
 |![](links/Ruler.gif) |
 |:---:|
-| Abc           |
+| Ctl + Opt + Cmd + Drag           |
 
 ### Fusion
 
 |![](links/Remove_Overlap.gif) |
 |:---:|
-| Abc           |
+| Tracé > Supprimer le chevauchement           |
 
 ### Déplacement des points
 
 |![](links/Point_Displacement.gif) |
 |:---:|
-| Abc           |
+| Alt + Drag sur un point           |
 
 # ✏️ Principes de dessin
 
@@ -158,25 +158,25 @@ Abc
 
 |![](links/First_Point.gif) |
 |:---:|
-| Abc           |
+| Tracé > Corriger le sens des tracés: le premier point doit toujours être en bas à gauche           |
 
 ### Sens des tracés
 
 |![](links/Path_Direction.gif) |
 |:---:|
-| Forme, contreforme           |
+| Tracé > Corriger le sens des tracés: forme (sens inverse des aiguilles), contreforme (sens des aiguilles)           |
 
 ### Triangle magique
 
 |![](links/Magic_Triangle.gif) |
 |:---:|
-| Bounding box segment verification           |
+| Les points de contrôle            |
 
 ### Points aux extrémités
 
 |![](links/Extremums.gif) |
 |:---:|
-| Ajouter les extrêmes           |
+| Tracé > Ajouter les extrêmes           |
 
 ### Contrôles horizontaux ou verticaux
 
