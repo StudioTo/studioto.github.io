@@ -190,7 +190,7 @@ Abc
 |:---:|
 | Les points de contrôle doivent être alignés horizontalement ou verticalement           |
 
-### Minimum de points possible
+### Points superflus
 
 |![](links/Less_Points.gif) |
 |:---:|
