@@ -90,29 +90,29 @@ Abc
 |:---:|
 | Characterset, plan de travail           |
 
-### Types de points
+### Terminologie
 
 |![](links/abc.gif) |
 |:---:|
-| Points d'ancrage vs Points de contrôle           |
-
-### Points d'ancrage
-
-|![](links/Point_Types.gif) |
-|:---:|
-| Les points qui sont sur le segment: angle (bleu), courbe (vert)          |
-
-### Points de contrôle
-
-|![](links/abc.gif) |
-|:---:|
-| Les points qui sont en dehors du segment           |
+| Segment, point d'ancrage, point de contrôle           |
 
 ### Segments
 
 |![](links/Segments.gif) |
 |:---:|
 | Courbes, droites           |
+
+### Points d'ancrage
+
+|![](links/Point_Types.gif) |
+|:---:|
+| Les points qui sont sur le segment: angle (bleu), courbe (vert), ouvert (trait)          |
+
+### Points de contrôle
+
+|![](links/abc.gif) |
+|:---:|
+| Les points qui sont en dehors du segment (gris)           |
 
 ### Plans
 
