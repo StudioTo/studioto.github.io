@@ -92,7 +92,7 @@ Abc
 
 ### Terminologie
 
-|![](links/abc.gif) |
+|![](links/Terminology.gif) |
 |:---:|
 | Segment, point d'ancrage, point de contrôle           |
 
@@ -104,13 +104,13 @@ Abc
 
 ### Points d'ancrage
 
-|![](links/Point_Types.gif) |
+|![](links/Anchor_Point.gif) |
 |:---:|
 | Les points qui sont sur le segment: angle (bleu), courbe (vert), ouvert (trait)          |
 
 ### Points de contrôle
 
-|![](links/abc.gif) |
+|![](links/Control_Point.gif) |
 |:---:|
 | Les points qui sont en dehors du segment (gris)           |
 
