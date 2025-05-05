@@ -38,7 +38,7 @@ Dessin vectoriel
 
 ### Outil de debug
 
-|![](links/View.gif) |
+|![](links/04_Debug_Tool.gif) |
 |:---:|
 | Présentation > Afficher la compatibilité des masters           |
 
@@ -68,5 +68,5 @@ Dessin vectoriel
 
 # 🛠️ Tester
 
-[Font Gauntlet](https://fontgauntlet.com)
-[Axis-Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__)
+# [Font Gauntlet](https://fontgauntlet.com)
+# [Axis-Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__)
