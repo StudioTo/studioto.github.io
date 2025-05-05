@@ -26,7 +26,7 @@
 ## [🔨 Typo Construction](/construct-typeface)
 ## [📸 Typo Numérisation](/digitize-typeface)
 ## [📐 Typo Dessin Vectoriel](/draw-vectors)
-## [📐 Typo Interpolation](/interpolate-vectors)
+## [🎛️ Typo Interpolation](/interpolate-vectors)
 ## [🪲 Typo Debug](/debug-typefaces)
 ## [🔍 Typo Macro-Micro](/set-typeface)
 ## [💥 Typo Sémiotique](/denote-typeface)
