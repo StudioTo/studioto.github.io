@@ -69,4 +69,4 @@ Dessin vectoriel
 # 🛠️ Tester
 
 ## ➡️ [Font Gauntlet](https://fontgauntlet.com)
-## ➡️ [Axis-Praxis](https://www.axis-praxis.org/specimens/__DEFAULT__)
+## ➡️ [Axis-Praxis](https://www.axis-praxis.org/samsa/)
