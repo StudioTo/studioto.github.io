@@ -36,4 +36,4 @@
 ## [☎️ Annuaire](/index-designers)
 ## [⚙️ Tech Support](/support-technology)
 &nbsp;
-## [➡️ Typothèque Eracom](http://typo.eracom.ch)
+## [🚪 Typothèque Eracom](http://typo.eracom.ch)
