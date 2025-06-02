@@ -28,7 +28,7 @@
 ## [📐 Typo Dessin Vectoriel](/draw-vectors)
 ## [🎛️ Typo Interpolation](/interpolate-vectors)
 ## [🪲 Typo Debug](/debug-typefaces)
-## [🔍 Typo Macro-Micro](/set-typeface)
+## [🔍 Typo Micro-Macro](/set-typeface)
 ## [💥 Typo Sémiotique](/denote-typeface)
 ## [🧪 Typo Specimens](/index-specimens)
 &nbsp;
