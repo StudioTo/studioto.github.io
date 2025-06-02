@@ -8,90 +8,101 @@
 |:---:|
 | Power of Ten: un film qui traite de la taille relative des choses dans l’univers[^1]           |
 
-# 🌏 Macro
+# 🥂 Micro vs Macro
 
-La macro-typographie concerne les règlages de la mise en page (layout).
-
-###  Le format
-
-|![](links/Typo_Semiotic_v2_script.gif) |
+|![](links/Eames_Power_of_Ten.gif) |
 |:---:|
-| Abc          |
-
-###  La grille (marges, mirroir)
-
-|![](links/Typo_Semiotic_v2_script.gif) |
-|:---:|
-| Abc          |
-
-###  Les hiérarchies
-
-|![](links/Typo_Semiotic_v2_script.gif) |
-|:---:|
-| Abc          |
+| Contenu = Séquence de texte, Contenant = Mise en forme \r (Illustration du Crystal Goblet de Beatrice Warde[^2])           |
 
 # 🦠 Micro
 
-La micro-typographie concerne les règlages de la composition du texte (détails).
+La micro-typographie (contenu) concerne les symboles et les espaces dans la séquence de texte.
 
-###  Le choix de la police
-
-|![](links/Typo_Semiotic_v2_script.gif) |
-|:---:|
-| Abc          |
-
-###  Interlettrage
+###  L’apostrophe
 
 |![](links/Typo_Semiotic_v2_script.gif) |
 |:---:|
 | Abc          |
 
-###  Interligne
+###  Les guillemets
 
 |![](links/Typo_Semiotic_v2_script.gif) |
 |:---:|
 | Abc          |
 
-###  Alignement
+###  Les espaces
 
 |![](links/Typo_Semiotic_v2_script.gif) |
 |:---:|
 | Abc          |
 
-###  Justification
+###  Les tirets
 
 |![](links/Typo_Semiotic_v2_script.gif) |
 |:---:|
 | Abc          |
 
-###  Retraits
+###  Les parenthèses
 
 |![](links/Typo_Semiotic_v2_script.gif) |
 |:---:|
 | Abc          |
 
-# 🚨 Règles
+###  Les chiffres
 
-Abc Abc Abc.
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
 
-Les langues adaptées sont appliquées aux paragraphes via les styles
-Les guillemets sont adaptés à la langue du texte, « Français », „Deutsch“, “English”, etc., jamais ceux-ci "…"
-Les espaces avec les ponctuations sont justes et adaptés à la langue du texte (espaces fines)
- 
+###  Les glyphes spécifiques
 
-Les apostrophes sont typographiques ’ et non '
-Les … utilisent le glyphe adéquat et non 3 points
-Les - dans le texte ont été remplacés par – ou — sauf pour les mots composés et césures
-Les multiplications utilisent le glyphe × et non x
-Les paires oe, ae … sont remplacées par les ligature œ, æ (en française)
- 
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
 
-Aucun paragraphe ne finit par une ligne composée d’un mot seul ou d’un mot avec césure
-Il n’y a pas de veuve ni d’orpheline
-Il n’y a pas de doubles espaces
- 
 
-Les styles de paragraphes et de caractères n’ont pas d'exception
-L’interlignage de la fonte est systématique (pour chaque style de pararaphe, aligné sur la grille de lignes de base)
-L’interlettrage de la fonte est en métrique, aucun problème de crénage
-Les chiffres dans le texte sont à chasse proportionnelle
+# 🌏 Macro
+
+La macro-typographie (contenant) concerne la mise en forme de la séquence de texte.
+
+###  La police
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
+
+###  Le corps
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
+
+###  La justification
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
+
+###  L’hyphénation
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
+
+###  L’interligne
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
+
+###  L’intermot
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
+
+###  L’interlettre
+
+|![](links/Typo_Semiotic_v2_script.gif) |
+|:---:|
+| Abc          |
