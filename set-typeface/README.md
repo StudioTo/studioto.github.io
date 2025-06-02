@@ -8,7 +8,7 @@
 |:---:|
 | Power of Ten: un film qui traite de la taille relative des choses dans l’univers[^1]           |
 
-# 🥂 Micro vs Macro
+# 🥂 Micro & Macro
 
 |![](links/Eames_Power_of_Ten.gif) |
 |:---:|
