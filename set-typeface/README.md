@@ -16,21 +16,21 @@
 
 # 🚨 Langue
 
-Plusieurs des règles exemplifiées ci-dessous change en fonction de la langue utilisée: guillemets, usage des espaces avec la ponctuation, etc.
+Pour chaque langue il y a des conventions particulières, voici les ouvrages de références:
 
-Anglais UK
+**Anglais UK**
 Hart’s Rules for Compositors and Readers at the University Press Oxford
 
-Anglais US
+**Anglais US**
 Chicago Manual of Style
 
-Français CH
+**Français CH**
 Guide du typographe romand
 
-Français F
+**Français F**
 Lexique des règles en usage à l’Imprimerie nationale
 
-Allemand D
+**Allemand D**
 Detail Typografie, Nachschlagewerk für alle Fragen zu Schrift und Satz
 
 # 🦠 Micro
