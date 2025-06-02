@@ -1,5 +1,5 @@
 # 🔍 *Set a typeface*
-  Macro et micro typographie
+  Micro et macro typographie
 
   
 ### &nbsp;
