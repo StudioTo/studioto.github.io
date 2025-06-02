@@ -10,7 +10,7 @@
 
 # 🥂 Micro & Macro
 
-|![](links/Eames_Power_of_Ten.gif) |
+|![](links/Crystal_Goblet.jpg) |
 |:---:|
 | Contenu = Séquence de texte, Contenant = Mise en forme  
 (référence au ***Crystal Goblet*** de Beatrice Warde[^2])           |
@@ -19,45 +19,75 @@
 
 La micro-typographie (contenu) concerne les symboles et les espaces dans la séquence de texte.
 
-###  L’apostrophe
+###  Le point, la virgule
 
-|![](links/Typo_Semiotic_v2_script.gif) |
+|![](links/0_point_virgule.gif) |
 |:---:|
 | Abc          |
 
-###  Les guillemets
+###  L’apostrophe
 
-|![](links/Typo_Semiotic_v2_script.gif) |
+|![](links/1_apostrophe.gif) |
+|:---:|
+| Abc          |
+
+###  Les points de suspension
+
+|![](links/2_suspension.gif) |
 |:---:|
 | Abc          |
 
 ###  La ponctuation
 
-|![](links/Typo_Semiotic_v2_script.gif) |
+|![](links/3_ponctuation.gif) |
 |:---:|
 | Abc          |
 
-###  Les tirets
+###  Les guillemets
 
-|![](links/Typo_Semiotic_v2_script.gif) |
+|![](links/4_guillemets.gif) |
 |:---:|
 | Abc          |
 
-###  Les parenthèses
+###  Les césures
 
-|![](links/Typo_Semiotic_v2_script.gif) |
+|![](links/5_hyphénation.gif) |
+|:---:|
+| Abc          |
+
+###  Les parenthèses, les tirets
+
+|![](links/6_tirets_parentheses.gif) |
 |:---:|
 | Abc          |
 
 ###  Les chiffres
 
-|![](links/Typo_Semiotic_v2_script.gif) |
+|![](links/7_chiffres.gif) |
 |:---:|
 | Abc          |
 
-###  Les glyphes spécifiques
+###  Les opérations
 
-|![](links/Typo_Semiotic_v2_script.gif) |
+|![](links/8_operations.gif) |
+|:---:|
+| Abc          |
+
+###  Les nombres
+
+|![](links/9_chiffres_virgules.gif) |
+|:---:|
+| Abc          |
+
+###  Les heures
+
+|![](links/10_heures.gif) |
+|:---:|
+| Abc          |
+
+###  Les index
+
+|![](links/11_index.gif) |
 |:---:|
 | Abc          |
 
