@@ -14,7 +14,7 @@
 |:---:|
 | Contenu = Séquence de texte, Contenant = Mise en forme \r (Illustration du Crystal Goblet de Beatrice Warde[^2])           |
 
-# ⚠️ Langue
+# 🚨 Langue
 
 Plusieurs des règles exemplifiées ci-dessous change en fonction de la langue utilisée: guillemets, usage des espaces avec la ponctuation, etc.
 
