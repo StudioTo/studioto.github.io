@@ -12,7 +12,7 @@
 
 |![](links/Crystal_Goblet.jpg) |
 |:---:|
-| Contenu = Séquence de texte, Contenant = Mise en forme[^2] |
+| Contenu = Séquence de texte & Contenant = Mise en forme[^2] |
 
 # 🦠 Micro
 
