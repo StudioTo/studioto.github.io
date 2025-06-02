@@ -18,6 +18,21 @@
 
 Plusieurs des règles exemplifiées ci-dessous change en fonction de la langue utilisée: guillemets, usage des espaces avec la ponctuation, etc.
 
+Anglais UK
+Hart’s Rules for Compositors and Readers at the University Press Oxford
+
+Anglais US
+Chicago Manual of Style
+
+Français CH
+Guide du typographe romand
+
+Français F
+Lexique des règles en usage à l’Imprimerie nationale
+
+Allemand D
+Detail Typografie, Nachschlagewerk für alle Fragen zu Schrift und Satz
+
 # 🦠 Micro
 
 La micro-typographie (contenu) concerne les symboles et les espaces dans la séquence de texte.
