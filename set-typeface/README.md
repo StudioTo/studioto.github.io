@@ -51,7 +51,7 @@ La micro-typographie (contenu) concerne les symboles et les espaces dans la séq
 
 ###  Les césures
 
-|![](links/5_hyphénation.gif) |
+|![](links/5_hyphenation.gif) |
 |:---:|
 | Abc          |
 
