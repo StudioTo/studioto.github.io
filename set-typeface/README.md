@@ -96,7 +96,9 @@ La micro-typographie (contenu) concerne les symboles et les espaces dans la séq
 
 La macro-typographie (contenant) concerne la mise en forme de la séquence de texte.
 
+<!---
 ###  La police
+--->
 
 ###  Le corps
 
