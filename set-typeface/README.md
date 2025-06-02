@@ -12,8 +12,7 @@
 
 |![](links/Crystal_Goblet.jpg) |
 |:---:|
-| Contenu = Séquence de texte, Contenant = Mise en forme  
-(référence au ***Crystal Goblet*** de Beatrice Warde[^2])           |
+| Contenu = Séquence de texte, Contenant = Mise en forme[^2] |
 
 # 🦠 Micro
 
@@ -130,3 +129,6 @@ Hart’s Rules for Compositors and Readers at the University Press Oxford
 
 **Anglais US**  
 Chicago Manual of Style
+
+[^1]: Charles & Ray Eames, *Power of Ten*, 1977
+[^2]: Illustration inspirée du concept de *Crystal Goblet*, Beatrice Warde, 1955
