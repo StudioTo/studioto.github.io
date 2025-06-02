@@ -15,7 +15,6 @@
 &nbsp;
 ## [🔮 Design Theories](/)
 ## [🔲 Design Gestalt](/)
-## [🏗️ Design Grids](/)
 ## [📊 Design Hiérarchies](/)
 &nbsp;
 ## [🕰️ Typo Histoire](/overview-writing-history)
@@ -29,6 +28,7 @@
 ## [🎛️ Typo Interpolation](/interpolate-vectors)
 ## [🪲 Typo Debug](/debug-typefaces)
 ## [🔍 Typo Micro-Macro](/set-typeface)
+## [🏗️ Typo Grille](/)
 ## [💥 Typo Sémiotique](/denote-typeface)
 ## [🧪 Typo Specimens](/index-specimens)
 &nbsp;
