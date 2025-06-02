@@ -14,6 +14,10 @@
 |:---:|
 | Contenu = Séquence de texte, Contenant = Mise en forme \r (Illustration du Crystal Goblet de Beatrice Warde[^2])           |
 
+# ⚠️ Langue
+
+Plusieurs des règles exemplifiées ci-dessous change en fonction de la langue utilisée: guillemets, usage des espaces avec la ponctuation, etc.
+
 # 🦠 Micro
 
 La micro-typographie (contenu) concerne les symboles et les espaces dans la séquence de texte.
@@ -30,7 +34,7 @@ La micro-typographie (contenu) concerne les symboles et les espaces dans la séq
 |:---:|
 | Abc          |
 
-###  Les espaces
+###  Les espaces (avec la ponctuation)
 
 |![](links/Typo_Semiotic_v2_script.gif) |
 |:---:|
