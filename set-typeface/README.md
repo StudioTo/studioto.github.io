@@ -99,21 +99,21 @@ La macro-typographie (contenant) concerne la mise en forme de la séquence de te
 ###  La police
 --->
 
-###  Le corps
+### ➡️ Le corps
 
-###  La justification
+### ➡️ La justification
 
-###  L’hyphénation
+### ➡️ L’hyphénation
 
-###  L’interligne
+### ➡️ L’interligne
 
-###  L’intermot
+### ➡️ L’intermot
 
-###  L’interlettre
+### ➡️ L’interlettre
 
 # 🚨 Langue
 
-Pour chaque langue il y a des conventions particulières, voici les ouvrages de références:
+Pour chaque langue il y a des conventions particulières, voici certains des ouvrages de références:
 
 **Français CH**  
 Guide du typographe romand
@@ -129,6 +129,8 @@ Hart’s Rules for Compositors and Readers at the University Press Oxford
 
 **Anglais US**  
 Chicago Manual of Style
+
+# 📎 Sources
 
 [^1]: Charles & Ray Eames, *Power of Ten*, 1977
 [^2]: Illustration inspirée du concept de *Crystal Goblet*, Beatrice Warde, 1955
