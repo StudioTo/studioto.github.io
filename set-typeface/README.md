@@ -14,25 +14,6 @@
 |:---:|
 | Contenu = Séquence de texte, Contenant = Mise en forme \r (Illustration du Crystal Goblet de Beatrice Warde[^2])           |
 
-# 🚨 Langue
-
-Pour chaque langue il y a des conventions particulières, voici les ouvrages de références:
-
-**Anglais UK**
-Hart’s Rules for Compositors and Readers at the University Press Oxford
-
-**Anglais US**
-Chicago Manual of Style
-
-**Français CH**
-Guide du typographe romand
-
-**Français F**
-Lexique des règles en usage à l’Imprimerie nationale
-
-**Allemand D**
-Detail Typografie, Nachschlagewerk für alle Fragen zu Schrift und Satz
-
 # 🦠 Micro
 
 La micro-typographie (contenu) concerne les symboles et les espaces dans la séquence de texte.
@@ -49,7 +30,7 @@ La micro-typographie (contenu) concerne les symboles et les espaces dans la séq
 |:---:|
 | Abc          |
 
-###  Les espaces (avec la ponctuation)
+###  La ponctuation
 
 |![](links/Typo_Semiotic_v2_script.gif) |
 |:---:|
@@ -86,42 +67,33 @@ La macro-typographie (contenant) concerne la mise en forme de la séquence de te
 
 ###  La police
 
-|![](links/Typo_Semiotic_v2_script.gif) |
-|:---:|
-| Abc          |
-
 ###  Le corps
-
-|![](links/Typo_Semiotic_v2_script.gif) |
-|:---:|
-| Abc          |
 
 ###  La justification
 
-|![](links/Typo_Semiotic_v2_script.gif) |
-|:---:|
-| Abc          |
-
 ###  L’hyphénation
-
-|![](links/Typo_Semiotic_v2_script.gif) |
-|:---:|
-| Abc          |
 
 ###  L’interligne
 
-|![](links/Typo_Semiotic_v2_script.gif) |
-|:---:|
-| Abc          |
-
 ###  L’intermot
-
-|![](links/Typo_Semiotic_v2_script.gif) |
-|:---:|
-| Abc          |
 
 ###  L’interlettre
 
-|![](links/Typo_Semiotic_v2_script.gif) |
-|:---:|
-| Abc          |
+# 🚨 Langue
+
+Pour chaque langue il y a des conventions particulières, voici les ouvrages de références:
+
+**Anglais UK**
+Hart’s Rules for Compositors and Readers at the University Press Oxford
+
+**Anglais US**
+Chicago Manual of Style
+
+**Français CH**
+Guide du typographe romand
+
+**Français F**
+Lexique des règles en usage à l’Imprimerie nationale
+
+**Allemand D**
+Detail Typografie, Nachschlagewerk für alle Fragen zu Schrift und Satz
