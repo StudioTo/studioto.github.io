@@ -117,10 +117,10 @@ Pour chaque langue il y a des conventions particulières, voici les ouvrages de 
 **Français CH**  
 Guide du typographe romand
 
-**Français F**  
+**Français FR**  
 Lexique des règles en usage à l’Imprimerie nationale
 
-**Allemand D**  
+**Allemand DE**  
 Detail Typografie, Nachschlagewerk für alle Fragen zu Schrift und Satz
 
 **Anglais UK**  
