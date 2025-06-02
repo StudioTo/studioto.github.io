@@ -83,17 +83,17 @@ La macro-typographie (contenant) concerne la mise en forme de la séquence de te
 
 Pour chaque langue il y a des conventions particulières, voici les ouvrages de références:
 
-**Anglais UK**
-Hart’s Rules for Compositors and Readers at the University Press Oxford
-
-**Anglais US**
-Chicago Manual of Style
-
-**Français CH**
+**Français CH**  
 Guide du typographe romand
 
-**Français F**
+**Français F**  
 Lexique des règles en usage à l’Imprimerie nationale
 
-**Allemand D**
+**Allemand D**  
 Detail Typografie, Nachschlagewerk für alle Fragen zu Schrift und Satz
+
+**Anglais UK**  
+Hart’s Rules for Compositors and Readers at the University Press Oxford
+
+**Anglais US**  
+Chicago Manual of Style
