@@ -12,7 +12,8 @@
 
 |![](links/Eames_Power_of_Ten.gif) |
 |:---:|
-| Contenu = Séquence de texte, Contenant = Mise en forme \r (Illustration du Crystal Goblet de Beatrice Warde[^2])           |
+| Contenu = Séquence de texte, Contenant = Mise en forme  
+(référence au ***Crystal Goblet*** de Beatrice Warde[^2])           |
 
 # 🦠 Micro
 
