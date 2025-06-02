@@ -18,77 +18,77 @@
 
 La micro-typographie (contenu) concerne les symboles et les espaces dans la séquence de texte.
 
-###  Le point, la virgule
-
-|![](links/0_point_virgule.gif) |
-|:---:|
-| Abc          |
-
 ###  L’apostrophe
 
 |![](links/1_apostrophe.gif) |
 |:---:|
-| Abc          |
+| L’apostrophe est un signe typographique servant à signaler l’élision d’une lettre          |
+
+###  Le point, la virgule
+
+|![](links/0_point_virgule.gif) |
+|:---:|
+| Le point et la virgule sont des signes de ponctuation qui marquent la fin ou une pause dans une phrase. |
 
 ###  Les points de suspension
 
 |![](links/2_suspension.gif) |
 |:---:|
-| Abc          |
+| Les points de suspension marquent une interruption ou une hésitation, ils laissent la phrase en suspens.          |
 
-###  La ponctuation
+###  Les espaces insécables
 
 |![](links/3_ponctuation.gif) |
 |:---:|
-| Abc          |
+| Les signes de ponctuation ( : ; ! ? ) doivent être précédés en français d’une espace fine insécable.           |
 
 ###  Les guillemets
 
 |![](links/4_guillemets.gif) |
 |:---:|
-| Abc          |
+| Les guillemets sont des signes de ponctuation utilisés par paire pour mettre en évidence une citation ; chaque langue possède ses propres formes.          |
 
 ###  Les césures
 
 |![](links/5_hyphenation.gif) |
 |:---:|
-| Abc          |
+| La césure permet de couper un mot en fin de ligne selon des règles précises, afin d’améliorer la justification et l’équilibre typographique.          |
 
 ###  Les parenthèses, les tirets
 
 |![](links/6_tirets_parentheses.gif) |
 |:---:|
-| Abc          |
+| Les parenthèses encadrent un élément explicatif ou secondaire, tandis que les tirets peuvent introduire, isoler ou ponctuer une phrase selon leur longueur.          |
 
 ###  Les chiffres
 
 |![](links/7_chiffres.gif) |
 |:---:|
-| Abc          |
+| Les chiffres peuvent varier en forme (proportionnels, tabulaires, elzéviriens) selon leur contexte typographique: texte courant, tableau ou encore affichages en grande taille.          |
 
 ###  Les opérations
 
 |![](links/8_operations.gif) |
 |:---:|
-| Abc          |
+| Les opérations mathématiques (comme la multiplication) nécessite l'usage de signes distincts des lettres ou autres symboles voisins.          |
 
 ###  Les nombres
 
 |![](links/9_chiffres_virgules.gif) |
 |:---:|
-| Abc          |
+| Les nombres s’écrivent selon des conventions propres à chaque langue, notamment pour le séparateur de milliers ou de décimales. (ici en français CH)          |
 
 ###  Les heures
 
 |![](links/10_heures.gif) |
 |:---:|
-| Abc          |
+| Les heures s’écrivent avec des conventions typographiques variables propres à chaque langue.          |
 
 ###  Les index
 
 |![](links/11_index.gif) |
 |:---:|
-| Abc          |
+| Les index s’écrivent avec des abréviations spécifiques et évitent les formes anglicisées ou incorrectes comme « 2ème ».          |
 
 
 # 🌏 Macro
