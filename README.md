@@ -15,24 +15,23 @@
 ## [🚪 Typothèque Eracom](http://typo.eracom.ch)
 --->
 
-
-
 ### Typographie
 ### Composition
 &nbsp;
 &nbsp;
-### Classification
-## [🕰️ Historique](/overview-writing-history)
-## [🗂️ Formelle](/classify-typefaces)
-### Classification
+### Langage
+## [💥 Sémiotique](/denote-typeface)
+### Lettre
 ## [🔬 Anatomie](/describe-typeface)
 ## [🧬 Caractèristiques](/parameter-typeface)
 ## [🌀 Optique](/correct-typeface)
-
-
-## [🔍 Typo Micro-Macro](/set-typeface)
-
-## [💥 Typo Sémiotique](/denote-typeface)
+## [🕰️ Classif. Historique](/overview-writing-history)
+## [🗂️ Classif. Formelle](/classify-typefaces)
+### Mot
+### Ligne
+## [🔍 Micro-typo](/set-typeface)
+### Colonne
+## [🔍 Macro-typo](/set-typeface)
 &nbsp;
 &nbsp;
 ### Typographie
