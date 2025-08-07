@@ -21,12 +21,13 @@
 **Typo / Composition**
 ## [👀 Lire vs Voir]()
 ## [💥 Sémiotique](/denote-typeface)
+**Classification**
+## [🕰️ Historique](/overview-writing-history)
+## [🗂️ Formelle](/classify-typefaces)
 **Lettre**
 ## [🔬 Anatomie](/describe-typeface)
 ## [🧬 Caractèristiques](/parameter-typeface)
 ## [🌀 Optique](/correct-typeface)
-## [🕰️ Classif. Historique](/overview-writing-history)
-## [🗂️ Classif. Formelle](/classify-typefaces)
 **Mot**
 ## [💠 Composition]()
 ## [🌙 Forme & Contre-forme]()
