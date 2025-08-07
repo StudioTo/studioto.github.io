@@ -20,6 +20,7 @@
 &nbsp;
 &nbsp;
 **Langage**
+## [👀 Lire vs Voir]()
 ## [💥 Sémiotique](/denote-typeface)
 **Lettre**
 ## [🔬 Anatomie](/describe-typeface)
@@ -28,10 +29,14 @@
 ## [🕰️ Classif. Historique](/overview-writing-history)
 ## [🗂️ Classif. Formelle](/classify-typefaces)
 **Mot**
+## [💠 Composition]()
+## [🌙 Forme & Contre-forme]()
 **Ligne**
-## [🔍 Micro-typo](/set-typeface)
+## [🦠 Micro-typo](/set-typeface)
 **Colonne**
-## [🔍 Macro-typo](/set-typeface)
+## [🌍 Macro-typo](/set-typeface)
+## [↔️ Horizontal]()
+## [↕️ Vertical]()
 &nbsp;
 &nbsp;
 ### Typo / Dessin de caractères
