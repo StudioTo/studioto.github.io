@@ -15,11 +15,10 @@
 ## [🚪 Typothèque Eracom](http://typo.eracom.ch)
 --->
 
+&nbsp;
+&nbsp;
 
-### Typo / Composition
-&nbsp;
-&nbsp;
-**Langage**
+**Typo / Composition**
 ## [👀 Lire vs Voir]()
 ## [💥 Sémiotique](/denote-typeface)
 **Lettre**
@@ -37,21 +36,27 @@
 ## [🌍 Macro-typo](/set-typeface)
 ## [↔️ Horizontal]()
 ## [↕️ Vertical]()
+
 &nbsp;
 &nbsp;
-### Typo / Dessin de caractères
+
+**Typo / Dessin de caractères**
 ## [🔨 Construction](/construct-typeface)
 ## [📐 Dessin Vectoriel](/draw-vectors)
 ## [🎛️ Interpolation](/interpolate-vectors)
 ## [🪲 Debug](/debug-typefaces)
+
 &nbsp;
 &nbsp;
+
 **Références**
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
 ## [🧪 Specimens](/index-specimens)
+
 &nbsp;
 &nbsp;
+
 **Technique**
 ## [📝 Checklists](/check-things)
 ## [📸 Numérisation](/digitize-typeface)
