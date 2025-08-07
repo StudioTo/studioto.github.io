@@ -23,16 +23,16 @@
 
 &nbsp;
 
-### Typographie: composition
+## Typographie: composition
 
-## Classification
-### [Historique](/overview-writing-history)
-### [Formelle](/classify-typefaces)
+### Classification
+## [🕰️ Historique](/overview-writing-history)
+## [🗂️ Formelle](/classify-typefaces)
 
-## 🗂️ Classification
-### [🔬 Anatomie](/describe-typeface)
-### [🧬 Caractèristiques](/parameter-typeface)
-### [🌀 Optique](/correct-typeface)
+### Classification
+## [🔬 Anatomie](/describe-typeface)
+## [🧬 Caractèristiques](/parameter-typeface)
+## [🌀 Optique](/correct-typeface)
 
 
 ## [🔍 Typo Micro-Macro](/set-typeface)
@@ -42,10 +42,10 @@
 
 
 ### Typographie: dessin
-## [🔨 Typo Construction](/construct-typeface)
-## [📐 Typo Dessin Vectoriel](/draw-vectors)
-## [🎛️ Typo Interpolation](/interpolate-vectors)
-## [🪲 Typo Debug](/debug-typefaces)
+## [🔨 Construction](/construct-typeface)
+## [📐 Dessin Vectoriel](/draw-vectors)
+## [🎛️ Interpolation](/interpolate-vectors)
+## [🪲 Debug](/debug-typefaces)
 
 
 ### Références
@@ -56,4 +56,4 @@
 ### Technique
 ## [📝 Checklists](/check-things)
 ## [📸 Numérisation](/digitize-typeface)
-## [⚙️ Tech Support](/support-technology)
+## [⚙️ Support](/support-technology)
