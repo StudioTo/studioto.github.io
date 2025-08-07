@@ -16,19 +16,14 @@
 --->
 
 
+
+### Typographie
+### Composition
 &nbsp;
-
 &nbsp;
-
-
-&nbsp;
-
-## Typographie: composition
-
 ### Classification
 ## [🕰️ Historique](/overview-writing-history)
 ## [🗂️ Formelle](/classify-typefaces)
-
 ### Classification
 ## [🔬 Anatomie](/describe-typeface)
 ## [🧬 Caractèristiques](/parameter-typeface)
@@ -38,21 +33,22 @@
 ## [🔍 Typo Micro-Macro](/set-typeface)
 
 ## [💥 Typo Sémiotique](/denote-typeface)
-
-
-
-### Typographie: dessin
+&nbsp;
+&nbsp;
+### Typographie
+### Dessin de caractères
 ## [🔨 Construction](/construct-typeface)
 ## [📐 Dessin Vectoriel](/draw-vectors)
 ## [🎛️ Interpolation](/interpolate-vectors)
 ## [🪲 Debug](/debug-typefaces)
-
-
+&nbsp;
+&nbsp;
 ### Références
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
 ## [🧪 Specimens](/index-specimens)
-
+&nbsp;
+&nbsp;
 ### Technique
 ## [📝 Checklists](/check-things)
 ## [📸 Numérisation](/digitize-typeface)
