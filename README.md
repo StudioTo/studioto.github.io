@@ -15,40 +15,39 @@
 ## [🚪 Typothèque Eracom](http://typo.eracom.ch)
 --->
 
-### Typographie
-### Composition
+
+### Typo / Composition
 &nbsp;
 &nbsp;
-### Langage
+**Langage**
 ## [💥 Sémiotique](/denote-typeface)
-### Lettre
+**Lettre**
 ## [🔬 Anatomie](/describe-typeface)
 ## [🧬 Caractèristiques](/parameter-typeface)
 ## [🌀 Optique](/correct-typeface)
 ## [🕰️ Classif. Historique](/overview-writing-history)
 ## [🗂️ Classif. Formelle](/classify-typefaces)
-### Mot
-### Ligne
+**Mot**
+**Ligne**
 ## [🔍 Micro-typo](/set-typeface)
-### Colonne
+**Colonne**
 ## [🔍 Macro-typo](/set-typeface)
 &nbsp;
 &nbsp;
-### Typographie
-### Dessin de caractères
+### Typo / Dessin de caractères
 ## [🔨 Construction](/construct-typeface)
 ## [📐 Dessin Vectoriel](/draw-vectors)
 ## [🎛️ Interpolation](/interpolate-vectors)
 ## [🪲 Debug](/debug-typefaces)
 &nbsp;
 &nbsp;
-### Références
+**Références**
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
 ## [🧪 Specimens](/index-specimens)
 &nbsp;
 &nbsp;
-### Technique
+**Technique**
 ## [📝 Checklists](/check-things)
 ## [📸 Numérisation](/digitize-typeface)
 ## [⚙️ Support](/support-technology)
