@@ -26,13 +26,15 @@
 # Typographie: composition
 
 ### Classification
-## [🕰️ Typo Histoire](/overview-writing-history)
-## [🗂️ Typo Classification](/classify-typefaces)
+## [🕰️ Historique](/overview-writing-history)
+## [🗂️ Formelle](/classify-typefaces)
 
 ### Classification
-## [🔬 Typo Anatomie](/describe-typeface)
-## [🧬 Typo Caractèristiques](/parameter-typeface)
-## [🌀 Typo Optique](/correct-typeface)
+### [🔬 Anatomie](/describe-typeface)
+### [🧬 Caractèristiques](/parameter-typeface)
+### [🌀 Optique](/correct-typeface)
+
+
 ## [🔍 Typo Micro-Macro](/set-typeface)
 
 ## [💥 Typo Sémiotique](/denote-typeface)
