@@ -23,13 +23,13 @@
 
 &nbsp;
 
-# Typographie: composition
+### Typographie: composition
 
 ## Classification
-### [🕰️ Historique](/overview-writing-history)
-### [🗂️ Formelle](/classify-typefaces)
+### [Historique](/overview-writing-history)
+### [Formelle](/classify-typefaces)
 
-## Classification
+## 🗂️ Classification
 ### [🔬 Anatomie](/describe-typeface)
 ### [🧬 Caractèristiques](/parameter-typeface)
 ### [🌀 Optique](/correct-typeface)
