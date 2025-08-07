@@ -25,11 +25,11 @@
 
 # Typographie: composition
 
-### Classification
-## [🕰️ Historique](/overview-writing-history)
-## [🗂️ Formelle](/classify-typefaces)
+## Classification
+### [🕰️ Historique](/overview-writing-history)
+### [🗂️ Formelle](/classify-typefaces)
 
-### Classification
+## Classification
 ### [🔬 Anatomie](/describe-typeface)
 ### [🧬 Caractèristiques](/parameter-typeface)
 ### [🌀 Optique](/correct-typeface)
