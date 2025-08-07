@@ -23,26 +23,28 @@
 
 &nbsp;
 
-### Typographie: composition
+# Typographie: composition
 
-## Classification
+### Classification
 ## [🕰️ Typo Histoire](/overview-writing-history)
 ## [🗂️ Typo Classification](/classify-typefaces)
 
-## Classification
+### Classification
 ## [🔬 Typo Anatomie](/describe-typeface)
 ## [🧬 Typo Caractèristiques](/parameter-typeface)
 ## [🌀 Typo Optique](/correct-typeface)
-## [🔨 Typo Construction](/construct-typeface)
-
-
-### Typographie: dessin
-## [📐 Typo Dessin Vectoriel](/draw-vectors)
-## [🎛️ Typo Interpolation](/interpolate-vectors)
-## [🪲 Typo Debug](/debug-typefaces)
 ## [🔍 Typo Micro-Macro](/set-typeface)
 
 ## [💥 Typo Sémiotique](/denote-typeface)
+
+
+
+### Typographie: dessin
+## [🔨 Typo Construction](/construct-typeface)
+## [📐 Typo Dessin Vectoriel](/draw-vectors)
+## [🎛️ Typo Interpolation](/interpolate-vectors)
+## [🪲 Typo Debug](/debug-typefaces)
+
 
 ### Références
 ## [🌐 Wiki](/index-graphic-terminology)
