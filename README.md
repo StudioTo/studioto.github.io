@@ -18,7 +18,7 @@
 &nbsp;
 &nbsp;
 
-## Type setting
+**Type setting**
 **Langage**
 ## [👀 Lire vs Voir]()
 ## [💥 Sémiotique](/denote-typeface)
@@ -45,7 +45,7 @@
 &nbsp;
 &nbsp;
 
-## Type design
+**Type design**
 ## [🔨 Construction](/construct-typeface)
 ## [📐 Dessin Vectoriel](/draw-vectors)
 ## [🎛️ Interpolation](/interpolate-vectors)
@@ -54,7 +54,7 @@
 &nbsp;
 &nbsp;
 
-## Références
+**Références**
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
 ## [🧪 Specimens](/index-specimens)
@@ -62,7 +62,7 @@
 &nbsp;
 &nbsp;
 
-## Technique
+**Technique**
 ## [📝 Checklists](/check-things)
 ## [📸 Numérisation](/digitize-typeface)
 ## [🚪 Typothèque Eracom](http://typo.eracom.ch)
