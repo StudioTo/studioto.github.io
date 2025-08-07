@@ -18,7 +18,8 @@
 &nbsp;
 &nbsp;
 
-**Typo / Composition**
+## Type setting
+**Langage**
 ## [👀 Lire vs Voir]()
 ## [💥 Sémiotique](/denote-typeface)
 **Classification**
@@ -30,18 +31,21 @@
 ## [🌀 Optique](/correct-typeface)
 **Mot**
 ## [💠 Composition]()
+## [↔️ Inter-lettrage]()
 ## [🌙 Forme & Contre-forme]()
 **Ligne**
 ## [🦠 Micro-typo](/set-typeface)
+## [↔️ Inter-mots]()
 **Colonne**
 ## [🌍 Macro-typo](/set-typeface)
-## [↔️ Horizontal]()
-## [↕️ Vertical]()
+## [📄 Format]()
+## [↔️ Longueur de ligne]()
+## [↕️ Inter-lignes]()
 
 &nbsp;
 &nbsp;
 
-**Typo / Dessin de caractères**
+## Type design
 ## [🔨 Construction](/construct-typeface)
 ## [📐 Dessin Vectoriel](/draw-vectors)
 ## [🎛️ Interpolation](/interpolate-vectors)
@@ -50,7 +54,7 @@
 &nbsp;
 &nbsp;
 
-**Références**
+## Références
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
 ## [🧪 Specimens](/index-specimens)
@@ -58,7 +62,7 @@
 &nbsp;
 &nbsp;
 
-**Technique**
+## Technique
 ## [📝 Checklists](/check-things)
 ## [📸 Numérisation](/digitize-typeface)
 ## [⚙️ Support](/support-technology)
