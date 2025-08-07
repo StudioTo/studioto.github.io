@@ -5,20 +5,28 @@
 <!---
 ## [🦚 Index Littérature Visuelle]()
 ## [💼 Portfolio](Student's projects)
---->
-
-## [📝 Checklists](/check-things)
-&nbsp;
 ## [⚡ Index Logos]()
 ## [🐦‍⬛ Index Animations]()
 ## [🏢 Index Grid Systems]()
-&nbsp;
 ## [🔮 Design Theories](/)
 ## [🔲 Design Gestalt](/)
 ## [📊 Design Hiérarchies](/)
+## [🚪 Typothèque Eracom](http://typo.eracom.ch)
+--->
+
+
 &nbsp;
+
+&nbsp;
+
+
+&nbsp;
+
+### Typographie
+## Classification
 ## [🕰️ Typo Histoire](/overview-writing-history)
 ## [🗂️ Typo Classification](/classify-typefaces)
+## Classification
 ## [🔬 Typo Anatomie](/describe-typeface)
 ## [🧬 Typo Caractèristiques](/parameter-typeface)
 ## [🌀 Typo Optique](/correct-typeface)
@@ -30,10 +38,12 @@
 ## [🔍 Typo Micro-Macro](/set-typeface)
 ## [🏗️ Typo Grille](/)
 ## [💥 Typo Sémiotique](/denote-typeface)
-## [🧪 Typo Specimens](/index-specimens)
 &nbsp;
+### Références
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
-## [⚙️ Tech Support](/support-technology)
+## [🧪 Specimens](/index-specimens)
 &nbsp;
-## [🚪 Typothèque Eracom](http://typo.eracom.ch)
+### Technique
+## [📝 Checklists](/check-things)
+## [⚙️ Tech Support](/support-technology)
