@@ -54,8 +54,8 @@
 &nbsp;
 
 **Dessin de caractères**
-## [🔨 Construction](/construct-typeface)
-## [📸 Numérisation](/digitize-typeface)
+## [🪚 Construction](/construct-typeface)
+## [🖨️ Numérisation](/digitize-typeface)
 ## [📐 Dessin Vectoriel](/draw-vectors)
 ## [🎛️ Interpolation](/interpolate-vectors)
 ## [🪲 Debug](/debug-typefaces)
@@ -73,4 +73,4 @@
 **Technique**
 ## [⚙️ Support](/support-technology)
 ## [📝 Checklists](/check-things)
-## [🚪 Typothèque Eracom](http://typo.eracom.ch)
+## [🧰 Typothèque Eracom](http://typo.eracom.ch)
