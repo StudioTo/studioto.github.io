@@ -45,10 +45,11 @@
 **Ligne**
 ## [🦠 Micro-typo](/set-micro-typo)
 ## [↔️ Inter-mots](/set-word-spacing)
-## [📶 Distinctions](/set-word-spacing)
+## [*️⃣ Distinctions](/set-word-spacing)
 **Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
 ## [⏹️ Format](/set-format)
+## [⏮️ Alignement](/set-alignment)
 ## [↔️ Longueur de ligne](/set-line-width)
 ## [↕️ Inter-lignes](/set-line-height)
 ## [🔡 Gris de texte](/see-shades)
