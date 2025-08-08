@@ -21,6 +21,10 @@
 ## [🌐 Terminologie]()
 ## [👀 Lire vs Voir]()
 ## [💥 Sémiotique](/denote-typeface)
+
+&nbsp;
+&nbsp;
+
 **Classification**
 ## [🕰️ Historique](/overview-writing-history)
 ## [🐚 Formelle](/classify-typefaces)
