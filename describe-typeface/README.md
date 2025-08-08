@@ -25,7 +25,7 @@
 | [Corps](#Corps)           |            |           |            |             |           |
 | [Em square](#em-square)           |            |            |            |           |
 
-## 📐 Proportions
+## 🧩 Proportions
 
 |![](links/Typo_Anatomy_cover_2.jpg) |
 |:---:|
