@@ -39,7 +39,7 @@
 ## [🧬 Paramètres](/parameter-typeface)
 ## [🌀 Optique](/adjust-typeface)
 **Mot**
-## [⌨️ Case](/set-word-case)
+## [⌨️ Casse](/set-word-case)
 ## [↔️ Inter-lettres](/set-letter-spacing)
 **Ligne**
 ## [🦠 Micro-typo](/set-micro-typo)
