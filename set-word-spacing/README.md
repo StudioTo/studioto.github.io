@@ -1,4 +1,4 @@
-# 🔍 Set a typeface
+# ↔️ Set word-spacing
   Micro et macro typographie
 
   

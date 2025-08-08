@@ -1,4 +1,4 @@
-# 🔍 Set a typeface
+# 🦠 Set micro-typo
   Micro et macro typographie
 
   

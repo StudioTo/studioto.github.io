@@ -1,4 +1,4 @@
-# 🌐 Index Graphic Terminology
+# 🌐 Index Typography Definitions
   Glossaire de termes graphiques
 ### &nbsp;
 # A

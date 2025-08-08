@@ -1,4 +1,4 @@
-# 📸 *Digitalization*
+# 🖨️ Digitalization
   Numérisation
 ### &nbsp;
 

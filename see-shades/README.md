@@ -1,4 +1,4 @@
-# 🔮 *Theorise Design*
+# 🔮 Theorise design
   Approche théorique du design graphique
 ### &nbsp;
 

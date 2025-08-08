@@ -1,4 +1,4 @@
-# 🔍 Set a typeface
+# 🔍 Set a grid
   Micro et macro typographie
 
   

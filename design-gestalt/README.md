@@ -1,4 +1,4 @@
-# 🔲 *Design Gestalt*
+# 🔲 Design Gestalt
   Principes graphiques
 ### &nbsp;
 

@@ -1,4 +1,4 @@
-# 🔮 *Theorise Design*
+# 🔮 See shapes and counter-shapes
   Approche théorique du design graphique
 ### &nbsp;
 
