@@ -12,23 +12,18 @@
 ## [🔲 Design Gestalt](/)
 ## [📊 Design Hiérarchies](/)
 ## [🏗️ Typo Grille](/)
-## [🚪 Typothèque Eracom](http://typo.eracom.ch)
+## [🌐 Wiki](/index-graphic-terminology)
 --->
 
-**Typographie**
 
-Langage
-## [📖 Terminologie]()
+
+**Typographie**
+## [🌐 Terminologie]()
 ## [👀 Lire vs Voir]()
 ## [💥 Sémiotique](/denote-typeface)
-Classification
+**Classification**
 ## [🕰️ Historique](/overview-writing-history)
 ## [🐚 Formelle](/classify-typefaces)
-
-&nbsp;
-&nbsp;
-
-**Typographie (composition)**
 
 &nbsp;
 &nbsp;
@@ -51,14 +46,7 @@ Classification
 ## [↕️ Inter-lignes]()
 ## [🔢 Grille]()
 
-&nbsp;
-&nbsp;
-
-**Typographie (création)**
-
-&nbsp;
-&nbsp;
-
+**Dessin de caractères**
 ## [🔨 Construction](/construct-typeface)
 ## [📸 Numérisation](/digitize-typeface)
 ## [📐 Dessin Vectoriel](/draw-vectors)
@@ -69,16 +57,13 @@ Classification
 &nbsp;
 
 **Références**
-
-## [🌐 Wiki](/index-graphic-terminology)
-## [☎️ Annuaire](/index-designers)
-## [🧪 Specimens](/index-specimens)
+## [☎️ Designers](/index-designers)
+## [🧪 Type Specimens](/index-specimens)
 
 &nbsp;
 &nbsp;
 
 **Technique**
-
 ## [⚙️ Support](/support-technology)
 ## [📝 Checklists](/check-things)
 ## [🚪 Typothèque Eracom](http://typo.eracom.ch)
