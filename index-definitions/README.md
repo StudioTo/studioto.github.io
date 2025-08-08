@@ -21,7 +21,9 @@ Un scripts fait référence à **un système d’écriture** (une langue) que l�
 
 # 🧬 Typologie
 
-![](/links/Eracom_Typotheque_Graphics_v45.jpg)
+|![](/links/Eracom_Typotheque_Graphics_v421.jpg)                  |
+|:---:|
+| Typologies |
 
 ### Classique
 Cette catégorie inclut les **digitalisations des fontes classiques** de l’histoire de la typographie, qui datent d’**avant l’ère digitale**. La digitalisation fait référence au processus de conversion d’une police de caractères physique (par exemple, une police dessinée à la main ou gravée) en un format numérique. Ce processus implique la numérisation de dessins existants et leur **conversion en courbes vectorielles**, ce qui permet une mise à l’échelle sans perte de qualité.
@@ -51,6 +53,10 @@ OTF, TTF, WOFF, WOFF2
 Les polices variables sont une nouvelle technologie qui permet d’inclure **plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police**. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l’animation vidéo.
 
 # 🔗 Licenses
+
+|![](/links/Eracom_Typotheque_Graphics_v421.jpg)                  |
+|:---:|
+| Licenses |
 
 Le type de license est toujours spécifié et précisé dans **l’EULA (End User License Agreement)**. C’est un contrat qui définit les conditions d’utilisation des police par l’utilisateur.rice final. Il précise ce que l’utilisateur est **autorisé** à faire (comme installer la police sur un nombre limité d’ordinateurs, l’utiliser pour des projets imprimés ou web) et ce qui est **interdit** (comme redistribuer, modifier, ou copier les polices).
 
