@@ -30,6 +30,9 @@ Classification
 
 **Typographie (composition)**
 
+&nbsp;
+&nbsp;
+
 **Lettre**
 ## [🔬 Anatomie](/describe-typeface)
 ## [🧬 Caractèristiques](/parameter-typeface)
@@ -52,6 +55,9 @@ Classification
 &nbsp;
 
 **Typographie (création)**
+
+&nbsp;
+&nbsp;
 
 ## [🔨 Construction](/construct-typeface)
 ## [📸 Numérisation](/digitize-typeface)
