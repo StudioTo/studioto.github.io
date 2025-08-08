@@ -15,31 +15,35 @@
 ## [🚪 Typothèque Eracom](http://typo.eracom.ch)
 --->
 
-**Typographie (composition)**
+**Typographie**
 
 Langage
+## [📖 Terminologie]()
 ## [👀 Lire vs Voir]()
 ## [💥 Sémiotique](/denote-typeface)
 Classification
 ## [🕰️ Historique](/overview-writing-history)
 ## [🐚 Formelle](/classify-typefaces)
+
+**Typographie (composition)**
+
 Lettre
 ## [🔬 Anatomie](/describe-typeface)
 ## [🧬 Caractèristiques](/parameter-typeface)
 ## [🌀 Optique](/correct-typeface)
 Mot
 ## [⌨️ Composition]()
-## [↔️ Inter-lettres]()
 ## [🌙 Forme & Contre-forme]()
+## [↔️ Inter-lettres]()
 Ligne
 ## [🦠 Micro-typo](/set-typeface)
 ## [↔️ Inter-mots]()
 Colonne
 ## [🌍 Macro-typo](/set-typeface)
-## [📄 Format]()
+## [⏹️ Format]()
 ## [↔️ Longueur de ligne]()
 ## [↕️ Inter-lignes]()
-## [🏢 Grille]()
+## [🔢 Grille]()
 
 &nbsp;
 &nbsp;
