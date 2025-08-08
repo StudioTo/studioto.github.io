@@ -15,9 +15,6 @@
 ## [🚪 Typothèque Eracom](http://typo.eracom.ch)
 --->
 
-&nbsp;
-&nbsp;
-
 **Type setting**  
 **Langage**
 ## [👀 Lire vs Voir]()
@@ -31,7 +28,7 @@
 ## [🌀 Optique](/correct-typeface)
 **Mot**
 ## [💠 Composition]()
-## [↔️ Inter-lettrage]()
+## [↔️ Inter-lettres]()
 ## [🌙 Forme & Contre-forme]()
 **Ligne**
 ## [🦠 Micro-typo](/set-typeface)
@@ -41,6 +38,7 @@
 ## [📄 Format]()
 ## [↔️ Longueur de ligne]()
 ## [↕️ Inter-lignes]()
+## [🏢 Grille]()
 
 &nbsp;
 &nbsp;
