@@ -1,4 +1,4 @@
-# 🔍 *Set a typeface*
+# 🔍 Set a typeface
   Micro et macro typographie
 
   

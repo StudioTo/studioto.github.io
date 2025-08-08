@@ -1,4 +1,4 @@
-# 💥 *Denote a typeface*
+# 💥 Denote/Conote a typeface
   Sémiotique en typographie
 
   

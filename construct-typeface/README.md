@@ -1,4 +1,4 @@
-# 🔨 *Construct a typeface*
+# 🔨 Construct a typeface
   Guidelines pour débuter la construction d’une fonte
 ### &nbsp;
 

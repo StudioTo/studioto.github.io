@@ -1,4 +1,4 @@
-# ⚙️ *Support for Technology*
+# ⚙️ Support for Technology
   Tutoriels pour différents périphériques
 ### &nbsp;
 
