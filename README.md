@@ -17,7 +17,7 @@
 
 
 
-**Typographie**
+**Typographie** 
 ## [🌐 Terminologie]()
 ## [👀 Lire vs Voir]()
 ## [💥 Sémiotique](/denote-typeface)
