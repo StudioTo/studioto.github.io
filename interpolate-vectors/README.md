@@ -1,4 +1,4 @@
-# 🎛️ *Interpolate vectors*
+# 🎛️ Interpolate vectors
   Interpolation vectorielle
 ### &nbsp;
 

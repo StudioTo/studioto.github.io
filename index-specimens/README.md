@@ -1,4 +1,4 @@
-# 🧪 *Index Specimens*
+# 🧪 Index Specimens
   Librairies de specimens de polices de caractères
 ### &nbsp;
 
