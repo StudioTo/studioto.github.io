@@ -1,4 +1,4 @@
-# 🔍 Set a typeface
+# ↔️ Set line-width
   Micro et macro typographie
 
   

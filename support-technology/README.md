@@ -1,4 +1,4 @@
-# ⚙️ Support for Technology
+# ⚙️ Support for technical aspects
   Tutoriels pour différents périphériques
 ### &nbsp;
 

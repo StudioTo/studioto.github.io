@@ -1,4 +1,4 @@
-# 📝 *Check things*
+# 📝 Checklist before output
   Vérification avant d'exporter, d'imprimer, de publier, de mettre en ligne,…
 ### &nbsp;
 

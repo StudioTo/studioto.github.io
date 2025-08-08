@@ -1,4 +1,4 @@
-# 🏗️ *Design Grids*
+# 🏗️ Design Grids
   Concevoir une grille
 ### &nbsp;
 

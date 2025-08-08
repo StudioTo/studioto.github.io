@@ -1,4 +1,4 @@
-# 🗂️ *Classify typefaces*
+# 🐚 Classify typefaces by shape
   Classer des polices de caractères selon les principes de forme[^1]
 ### &nbsp;
 

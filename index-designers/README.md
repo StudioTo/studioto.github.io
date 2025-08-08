@@ -1,4 +1,4 @@
-# ☎️ Index of designers
+# ☎️ Index designers
   Annuaire graphique
 ### &nbsp;
 

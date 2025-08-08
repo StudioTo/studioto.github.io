@@ -1,4 +1,4 @@
-# 🔮 *Theorise Design*
+# 🔮 See things
   Approche théorique du design graphique
 ### &nbsp;
 
