@@ -18,16 +18,17 @@
 
 
 **Typographie** 
-## [🌐 Terminologie]()
-## [👀 Lire vs Voir]()
+## [👀 Lire vs Voir](/see-things)
 ## [💥 Sémiotique](/denote-typeface)
+## [🌐 Terminologie](/index-definitions)
 
 &nbsp;
 &nbsp;
 
 **Classification**
-## [🕰️ Historique](/overview-writing-history)
-## [🐚 Formelle](/classify-typefaces)
+## [🕰️ Historique](/classify-typefaces-history)
+## [🏢 Architecturale](/classify-typefaces-architecture)
+## [🐚 Formelle](/classify-typefaces-shapes)
 
 &nbsp;
 &nbsp;
@@ -65,7 +66,7 @@
 
 **Références**
 ## [☎️ Designers](/index-designers)
-## [🧪 Type Specimens](/index-specimens)
+## [🔎 Type Specimens](/index-specimens)
 
 &nbsp;
 &nbsp;
