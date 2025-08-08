@@ -1,8 +1,8 @@
-# 🌐 Index Typography Definitions
-  Glossaire de termes graphiques
+# 🌐 Index definitions
+  Glossaire de termes typographiques
 ### &nbsp;
 
-# 🧩 Terminologie
+# 🧰 Typographie
 
 |![](/links/Eracom_Typotheque_Graphics_v5_terminology.gif)                  |
 |:---:|
