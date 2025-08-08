@@ -45,6 +45,7 @@
 **Ligne**
 ## [🦠 Micro-typo](/set-micro-typo)
 ## [↔️ Inter-mots](/set-word-spacing)
+## [📶 Distinctions](/set-word-spacing)
 **Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
 ## [⏹️ Format](/set-format)
@@ -52,7 +53,7 @@
 ## [↕️ Inter-lignes](/set-line-height)
 ## [🔡 Gris de texte](/see-shades)
 ## [🔢 Grille](/set-grid)
-## [🔼 Hiérarchies](/set-hierarchies)
+## [📶 Hiérarchies](/set-hierarchies)
 
 &nbsp;
 &nbsp;
