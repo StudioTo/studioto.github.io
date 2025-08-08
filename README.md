@@ -21,13 +21,13 @@
 ## [💥 Sémiotique](/denote-typeface)
 **Classification**
 ## [🕰️ Historique](/overview-writing-history)
-## [🗂️ Formelle](/classify-typefaces)
+## [🐚 Formelle](/classify-typefaces)
 **Lettre**
 ## [🔬 Anatomie](/describe-typeface)
 ## [🧬 Caractèristiques](/parameter-typeface)
 ## [🌀 Optique](/correct-typeface)
 **Mot**
-## [💠 Composition]()
+## [⌨️ Composition]()
 ## [↔️ Inter-lettres]()
 ## [🌙 Forme & Contre-forme]()
 **Ligne**
