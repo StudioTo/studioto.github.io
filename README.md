@@ -18,7 +18,7 @@
 
 
 **Typographie** 
-## [👀 Voir vs Lire](/see-things)
+## [👀 Voir / Lire](/see-things)
 ## [💬 Language](/see-langage)
 ## [💥 Sémiotique](/express-message)
 ## [🌐 Terminologie](/index-definitions)
@@ -35,7 +35,7 @@
 &nbsp;
 
 **Lettre**
-## [🌙 Forme & Contre-forme](/see-shapes)
+## [🌙 Forme / Contre-forme](/see-shapes)
 ## [🔬 Anatomie](/describe-typeface)
 ## [🧬 Paramètres](/parameter-typeface)
 ## [🌀 Optique](/adjust-typeface)
@@ -61,7 +61,7 @@
 **Dessin de caractères**
 ## [🪚 Construction](/construct-typeface)
 ## [🖨️ Numérisation](/digitize-typeface)
-## [📐 Dessin Vectoriel](/draw-vectors)
+## [📐 Dessin vectoriel](/draw-vectors)
 ## [🎛️ Interpolation](/interpolate-vectors)
 ## [🪲 Debug](/debug-typefaces)
 
