@@ -20,7 +20,7 @@
 **Typographie** 
 ## [👀 Voir vs Lire](/see-things)
 ## [💬 Language](/see-langage)
-## [💥 Sémiotique](/denote-typeface)
+## [💥 Sémiotique](/express-message)
 ## [🌐 Terminologie](/index-definitions)
 
 &nbsp;
