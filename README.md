@@ -37,7 +37,7 @@
 **Lettre**
 ## [🌙 Forme / Contre-forme](/see-shapes)
 ## [🔬 Anatomie](/describe-typeface)
-## [🧬 Paramètres](/parameter-typeface)
+## [🧬 Caractèristiques](/parameter-typeface)
 ## [🌀 Optique](/adjust-typeface)
 **Mot**
 ## [⌨️ Casse](/set-word-case)
