@@ -15,24 +15,26 @@
 ## [🚪 Typothèque Eracom](http://typo.eracom.ch)
 --->
 
-**Composition typographique**  
+## Typographie (composition)
+
+**Langage**
 ## [👀 Lire vs Voir]()
 ## [💥 Sémiotique](/denote-typeface)
-***Classification***
+**Classification**
 ## [🕰️ Historique](/overview-writing-history)
 ## [🐚 Formelle](/classify-typefaces)
-***Lettre***
+**Lettre**
 ## [🔬 Anatomie](/describe-typeface)
 ## [🧬 Caractèristiques](/parameter-typeface)
 ## [🌀 Optique](/correct-typeface)
-***Mot***
+**Mot**
 ## [⌨️ Composition]()
 ## [↔️ Inter-lettres]()
 ## [🌙 Forme & Contre-forme]()
-***Ligne***
+**Ligne**
 ## [🦠 Micro-typo](/set-typeface)
 ## [↔️ Inter-mots]()
-***Colonne***
+**Colonne**
 ## [🌍 Macro-typo](/set-typeface)
 ## [📄 Format]()
 ## [↔️ Longueur de ligne]()
@@ -42,7 +44,10 @@
 &nbsp;
 &nbsp;
 
-**Création typographique**  
+———
+
+## Typographie (création)
+
 ## [🔨 Construction](/construct-typeface)
 ## [📸 Numérisation](/digitize-typeface)
 ## [📐 Dessin Vectoriel](/draw-vectors)
@@ -52,7 +57,10 @@
 &nbsp;
 &nbsp;
 
-**Références**
+———
+
+## Références
+
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [☎️ Annuaire](/index-designers)
 ## [🧪 Specimens](/index-specimens)
@@ -60,7 +68,10 @@
 &nbsp;
 &nbsp;
 
-**Technique**
+———
+
+## Technique
+
 ## [⚙️ Support](/support-technology)
 ## [📝 Checklists](/check-things)
 ## [🚪 Typothèque Eracom](http://typo.eracom.ch)
