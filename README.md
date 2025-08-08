@@ -68,6 +68,7 @@
 **Références**
 ## [☎️ Designers](/index-designers)
 ## [🔎 Specimens](/index-specimens)
+## [⚡ Logos](/index-logos)
 
 &nbsp;
 &nbsp;
