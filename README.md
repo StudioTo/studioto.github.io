@@ -18,7 +18,7 @@
 
 
 **Typographie** 
-## [👀 Lire vs Voir](/see-things)
+## [👀 Voir vs Lire](/see-things)
 ## [💥 Sémiotique](/denote-typeface)
 ## [🌐 Terminologie](/index-definitions)
 
@@ -27,25 +27,25 @@
 
 **Classification**
 ## [🕰️ Historique](/classify-typefaces-history)
-## [🏢 Architecturale](/classify-typefaces-architecture)
 ## [🐚 Formelle](/classify-typefaces-shapes)
+## [🏢 Architecturale](/classify-typefaces-architecture)
 
 &nbsp;
 &nbsp;
 
 **Lettre**
+## [🌙 Forme & Contre-forme](/see-shapes)
 ## [🔬 Anatomie](/describe-typeface)
 ## [🧬 Caractèristiques](/parameter-typeface)
 ## [🌀 Optique](/adjust-typeface)
 **Mot**
 ## [⌨️ Composition]()
-## [🌙 Forme & Contre-forme](/see-shapes)
 ## [↔️ Inter-lettres](/set-letter-spacing)
 **Ligne**
-## [🦠 Micro-typo](/set-typeface)
+## [🦠 Micro-typo](/set-micro-typo)
 ## [↔️ Inter-mots](/set-word-spacing)
 **Colonne**
-## [🌍 Macro-typo](/set-typeface)
+## [🌍 Macro-typo](/set-macro-typo)
 ## [⏹️ Format](/set-format)
 ## [↔️ Longueur de ligne](/set-line-width)
 ## [↕️ Inter-lignes](/set-line-height)
