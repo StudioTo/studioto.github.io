@@ -19,6 +19,7 @@
 
 **Typographie** 
 ## [👀 Voir vs Lire](/see-things)
+## [💬 Language](/see-langage)
 ## [💥 Sémiotique](/denote-typeface)
 ## [🌐 Terminologie](/index-definitions)
 
