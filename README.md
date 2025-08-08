@@ -25,20 +25,23 @@ Classification
 ## [🕰️ Historique](/overview-writing-history)
 ## [🐚 Formelle](/classify-typefaces)
 
+&nbsp;
+&nbsp;
+
 **Typographie (composition)**
 
-Lettre
+**Lettre**
 ## [🔬 Anatomie](/describe-typeface)
 ## [🧬 Caractèristiques](/parameter-typeface)
 ## [🌀 Optique](/correct-typeface)
-Mot
+**Mot**
 ## [⌨️ Composition]()
 ## [🌙 Forme & Contre-forme]()
 ## [↔️ Inter-lettres]()
-Ligne
+**Ligne**
 ## [🦠 Micro-typo](/set-typeface)
 ## [↔️ Inter-mots]()
-Colonne
+**Colonne**
 ## [🌍 Macro-typo](/set-typeface)
 ## [⏹️ Format]()
 ## [↔️ Longueur de ligne]()
