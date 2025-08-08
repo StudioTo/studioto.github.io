@@ -61,7 +61,7 @@
 &nbsp;
 
 **Technique**
+## [⚙️ Support](/support-technology)
 ## [📝 Checklists](/check-things)
 ## [📸 Numérisation](/digitize-typeface)
 ## [🚪 Typothèque Eracom](http://typo.eracom.ch)
-## [⚙️ Support](/support-technology)
