@@ -36,20 +36,21 @@
 **Lettre**
 ## [🔬 Anatomie](/describe-typeface)
 ## [🧬 Caractèristiques](/parameter-typeface)
-## [🌀 Optique](/correct-typeface)
+## [🌀 Optique](/adjust-typeface)
 **Mot**
 ## [⌨️ Composition]()
-## [🌙 Forme & Contre-forme]()
-## [↔️ Inter-lettres]()
+## [🌙 Forme & Contre-forme](/see-shapes)
+## [↔️ Inter-lettres](/set-letter-spacing)
 **Ligne**
 ## [🦠 Micro-typo](/set-typeface)
-## [↔️ Inter-mots]()
+## [↔️ Inter-mots](/set-word-spacing)
 **Colonne**
 ## [🌍 Macro-typo](/set-typeface)
-## [⏹️ Format]()
-## [↔️ Longueur de ligne]()
-## [↕️ Inter-lignes]()
-## [🔢 Grille]()
+## [⏹️ Format](/set-format)
+## [↔️ Longueur de ligne](/set-line-width)
+## [↕️ Inter-lignes](/set-line-height)
+## [🔡 Gris de texte](/see-shades)
+## [🔢 Grille](/set-grid)
 
 &nbsp;
 &nbsp;
@@ -66,7 +67,7 @@
 
 **Références**
 ## [☎️ Designers](/index-designers)
-## [🔎 Type Specimens](/index-specimens)
+## [🔎 Specimens](/index-specimens)
 
 &nbsp;
 &nbsp;
