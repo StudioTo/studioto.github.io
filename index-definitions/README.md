@@ -17,7 +17,7 @@ Une fonte désigne **l’ensemble des glyphes** (contenu dans un fichier) corres
 ### Glyphe
 Un glyphe est **un signe typographique** (un symbole). Cela peut inclure non seulement les lettres et les chiffres, mais aussi les accents, les ligatures (comme « fi » ou « fl »), et d’autres symboles.
 ### Script
-Un scripts fait référence à **un système d’écriture** (une langue) que l’on peut utiliser avec une certaine police **en fonction des glyphes** présents au sein de celle-ci (on parle alors de son « jeux de caractères »). Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
+Un scripts fait référence à **un système d’écriture** (une langue) que l’on peut utiliser avec une certaine police **en fonction des glyphes** présents au sein de celle-ci (on parle alors de son « jeu de caractères »). Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
 
 # 🧬 Typologie
 
