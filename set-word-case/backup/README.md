@@ -9,21 +9,21 @@
 
 ## 🦴 Anatomie
 
-| ↕️ Mesures verticales | 👂🏻 Parties | 🪨 Masses | 🦴 Terminaisons | ↔️ Mesures horizontales |
+| 📐 Proportions | 👂🏻 Parties | 🪨 Masses | ☝🏻 Terminaisons | 🎭 Substitutions |
 |:---|:---|:---|:---|:---|
-| [Ligne de base](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           |           |
-| [Hauteur de x](#hauteur-de-x)           | [Oreille](#oreille)           | [Fût](#fût)           | [Empattement](#Empattement-serif)           |           |
-| [Hateur des capitales](#hateur-des-capitales)           | [Épaule](#epaule)           | [Traverse](#traverse)           | [Goutte](#goutte)           |           |
-| [Hateur des ascendantes](#hateur-des-ascendantes)           | [Panse](#panse)           | [Contre-forme](#contre-forme)           | [Boucle](#boucle)           |           |
-| [Hateur des descendantes](#hateur-des-descendantes)           | [Colonne](#colonne)           | [Espace blanc](#espace-blanc)           | [Sortie](#sortie)           |           |
-| [Bas de casse](#bas-de-casse)           | [Bras](#bras)           |            |           |           |
-| [Capitales](#capitales)           | [Jambe](#jambe)           |            |            |           |
-| [Chasse](#chasse)           | [Pied](#pied)           |            |            |              |           |
-| [Espacement](#espacement-spacing)           | [Queue](#queue)           |            |            |           |
-| [Crénage](#crénage-kerning)           |            |           |            |           |
-| [Mesures verticales](#mesures-verticales-vertical-metrics)           |            |            |           |           |
-| [Corps](#Corps)           |            |           |            |             |           |
-| [Em square](#em-square)           |            |            |            |           |
+| [Ligne de base](#ligne-de-base)           | [Oeil](#oeil)           | [Pleins & déliés](#pleins--déliés)           | [Apex](#apex)           | [Ligature](#ligature)             |
+| [Hauteur de x](#hauteur-de-x)           | [Oreille](#oreille)           | [Fût](#fût)           | [Empattement](#Empattement-serif)           | [Chiffres proportionels](#chiffres-proportionels)             |
+| [Hateur des capitales](#hateur-des-capitales)           | [Épaule](#epaule)           | [Traverse](#traverse)           | [Goutte](#goutte)           | [Chiffres tabulaires](#chiffres-tabulaires)             |
+| [Hateur des ascendantes](#hateur-des-ascendantes)           | [Panse](#panse)           | [Contre-forme](#contre-forme)           | [Boucle](#boucle)           | [Chiffres elzéviriens](#chiffres-elzéviriens-old-style)             |
+| [Hateur des descendantes](#hateur-des-descendantes)           | [Colonne](#colonne)           | [Espace blanc](#espace-blanc)           | [Sortie](#sortie)           | [Chiffres numérateurs & dénominateurs](#chiffres-numérateurs--dénominateurs-superscripts--subscripts)             |
+| [Bas de casse](#bas-de-casse)           | [Bras](#bras)           |            |           | [Italique](#Italique)             |
+| [Capitales](#capitales)           | [Jambe](#jambe)           |            |            | [Petites capitales](#petites-capitales-small-caps)             |
+| [Chasse](#chasse)           | [Pied](#pied)           |            |            |              |
+| [Espacement](#espacement-spacing)           | [Queue](#queue)           |            |            |              |
+| [Crénage](#crénage-kerning)           |            |           |            |             |
+| [Mesures verticales](#mesures-verticales-vertical-metrics)           |            |            |           |             |
+| [Corps](#Corps)           |            |           |            |             |
+| [Em square](#em-square)           |            |            |            |              |
 
 ## 📐 Proportions
 
