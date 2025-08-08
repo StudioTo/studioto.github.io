@@ -18,7 +18,7 @@
 &nbsp;
 &nbsp;
 
-**Type setting**
+**Type setting**  
 **Langage**
 ## [👀 Lire vs Voir]()
 ## [💥 Sémiotique](/denote-typeface)
