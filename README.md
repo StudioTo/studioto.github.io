@@ -52,6 +52,7 @@
 ## [↕️ Inter-lignes](/set-line-height)
 ## [🔡 Gris de texte](/see-shades)
 ## [🔢 Grille](/set-grid)
+## [🔼 Hiérarchies](/set-hierarchies)
 
 &nbsp;
 &nbsp;
