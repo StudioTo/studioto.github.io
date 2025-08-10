@@ -64,7 +64,7 @@
 ## [🪚 Construction](/construct-typeface)
 ## [🖨️ Numérisation](/digitize-typeface)
 ## [📐 Dessin vectoriel](/draw-vectors)
-## [🎛️ Interpolation](/interpolate-vectors)
+## [🎚️ Interpolation](/interpolate-vectors)
 ## [🪲 Debug](/debug-typefaces)
 
 &nbsp;
