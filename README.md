@@ -17,9 +17,9 @@
 
 
 
-**Typographie** 
-## [👀 Voir / Lire](/see-things)
+**Typographie**
 ## [💬 Language](/see-langage)
+## [👀 Voir / Lire](/see-things)
 ## [💥 Sémiotique](/express-message)
 ## [🌐 Terminologie](/index-definitions)
 
