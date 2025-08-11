@@ -1,4 +1,4 @@
-# 🔬 Describe a typeface
+# 📏 Mesures
   Anatomie d'une police de caractères
 ### &nbsp;
 

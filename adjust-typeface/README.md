@@ -1,4 +1,4 @@
-# 🌀 Adjust optically a typeface
+# 🌀 Optique
   Corrections optiques
 ### &nbsp;
 

@@ -1,4 +1,4 @@
-# ↔️ Set word-spacing
+# ↔️ Inter-mots
   Micro et macro typographie
 
   

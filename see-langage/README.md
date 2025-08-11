@@ -1,4 +1,4 @@
-# 🌐 Denote/Conote a typeface
+# 💬 Langage
   Sémiotique en typographie
 
   

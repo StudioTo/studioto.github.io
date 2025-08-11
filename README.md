@@ -81,6 +81,6 @@
 &nbsp;
 
 **Technique**
-## [⚙️ Support](/support-technology)
-## [📝 Checklists](/check-things)
-## [🧰 Typothèque Eracom](http://typo.eracom.ch)
+## [⚙️ Support](/support-technicals)
+## [📝 Checklists](/check-exports)
+## [🧰 Typothèque](http://typo.eracom.ch)

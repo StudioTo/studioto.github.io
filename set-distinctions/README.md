@@ -1,4 +1,4 @@
-# ↔️ Set word-spacing
+# *️⃣ Distinctions
   Micro et macro typographie
 
   
