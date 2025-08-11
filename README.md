@@ -13,6 +13,7 @@
 ## [📊 Design Hiérarchies](/)
 ## [🏗️ Typo Grille](/)
 ## [🌐 Wiki](/index-graphic-terminology)
+## [⏮️ Alignement](/set-alignment)
 --->
 
 
@@ -47,10 +48,10 @@
 ## [🦠 Micro-typo](/set-micro-typo)
 ## [↔️ Inter-mots](/set-word-spacing)
 ## [*️⃣ Articulation](/set-distinctions)
+## [⏹️ Composition]()
 **Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
 ## [⏹️ Format](/set-format)
-## [⏮️ Alignement](/set-alignment)
 ## [↔️ Longueur de ligne](/set-line-width)
 ## [↕️ Inter-lignes](/set-line-height)
 ## [🔡 Gris de texte](/see-shades)
