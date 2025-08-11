@@ -1,5 +1,5 @@
-# ⏹️ Set format
-  Micro et macro typographie
+# ⏹️ Mise en page
+  Navigation, pagination, section, index
 
   
 ### &nbsp;
