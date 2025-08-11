@@ -13,6 +13,7 @@
 ## [📊 Design Hiérarchies](/)
 ## [🏗️ Typo Grille](/)
 ## [🌐 Wiki](/index-graphic-terminology)
+## [👀 Voir / Lire](/see-things)
 ## [⏮️ Alignement](/set-alignment)
 ## [🔡 Gris de texte](/see-shades)
 --->
@@ -21,7 +22,6 @@
 
 **Typographie**
 ## [💬 Language](/see-langage)
-## [👀 Voir / Lire](/see-things)
 ## [💥 Sémiotique](/express-message)
 ## [🌐 Terminologie](/index-definitions)
 
