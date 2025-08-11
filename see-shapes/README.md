@@ -1,5 +1,5 @@
-# 🔮 See shapes and counter-shapes
-  Approche théorique du design graphique
+# 👂🏻 Formes
+  Parties, masses et terminaisons des glyphes
 ### &nbsp;
 
 
