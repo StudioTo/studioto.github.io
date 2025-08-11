@@ -46,7 +46,7 @@
 **Ligne**
 ## [🦠 Micro-typo](/set-micro-typo)
 ## [↔️ Inter-mots](/set-word-spacing)
-## [*️⃣ Distinctions](/set-word-spacing)
+## [*️⃣ Articulation](/set-distinctions)
 **Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
 ## [⏹️ Format](/set-format)
