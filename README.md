@@ -48,8 +48,8 @@
 ## [⏹️ Agencement](/set-arrangement)
 **Ligne**
 ## [🦠 Micro-typo](/set-micro-typo)
-## [↔️ Inter-mots](/set-word-spacing)
 ## [*️⃣ Distinctions](/set-distinctions)
+## [↔️ Inter-mots](/set-word-spacing)
 ## [⏹️ Composition](set-composition)
 **Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
