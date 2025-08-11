@@ -17,6 +17,7 @@
 ## [🔡 Gris de texte](/see-shades)
 ## [↔️ Longueur de ligne](/set-line-width)
 ## [↕️ Inter-lignes](/set-line-height)
+## [🔡 Gris de texte](/see-shades)
 --->
 
 
@@ -55,7 +56,6 @@
 **Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
 ## [⏮️ Alignement](/set-alignment)
-## [🔡 Gris de texte](/see-shades)
 ## [📶 Hiérarchies](/set-hierarchies)
 ## [⏹️ Mise en page](/set-layout)
 
