@@ -1,4 +1,4 @@
-# ↔️ Set word-spacing
+# 📶 Hiérarchies
   Micro et macro typographie
 
   

@@ -1,4 +1,4 @@
-# ↔️ Set letter-spacing
+# ↔️ Inter-lettres
   Micro et macro typographie
 
   

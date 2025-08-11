@@ -1,4 +1,4 @@
-# ↔️ Set word-spacing
+# ⏮️ Alignement
   Micro et macro typographie
 
   

@@ -1,5 +1,5 @@
-# 🧬 Parameter a typeface
-  Caractèristiques d'une police de caractères
+# 🎛️ Variations
+  Variations de style au sein d'une police de caractères
 ### &nbsp;
 
 |![](links/Typo_Parameters_01.jpg) |

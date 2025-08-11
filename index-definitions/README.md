@@ -1,4 +1,4 @@
-# 🌐 Index definitions
+# 🌐 Terminologie
   Glossaire de termes typographiques
 ### &nbsp;
 

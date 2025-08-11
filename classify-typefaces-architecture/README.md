@@ -1,1 +1,1 @@
-# 🕰️ Classify typefaces in relation to architecture
+# 🕰️ Classification architecturale

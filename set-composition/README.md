@@ -1,4 +1,4 @@
-# ⏹️ Set format
+# ⏹️ Composition
   Micro et macro typographie
 
   

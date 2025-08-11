@@ -1,4 +1,4 @@
-# ⏹️ Set format
+# ⏹️ Agencement
   Micro et macro typographie
 
   

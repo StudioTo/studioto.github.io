@@ -1,5 +1,5 @@
-# 🦠 Set micro-typo
-  Micro et macro typographie
+# 🌍 Macro-typo
+  Règlages de la zone qui contient le texte
 
   
 ### &nbsp;

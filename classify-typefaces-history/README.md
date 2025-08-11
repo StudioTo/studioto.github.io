@@ -1,4 +1,4 @@
-# 🕰️ Classify typefaces by history
+# 🕰️ Classification historique
   Timeline visuelle de l'histoire de l'écriture
 ### &nbsp;
 ## 🗂️ Classification Historique

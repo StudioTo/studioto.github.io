@@ -1,4 +1,4 @@
-# ↔️ Set word-spacing
+# 🔡 Graphie
   Micro et macro typographie
 
   
