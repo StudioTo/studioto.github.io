@@ -14,8 +14,8 @@
 ## [🏗️ Typo Grille](/)
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [👀 Voir / Lire](/see-things)
-## [⏮️ Alignement](/set-alignment)
 ## [🔡 Gris de texte](/see-shades)
+## [↔️ Longueur de ligne](/set-line-width)
 --->
 
 
@@ -53,7 +53,7 @@
 ## [⏹️ Composition](set-composition)
 **Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
-## [↔️ Longueur de ligne](/set-line-width)
+## [⏮️ Alignement](/set-alignment)
 ## [↕️ Inter-lignes](/set-line-height)
 ## [📶 Hiérarchies](/set-hierarchies)
 ## [⏹️ Mise en page](/set-layout)
