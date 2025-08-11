@@ -14,6 +14,7 @@
 ## [🏗️ Typo Grille](/)
 ## [🌐 Wiki](/index-graphic-terminology)
 ## [⏮️ Alignement](/set-alignment)
+## [🔡 Gris de texte](/see-shades)
 --->
 
 
@@ -36,27 +37,26 @@
 &nbsp;
 
 **Lettre**
-## [🌙 Forme / Contre-forme](/see-shapes)
-## [👂🏻 Anatomie](/describe-typeface)
+## [👂🏻 Formes](/see-shapes)
 ## [📏 Mesures](/measure-typeface)
 ## [🌀 Optique](/adjust-typeface)
 ## [🎛️ Variations](/parameter-typeface)
 **Mot**
-## [⌨️ Casse](/set-word-case)
+## [🎨 Texture](/select-typeface)
+## [🔡 Casse](/set-word-case)
 ## [↔️ Inter-lettres](/set-letter-spacing)
+## [⏹️ Agencement](/set-arrangement)
 **Ligne**
 ## [🦠 Micro-typo](/set-micro-typo)
 ## [↔️ Inter-mots](/set-word-spacing)
-## [*️⃣ Articulation](/set-distinctions)
-## [⏹️ Composition]()
+## [*️⃣ Distinctions](/set-distinctions)
+## [⏹️ Composition](set-composition)
 **Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
-## [⏹️ Format](/set-format)
 ## [↔️ Longueur de ligne](/set-line-width)
 ## [↕️ Inter-lignes](/set-line-height)
-## [🔡 Gris de texte](/see-shades)
-## [🔢 Grille de mise en page](/set-grid)
 ## [📶 Hiérarchies](/set-hierarchies)
+## [⏹️ Mise en page](/set-layout)
 
 &nbsp;
 &nbsp;
