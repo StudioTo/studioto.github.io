@@ -38,8 +38,8 @@
 ## [🌙 Forme / Contre-forme](/see-shapes)
 ## [👂🏻 Anatomie](/describe-typeface)
 ## [📏 Mesures](/measure-typeface)
-## [🎛️ Variations](/parameter-typeface)
 ## [🌀 Optique](/adjust-typeface)
+## [🎛️ Variations](/parameter-typeface)
 **Mot**
 ## [⌨️ Casse](/set-word-case)
 ## [↔️ Inter-lettres](/set-letter-spacing)
