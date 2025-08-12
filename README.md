@@ -38,7 +38,7 @@
 &nbsp;
 &nbsp;
 
-**Lettre**
+**Signe**
 ## [👂🏻 Formes](/see-shapes)
 ## [📏 Mesures](/measure-typeface)
 ## [🌀 Optique](/adjust-typeface)
