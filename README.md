@@ -39,7 +39,7 @@
 &nbsp;
 
 **Signe**
-## [👂🏻 Formes](/study-typeface)
+## [🌙 Formes](/study-typeface)
 ## [📏 Mesures](/measure-typeface)
 ## [🌀 Optique](/adjust-typeface)
 ## [🎛️ Variations](/range-typeface)
