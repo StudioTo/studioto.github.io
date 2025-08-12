@@ -31,7 +31,7 @@
 &nbsp;
 
 **Classification**
-## [🦴 Anatomique](/classify-typefaces-shapes)
+## [🧬 Formelle](/classify-typefaces-shapes)
 ## [🕰️ Historique](/classify-typefaces-history)
 ## [🏢 Architecturale](/classify-typefaces-architecture)
 
@@ -39,7 +39,7 @@
 &nbsp;
 
 **Signe**
-## [🌙 Formes](/study-typeface)
+## [🦴 Anatomie](/study-typeface)
 ## [📏 Mesures](/measure-typeface)
 ## [🌀 Optique](/adjust-typeface)
 ## [🎛️ Variations](/range-typeface)
