@@ -44,7 +44,7 @@
 ## [🌀 Optique](/adjust-typeface)
 ## [🎛️ Variations](/range-typeface)
 **Mot**
-## [🫥 Caractère](/select-typeface)
+## [🎨 Texture](/select-typeface)
 ## [🔡 Graphie](/set-word-case)
 ## [↔️ Inter-lettres](/set-letter-spacing)
 ## [⏹️ Agencement](/set-arrangement)
