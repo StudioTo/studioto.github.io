@@ -32,14 +32,14 @@
 
 **Classification**
 ## [🕰️ Historique](/classify-typefaces-history)
-## [🐚 Formelle](/classify-typefaces-shapes)
+## [🦴 Formelle](/classify-typefaces-shapes)
 ## [🏢 Architecturale](/classify-typefaces-architecture)
 
 &nbsp;
 &nbsp;
 
 **Signe**
-## [🦴 Anatomie](/study-typeface)
+## [👂🏻 Anatomie](/study-typeface)
 ## [📏 Mesures](/measure-typeface)
 ## [🌀 Optique](/adjust-typeface)
 ## [🎛️ Variations](/range-typeface)
