@@ -42,7 +42,7 @@
 ## [👂🏻 Formes](/see-shapes)
 ## [📏 Mesures](/measure-typeface)
 ## [🌀 Optique](/adjust-typeface)
-## [🎛️ Variations](/parameter-typeface)
+## [🎛️ Styles](/parameter-typeface)
 **Mot**
 ## [🫥 Caractère](/select-typeface)
 ## [🔡 Graphie](/set-word-case)
