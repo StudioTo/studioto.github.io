@@ -39,10 +39,10 @@
 &nbsp;
 
 **Signe**
-## [👂🏻 Formes](/see-shapes)
+## [🦴 Anatomie](/study-typeface)
 ## [📏 Mesures](/measure-typeface)
 ## [🌀 Optique](/adjust-typeface)
-## [🎛️ Styles](/parameter-typeface)
+## [🎛️ Styles](/range-typeface)
 **Mot**
 ## [🫥 Caractère](/select-typeface)
 ## [🔡 Graphie](/set-word-case)
