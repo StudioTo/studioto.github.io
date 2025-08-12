@@ -42,7 +42,7 @@
 ## [🦴 Anatomie](/study-typeface)
 ## [📏 Mesures](/measure-typeface)
 ## [🌀 Optique](/adjust-typeface)
-## [🎛️ Styles](/range-typeface)
+## [🎛️ Variations](/range-typeface)
 **Mot**
 ## [🫥 Caractère](/select-typeface)
 ## [🔡 Graphie](/set-word-case)
