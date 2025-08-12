@@ -31,8 +31,8 @@
 &nbsp;
 
 **Classification**
-## [🕰️ Historique](/classify-typefaces-history)
 ## [🦴 Anatomique](/classify-typefaces-shapes)
+## [🕰️ Historique](/classify-typefaces-history)
 ## [🏢 Architecturale](/classify-typefaces-architecture)
 
 &nbsp;
