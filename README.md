@@ -47,18 +47,18 @@
 **Mot**
 ## [🎨 Texture](/select-typeface)
 ## [🔡 Graphie](/set-word-case)
-## [↔️ Espacement](/set-letter-spacing)
-## [*️⃣ Articulation](/set-arrangement)
+## [↔️ Composition](/set-letter-spacing)
+## [📶 Articulation](/set-arrangement)
 **Ligne**
 ## [🦠 Micro-typo](/set-micro-typo)
-## [↔️ Espacement](/set-word-spacing)
-## [*️⃣ Articulation](/set-distinctions)
-## [⏹️ Composition](set-composition)
+## [↔️ Composition](/set-word-spacing)
+## [📶 Articulation](/set-distinctions)
+## [⏹️ Mise en forme](set-composition)
 **Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
-## [⏮️ Alignement](/set-alignment)
-## [📶 Hiérarchies](/set-hierarchies)
-## [⏹️ Composition](/set-layout)
+## [↔️ Composition](/set-alignment)
+## [📶 Articulation](/set-hierarchies)
+## [⏹️ Mise en page](/set-layout)
 
 &nbsp;
 &nbsp;
