@@ -45,7 +45,7 @@
 ## [🍖 Anatomie](/study-typeface)
 ## [📏 Mesures](/measure-typeface)
 ## [🌀 Optique](/adjust-typeface)
-## [🎛️ Variations](/range-typeface)
+## [*️⃣ Marque](/draw-logo)
 **Mot**
 ## [🎨 Texture](/select-typeface)
 ## [🔡 Graphie](/set-word-case)
