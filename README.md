@@ -31,9 +31,10 @@
 &nbsp;
 
 **Classification**
-## [🧬 Formelle](/classify-typefaces-shapes)
+## [🦴 Formelle](/classify-typefaces-shapes)
 ## [🕰️ Historique](/classify-typefaces-history)
-## [🏢 Architecturale](/classify-typefaces-architecture)
+## [✍🏻 Evolution de l'écriture](/track-writing-evolution)
+## [🏢 Evolution de l'architecture](/track-architecture-evolution)
 
 &nbsp;
 &nbsp;
