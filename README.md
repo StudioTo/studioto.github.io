@@ -84,8 +84,14 @@
 &nbsp;
 
 **Technique**
-## [🗂️ Rendus]()
 ## [⚒️ Matériel]()
 ## [🖨️ Scanner]()
 ## [🖨️ Imprimer]()
 ## [🧰 Typothèque](http://typo.eracom.ch)
+
+&nbsp;
+&nbsp;
+
+**Evaluation**
+## [🗂️ Rendus]()
+## [📊 Critères]()
