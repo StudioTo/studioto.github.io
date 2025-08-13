@@ -48,16 +48,16 @@
 ## [🎨 Texture](/select-typeface)
 ## [🔡 Graphie](/set-word-case)
 ## [↔️ Composition](/set-letter-spacing)
-## [*️⃣ Articulation](/set-arrangement)
+## [📶 Articulation](/set-arrangement)
 **Ligne**
 ## [🦠 Micro-typo](/set-micro-typo)
 ## [↔️ Composition](/set-word-spacing)
-## [*️⃣ Articulation](/set-distinctions)
-## [⏹️ Composition](set-composition)
+## [📶 Articulation](/set-distinctions)
+## [⏹️ Mise en forme](set-composition)
 **Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
 ## [↔️ Composition](/set-alignment)
-## [📶 Hiérarchies](/set-hierarchies)
+## [📶 Articulation](/set-hierarchies)
 ## [⏹️ Mise en page](/set-layout)
 
 &nbsp;
