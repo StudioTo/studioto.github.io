@@ -40,7 +40,7 @@
 &nbsp;
 
 **Signe**
-## [🦴 Anatomie](/study-typeface)
+## [🍖 Anatomie](/study-typeface)
 ## [📏 Mesures](/measure-typeface)
 ## [🌀 Optique](/adjust-typeface)
 ## [🎛️ Variations](/range-typeface)
@@ -48,16 +48,16 @@
 ## [🎨 Texture](/select-typeface)
 ## [🔡 Graphie](/set-word-case)
 ## [↔️ Composition](/set-letter-spacing)
-## [📶 Articulation](/set-arrangement)
+## [*️⃣ Articulation](/set-arrangement)
 **Ligne**
 ## [🦠 Micro-typo](/set-micro-typo)
 ## [↔️ Composition](/set-word-spacing)
-## [📶 Articulation](/set-distinctions)
-## [⏹️ Mise en forme](set-composition)
+## [*️⃣ Articulation](/set-distinctions)
+## [⏹️ Composition](set-composition)
 **Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
 ## [↔️ Composition](/set-alignment)
-## [📶 Articulation](/set-hierarchies)
+## [📶 Hiérarchies](/set-hierarchies)
 ## [⏹️ Mise en page](/set-layout)
 
 &nbsp;
