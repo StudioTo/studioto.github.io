@@ -18,6 +18,8 @@
 ## [↔️ Longueur de ligne](/set-line-width)
 ## [↕️ Inter-lignes](/set-line-height)
 ## [🔡 Gris de texte](/see-shades)
+## [📝 Checklists](/check-exports)
+## [⚙️ Support](/support-technicals)
 --->
 
 
@@ -82,6 +84,8 @@
 &nbsp;
 
 **Technique**
-## [⚙️ Support](/support-technicals)
-## [📝 Checklists](/check-exports)
+## [🗂️ Rendus]()
+## [⚒️ Matériel]()
+## [🖨️ Scanner]()
+## [🖨️ Imprimer]()
 ## [🧰 Typothèque](http://typo.eracom.ch)
