@@ -14,6 +14,7 @@
 | Evolution de l'écriture |
 
 |![](links/1-Language_v210.jpg)|
+|:---:|
 | Échelle d'iconicité |
 
 # Applications  
