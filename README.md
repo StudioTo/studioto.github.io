@@ -47,20 +47,20 @@
 ## [🌀 Optique](/adjust-typeface)
 ## [🎛️ Variations](/vary-typeface)
 **Mot**
-## [🎨 Texture](/select-typeface)
-## [🔡 Graphie](/set-word-case)
-## [↔️ Composition](/set-letter-spacing)
-## [📶 Articulation](/set-arrangement)
+## [🎨 Texture](/set-typeface)
+## [🔡 Graphie](/set-letter-case)
+## [↔️ Composition](/set-letter-composition)
+## [📶 Articulation](/set-letter-articulation)
 **Ligne**
 ## [🦠 Micro-typo](/set-micro-typo)
-## [↔️ Composition](/set-word-spacing)
-## [📶 Articulation](/set-distinctions)
-## [⏹️ Mise en forme](set-composition)
+## [↔️ Composition](/set-word-composition)
+## [📶 Articulation](/set-word-articulation)
+## [⏹️ Mise en forme](set-word-layout)
 **Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
-## [↔️ Composition](/set-alignment)
-## [📶 Articulation](/set-hierarchies)
-## [⏹️ Mise en page](/set-layout)
+## [↔️ Composition](/set-line-composition)
+## [📶 Articulation](/set-line-articulation)
+## [⏹️ Mise en page](/set-line-layout)
 
 &nbsp;
 &nbsp;
@@ -70,7 +70,7 @@
 ## [📸 Numérisation](/digitize-typeface)
 ## [📐 Dessin vectoriel](/draw-vectors)
 ## [🎚️ Interpolation](/interpolate-vectors)
-## [🪲 Debug](/debug-typefaces)
+## [🪲 Debug](/debug-drawings)
 
 &nbsp;
 &nbsp;
