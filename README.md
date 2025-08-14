@@ -42,10 +42,10 @@
 &nbsp;
 
 **Signe**
-## [🦴 Anatomie](/study-sign)
-## [📏 Mesures](/measure-sign)
-## [🌀 Optique](/adjust-sign)
-## [🎛️ Variations](/vary-sign)
+## [🦴 Anatomie](/study-sign-shapes)
+## [📏 Mesures](/study-sign-measures)
+## [🌀 Optique](/study-sign-optics)
+## [🎛️ Variations](/study-sign-variations)
 **Mot**
 ## [🎨 Texture](/set-word-face)
 ## [🔡 Graphie](/set-word-case)
