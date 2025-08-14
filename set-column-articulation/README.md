@@ -1,4 +1,4 @@
-# ⏹️ Mise en forme de la ligne
+# 📶 Articulation des colonnes
 
   
 ### &nbsp;

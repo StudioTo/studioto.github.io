@@ -1,4 +1,4 @@
-# ↔️ Composition des colonnes
+# ↔️ Composition de la ligne
 
   
 ### &nbsp;

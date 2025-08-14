@@ -47,20 +47,20 @@
 ## [🌀 Optique](/adjust-sign)
 ## [🎛️ Variations](/vary-sign)
 **Mot**
-## [🎨 Texture](/set-letter-face)
-## [🔡 Graphie](/set-letter-case)
-## [↔️ Composition](/set-letter-composition)
-## [📶 Articulation](/set-letter-articulation)
-**Ligne**
-## [🦠 Micro-typo](/set-micro-typo)
+## [🎨 Texture](/set-word-face)
+## [🔡 Graphie](/set-word-case)
 ## [↔️ Composition](/set-word-composition)
 ## [📶 Articulation](/set-word-articulation)
-## [⏹️ Mise en forme](set-word-layout)
-**Colonne**
-## [🌍 Macro-typo](/set-macro-typo)
+**Ligne**
+## [🦠 Micro-typo](/set-micro-typo)
 ## [↔️ Composition](/set-line-composition)
 ## [📶 Articulation](/set-line-articulation)
-## [⏹️ Mise en page](/set-line-layout)
+## [⏹️ Mise en forme](set-line-layout)
+**Colonne**
+## [🌍 Macro-typo](/set-macro-typo)
+## [↔️ Composition](/set-column-composition)
+## [📶 Articulation](/set-column-articulation)
+## [⏹️ Mise en page](/set-column-layout)
 
 &nbsp;
 &nbsp;

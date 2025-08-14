@@ -1,4 +1,4 @@
-# ↔️ Composition de la ligne
+# ↔️ Composition du mot
 
   
 ### &nbsp;

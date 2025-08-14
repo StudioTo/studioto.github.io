@@ -1,4 +1,4 @@
-# 📶 Articulation du mot
+# ↔️ Composition des colonnes
 
   
 ### &nbsp;

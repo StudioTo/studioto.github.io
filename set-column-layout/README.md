@@ -1,4 +1,4 @@
-# ↔️ Composition du mot
+# ⏹️ Mise en page des colonnes
 
   
 ### &nbsp;
