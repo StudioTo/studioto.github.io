@@ -3,59 +3,30 @@
   
 ### &nbsp;
 
-# Communication
-|![](links/1-Language_v2.gif) |
-|:---:|
-| Abc |
-# Concret / Abstrait
-|![](links/1-Language_v211.gif) |
-|:---:|
-| Abc |
-|![](links/1-Language_v210.jpg) |
-|:---:|
-| Abc |
-# Applications
-|![](links/1-Language_v217.gif) |
-|:---:|
-| Abc |
-# Unités typographiques
-|![](links/1-Language_v252.gif) |
-|:---:|
-| Abc |
-|![](links/1-Language_v272.gif) |
-|:---:|
-| Abc |
-|![](links/1-Language_v279.gif) |
-|:---:|
-| Abc |
-|![](links/1-Language_v285.gif) |
-|:---:|
-| Abc |
-|![](links/1-Language_v2108.gif) |
-|:---:|
-| Abc |
-# Scripte
-|![](links/1-Language_v2116.gif) |
-|:---:|
-| Abc |
-# Symboles
-|![](links/1-Language_v2120.gif) |
-|:---:|
-| Abc |
-# Lisibilité
-|![](links/1-Language_v2127.gif) |
-|:---:|
-| Abc |
-|![](links/1-Language_v2133.gif) |
-|:---:|
-| Abc |
-|![](links/1-Language_v2137.gif) |
-|:---:|
-| Abc |
-# Lisibilité / Impact
-|![](links/1-Language_v2161.gif) |
-|:---:|
-| Abc |
+# Communication  
+![](links/1-Language_v2.gif)
+# Concret / Abstrait  
+![](links/1-Language_v211.gif)
+![](links/1-Language_v210.jpg)
+# Applications  
+![](links/1-Language_v217.gif)
+# Unités typographiques  
+![](links/1-Language_v252.gif)
+![](links/1-Language_v272.gif)
+![](links/1-Language_v279.gif)
+![](links/1-Language_v285.gif)
+![](links/1-Language_v2108.gif)
+# Signification  
+![](links/1-Language_v2116.gif)
+# Scripte  
+![](links/1-Language_v2120.gif)
+# Symboles  
+![](links/1-Language_v2127.gif)
+# Lisibilité  
+![](links/1-Language_v2133.gif)
+![](links/1-Language_v2137.gif)
+# Lisibilité / Impact  
+![](links/1-Language_v2161.gif)
 
 
 
