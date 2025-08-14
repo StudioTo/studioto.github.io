@@ -3,11 +3,21 @@
   
 ### &nbsp;
 
-![alt text](links/index-definitions/links/3-Terminologie_resized.gif)
-![alt text](links/index-definitions/links/3-Terminologie30.jpg)
-![alt text](links/index-definitions/links/3-Terminologie31.gif)
-![alt text](links/index-definitions/links/3-Terminologie34.jpg)
-![alt text](links/index-definitions/links/3-Terminologie35.gif)
+|![](links/index-definitions/links/3-Terminologie_resized.gif) |
+|:---:|
+| Abc |
+|![](links/index-definitions/links/3-Terminologie30.jpg) |
+|:---:|
+| Abc |
+|![](links/index-definitions/links/3-Terminologie31.gif) |
+|:---:|
+| Abc |
+|![](links/index-definitions/links/3-Terminologie34.jpg) |
+|:---:|
+| Abc |
+|![](links/index-definitions/links/3-Terminologie35.gif) |
+|:---:|
+| Abc |
 
 
 ### Sources

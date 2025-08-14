@@ -5,7 +5,9 @@
 
 # Next
 
-![alt text](links/2-Logos.gif)
+|![](links/2-Logos.gif) |
+|:---:|
+| Abc |
 
 # Apple
 

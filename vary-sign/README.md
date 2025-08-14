@@ -3,12 +3,24 @@
   
 ### &nbsp;
 
-![alt text](links/vary-sign/links/4-Variations.jpg) 
-![alt text](links/vary-sign/links/4-Variations2.gif) 
-![alt text](links/vary-sign/links/4-Variations6.jpg) 
-![alt text](links/vary-sign/links/4-Variations7.gif) 
-![alt text](links/vary-sign/links/4-Variations11.jpg) 
-![alt text](links/vary-sign/links/4-Variations12.gif)
+|![](links/vary-sign/links/4-Variations.jpg) |
+|:---:|
+| Abc | 
+|![](links/vary-sign/links/4-Variations2.gif) |
+|:---:|
+| Abc | 
+|![](links/vary-sign/links/4-Variations6.jpg) |
+|:---:|
+| Abc | 
+|![](links/vary-sign/links/4-Variations7.gif) |
+|:---:|
+| Abc | 
+|![](links/vary-sign/links/4-Variations11.jpg) |
+|:---:|
+| Abc | 
+|![](links/vary-sign/links/4-Variations12.gif) |
+|:---:|
+| Abc |
 
 
 

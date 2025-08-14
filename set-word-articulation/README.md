@@ -3,7 +3,9 @@
   
 ### &nbsp;
 
-![alt text](links/set-word-articulation/links/0-Mot63.gif)
+|![](links/set-word-articulation/links/0-Mot63.gif) |
+|:---:|
+| Abc |
 
 
 

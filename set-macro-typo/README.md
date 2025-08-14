@@ -3,17 +3,39 @@
   
 ### &nbsp;
 
-![alt text](links/set-macro-typo/links/0-Colonne2.gif) 
-![alt text](links/set-macro-typo/links/0-Colonne5.jpg) 
-![alt text](links/set-macro-typo/links/0-Colonne6.gif) 
-![alt text](links/set-macro-typo/links/0-Colonne12.jpg) 
-![alt text](links/set-macro-typo/links/0-Colonne13.gif) 
-![alt text](links/set-macro-typo/links/0-Colonne19.jpg) 
-![alt text](links/set-macro-typo/links/0-Colonne20.gif) 
-![alt text](links/set-macro-typo/links/0-Colonne28.jpg) 
-![alt text](links/set-macro-typo/links/0-Colonne29.gif) 
-![alt text](links/set-macro-typo/links/0-Colonne32.jpg) 
-![alt text](links/set-macro-typo/links/0-Colonne33.gif)
+|![](links/set-macro-typo/links/0-Colonne2.gif) |
+|:---:|
+| Abc | 
+|![](links/set-macro-typo/links/0-Colonne5.jpg) |
+|:---:|
+| Abc | 
+|![](links/set-macro-typo/links/0-Colonne6.gif) |
+|:---:|
+| Abc | 
+|![](links/set-macro-typo/links/0-Colonne12.jpg) |
+|:---:|
+| Abc | 
+|![](links/set-macro-typo/links/0-Colonne13.gif) |
+|:---:|
+| Abc | 
+|![](links/set-macro-typo/links/0-Colonne19.jpg) |
+|:---:|
+| Abc | 
+|![](links/set-macro-typo/links/0-Colonne20.gif) |
+|:---:|
+| Abc | 
+|![](links/set-macro-typo/links/0-Colonne28.jpg) |
+|:---:|
+| Abc | 
+|![](links/set-macro-typo/links/0-Colonne29.gif) |
+|:---:|
+| Abc | 
+|![](links/set-macro-typo/links/0-Colonne32.jpg) |
+|:---:|
+| Abc | 
+|![](links/set-macro-typo/links/0-Colonne33.gif) |
+|:---:|
+| Abc |
 
 
 
