@@ -1,4 +1,4 @@
-# 🔡 Graphie du mot
+# 📶 Articulation du mot
 
   
 ### &nbsp;

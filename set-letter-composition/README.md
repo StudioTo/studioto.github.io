@@ -1,4 +1,4 @@
-# 🔡 Graphie du mot
+# ↔️ Composition du mot
 
   
 ### &nbsp;

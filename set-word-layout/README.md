@@ -1,4 +1,4 @@
-# 🔡 Graphie du mot
+# ⏹️ Mise en forme de la ligne
 
   
 ### &nbsp;
