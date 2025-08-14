@@ -1,4 +1,4 @@
-# 💬 Langage
+# 🍖 Anatomie du signe
 
   
 ### &nbsp;
@@ -9,7 +9,7 @@
 
 
 
-### 📎 Sources
+### Sources
 
 <!-- - **Prénom Nom**  
   *Titre*, 0000 -->
