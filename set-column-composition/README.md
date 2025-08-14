@@ -3,9 +3,39 @@
   
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro_v2.gif) |
+# Mots / Ligne  
+
+|![](links/0-Colonne41.gif) |
 |:---:|
-| Abc |
+| Abc | 
+
+# Inter-ligne
+
+|![](links/0-Colonne47.gif) |
+|:---:|
+| Abc | 
+
+# Division en colonnes
+
+|![](links/0-Colonne55.gif) |
+|:---:|
+| Abc | 
+
+|![](links/0-Colonne60.gif) |
+|:---:|
+| Abc | 
+
+# Alignement
+
+|![](links/0-Colonne69.gif) |
+|:---:|
+| Abc | 
+
+# Drapeau
+
+|![](links/0-Colonne73.gif) |
+|:---:|
+| Abc | 
 
 
 

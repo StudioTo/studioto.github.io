@@ -3,36 +3,38 @@
   
 ### &nbsp;
 
+# Mirroir de page  
+
 |![](links/0-Colonne2.gif) |
 |:---:|
 | Abc | 
-|![](links/0-Colonne5.jpg) |
-|:---:|
-| Abc | 
+
+# Zone de texte  
+
 |![](links/0-Colonne6.gif) |
 |:---:|
 | Abc | 
-|![](links/0-Colonne12.jpg) |
-|:---:|
-| Abc | 
+
+# Marges  
+
 |![](links/0-Colonne13.gif) |
 |:---:|
 | Abc | 
-|![](links/0-Colonne19.jpg) |
-|:---:|
-| Abc | 
+
+# Gris de texte  
+
 |![](links/0-Colonne20.gif) |
 |:---:|
 | Abc | 
-|![](links/0-Colonne28.jpg) |
-|:---:|
-| Abc | 
+
+# Division verticale  
+
 |![](links/0-Colonne29.gif) |
 |:---:|
 | Abc | 
-|![](links/0-Colonne32.jpg) |
-|:---:|
-| Abc | 
+
+# Grille de ligne de base  
+
 |![](links/0-Colonne33.gif) |
 |:---:|
 | Abc |

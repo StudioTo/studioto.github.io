@@ -5,7 +5,7 @@
 
 # Technique  
 
-|![](links/T0-Mot15.gif.gif) |
+|![](links/T0-Mot15.gif) |
 |:---:|
 | Abc |
 

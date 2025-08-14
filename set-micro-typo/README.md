@@ -3,93 +3,76 @@
   
 ### &nbsp;
 
-|![](links/1-Micro-typo2.jpg) |
-|:---:|
-| Abc | 
+# Langue  
+
 |![](links/1-Micro-typo3.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo9.jpg) |
-|:---:|
-| Abc | 
+
+# Ponctuation  
+
 |![](links/1-Micro-typo10.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo14.jpg) |
-|:---:|
-| Abc | 
+
 |![](links/1-Micro-typo15.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo17.jpg) |
-|:---:|
-| Abc | 
+
 |![](links/1-Micro-typo18.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo20.jpg) |
-|:---:|
-| Abc | 
+
+# Espaces  
+
 |![](links/1-Micro-typo21.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo24.jpg) |
-|:---:|
-| Abc | 
+
 |![](links/1-Micro-typo25.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo30.jpg) |
-|:---:|
-| Abc | 
+
+# Césures  
+
 |![](links/1-Micro-typo31.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo34.jpg) |
-|:---:|
-| Abc | 
+
+# Parenthèses  
+
 |![](links/1-Micro-typo35.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo37.jpg) |
-|:---:|
-| Abc | 
+
+# Chiffres  
+
 |![](links/1-Micro-typo38.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo43.jpg) |
-|:---:|
-| Abc | 
+
 |![](links/1-Micro-typo44.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo46.jpg) |
-|:---:|
-| Abc | 
+
 |![](links/1-Micro-typo47.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo49.jpg) |
-|:---:|
-| Abc | 
+
 |![](links/1-Micro-typo50.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo56.jpg) |
-|:---:|
-| Abc | 
+
 |![](links/1-Micro-typo57.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo62.jpg) |
-|:---:|
-| Abc | 
+
 |![](links/1-Micro-typo63.gif) |
 |:---:|
 | Abc | 
-|![](links/1-Micro-typo67.jpg) |
-|:---:|
-| Abc | 
+
+# Symboles   
+
 |![](links/1-Micro-typo68.gif) |
 |:---:|
 | Abc | 
@@ -104,10 +87,10 @@
 | Abc | 
 |![](links/1-Micro-typo76.gif) |
 |:---:|
-| Abc | 
-|![](links/1-Micro-typo78.jpg) |
-|:---:|
-| Abc | 
+| Abc |
+
+# Substitutions  
+
 |![](links/1-Micro-typo79.gif) |
 |:---:|
 | Abc | 

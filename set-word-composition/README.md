@@ -3,9 +3,18 @@
   
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro_v2.gif) |
+# Direction  
+
+|![](links/T0-Mot15.gif) |
 |:---:|
-| La forme des caractères renforce la connotation du texte           |
+| Abc |
+
+# Inter-lettrage  
+
+|![](links/0-Mot2.gif) |
+|:---:|
+| Abc |
+
 
 
 

@@ -3,7 +3,15 @@
   
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro_v2.gif) |
+# Casse  
+
+|![](links/T0-Mot25.gif) |
+|:---:|
+| Abc |
+
+# Ponctuation  
+
+|![](links/0-Mot51.gif) |
 |:---:|
 | Abc |
 
