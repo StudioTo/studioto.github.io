@@ -43,9 +43,9 @@
 
 **Signe**
 ## [🍖 Anatomie](/study-sign)
-## [📏 Mesures](/measure-typeface)
-## [🌀 Optique](/adjust-typeface)
-## [🎛️ Variations](/vary-typeface)
+## [📏 Mesures](/measure-sign)
+## [🌀 Optique](/adjust-sign)
+## [🎛️ Variations](/vary-sign)
 **Mot**
 ## [🎨 Texture](/study-letter-face)
 ## [🔡 Graphie](/set-letter-case)
@@ -84,8 +84,8 @@
 &nbsp;
 &nbsp;
 
-**Technique**
-## [⚒️ Matériel](/use-material)
+**Matériel**
+## [⚒️ Outils](/use-material)
 ## [🖨️ Scanner](/use-scanner)
 ## [🧰 Typothèque](http://typo.eracom.ch)
 
