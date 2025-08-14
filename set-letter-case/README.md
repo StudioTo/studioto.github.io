@@ -1,4 +1,4 @@
-# 💬 Langage
+# 🔡 Graphie du mot
 
   
 ### &nbsp;

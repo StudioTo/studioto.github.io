@@ -1,4 +1,4 @@
-# 💬 Langage
+# 📶 Articulation de la ligne
 
   
 ### &nbsp;

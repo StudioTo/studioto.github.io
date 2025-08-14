@@ -1,4 +1,4 @@
-# 💬 Langage
+# 🌍 Macro-typographie des colonnes
 
   
 ### &nbsp;

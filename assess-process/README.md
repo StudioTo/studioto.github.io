@@ -1,5 +1,5 @@
-# ⚙️ Support
-  Tutoriels pour différents périphériques
+# 📊 Critères d'évaluation
+
 ### &nbsp;
 
 

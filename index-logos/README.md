@@ -1,5 +1,5 @@
-# ⚡️ Index designers
-  Collection de logos
+# ⚡️ Index des logos
+
 ### &nbsp;
 
 

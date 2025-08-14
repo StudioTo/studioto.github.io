@@ -1,5 +1,5 @@
-# ☎️ Index designers
-  Annuaire graphique
+# 🚸 Index des pictogrammes
+
 ### &nbsp;
 
 

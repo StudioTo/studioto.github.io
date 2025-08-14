@@ -1,5 +1,5 @@
-# 🔎 Index Specimens
-  Librairies de specimens de polices de caractères
+# 📘 Index des specimens
+
 ### &nbsp;
 
 
