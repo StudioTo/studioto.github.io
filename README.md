@@ -47,7 +47,7 @@
 ## [🌀 Optique](/study-sign-optics)
 ## [🎛️ Variations](/study-sign-variations)
 **Mot**
-## [🎨 Texture](/set-word-face)
+## [🎨 Texture](/set-word-texture)
 ## [🔡 Graphie](/set-word-case)
 ## [↔️ Composition](/set-word-composition)
 ## [📶 Articulation](/set-word-articulation)

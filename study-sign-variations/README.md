@@ -3,18 +3,26 @@
   
 ### &nbsp;
 
+# Graisse  
+
 |![](links/4-Variations.jpg) |
 |:---:|
 | Abc | 
 |![](links/4-Variations2.gif) |
 |:---:|
 | Abc | 
+
+# Largeur  
+
 |![](links/4-Variations6.jpg) |
 |:---:|
 | Abc | 
 |![](links/4-Variations7.gif) |
 |:---:|
 | Abc | 
+
+# Inclinaison  
+
 |![](links/4-Variations11.jpg) |
 |:---:|
 | Abc | 
