@@ -42,12 +42,12 @@
 &nbsp;
 
 **Signe**
-## [🍖 Anatomie](/study-typeface)
+## [🍖 Anatomie](/study-sign)
 ## [📏 Mesures](/measure-typeface)
 ## [🌀 Optique](/adjust-typeface)
 ## [🎛️ Variations](/vary-typeface)
 **Mot**
-## [🎨 Texture](/set-typeface)
+## [🎨 Texture](/study-letter-face)
 ## [🔡 Graphie](/set-letter-case)
 ## [↔️ Composition](/set-letter-composition)
 ## [📶 Articulation](/set-letter-articulation)
