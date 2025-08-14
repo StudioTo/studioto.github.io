@@ -42,7 +42,7 @@
 &nbsp;
 
 **Signe**
-## [🍖 Anatomie](/study-sign)
+## [🦴 Anatomie](/study-sign)
 ## [📏 Mesures](/measure-sign)
 ## [🌀 Optique](/adjust-sign)
 ## [🎛️ Variations](/vary-sign)
