@@ -6,4 +6,4 @@
 
 |![](links/_Tech2.gif) |
 |:---:|
-| Abc | 
+| Abc |
