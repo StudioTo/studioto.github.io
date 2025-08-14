@@ -1,11 +1,9 @@
-# ⏹️ Mise en page des colonnes
+# ⏹️ Mise en forme de la ligne
 
   
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro_v2.gif) |
-|:---:|
-| Abc |
+![alt text](links/set-line-layout/links/0-Ligne27.gif)
 
 
 

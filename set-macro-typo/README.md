@@ -3,9 +3,17 @@
   
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro_v2.gif) |
-|:---:|
-| Abc |
+![alt text](links/set-macro-typo/links/0-Colonne2.gif) 
+![alt text](links/set-macro-typo/links/0-Colonne5.jpg) 
+![alt text](links/set-macro-typo/links/0-Colonne6.gif) 
+![alt text](links/set-macro-typo/links/0-Colonne12.jpg) 
+![alt text](links/set-macro-typo/links/0-Colonne13.gif) 
+![alt text](links/set-macro-typo/links/0-Colonne19.jpg) 
+![alt text](links/set-macro-typo/links/0-Colonne20.gif) 
+![alt text](links/set-macro-typo/links/0-Colonne28.jpg) 
+![alt text](links/set-macro-typo/links/0-Colonne29.gif) 
+![alt text](links/set-macro-typo/links/0-Colonne32.jpg) 
+![alt text](links/set-macro-typo/links/0-Colonne33.gif)
 
 
 

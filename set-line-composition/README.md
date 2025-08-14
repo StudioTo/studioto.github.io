@@ -1,11 +1,10 @@
-# ↔️ Composition des colonnes
+# ↔️ Composition de la ligne
 
   
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro_v2.gif) |
-|:---:|
-| Abc |
+![alt text](links/set-line-composition/links/0-Ligne12.gif) 
+![alt text](links/set-line-composition/links/0-Ligne20.gif)
 
 
 

@@ -3,20 +3,9 @@
 ### &nbsp;
 
 
-## 📄 Nommer
-
-|![](links/Naming.gif) |
-|:---:|
-| Déposer un rendu           |
-
-## 📠 Scanner
-
-|![](links/Scan.gif) |
-|:---:|
-| Scanner un travail           |
-
-## 🌗 Corriger
-
-|![](links/Scan_Edit.gif) |
-|:---:|
-| Adapter les niveaux d’un scan dans Photoshop: **sélectionner le calque, puis Image > Réglages > Niveaux**           |
+![alt text](links/_Eval23.gif) 
+![alt text](links/_Eval28.gif) 
+![alt text](links/_Eval29.gif) 
+![alt text](links/_Eval34.gif) 
+![alt text](links/_Eval39.gif) 
+![alt text](links/_Eval44.gif)
