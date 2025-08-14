@@ -45,7 +45,7 @@
 ## [🍖 Anatomie](/study-typeface)
 ## [📏 Mesures](/measure-typeface)
 ## [🌀 Optique](/adjust-typeface)
-## [🎛️ Variations](/range-typeface)
+## [🎛️ Variations](/vary-typeface)
 **Mot**
 ## [🎨 Texture](/select-typeface)
 ## [🔡 Graphie](/set-word-case)
@@ -85,14 +85,13 @@
 &nbsp;
 
 **Technique**
-## [⚒️ Matériel]()
-## [🖨️ Scanner]()
-## [🖨️ Imprimer]()
+## [⚒️ Matériel](/use-material)
+## [🖨️ Scanner](/use-scanner)
 ## [🧰 Typothèque](http://typo.eracom.ch)
 
 &nbsp;
 &nbsp;
 
 **Evaluation**
-## [🗂️ Rendus]()
-## [📊 Critères]()
+## [🗂️ Rendus](/assess-deliverable)
+## [📊 Critères](/assess-process)
