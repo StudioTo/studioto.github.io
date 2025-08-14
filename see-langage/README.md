@@ -5,8 +5,9 @@
 
 # Communication  
 ![](links/1-Language_v2.gif)
-# Concret / Abstrait  
+# Evolution de l'écriture  
 ![](links/1-Language_v211.gif)
+# Concret / Abstrait  
 ![](links/1-Language_v210.jpg)
 # Applications  
 ![](links/1-Language_v217.gif)
