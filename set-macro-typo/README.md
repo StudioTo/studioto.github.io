@@ -1,4 +1,4 @@
-# 🌍 Macro-typographie des colonnes
+# 🌍 Macro-typographie
 
   
 ### &nbsp;

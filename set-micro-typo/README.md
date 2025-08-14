@@ -1,4 +1,4 @@
-# 🦠 Micro-typographie des lignes
+# 🦠 Micro-typographie
 
   
 ### &nbsp;
