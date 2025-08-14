@@ -3,7 +3,15 @@
   
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro_v2.gif) |
+# Technique  
+
+|![](links/T0-Mot15.gif.gif) |
+|:---:|
+| Abc |
+
+# Psychologie  
+
+|![](links/0-Mot2.gif) |
 |:---:|
 | Abc |
 
