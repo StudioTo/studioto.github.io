@@ -1,4 +1,4 @@
-# 💬 Langage
+# 📶 Articulation du mot
 
   
 ### &nbsp;

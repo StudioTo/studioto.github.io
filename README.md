@@ -93,5 +93,5 @@
 &nbsp;
 
 **Evaluation**
-## [🗂️ Rendus](/assess-deliverable)
 ## [📊 Critères](/assess-process)
+## [🗂️ Rendus](/assess-deliverable)

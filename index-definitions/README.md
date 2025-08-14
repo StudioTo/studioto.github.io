@@ -1,4 +1,4 @@
-# 💬 Langage
+# 🌐 Terminologie
 
   
 ### &nbsp;
