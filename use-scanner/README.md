@@ -4,10 +4,10 @@
 ### &nbsp;
 
 
-|![](links/Tech20.gif) |
+|![](links/Tech13.gif) |
 |:---:|
 | Abc | 
 
-|![](links/Tech13.gif) |
+|![](links/Tech20.gif) |
 |:---:|
 | Abc | 
