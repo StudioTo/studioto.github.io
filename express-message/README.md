@@ -4,19 +4,19 @@
 ### &nbsp;
 
 
-|![](links/2-Sémiotique.gif) |
+|![](links/2-Semiotique.gif) |
 |:---:|
 | Abc |
-|![](links/2-Sémiotique5.gif) |
+|![](links/2-Semiotique5.gif) |
 |:---:|
 | Abc |
-|![](links/2-Sémiotique10.gif) |
+|![](links/2-Semiotique10.gif) |
 |:---:|
 | Abc |
-|![](links/2-Sémiotique16.gif) |
+|![](links/2-Semiotique16.gif) |
 |:---:|
 | Abc |
-|![](links/2-Sémiotique26.gif) |
+|![](links/2-Semiotique26.gif) |
 |:---:|
 | Abc |
 
