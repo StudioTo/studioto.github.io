@@ -12,13 +12,13 @@
 ![](links/1-Language_v217.gif)
 # Unités typographiques  
 ![](links/1-Language_v252.gif)
-# Signe  
+# 1. Signe  
 ![](links/1-Language_v272.gif)
-# Mot  
+# 2. Mot  
 ![](links/1-Language_v279.gif)
-# Ligne  
+# 3. Ligne  
 ![](links/1-Language_v285.gif)
-# Colonne  
+# 4. Colonne  
 ![](links/1-Language_v2108.gif)
 # Signification  
 ![](links/1-Language_v2116.gif)
