@@ -3,19 +3,19 @@
   
 ### &nbsp;
 
-|![](links/index-definitions/links/3-Terminologie_resized.gif) |
+|![](links/3-Terminologie_resized.gif) |
 |:---:|
 | Abc |
-|![](links/index-definitions/links/3-Terminologie30.jpg) |
+|![](links/3-Terminologie30.jpg) |
 |:---:|
 | Abc |
-|![](links/index-definitions/links/3-Terminologie31.gif) |
+|![](links/3-Terminologie31.gif) |
 |:---:|
 | Abc |
-|![](links/index-definitions/links/3-Terminologie34.jpg) |
+|![](links/3-Terminologie34.jpg) |
 |:---:|
 | Abc |
-|![](links/index-definitions/links/3-Terminologie35.gif) |
+|![](links/3-Terminologie35.gif) |
 |:---:|
 | Abc |
 

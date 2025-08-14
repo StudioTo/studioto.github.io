@@ -3,7 +3,7 @@
   
 ### &nbsp;
 
-|![](links/set-line-layout/links/0-Ligne27.gif) |
+|![](links/0-Ligne27.gif) |
 |:---:|
 | Abc |
 

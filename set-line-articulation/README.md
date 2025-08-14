@@ -3,7 +3,7 @@
   
 ### &nbsp;
 
-|![](links/set-line-articulation/links/0-Ligne2.gif) |
+|![](links/0-Ligne2.gif) |
 |:---:|
 | Abc |
 

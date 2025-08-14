@@ -3,37 +3,37 @@
   
 ### &nbsp;
 
-|![](links/set-macro-typo/links/0-Colonne2.gif) |
+|![](links/0-Colonne2.gif) |
 |:---:|
 | Abc | 
-|![](links/set-macro-typo/links/0-Colonne5.jpg) |
+|![](links/0-Colonne5.jpg) |
 |:---:|
 | Abc | 
-|![](links/set-macro-typo/links/0-Colonne6.gif) |
+|![](links/0-Colonne6.gif) |
 |:---:|
 | Abc | 
-|![](links/set-macro-typo/links/0-Colonne12.jpg) |
+|![](links/0-Colonne12.jpg) |
 |:---:|
 | Abc | 
-|![](links/set-macro-typo/links/0-Colonne13.gif) |
+|![](links/0-Colonne13.gif) |
 |:---:|
 | Abc | 
-|![](links/set-macro-typo/links/0-Colonne19.jpg) |
+|![](links/0-Colonne19.jpg) |
 |:---:|
 | Abc | 
-|![](links/set-macro-typo/links/0-Colonne20.gif) |
+|![](links/0-Colonne20.gif) |
 |:---:|
 | Abc | 
-|![](links/set-macro-typo/links/0-Colonne28.jpg) |
+|![](links/0-Colonne28.jpg) |
 |:---:|
 | Abc | 
-|![](links/set-macro-typo/links/0-Colonne29.gif) |
+|![](links/0-Colonne29.gif) |
 |:---:|
 | Abc | 
-|![](links/set-macro-typo/links/0-Colonne32.jpg) |
+|![](links/0-Colonne32.jpg) |
 |:---:|
 | Abc | 
-|![](links/set-macro-typo/links/0-Colonne33.gif) |
+|![](links/0-Colonne33.gif) |
 |:---:|
 | Abc |
 
