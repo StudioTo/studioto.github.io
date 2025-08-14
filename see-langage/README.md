@@ -3,46 +3,46 @@
   
 ### &nbsp;
 
-|![](links/see-langage/links/1-Language_v211.gif) |
+|![](links/1-Language_v211.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v2.gif) |
+|![](links/1-Language_v2.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v217.gif) |
+|![](links/1-Language_v217.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v252.gif) |
+|![](links/1-Language_v252.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v272.gif) |
+|![](links/1-Language_v272.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v279.gif) |
+|![](links/1-Language_v279.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v285.gif) |
+|![](links/1-Language_v285.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v2108.gif) |
+|![](links/1-Language_v2108.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v2116.gif) |
+|![](links/1-Language_v2116.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v2120.gif) |
+|![](links/1-Language_v2120.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v2127.gif) |
+|![](links/1-Language_v2127.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v2133.gif) |
+|![](links/1-Language_v2133.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v2137.gif) |
+|![](links/1-Language_v2137.gif) |
 |:---:|
 | Abc |
-|![](links/see-langage/links/1-Language_v2161.gif) |
+|![](links/1-Language_v2161.gif) |
 |:---:|
 | Abc |
 

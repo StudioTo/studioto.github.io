@@ -3,10 +3,10 @@
   
 ### &nbsp;
 
-|![](links/set-line-composition/links/0-Ligne12.gif) |
+|![](links/0-Ligne12.gif) |
 |:---:|
 | Abc | 
-|![](links/set-line-composition/links/0-Ligne20.gif) |
+|![](links/0-Ligne20.gif) |
 |:---:|
 | Abc |
 

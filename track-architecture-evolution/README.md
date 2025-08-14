@@ -3,28 +3,28 @@
   
 ### &nbsp;
 
-|![](links/track-architecture-evolution/links/3-Architecturale2.jpg) |
+|![](links/3-Architecturale2.jpg) |
 |:---:|
 | Abc | 
-|![](links/track-architecture-evolution/links/3-Architecturale3.jpg) |
+|![](links/3-Architecturale3.jpg) |
 |:---:|
 | Abc | 
-|![](links/track-architecture-evolution/links/3-Architecturale4.jpg) |
+|![](links/3-Architecturale4.jpg) |
 |:---:|
 | Abc | 
-|![](links/track-architecture-evolution/links/3-Architecturale5.jpg) |
+|![](links/3-Architecturale5.jpg) |
 |:---:|
 | Abc | 
-|![](links/track-architecture-evolution/links/3-Architecturale6.jpg) |
+|![](links/3-Architecturale6.jpg) |
 |:---:|
 | Abc | 
-|![](links/track-architecture-evolution/links/3-Architecturale7.jpg) |
+|![](links/3-Architecturale7.jpg) |
 |:---:|
 | Abc | 
-|![](links/track-architecture-evolution/links/3-Architecturale8.jpg) |
+|![](links/3-Architecturale8.jpg) |
 |:---:|
 | Abc | 
-|![](links/track-architecture-evolution/links/3-Architecturale9.jpg) |
+|![](links/3-Architecturale9.jpg) |
 |:---:|
 | Abc |
 
