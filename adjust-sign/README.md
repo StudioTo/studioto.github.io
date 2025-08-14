@@ -93,63 +93,6 @@ Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi a
 |:---:|
 | Transposition des formes primaires aux caractères construits sur un principe géométrique, statique et dynamique           |
 
-### Hauteur des caractères
-
-Les caractères doivent être compensés (overshoot) pour avoir optiquement la même hauteur (de x, des capitales, etc.).
-
-|![](links/Letters_3.gif) |
-|:---:|
-|            |
-
-### Contraste des droites
-
-Les droites comportent soit un contraste optiquement linéaire, soit un contraste optiquement marqué.
-
-|![](links/Letters_1_edit.gif) |
-|:---:|
-| Les traits verticaux sont plus épais que les horizontaux, les diagonales sont entre les deux, comme dans le E, F, H, L, T         |
-
-### Contraste des courbes
-
-Les courbes comportent soit un contraste optiquement linéaire, soit un contraste optiquement marqué.
-
-|![](links/Letters_2.gif) |
-|:---:|
-| Le O peut sembler monolinéaire, mais il possède en réalité des courbes veritcales plus épaisses que horizontales, comme dans le B, C, D, G, O, Q           |
-
-### Contraste calligraphique
-
-La forme des lettres latines est le fruit d'une construction à la plume à bec large qui produit des traits fins vers le haut et des traits épais vers le bas.
-
-|![](links/Letters_7.gif) |
-|:---:|
-| Le A parait symétrique, mais en réalité la diagonale descendante est toujours plus épaisse que la diagonale montante, comme dans le K, V, W, X, Y           |
-
-### Statique des caractères
-
-Une forme plus grande en bas d'un caractère lui confère une une notion de stabilité.
-
-|![](links/Letters_6.gif) |
-|:---:|
-| Le S parait symétrique, mais en réalité sa courbe de base est plus grande que sa courbe haute           |
-
-### Balance des traverses
-
-Pour que des formes similaires à des hauteurs/longueurs différentes semblement de même épaisseur, elles doivent être corrigées.
-
-|![](links/Letters_5.gif) |
-|:---:|
-| De manière générale, la traverse du bas est plus épaisse pour renforcer la statique, comme dans le E, L           |
-
-### Balance du milieu des caractères
-
-Pour qu'une forme paraîsse au milieu, elle doit être légèrement rehaussée.
-
-|![](links/Letters_4.gif) |
-|:---:|
-| La traverse centrale du E paraît centré, alors qu'elle est en réalité plus haute que le milieu, comme dans le B, F, E, P, R           |
-
-
 
 ### 📎 Sources
 
