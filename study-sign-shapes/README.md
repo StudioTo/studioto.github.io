@@ -11,9 +11,7 @@
 |:---:|
 | Abc | 
 
-|![](links/1-Formes6.jpg) |
-|:---:|
-| Abc | 
+# Squelette  
 
 |![](links/1-Formes7.jpg) |
 |:---:|
@@ -39,9 +37,7 @@
 |:---:|
 | Abc | 
 
-|![](links/1-Formes13.jpg) |
-|:---:|
-| Abc | 
+# Graisse  
 
 |![](links/1-Formes14.jpg) |
 |:---:|
@@ -59,13 +55,9 @@
 |:---:|
 | Abc | 
 
-|![](links/1-Formes18.jpg) |
-|:---:|
-| Abc | 
+# Enveloppe  
 
-|![](links/1-Formes19.jpg) |
-|:---:|
-| Abc | 
+## Terminaisons  
 
 |![](links/1-Formes20.jpg) |
 |:---:|
@@ -83,9 +75,7 @@
 |:---:|
 | Abc | 
 
-|![](links/1-Formes24.jpg) |
-|:---:|
-| Abc | 
+## Ouvertures  
 
 |![](links/1-Formes25.jpg) |
 |:---:|
@@ -99,9 +89,7 @@
 |:---:|
 | Abc | 
 
-|![](links/1-Formes28.jpg) |
-|:---:|
-| Abc | 
+## Décorations  
 
 |![](links/1-Formes29.jpg) |
 |:---:|
