@@ -3,10 +3,9 @@
   
 ### &nbsp;
 
+# Mesures verticales  
+
 |![](links/2-Mesures.jpg) |
-|:---:|
-| Abc | 
-|![](links/2-Mesures2.jpg) |
 |:---:|
 | Abc | 
 |![](links/2-Mesures3.jpg) |
@@ -33,9 +32,9 @@
 |![](links/2-Mesures10.jpg) |
 |:---:|
 | Abc | 
-|![](links/2-Mesures11.jpg) |
-|:---:|
-| Abc | 
+
+# Mesures horizontales  
+
 |![](links/2-Mesures12.jpg) |
 |:---:|
 | Abc | 
@@ -48,9 +47,9 @@
 |![](links/2-Mesures15.jpg) |
 |:---:|
 | Abc | 
-|![](links/2-Mesures16.jpg) |
-|:---:|
-| Abc | 
+
+# Mesures de surfaces  
+
 |![](links/2-Mesures17.jpg) |
 |:---:|
 | Abc | 
@@ -65,10 +64,10 @@
 | Abc | 
 |![](links/2-Mesures21.jpg) |
 |:---:|
-| Abc | 
-|![](links/2-Mesures22.jpg) |
-|:---:|
-| Abc | 
+| Abc |
+
+# ???  
+
 |![](links/2-Mesures23.jpg) |
 |:---:|
 | Abc | 
