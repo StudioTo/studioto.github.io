@@ -4,6 +4,6 @@
 ### &nbsp;
 
 
-|![](links/_Tech2.gif) |
+|![](links/Tech2.gif) |
 |:---:|
 | Abc |
