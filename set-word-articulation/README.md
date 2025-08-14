@@ -1,4 +1,4 @@
-# 📶 Articulation de la ligne
+# 📶 Articulation du mot
 
   
 ### &nbsp;
