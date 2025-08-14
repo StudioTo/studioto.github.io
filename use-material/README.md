@@ -1,22 +1,9 @@
-# ⚙️ Support
-  Tutoriels pour différents périphériques
+# ⚒️ Outils
+
+
 ### &nbsp;
 
 
-## 📄 Nommer
-
-|![](links/Naming.gif) |
+|![](links/_Tech2.gif) |
 |:---:|
-| Déposer un rendu           |
-
-## 📠 Scanner
-
-|![](links/Scan.gif) |
-|:---:|
-| Scanner un travail           |
-
-## 🌗 Corriger
-
-|![](links/Scan_Edit.gif) |
-|:---:|
-| Adapter les niveaux d’un scan dans Photoshop: **sélectionner le calque, puis Image > Réglages > Niveaux**           |
+| Abc | 

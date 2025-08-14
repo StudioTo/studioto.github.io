@@ -9,7 +9,7 @@
 ## [🐦‍⬛ Index Animations]()
 ## [🏢 Index Grid Systems]()
 ## [🔮 Design Theories](/)
-## [🔲 Design Gestalt](/)
+## [🔲 Design Gestalt](/)**/*.gif,**/*.jpg
 ## [📊 Design Hiérarchies](/)
 ## [🏗️ Typo Grille](/)
 ## [🌐 Wiki](/index-graphic-terminology)
