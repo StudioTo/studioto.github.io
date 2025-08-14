@@ -3,10 +3,11 @@
   
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro_v2.gif) |
-|:---:|
-| Abc |
-
+![alt text](links/index-definitions/links/3-Terminologie_resized.gif)
+![alt text](links/index-definitions/links/3-Terminologie30.jpg)
+![alt text](links/index-definitions/links/3-Terminologie31.gif)
+![alt text](links/index-definitions/links/3-Terminologie34.jpg)
+![alt text](links/index-definitions/links/3-Terminologie35.gif)
 
 
 ### Sources

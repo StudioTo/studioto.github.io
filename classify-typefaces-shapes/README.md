@@ -3,9 +3,18 @@
   
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro_v2.gif) |
-|:---:|
-| Abc |
+![alt text](links/classify-typefaces-shapes/links/2-Anatomique.jpg) 
+![alt text](links/classify-typefaces-shapes/links/2-Anatomique2.gif) 
+![alt text](links/classify-typefaces-shapes/links/2-Anatomique5.gif) 
+![alt text](links/classify-typefaces-shapes/links/2-Anatomique7.gif) 
+![alt text](links/classify-typefaces-shapes/links/2-Anatomique9.gif) 
+![alt text](links/classify-typefaces-shapes/links/2-Anatomique11.gif) 
+![alt text](links/classify-typefaces-shapes/links/2-Anatomique13.gif) 
+![alt text](links/classify-typefaces-shapes/links/2-Anatomique15.gif) 
+![alt text](links/classify-typefaces-shapes/links/2-Anatomique17.gif) 
+![alt text](links/classify-typefaces-shapes/links/2-Anatomique19.gif) 
+![alt text](links/classify-typefaces-shapes/links/2-Anatomique21.gif) 
+![alt text](links/classify-typefaces-shapes/links/2-Anatomique23.gif)
 
 
 

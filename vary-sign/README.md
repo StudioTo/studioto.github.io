@@ -3,9 +3,12 @@
   
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro_v2.gif) |
-|:---:|
-| Abc |
+![alt text](links/vary-sign/links/4-Variations.jpg) 
+![alt text](links/vary-sign/links/4-Variations2.gif) 
+![alt text](links/vary-sign/links/4-Variations6.jpg) 
+![alt text](links/vary-sign/links/4-Variations7.gif) 
+![alt text](links/vary-sign/links/4-Variations11.jpg) 
+![alt text](links/vary-sign/links/4-Variations12.gif)
 
 
 

@@ -3,9 +3,7 @@
   
 ### &nbsp;
 
-|![](links/Typo_Semiotic_01_intro_v2.gif) |
-|:---:|
-| Abc |
+copy paste prev version
 
 
 
