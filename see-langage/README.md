@@ -4,13 +4,14 @@
   
 # &nbsp;
 
-### Index
-
+- [Scripte](#scripte)
+- [Scripte](#scripte)
+- [Scripte](#scripte)
 - [Scripte](#scripte)
 
 # &nbsp;
 
-# Applications  
+# Holistique  
 
 |![](links/1-Language_v217.gif)|
 |:---:|
@@ -22,7 +23,7 @@
 |:---:|
 | Abc |
 
-# Concret / Abstrait  
+# Écriture
 
 |![](links/1-Language_v215.jpg)|
 |:---:|
@@ -66,13 +67,13 @@
 
 |![](links/1-Language_v2116.gif)|
 |:---:|
-| Abc |
+| Les lettres sont les particules élémentaires du langage, elles n'acquièrent un sens que lorsqu'elles sont combinées |
 
-# Scripte  
+# Langue  
 
 |![](links/1-Language_v2120.gif)|
 |:---:|
-| Abc |
+| En principe, toutes les langues peuvent être codifiés dans n'importe quel alphabet (scripte) |
 
 # Symboles  
 
@@ -86,7 +87,7 @@
 |:---:|
 | Abc |
 
-# Saccades  
+# Processus de lecture  
 
 |![](links/1-Language_v2137.gif)|
 |:---:|
