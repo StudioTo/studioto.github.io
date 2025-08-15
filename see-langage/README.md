@@ -2,7 +2,7 @@
 
 - [Typographie](#typographie)
 - [Communication](#communication)
-- [Unités typographiques](#les-unités-typographiques)
+- [Unités typographiques](#unités-typographiques)
 - [Lecture](#lecture)
 - [Lisibilité vs Impact](#lisibilité-vs-impact)
 
