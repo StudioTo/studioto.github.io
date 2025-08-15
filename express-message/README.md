@@ -3,7 +3,7 @@
 - [Booba vs Kiki](#Booba-vs-Kiki)
 - [Voir vs Lire](#Voir-vs-Lire)
 - [Caractère](#Caractère)
-- [Lisibilité vs Impact](#Lisibilité-vs-Impact)
+- [Dénotation vs Conotation](#Dénotation-vs-Conotation)
 - [Explicite vs Implicite](#Explicite-vs-Implicite)
 
 # &nbsp;
@@ -21,7 +21,7 @@
 |:---:|
 | L'utilisation des deux niveaux d'information, textuel et pictural |
 
-# Caractère  
+# Dénotation vs Conotation  
 
 |![](links/2-Semiotique10.gif) |
 |:---:|
@@ -31,7 +31,7 @@
 |:---:|
 | Abc |
 
-# Dénotation vs Conotation  
+# Caractère  
 
 |![](links/0-Colonne20.gif) |
 |:---:|
