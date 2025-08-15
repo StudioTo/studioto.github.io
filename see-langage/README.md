@@ -45,7 +45,7 @@
 
 |![](links/1-Language_v252.gif)|
 |:---:|
-| Le texte et la typographie sont des éléments qui s'interpénètrent pour former un tout supéfieur. La parole se déroule dans le temps et l'écriture dans l'espace |
+| Langage et typographie fusionnent pour ne former qu’un seul message. |
 
 # 1. Le signe  
 
@@ -198,6 +198,8 @@ est un inventaire des aspects de l'alphabet et de ses possibilités.
 
 
 En principe, l'allemand, comme toutes les langues, peut être codifié dans n'importe quel alphabet.
+
+Le texte et la typographie sont des éléments qui s'interpénètrent pour former un tout supéfieur. La parole se déroule dans le temps et l'écriture dans l'espace
 
 -->
 
