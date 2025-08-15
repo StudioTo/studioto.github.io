@@ -6,6 +6,9 @@
 - [Lecture](#lecture)
 - [Lisibilité vs Impact](#lisibilité-vs-impact)
 
+# &nbsp;
+# &nbsp;
+
 # Typographie  
 
 |![](links/1-Language_v217.gif)|

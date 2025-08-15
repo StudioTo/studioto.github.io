@@ -6,6 +6,9 @@
 - [Lisibilité vs Impact](#Lisibilité-vs-Impact)
 - [Explicite vs Implicite](#Explicite-vs-Implicite)
 
+# &nbsp;
+# &nbsp;
+
 # Booba vs Kiki  
 
 |![](links/2-Semiotique.gif) |
