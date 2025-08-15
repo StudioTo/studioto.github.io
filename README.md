@@ -93,6 +93,7 @@
 &nbsp;
 
 **Evaluation**
-## [☝🏻 Règles](/assess-rules)
-## [📊 Critères](/assess-process)
-## [🗂️ Rendus](/assess-deliverable)
+## [🎯 Objectifs](/evaluate-objectives)
+## [📊 Critères](/evaluate-criteria)
+## [🗂️ Rendus](/evaluate-deliverable)
+## [☝🏻 Règles](/evaluate-rules)

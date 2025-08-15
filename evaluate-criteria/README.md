@@ -1,6 +1,10 @@
 # 📊 Critères d'évaluation
 
-### &nbsp;
+- [Exercice technique](#Exercice-technique)
+- [Exercice créatif](#Exercice-créatif)
+
+# &nbsp;
+# &nbsp;
 
 # Exercice technique  
 
@@ -14,26 +18,20 @@
 |:---:|
 | Abc | 
 
-## Organisation  
+## 6 pts Organisation  
 
 |![](links/Eval29.gif) |
 |:---:|
 | Abc | 
 
-## Développement  
+## 6 pts Développement  
 
 |![](links/Eval34.gif) |
 |:---:|
 | Abc | 
 
-## Production  
+## 6 pts Production  
 
 |![](links/Eval39.gif) |
 |:---:|
 | Abc | 
-
-# Produire  
-
-|![](links/Eval44.gif) |
-|:---:|
-| Bottom Up |
