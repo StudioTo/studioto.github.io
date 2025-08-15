@@ -48,7 +48,7 @@
 
 |![](links/1-Language_v272.gif)|
 |:---:|
-| Les signes (ce qui est signifié) sont les particules élémentaires du langage écrit |
+| Les signes sont les particules élémentaires du langage écrit |
 
 # 2. Le mot  
 
