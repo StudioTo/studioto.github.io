@@ -93,5 +93,6 @@
 &nbsp;
 
 **Evaluation**
+## [☝🏻 Règles](/assess-rules)
 ## [📊 Critères](/assess-process)
 ## [🗂️ Rendus](/assess-deliverable)
