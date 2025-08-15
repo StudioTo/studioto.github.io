@@ -11,7 +11,7 @@
 
 # &nbsp;
 
-# Holistique  
+# Typographie  
 
 |![](links/1-Language_v217.gif)|
 |:---:|
@@ -31,7 +31,7 @@
 |:---:|
 | Les lettres sont des signes abstraits qui représentent des sons |
 
-|![](links/1-Language_v2116.gif)|
+|![](links/1-Language_v2116.jpg)|
 |:---:|
 | Les lettres n'acquièrent un sens que lorsqu'elles sont combinées |
 
