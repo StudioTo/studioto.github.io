@@ -21,29 +21,29 @@
 
 |![](links/1-Language_v2.gif)|
 |:---:|
-| Abc |
+| Les signes signifient un état ou l'intention de l'émetteur (expression, symptôme), influencent le récepteur (appel, signal) et transmettent des informations sur des objets et des états de fait (représentation, symbole) |
 
 # Écriture
 
 |![](links/1-Language_v215.jpg)|
 |:---:|
-| Evolution de l'écriture |
+| L'écriture est l'expression et la représentation du langage |
 
 |![](links/1-Language_v210.jpg)|
 |:---:|
-| Échelle d'iconicité |
+| Les lettres sont des signes abstraits qui représentent des sons |
 
 # Unités typographiques  
 
 |![](links/1-Language_v252.gif)|
 |:---:|
-| Le texte et la typographie sont éléments qui s'interpénètrent pour former un tout supéfieur |
+| Le texte et la typographie sont des éléments qui s'interpénètrent pour former un tout supéfieur. La parole se déroule dans le temps et l'écriture dans l'espace |
 
 # 1. Signe  
 
 |![](links/1-Language_v272.gif)|
 |:---:|
-| L'utilisation ou la création de signe se rapportant à un objet ou une idée (ce qui est signifié) |
+| Les signes (ce qui est signifié) sont les particules élémentaires du langage écrit |
 
 # 2. Mot  
 
@@ -67,7 +67,7 @@
 
 |![](links/1-Language_v2116.gif)|
 |:---:|
-| Les lettres sont les particules élémentaires du langage, elles n'acquièrent un sens que lorsqu'elles sont combinées |
+| Les lettres n'acquièrent un sens que lorsqu'elles sont combinées |
 
 # Langue  
 
@@ -79,37 +79,35 @@
 
 |![](links/1-Language_v2127.gif)|
 |:---:|
-| Abc |
+| La diffusion d'informations n'est plus réservée, à notre époque, aux livres et aux revues illustrées. |
 
 # Lisibilité  
 
 |![](links/1-Language_v2133.gif)|
 |:---:|
-| Abc |
-
-# Processus de lecture  
+| L'importance de l'accentuation de la moitié supérieure de la lettre |
 
 |![](links/1-Language_v2137.gif)|
 |:---:|
-| Abc |
+| Que l'on modifie la longueur des lignes, le corps aussi bien que la forme du caractère typographique, la longueur des saccades et leur fréquence changent |
 
 # Lisibilité / Impact  
 
 |![](links/1-Language_v2161.gif)|
 |:---:|
-| Abc |
+| Les variables de lisibilité peuvent être opposée à celles de l'impact graphique |
 
 |![](links/1-Language_v2168.jpg)|
 |:---:|
-| Abc |
+| Le logo d'IBM constitue un bon exemple de compromis |
 
 |![](links/1-Language_v2169.jpg)|
 |:---:|
-| Abc |
+| Extrême lisibilité |
 
 |![](links/1-Language_v2170.jpg)|
 |:---:|
-| Abc |
+| Extrême impact |
 
 
 
