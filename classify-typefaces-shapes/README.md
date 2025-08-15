@@ -3,6 +3,8 @@
   
 ### &nbsp;
 
+# Tableau de classification
+
 ![alt text](links/2-Anatomique.jpg)
 
 |![](links/2-Anatomique.jpg) |
