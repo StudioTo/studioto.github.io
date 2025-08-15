@@ -47,263 +47,263 @@
 |:---:|
 | Ier — IIIe siècle | 
 
-| Abc | 
+| Onciale romaine | 
 |:---:|
 |![](links/1-Historique14.jpg) |
 |:---:|
-| Abc | 
+| IIIe — IXe siècle | 
 
-| Abc | 
+| Minuscule romaine cursive | 
 |:---:|
 |![](links/1-Historique15.jpg) |
 |:---:|
-| Abc | 
+| IIIe — VIIe siècle | 
 
-| Abc | 
+| Semi-onciale romaine | 
 |:---:|
 |![](links/1-Historique16.jpg) |
 |:---:|
-| Abc | 
+| IIIe — VIIe siècle | 
 
-| Abc | 
+| Capitale quadrata | 
 |:---:|
 |![](links/1-Historique17.jpg) |
 |:---:|
-| Abc | 
+| IVe — Ve siècle | 
 
-| Abc | 
+| Semi-onciale anglo-saxone | 
 |:---:|
 |![](links/1-Historique18.jpg) |
 |:---:|
-| Abc | 
+| VIIe — XIIe siècle | 
 
-| Abc | 
+| Semi-cursive romaine | 
 |:---:|
 |![](links/1-Historique19.jpg) |
 |:---:|
-| Abc | 
+| VIIe — IXe siècle | 
 
-| Abc | 
+| Minuscule lombarde | 
 |:---:|
 |![](links/1-Historique20.jpg) |
 |:---:|
-| Abc | 
+| VIIe — IXe siècle | 
 
-| Abc | 
+| Minuscule mérovingienne | 
 |:---:|
 |![](links/1-Historique21.jpg) |
 |:---:|
-| Abc | 
+| VIIe — VIIIe siècle | 
 
-| Abc | 
+| Minuscule wisigothique | 
 |:---:|
 |![](links/1-Historique22.jpg) |
 |:---:|
-| Abc | 
+| VIIIe — XIe siècle | 
 
-| Abc | 
+| Minuscule carolingienne | 
 |:---:|
 |![](links/1-Historique23.jpg) |
 |:---:|
-| Abc | 
+| VIIIe — XIe siècle | 
 
-| Abc | 
+| Minuscule bénéventaine | 
 |:---:|
 |![](links/1-Historique24.jpg) |
 |:---:|
-| Abc | 
+| IXe — XIIIe siècle | 
 
-| Abc | 
+| Minuscule carolingienne tardive | 
 |:---:|
 |![](links/1-Historique25.jpg) |
 |:---:|
-| Abc | 
+| XIe — XIIe siècle | 
 
-| Abc | 
+| Minuscule gothique primitive | 
 |:---:|
 |![](links/1-Historique26.jpg) |
 |:---:|
-| Abc | 
+| XIIe — XIIIe siècle | 
 
-| Abc | 
+| Minuscule gothique | 
 |:---:|
 |![](links/1-Historique27.jpg) |
 |:---:|
-| Abc | 
+| XIIIe — XVe siècle | 
 
-| Abc | 
+| Minuscule cursive (bâtarde) | 
 |:---:|
 |![](links/1-Historique28.jpg) |
 |:---:|
-| Abc | 
+| XIIIe — XVe siècle | 
 
-| Abc | 
+| Rotunda | 
 |:---:|
 |![](links/1-Historique29.jpg) |
 |:---:|
-| Abc | 
+| XIIIe — XVe siècle | 
 
-| Abc | 
+| Textura | 
 |:---:|
 |![](links/1-Historique30.jpg) |
 |:---:|
-| Abc | 
+| XIVe — XVe siècle | 
 
-| Abc | 
+| Gothique primitive (Italie) | 
 |:---:|
 |![](links/1-Historique31.jpg) |
 |:---:|
-| Abc | 
+| XIVe siècle | 
 
-| Abc | 
+| Minuscule humaniste | 
 |:---:|
 |![](links/1-Historique32.jpg) |
 |:---:|
-| Abc | 
+| XVe — XVIe siècle | 
 
-| Abc | 
+| Humaniste cursive (italique) | 
 |:---:|
 |![](links/1-Historique33.jpg) |
 |:---:|
-| Abc | 
+| XVe — XVIe siècle | 
 
-| Abc | 
+| Schwabacher | 
 |:---:|
 |![](links/1-Historique34.jpg) |
 |:---:|
-| Abc | 
+| XVIe siècle | 
 
-| Abc | 
+| Fraktur (Allemagne) | 
 |:---:|
 |![](links/1-Historique35.jpg) |
 |:---:|
-| Abc | 
+| XVIe — XVIIe siècle | 
 
-| Abc | 
+| écriture de chancellerie / Main courante (Allemagne) | 
 |:---:|
 |![](links/1-Historique36.jpg) |
 |:---:|
-| Abc | 
+| XVIe siècle | 
 
-| Abc | 
+| Garamond | 
 |:---:|
 |![](links/1-Historique37.jpg) |
 |:---:|
-| Abc | 
+| 1531 | 
 
-| Abc | 
+| Caslon | 
 |:---:|
 |![](links/1-Historique38.jpg) |
 |:---:|
-| Abc | 
+| 1725 | 
 
-| Abc | 
+| Baskerville | 
 |:---:|
 |![](links/1-Historique39.jpg) |
 |:---:|
-| Abc | 
+| Milieu du XVIIIe siècle | 
 
-| Abc | 
+| Fournier | 
 |:---:|
 |![](links/1-Historique40.jpg) |
 |:---:|
-| Abc | 
+| Milieu du XVIIIe siècle | 
 
-| Abc | 
+| Didot | 
 |:---:|
 |![](links/1-Historique41.jpg) |
 |:---:|
-| Abc | 
+| Milieu du XVIIIe siècle | 
 
-| Abc | 
+| Bodoni | 
 |:---:|
 |![](links/1-Historique42.jpg) |
 |:---:|
-| Abc | 
+| 1788 (1818) | 
 
-| Abc | 
+| Walbaum | 
 |:---:|
 |![](links/1-Historique43.jpg) |
 |:---:|
-| Abc | 
+| 1803 | 
 
-| Abc | 
+| Caslon égyptienne (première sans-sérif) | 
 |:---:|
 |![](links/1-Historique44.jpg) |
 |:---:|
-| Abc | 
+| 1816 | 
 
-| Abc | 
+| Italienne | 
 |:---:|
 |![](links/1-Historique45.jpg) |
 |:---:|
-| Abc | 
+| 1821 | 
 
-| Abc | 
+| Clarendon | 
 |:---:|
 |![](links/1-Historique46.jpg) |
 |:---:|
-| Abc | 
+| 1844 | 
 
-| Abc | 
+| Akzidenz Grotesk | 
 |:---:|
 |![](links/1-Historique47.jpg) |
 |:---:|
-| Abc | 
+| 1898 | 
 
-| Abc | 
+| Gill | 
 |:---:|
 |![](links/1-Historique48.jpg) |
 |:---:|
-| Abc | 
+| 1927 | 
 
-| Abc | 
+| Futura | 
 |:---:|
 |![](links/1-Historique49.jpg) |
 |:---:|
-| Abc | 
+| 1927 | 
 
-| Abc | 
+| Times New Roman | 
 |:---:|
 |![](links/1-Historique50.jpg) |
 |:---:|
-| Abc | 
+| 1931 | 
 
-| Abc | 
+| Folio | 
 |:---:|
 |![](links/1-Historique51.jpg) |
 |:---:|
-| Abc | 
+| 1954 | 
 
-| Abc | 
+| Univers | 
 |:---:|
 |![](links/1-Historique52.jpg) |
 |:---:|
-| Abc | 
+| 1957 | 
 
-| Abc | 
+| Helvetica | 
 |:---:|
 |![](links/1-Historique53.jpg) |
 |:---:|
-| Abc | 
+| 1958 | 
 
-| Abc | 
+| OCR-B | 
 |:---:|
 |![](links/1-Historique54.jpg) |
 |:---:|
-| Abc | 
+| 1963 | 
 
-| Abc | 
+| Frutiger | 
 |:---:|
 |![](links/1-Historique55.jpg) |
 |:---:|
-| Abc | 
+| 1970 | 
 
-| Abc | 
+| Rotis | 
 |:---:|
 |![](links/1-Historique56.jpg) |
 |:---:|
-| Abc |
+| 1988 |
 
 
 
