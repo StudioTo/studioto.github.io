@@ -66,7 +66,7 @@
 
 |![](links/1-Language_v2108.gif)|
 |:---:|
-| L'intégration de différentes phrases dans la dimension de lecture |
+| L'intégration de différentes phrases dans la dimension de la lecture |
 
 # Lecture  
 
