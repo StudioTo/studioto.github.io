@@ -1,7 +1,8 @@
 # 💬 Language
 
+- [Typographie](#typographie)
 - [Communication](#communication)
-- [Unités typographiques ](#les-unités-typographiques)
+- [Unités typographiques](#les-unités-typographiques)
 - [Lecture](#lecture)
 - [Lisibilité vs Impact](#lisibilité-vs-impact)
 
