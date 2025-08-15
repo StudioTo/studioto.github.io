@@ -10,6 +10,12 @@
 
 # &nbsp;
 
+# Applications  
+
+|![](links/1-Language_v217.gif)|
+|:---:|
+| Abc |
+
 # Communication  
 
 |![](links/1-Language_v2.gif)|
@@ -25,12 +31,6 @@
 |![](links/1-Language_v210.jpg)|
 |:---:|
 | Échelle d'iconicité |
-
-# Applications  
-
-|![](links/1-Language_v217.gif)|
-|:---:|
-| Abc |
 
 # Unités typographiques  
 
