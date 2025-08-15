@@ -7,6 +7,8 @@
 # &nbsp;
 # &nbsp;
 
+# 3 notes / semestre  
+
 # Exercice technique  
 
 |![](links/Eval28.gif) |
