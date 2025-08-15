@@ -1,7 +1,7 @@
 # 💬 Language
 
 - [Communication](#communication)
-- [Les unités typographiques ](#les-unités-typographiques)
+- [Unités typographiques ](#les-unités-typographiques)
 - [Lecture](#lecture)
 - [Lisibilité vs Impact](#lisibilité-vs-impact)
 
@@ -37,7 +37,7 @@
 |:---:|
 | La signalétique est une forme de langage universel, capable de communiquer à tous.tes et de dépasser les frontières linguistiques |
 
-# Les unités typographiques  
+# Unités typographiques  
 
 |![](links/1-Language_v252.gif)|
 |:---:|
