@@ -11,7 +11,7 @@
 
 # Concret / Abstrait  
 
-|![](links/1-Language_v211.gif)|
+|![](links/1-Language_v215.jpg)|
 |:---:|
 | Evolution de l'écriture |
 
@@ -90,8 +90,6 @@
 |![](links/1-Language_v2161.gif)|
 |:---:|
 | Abc |
-
-a
 
 
 
