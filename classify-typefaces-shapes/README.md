@@ -5,17 +5,17 @@
 
 # Tableau de classification
 
-![alt text](links/2-Anatomique.jpg)
+|![](links/2-Anatomique5.gif) |
+|:---:|
+| Abc | 
+
+# Matrice squelette / graisse / enveloppe
 
 |![](links/2-Anatomique.jpg) |
 |:---:|
 | Abc | 
 
 |![](links/2-Anatomique2.gif) |
-|:---:|
-| Abc | 
-
-|![](links/2-Anatomique5.gif) |
 |:---:|
 | Abc | 
 
