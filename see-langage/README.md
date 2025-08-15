@@ -4,10 +4,10 @@
   
 # &nbsp;
 
-- [Scripte](#scripte)
-- [Scripte](#scripte)
-- [Scripte](#scripte)
-- [Scripte](#scripte)
+- [Communication](#communication)
+- [Les unités typographiques ](#les-unités-typographiques)
+- [Lecture](#lecture)
+- [Lisibilité vs Impact](#lisibilité-vs-impact)
 
 # &nbsp;
 
@@ -15,73 +15,65 @@
 
 |![](links/1-Language_v217.gif)|
 |:---:|
-| Abc |
+| L'omniprésence de la typographie dans notre univers visuel |
 
 # Communication  
 
 |![](links/1-Language_v2.gif)|
 |:---:|
-| Les signes signifient un état ou l'intention de l'émetteur (expression, symptôme), influencent le récepteur (appel, signal) et transmettent des informations sur des objets et des états de fait (représentation, symbole) |
-
-# Écriture
+| Les signes constituent le vecteur par lequel un émetteur transmet un message à un récepteur |
 
 |![](links/1-Language_v215.jpg)|
 |:---:|
-| L'écriture est l'expression et la représentation du langage |
+| Le langage est un système de signes permettent d’exprimer des idées, des émotions ou des informations |
 
 |![](links/1-Language_v210.jpg)|
 |:---:|
 | Les lettres sont des signes abstraits qui représentent des sons |
 
-# Unités typographiques  
+|![](links/1-Language_v2116.gif)|
+|:---:|
+| Les lettres n'acquièrent un sens que lorsqu'elles sont combinées |
+
+|![](links/1-Language_v2120.gif)|
+|:---:|
+| Toutes les langues peuvent être codifiés dans n'importe quel alphabet (scripte) | 
+
+|![](links/1-Language_v2127.gif)|
+|:---:|
+| La signalétique est une forme de langage universel, capable de communiquer à tous.tes et de dépasser les frontières linguistiques |
+
+# Les unités typographiques  
 
 |![](links/1-Language_v252.gif)|
 |:---:|
 | Le texte et la typographie sont des éléments qui s'interpénètrent pour former un tout supéfieur. La parole se déroule dans le temps et l'écriture dans l'espace |
 
-# 1. Signe  
+# 1. Le signe  
 
 |![](links/1-Language_v272.gif)|
 |:---:|
 | Les signes (ce qui est signifié) sont les particules élémentaires du langage écrit |
 
-# 2. Mot  
+# 2. Le mot  
 
 |![](links/1-Language_v279.gif)|
 |:---:|
 | L'intégration de différents signes dans le mot |
 
-# 3. Ligne  
+# 3. La ligne  
 
 |![](links/1-Language_v285.gif)|
 |:---:|
 | L'intégration de différents mots dans la phrase |
 
-# 4. Colonne  
+# 4. La colonne  
 
 |![](links/1-Language_v2108.gif)|
 |:---:|
 | L'intégration de différentes phrases dans la dimension de lecture |
 
-# Signification  
-
-|![](links/1-Language_v2116.gif)|
-|:---:|
-| Les lettres n'acquièrent un sens que lorsqu'elles sont combinées |
-
-# Langue  
-
-|![](links/1-Language_v2120.gif)|
-|:---:|
-| En principe, toutes les langues peuvent être codifiés dans n'importe quel alphabet (scripte) |
-
-# Symboles  
-
-|![](links/1-Language_v2127.gif)|
-|:---:|
-| La diffusion d'informations n'est plus réservée, à notre époque, aux livres et aux revues illustrées. |
-
-# Lisibilité  
+# Lecture  
 
 |![](links/1-Language_v2133.gif)|
 |:---:|
@@ -91,7 +83,7 @@
 |:---:|
 | Que l'on modifie la longueur des lignes, le corps aussi bien que la forme du caractère typographique, la longueur des saccades et leur fréquence changent |
 
-# Lisibilité / Impact  
+# Lisibilité vs Impact  
 
 |![](links/1-Language_v2161.gif)|
 |:---:|
