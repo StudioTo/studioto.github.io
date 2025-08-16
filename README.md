@@ -92,7 +92,7 @@
 &nbsp;
 &nbsp;
 
-**Evaluation**
+**Organisation**
 ## [🎯 Objectifs](/evaluate-objectives)
 ## [📊 Critères](/evaluate-criteria)
 ## [🪜 Méthode](/evaluate-method)
