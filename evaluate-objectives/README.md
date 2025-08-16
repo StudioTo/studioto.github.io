@@ -1,6 +1,6 @@
 # 🎯 Objectifs
 
-- [Exercice technique](#Exercice-technique)
+<!-- - [Exercice technique](#Exercice-technique) -->
 
 # &nbsp;
 # &nbsp;
