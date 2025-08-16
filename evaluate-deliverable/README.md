@@ -10,7 +10,7 @@
 
 |![](links/Eval2.gif) |
 |:---:|
-| Abc | 
+| Au début du cours = Au mur + Sur Teams | 
 
 Échéance
 
@@ -39,10 +39,10 @@ Digital
 
 |![](links/Eval7.gif) |
 |:---:|
-| Abc |
+| GRXXX_Nom_Prénom_Exercice |
 
 # Qualité des scans
 
 |![](links/Eval19.gif) |
 |:---:|
-| Abc | 
+| Orientation, netteté, contrastes | 
