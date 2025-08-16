@@ -84,7 +84,7 @@
 &nbsp;
 &nbsp;
 
-**Matériel**
+**Technique**
 ## [⚒️ Outils](/use-material)
 ## [🖨️ Scanner](/use-scanner)
 ## [🧰 Typothèque](http://typo.eracom.ch)
