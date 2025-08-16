@@ -29,10 +29,10 @@
 
 |![](links/Eval34.gif) |
 |:---:|
-| Ampleur de la recherche, itérations, variété, regard critique | 
+| Recherche, itérations, variété, regard critique | 
 
 ## 6 pts Production  
 
 |![](links/Eval39.gif) |
 |:---:|
-| Précision du concept, impact graphique, propreté technique | 
+| Synthèse, impact graphique, propreté technique | 
