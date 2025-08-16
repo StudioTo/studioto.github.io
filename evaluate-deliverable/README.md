@@ -1,8 +1,7 @@
 # 🗂️ Rendus
 
-- [Analogue & Digital](#Analogue-&-Digital)
 - [Nomenclature](#Nomenclature)
-- [Qualité des scans](#Qualité-des-scans)
+- [À éviter](#À-éviter)
 
 ### &nbsp;
 
