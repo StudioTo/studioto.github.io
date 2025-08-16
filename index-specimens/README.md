@@ -3,7 +3,7 @@
 ### &nbsp;
 
 
-        |
+
 # Daylight Fonts  
 https://e-daylight.jp/fonts
 
