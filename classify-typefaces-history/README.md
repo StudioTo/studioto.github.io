@@ -3,11 +3,11 @@
   
 ### &nbsp;
 
-# Evolution des formes en fonction de la technologie
+# Formes d’écritures à travers l'histoire
 
 |![](links/1-Historique.gif) |
 |:---:|
-| Abc | 
+| Les formes d’écriture révèlent l’esprit propre à chaque siècle | 
 
 # Tableau de classification
 
