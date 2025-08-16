@@ -7,7 +7,6 @@
 # &nbsp;
 # &nbsp;
 
-# 3 notes / semestre  
 
 # Exercice technique  
 
@@ -39,7 +38,19 @@
 |:---:|
 | Abc | 
 
-# Processus  
+# Produire  
+
+|![](links/Eval44.gif) |
+|:---:|
+| Il faut produire une idée pour pouvoir l'évaluer |
+
+# Collaborer  
+
+|![](links/Eval44.gif) |
+|:---:|
+| Il faut produire une idée pour pouvoir l'évaluer |
+
+# Prendre du plaisir  
 
 |![](links/Eval44.gif) |
 |:---:|
