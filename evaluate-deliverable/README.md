@@ -44,4 +44,4 @@
 
 |![](links/Eval19.gif) |
 |:---:|
-| Orientation, netteté, contrastes | 
+| Mauvaise orientation, manque de netteté ou de contraste | 
