@@ -47,7 +47,7 @@
 ## [🌀 Optique](/study-sign-optics)
 ## [🎛️ Variations](/study-sign-variations)
 **Mot**
-## [🎨 Texture](/set-word-texture)
+## [🪨 Texture](/set-word-texture)
 ## [🔡 Graphie](/set-word-case)
 ## [↔️ Composition](/set-word-composition)
 ## [📶 Articulation](/set-word-articulation)
@@ -66,10 +66,10 @@
 &nbsp;
 
 **Aspects formels**
-## [✏️ Contraste](/form-contrast)
-## [✏️ Rythme](/form-rythm)
-## [✏️ Proportions](/form-proportions)
-## [✏️ Couleurs](/form-colors)
+## [🌓 Contraste](/form-contrast)
+## [🎶 Rythme](/form-rythm)
+## [📐 Proportions](/form-proportions)
+## [🌈 Couleurs](/form-colors)
 
 &nbsp;
 &nbsp;
