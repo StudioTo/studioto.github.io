@@ -3,17 +3,17 @@
   
 ### &nbsp;
 
+# Tableau
+
+|![](links/1-Historique0.jpg) |
+|:---:|
+| Abc | 
+
 # Formes d’écritures à travers l'histoire
 
 |![](links/1-Historique.gif) |
 |:---:|
 | Les formes d’écriture révèlent l’esprit propre à chaque siècle | 
-
-# Tableau de classification
-
-|![](links/1-Historique0.jpg) |
-|:---:|
-| Abc | 
 
 # Timelapse
 

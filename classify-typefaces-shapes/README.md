@@ -3,13 +3,13 @@
   
 ### &nbsp;
 
-# Tableau de classification
+# Tableau
 
 |![](links/2-Anatomique5.gif) |
 |:---:|
 | Abc | 
 
-# Matrice squelette / graisse / enveloppe
+# Squelette - Graisse - Enveloppe
 
 |![](links/2-Anatomique.jpg) |
 |:---:|
