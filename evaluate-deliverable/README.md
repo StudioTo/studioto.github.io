@@ -41,7 +41,7 @@
 |:---:|
 | GRXXX_Nom_Prénom_Exercice |
 
-# Qualité des scans
+# À éviter
 
 |![](links/Eval19.gif) |
 |:---:|
