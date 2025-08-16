@@ -2,7 +2,6 @@
 
 - [Exercice technique](#Exercice-technique)
 - [Exercice créatif](#Exercice-créatif)
-- [Processus](#Processus)
 
 # &nbsp;
 # &nbsp;
@@ -24,34 +23,16 @@
 
 |![](links/Eval29.gif) |
 |:---:|
-| Abc | 
+| Autonomie, compréhension du brief, gestion du temps et du matériel | 
 
 ## 6 pts Développement  
 
 |![](links/Eval34.gif) |
 |:---:|
-| Abc | 
+| Ampleur de la recherche, itérations, variété, regard critique | 
 
 ## 6 pts Production  
 
 |![](links/Eval39.gif) |
 |:---:|
-| Abc | 
-
-# Produire  
-
-|![](links/Eval44.gif) |
-|:---:|
-| Il faut produire une idée pour pouvoir l'évaluer |
-
-# Collaborer  
-
-|![](links/Eval44.gif) |
-|:---:|
-| Il faut produire une idée pour pouvoir l'évaluer |
-
-# Prendre du plaisir  
-
-|![](links/Eval44.gif) |
-|:---:|
-| Il faut produire une idée pour pouvoir l'évaluer |
+| Précision du concept, impact graphique, propreté technique | 
