@@ -65,6 +65,15 @@
 &nbsp;
 &nbsp;
 
+**Aspects formels**
+## [✏️ Contraste](/form-contrast)
+## [✏️ Rythme](/form-rythm)
+## [✏️ Proportions](/form-proportions)
+## [✏️ Couleurs](/form-colors)
+
+&nbsp;
+&nbsp;
+
 **Dessin de caractères**
 ## [✏️ Construction](/construct-typeface)
 ## [📸 Numérisation](/digitize-typeface)
