@@ -12,19 +12,19 @@
 |:---:|
 | Au début du cours = Au mur + Sur Teams | 
 
-Échéance
+**Échéance**
 
 - Dans les 5 premières minutes du cours (pas plus)
 - Scotché au mur
 - Déposé sur teams
 
-Analogue
+**Analogue**
 
 - Imprimé en noir
 - Au bon format
 - Scotché au mur
 
-Digital
+**Digital**
 
 - Sur Teams, dans le dossier correspondant à l’exercice
 - En un seul fichier (et non plusieurs fichiers dans un dossier)
