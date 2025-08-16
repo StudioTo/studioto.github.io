@@ -5,9 +5,13 @@
 # &nbsp;
 # &nbsp;
 
+# Connaître l'anatomie d'une police de caractères
+
+# Connaître les manières de classer les polices de caractères
+
 # Comprendre les unités typographiques
 
-Comprendre que la typographie assemble des unités prédéterminés (lettres, mots, phrases) pour créer un tout porteur de sens.  
+Comprendre que la typographie assemble des unités prédéterminés (signe, mot, ligne, colonne) pour créer un tout porteur de sens.  
 Identifier comment la combinaison et l’ordre des ces unités influencent la signification.
 
 # Comprendre les niveaux de typographie
