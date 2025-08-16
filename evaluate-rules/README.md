@@ -1,11 +1,13 @@
 # ☝🏻 Règles du cours
 
-- [Exercice technique](#Exercice-technique)
-- [Exercice créatif](#Exercice-créatif)
-- [Processus](#Processus)
+
 
 # &nbsp;
 # &nbsp;
+
+|![](links/2-Anatomique5.gif) |
+|:---:|
+| Abc | 
 
 # Respect
 Parler et agir avec respect envers tous.tes.
