@@ -7,22 +7,22 @@
 
 # Concevoir la typographie de manière intégrale
 
-Comprendre que la typographie assemble des unités prédéterminés (lettres, mots, phrases) pour créer un tout porteur de sens.
+Comprendre que la typographie assemble des unités prédéterminés (lettres, mots, phrases) pour créer un tout porteur de sens.  
 Identifier comment la combinaison et l’ordre des ces unités influencent la signification.
 
 # Comprendre les deux niveaux de la typographie
 
-Microtypographie : détails des signes, des mots, des lignes et des espaces.
-Macrotypographie : organisation de l’espace du format, des colonnes, de la grille, des hiérarchies.
+Microtypographie: détails des signes, des mots, des lignes et des espaces.  
+Macrotypographie: organisation de l’espace du format, des colonnes, de la grille, des hiérarchies.
 
 # Comprendre la tension entre lisibilité et impact visuel
 
-Reconnaître que la forme sert avant tout la réception optimale du message.
+Reconnaître que la forme sert avant tout la réception optimale du message.  
 Dépasser l'esthétisme pour privilégier la fonction.
 
 # Savoir faire des choix typographiques pertinents
 
-Comprendre que chaque caractère porte une tonalité et influence la perception du texte.
+Comprendre que chaque caractère porte une tonalité et influence la perception du texte.  
 Assumer que la neutralité absolue n’existe pas ; toute typographie convoie un sens.
 
 # Développer un regard critique et créatif
@@ -31,7 +31,7 @@ Adapter les solutions aux contextes et contraintes spécifiques.
 
 # Maîtriser la composition typographique
 
-Acquérir la connaissance et la maîtrise des outils, techniques et règles permettant de concevoir et réaliser des compositions typographiques professionnelles
+Acquérir la connaissance et la maîtrise des outils, techniques et règles permettant de concevoir et réaliser des compositions typographiques professionnelles.
 
 <!-- # Exercice technique  
 
