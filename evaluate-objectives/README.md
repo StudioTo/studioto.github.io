@@ -5,12 +5,12 @@
 # &nbsp;
 # &nbsp;
 
-# Concevoir la typographie de manière intégrale
+# Comprendre les unités typographiques
 
 Comprendre que la typographie assemble des unités prédéterminés (lettres, mots, phrases) pour créer un tout porteur de sens.  
 Identifier comment la combinaison et l’ordre des ces unités influencent la signification.
 
-# Comprendre les deux niveaux de typographie
+# Comprendre les niveaux de typographie
 
 Microtypographie: détails des signes, des mots, des lignes et des espaces.  
 Macrotypographie: organisation de l’espace du format, des colonnes, de la grille, des hiérarchies.
