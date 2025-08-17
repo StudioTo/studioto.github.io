@@ -8,18 +8,15 @@ La composition du mot se réfère à l’organisation globale de ses lettres dan
 
 # Direction  
 
-|![](links/T0-Mot15.gif) |
+|![](links/0-Mot35.gif) |
 |:---:|
-| Abc |
+| En typographie occidentale, le sens de lecture se fait de gauche à droite et de haut en bas, mais il existe d'autres systèmes  |
 
 # Inter-lettrage  
 
-|![](links/0-Mot2.gif) |
+|![](links/0-Mot43.gif) |
 |:---:|
-| Abc |
-
-
-
+| L’ajustement de l’espacement des lettres doit trouver un équilibre entre lisibilité et impact graphique |
 
 ### Sources
 
