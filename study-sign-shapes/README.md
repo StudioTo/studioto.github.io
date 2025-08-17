@@ -49,15 +49,15 @@
 
 ## Ouvertures
 
-| ![](links/Typo_Parameters_22.jpg) |
+| ![](links/1-Formes25.jpg) |
 |:---:|
-| Variation de l'effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |
-| ![](links/Typo_Parameters_22.jpg) |
+| Ouvertures ouvertes          |
+| ![](links/1-Formes26.jpg) |
 |:---:|
-| Variation de l'effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |
-| ![](links/Typo_Parameters_22.jpg) |
+| Ouvertures semi-fermées           |
+| ![](links/1-Formes26.jpg) |
 |:---:|
-| Variation de l'effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |
+| Ouvertures fermées           |
 
 ## Ornements
 
