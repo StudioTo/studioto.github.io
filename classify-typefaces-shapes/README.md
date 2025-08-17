@@ -32,10 +32,11 @@ Squelette
     └── Linéaire  (sans)
 
         Enveloppe
-          ├── Fûts
           └── Terminaisons
               ├── Avec (sérifs)
               └── Sans (sérifs)
+          ├── Fûts
+          ├── Ouvertures
           └── Ornements
 ```
 

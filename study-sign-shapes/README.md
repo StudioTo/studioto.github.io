@@ -21,7 +21,7 @@
 
 | ![](links/Typo_Parameters_05.jpg) | ![](links/Typo_Parameters_06.jpg) | ![](links/Typo_Parameters_07.jpg) |
 |:---:|:---:|:---:|
-| Principe dynamique           | Principe statique           | Principe géométrique           |
+| Squelette dynamique           | Squelette statique           | Squelette géométrique           |
 
 # Graisse
 
@@ -31,23 +31,33 @@
 
 # Enveloppe
 
-## Fûts
-
-| ![](links/Typo_Parameters_18.jpg) | ![](links/Typo_Parameters_19.jpg) | ![](links/Typo_Parameters_20.jpg) |
-|:---:|:---:|:---:|
-| Concaves           | Rectilignes           | Convexes           |
-
 ## Terminaisons
 
 | ![](links/Typo_Parameters_10.jpg) | ![](links/Typo_Parameters_11.jpg) |
 |:---:|:---:|
 | Avec (empattements)           | Sans (empattements)           |
 
-## Empattements
-
 | ![](links/Typo_Parameters_21.jpg) |
 |:---:|
 | Variation de la forme des empattements (sans, rectangulaire, triangulaire, transitionnel, intersection)           |
+
+## Fûts
+
+| ![](links/Typo_Parameters_18.jpg) | ![](links/Typo_Parameters_19.jpg) | ![](links/Typo_Parameters_20.jpg) |
+|:---:|:---:|:---:|
+| Concaves           | Rectilignes           | Convexes           |
+
+## Ouvertures
+
+| ![](links/Typo_Parameters_22.jpg) |
+|:---:|
+| Variation de l'effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |
+| ![](links/Typo_Parameters_22.jpg) |
+|:---:|
+| Variation de l'effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |
+| ![](links/Typo_Parameters_22.jpg) |
+|:---:|
+| Variation de l'effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |
 
 ## Ornements
 
