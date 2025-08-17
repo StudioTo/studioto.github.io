@@ -34,7 +34,6 @@ Squelette
         Enveloppe
         ├── Avec (sérifs)
         └── Sans (sérifs)
-
 ```
 
 # Squelette Dynamique {#squelette-dynamique}
