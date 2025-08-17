@@ -15,6 +15,10 @@
 |:---:|
 | Les formes d’écriture reflètent l’esprit propre à chaque époque | 
 
+|![](links/2-Historique_up.jpg) |
+|:---:|
+| L'outil utilisé pour écrire définit certains aspects de la forme des signes | 
+
 # Timelapse
 
 |![](links/1-Historique9.gif) |
