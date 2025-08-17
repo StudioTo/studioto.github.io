@@ -1,6 +1,5 @@
 # 🦠 Micro-typographie
 
-## Index
 - [Langue](#-langue)
   - [Les guillemets](#-les-guillemets)
 - [Ponctuation](#-ponctuation)
@@ -28,7 +27,6 @@
   - [Formes sensibles à la casse](#-formes-sensibles-a-la-casse-case)
   - [Stylistic set](#-stylistic-set)
 
-  
 &nbsp;
 
 # Langue {#-langue}  
