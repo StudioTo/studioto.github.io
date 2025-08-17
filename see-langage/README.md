@@ -13,7 +13,7 @@
 
 |![](links/1-Language_v217.gif)|
 |:---:|
-| L'omniprésence de la typographie dans notre univers visuel |
+| La langue est notre principal moyen de communication... et la typographie la rend lisible. C'est pourquoi nous produisons et consommons chaque jour des créations typographiques |
 
 # Communication  
 
