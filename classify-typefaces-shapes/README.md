@@ -11,18 +11,18 @@
 
 # Squelette - Graisse - Enveloppe
 
-|![](links/Era_Typ_Class_01.jpg) |
+|![](links/1-Anatomique.gif) |
 |:---:|
 | Squelette - Graisse - Enveloppe           |
 
-1.  **Squelette**
+A.  **Squelette**
     -  Dynamique  
     -  Statique  
     -  Géométrique  
-    2.  **Graisse**
+    B.  **Graisse**
         -  Contrasté (avec)
         -  Linéaire (sans)
-        3.  **Enveloppe**
+        C.  **Enveloppe**
             -  Avec (sérifs)
             -  Sans (sérifs)
 
