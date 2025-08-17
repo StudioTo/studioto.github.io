@@ -7,49 +7,49 @@
 
 |![](links/3-Architecturale2.jpg) |
 |:---:|
-| Abc | 
+| Gravure dans la pierre | 
 
 # Manuaires  
 
 |![](links/3-Architecturale3.jpg) |
 |:---:|
-| Abc | 
+| Calligraphie | 
 
 # Cursives  
 
 |![](links/3-Architecturale4.jpg) |
 |:---:|
-| Abc | 
+| Calligraphie | 
 
 # Sérifs  
 
 |![](links/3-Architecturale5.jpg) |
 |:---:|
-| Abc | 
+| Impression de caractères mobiles | 
 
 # Slab-Sérifs  
 
 |![](links/3-Architecturale6.jpg) |
 |:---:|
-| Abc | 
+| Composition à chaud | 
 
 # Sans-Sérifs  
 
 |![](links/3-Architecturale7.jpg) |
 |:---:|
-| Abc | 
+| Photocomposition | 
 
 # Expressives  
 
 |![](links/3-Architecturale8.jpg) |
 |:---:|
-| Abc | 
+| Composition digitale | 
 
 # Non-alphabétiques  
 
 |![](links/3-Architecturale9.jpg) |
 |:---:|
-| Abc |
+| Symboles & Ornements |
 
 ### Sources
 
