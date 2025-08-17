@@ -104,7 +104,7 @@
 &nbsp;
 &nbsp;
 
-**Organisation**
+**Cours**
 ## [🎯 Objectifs](/evaluate-objectives)
 ## [📊 Critères](/evaluate-criteria)
 ## [🪜 Méthode](/evaluate-method)
