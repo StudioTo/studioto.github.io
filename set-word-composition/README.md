@@ -1,6 +1,6 @@
 # ↔️ Composition du mot
 
-La composition du mot se réfère à l’organisation globale de ses lettres dans l’espace. Elle détermine le rythme visuel et la cohérence d’ensemble dans la lecture.
+La composition du mot se réfère à l’organisation globale de ses lettres dans l’espace. Elle détermine le rythme visuel et la cohérence d’ensemble dans la lecture. En fonction du caractère choisi, les intervalles horizontales et verticales doivent être adaptées.
 
 → Le rythme dans la parole correspond à l’arrangement spatial dans l’écrit
   
