@@ -33,7 +33,7 @@
 &nbsp;
 
 **Classification**
-## [🦴 Formelle](/classify-typefaces-shapes)
+## [🦴 Anatomique](/classify-typefaces-shapes)
 ## [🕰️ Historique](/classify-typefaces-history)
 ## [✍🏻 Evolution de l'écriture](/track-writing-evolution)
 ## [🏢 Evolution de l'architecture](/track-architecture-evolution)
