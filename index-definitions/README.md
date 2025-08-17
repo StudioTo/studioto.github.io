@@ -41,7 +41,7 @@ Les espaces sont des intervalles typographiques de différentes sortes (fine, in
 
 [ WOFF, WOFF2, EOT ] Les polices destinées à un usage web sont compressées pour être utilisées directement sur des sites internet grâce à des langages comme le HTML et le CSS. Elles sont hébergées sur un serveur et chargées par le navigateur des utilisateurs lorsqu’ils visitent une page web.
 
-#  
+# &nbsp;  
 
 |![](links/3-Terminologie30.jpg) |
 |:---:|
@@ -75,7 +75,7 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 
 Une licence propriétaire est un contrat qui accorde à l’utilisateur.rice le droit d’utiliser une fonte, mais sans en posséder le code source ou les droits de modification et de redistribution. Les restrictions sont souvent strictes: l’utilisateur.rice ne peut pas copier, modifier, ni partager le produit sans autorisation explicite.
 
-#  
+# &nbsp;  
 
 |![](links/3-Terminologie34.jpg) |
 |:---:|
@@ -93,7 +93,7 @@ La macro-typographie désigne l’organisation globale d’un texte dans l’esp
 
 La micro-typographie concerne le soin apporté aux détails fins du texte : gestion des espaces, ponctuation, césures, ligatures, interlettrage, justification, etc. Elle vise à optimiser la lisibilité et l’élégance d’un texte au niveau microscopique.
 
-#  
+# &nbsp;  
 
 |![](links/3-Terminologie35.gif) |
 |:---:|
@@ -119,7 +119,7 @@ Un revival classique est une digitalisation d’une fonte historique de l’hist
 
 Un revival moderne, en revanche, désigne une fonte contemporaine créée à partir du début du XXIe siècle. Il peut s’agir soit d’une réinterprétation d’un modèle classique, soit d’un design totalement original. La réinterprétation implique d’adapter une fonte existante à un nouveau contexte en modifiant certains aspects du dessin (formes des glyphes, graisse, contraste, espacement, jeu de caractères, etc.), afin d’actualiser son usage et son esthétique.
 
-#  
+# &nbsp;  
 
 |![](links/3-Terminologie31.gif) |
 |:---:|
@@ -141,7 +141,7 @@ Un signe est un symbole graphique utilisé en typographie pour représenter une 
 
 Une typothèque est une collection organisée de polices de caractères. Elle peut être personnelle (regroupant les polices installées sur l’ordinateur d’un designer) ou collective (bibliothèques en ligne, plateformes de fonderies, catalogues d’écoles). Elle permet de gérer, comparer et sélectionner des polices pour différents usages.
 
-#  
+# &nbsp;  
 
 |![](links/3-Terminologie_resized.gif) |
 |:---:|
