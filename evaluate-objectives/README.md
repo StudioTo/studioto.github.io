@@ -1,15 +1,22 @@
 # 🎯 Objectifs
 
-«La typographie est vouée à un but clair : transmettre du sens à travers l’usage des caractères. Elle ne peut être exemptée de cette obligation par aucun argument ni aucune autre considération. Un produit imprimé qui ne peut être lu n’a absolument aucune signification.»
+«La typographie est soumise à un but précis: le message imprimé. Elle ne peut d'aucune manière se libérer de cette sujétion. L'ouvrage imprimé qui ne peut être lu devient un non-sens.»
+
 Emil Ruder, 1967
 
 &nbsp;
 
-Nous constatons chaque jour que de plus en plus d'informations visuelles et verbales sont produites, ce qui représente un défi pour tous les concepteurs typographiques. Ce cours porte sur les méthodes d'organisation et de conception de l'information verbale en fonction de son contenu et de son contexte, ainsi que sur les formes de publication sous lesquelles cette information est reçue par le lecteur. Dans le contexte du cours, le terme «typographie» couvre tout le spectre de la communication visuelle avec l'écriture, y compris, par exemple, la conception de publication textuelle, d'affiche, de logo ou de symbole.
+<!-- Chaque jour, de plus en plus d'informations visuelles et textuelles sont produites, ce qui représente un défi pour tous les designers qui font usage de la typographiques. Ce cours porte sur les méthodes d'organisation et de conception de l'information textuelle en fonction de son contenu et de son contexte, ainsi que sur les formats dans lesquels cette information est transmise au lecteur. Le terme «typographie» couvre dans notre cas tout le spectre de la communication visuelle qui implique un message écrit, y compris, par exemple, la conception de publications, d'affiches, de logos et de symboles. -->
 
 # Connaître le vocabulaire de la typographie
 
+Identifier et utiliser avec précision les termes techniques de la discipline. 
+Comprendre ce vocabulaire permet de décrire, d’analyser et de communiquer clairement autour des choix typographiques.
+
 # Connaître la classification des caractères
+
+Reconnaître les grandes familles de caractères et leurs particularités stylistiques.
+Savoir situer un caractère dans cette classification aide à orienter les choix graphiques et à justifier leur pertinence.
 
 # Comprendre les unités typographiques
 
