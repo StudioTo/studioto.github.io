@@ -49,8 +49,8 @@
 **2. Mot**
 ## [🔈 Texture](/set-word-texture)
 ## [🔡 Graphie](/set-word-case)
-## [↔️ Composition](/set-word-composition)
 ## [📶 Articulation](/set-word-articulation)
+## [↔️ Composition](/set-word-composition)
 **3. Ligne**
 ## [🦠 Micro-typo](/set-micro-typo)
 ## [↔️ Composition](/set-line-composition)
