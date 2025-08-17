@@ -28,7 +28,7 @@ Autorisé uniquement si demandés par le cours, sinon ils doivent être hors de 
 S'impliquer et on contribuer au cours.
 
 # Ponctualité
-Arriver à l’heure et prêt à travailler.
+Arriver à l’heure et être prêt à travailler.
 
 # Organisation
 Respecter les échéances fixées pour chaque travail.

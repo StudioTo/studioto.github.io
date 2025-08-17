@@ -7,13 +7,13 @@
 
 |![](links/1-Historique0.jpg) |
 |:---:|
-| Abc | 
+| Classification basée sur l’histoire de la typographie | 
 
 # Période - Technique
 
 |![](links/1-Historique.gif) |
 |:---:|
-| Les formes d’écriture révèlent l’esprit propre à chaque siècle | 
+| Les formes d’écriture reflètent l’esprit propre à chaque époque | 
 
 # Timelapse
 
