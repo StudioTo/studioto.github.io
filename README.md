@@ -65,7 +65,7 @@
 &nbsp;
 &nbsp;
 
-**Aspects formels**
+**Paramètres visuels**
 ## [🌓 Contraste](/form-contrast)
 ## [🎶 Rythme](/form-rythm)
 ## [📐 Proportions](/form-proportions)
