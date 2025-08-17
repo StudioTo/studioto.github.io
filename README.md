@@ -41,22 +41,22 @@
 &nbsp;
 &nbsp;
 
-**Signe**
+**1. Signe**
 ## [🦴 Anatomie](/study-sign-shapes)
 ## [📏 Mesures](/study-sign-measures)
 ## [🌀 Optique](/study-sign-optics)
 ## [🎛️ Variations](/study-sign-variations)
-**Mot**
+**2. Mot**
 ## [🪨 Texture](/set-word-texture)
 ## [🔡 Graphie](/set-word-case)
 ## [↔️ Composition](/set-word-composition)
 ## [📶 Articulation](/set-word-articulation)
-**Ligne**
+**3. Ligne**
 ## [🦠 Micro-typo](/set-micro-typo)
 ## [↔️ Composition](/set-line-composition)
 ## [📶 Articulation](/set-line-articulation)
 ## [⏹️ Mise en forme](set-line-layout)
-**Colonne**
+**4. Colonne**
 ## [🌍 Macro-typo](/set-macro-typo)
 ## [↔️ Composition](/set-column-composition)
 ## [📶 Articulation](/set-column-articulation)
