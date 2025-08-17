@@ -5,14 +5,15 @@
 - [Caractère](#Caractère)
 - [Dénotation vs Conotation](#Dénotation-vs-Conotation)
 - [Explicite vs Implicite](#Explicite-vs-Implicite)
-- [Explicite vs Implicite](#Explicite-vs-Implicite)
-- [Explicite vs Implicite](#Explicite-vs-Implicite)
-# &nbsp;
+- [Axes sémantiques](#Axes-sémantiques)
+- [Typologie](#Typologie)
+
+#  
 
 
 # Booba vs Kiki  
 
-|![](links/2-Semiotique.gif) |
+|![](links/2-Sémiotique.jpg) |
 |:---:|
 | L’expression abstraite (avant même le sens des mots) porte déjà une coloration stéréotypée |
 
@@ -50,24 +51,24 @@
 
 # Axes sémantiques
 
-•	Fort ↔ Faible
-•	Dur ↔ Doux
-•	Sérieux ↔ Ludique
-•	Traditionnel ↔ Moderne
-•	Luxueux ↔ Populaire
-•	Amical ↔ Autoritaire
-•	Chaud ↔ Froid
-•	Stable ↔ Dynamique
-•	Lisible ↔ Expressif
-•	Formel ↔ Informel
+•	Fort ↔ Faible  
+•	Dur ↔ Doux  
+•	Sérieux ↔ Ludique  
+•	Traditionnel ↔ Moderne  
+•	Luxueux ↔ Populaire  
+•	Amical ↔ Autoritaire  
+•	Chaud ↔ Froid  
+•	Stable ↔ Dynamique  
+•	Lisible ↔ Expressif  
+•	Formel ↔ Informel  
 
 # Typologie
 
-•	Émotions: chaleureux, froid, joyeux, triste, rassurant, menaçant.
-•	Société: prestigieux, populaire, féminin, masculin, enfantin, neutre.
-•	Fonction: lisible, confus, stable, dynamique, clair, lourd, léger.
-•	Culture: moderne, classique, rétro, futuriste, artisanal, technologique.
-•	Esthétique: élégant, brut, raffiné, décoratif, minimaliste, grotesque.
+•	Émotions: chaleureux, froid, joyeux, triste, rassurant, menaçant.  
+•	Société: prestigieux, populaire, féminin, masculin, enfantin, neutre.  
+•	Fonction: lisible, confus, stable, dynamique, clair, lourd, léger.  
+•	Culture: moderne, classique, rétro, futuriste, artisanal, technologique.  
+•	Esthétique: élégant, brut, raffiné, décoratif, minimaliste, grotesque.  
 
 
 ### Sources
