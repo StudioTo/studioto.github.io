@@ -29,7 +29,7 @@ Squelette
 
     Graisse
     ├── Contrasté (avec)
-    └── Linéaire (sans)
+    └── Linéaire  (sans)
 
         Enveloppe
         ├── Avec (sérifs)
