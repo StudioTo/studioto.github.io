@@ -56,19 +56,19 @@
 
 |![](links/1-Language_v279.gif)|
 |:---:|
-| L'intégration de différents signes dans le mot |
+| Le mot est une combinaison de signes (lettres) |
 
 # 3. La ligne  
 
 |![](links/1-Language_v285.gif)|
 |:---:|
-| L'intégration de différents mots dans la phrase |
+| La ligne est constituée d'une séquence de mots séparés par des espaces |
 
 # 4. La colonne  
 
 |![](links/1-Language_v2108.gif)|
 |:---:|
-| L'intégration de différentes phrases dans la dimension de la lecture |
+| La colonne est composée de lignes et introduit la dimension de la lecture continue |
 
 # Lecture  
 
