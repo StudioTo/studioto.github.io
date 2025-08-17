@@ -18,6 +18,10 @@ Les différentes épaisseurs du trait d'une police de caractères par rapport à
 
 Il n'existe pas de normalisation unifiée du rapport de graisse. Par conséquent, la version Bold de l'Univers n'a pas le même poids que l'Helvetica Bold ou le style correspondant de la Gill Sans. 
 
+|![](links/4-Variations_up.jpg) |
+|:---:|
+| Abc | 
+
 # Largeur  
 
 Pour des grands volume de texte, il est préférable d'utiliser des largeurs romaines, conçues pour une lisibilité optimale. Dans certains cas, des exigences particulières peuvent justifier l'utilisation de styles condensés ou étendus (manque de place, augmentation de la lisiblité).
@@ -30,7 +34,11 @@ Pour des grands volume de texte, il est préférable d'utiliser des largeurs rom
 |:---:|
 | Abc | 
 
-Comme pour les graisses, il n'existe pas de normalisation unifiée des ratios dans le domaine des largeurs. Chaque famille de polices a ses propres proportions.
+Comme pour les graisses, il n'existe pas de normalisation unifiée des proportions (largeur et hauteur) dans le domaine des largeurs. Chaque famille de polices a ses propres ratios.
+
+|![](links/4-Variations7.gif) |
+|:---:|
+| Abc | 
 
 # Inclinaison  
 
