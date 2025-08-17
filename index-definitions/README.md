@@ -4,6 +4,7 @@
 ### &nbsp;
 
 
+
 # Contre-forme  
 
 L’espace vide à l’intérieur ou autour des lettres (par ex. l’intérieur du «o»).
@@ -111,6 +112,14 @@ Mention placée en bas de page, généralement près du folio, qui indique le ch
 # Scripte 
 
 Un scripts fait référence à un système d’écriture (une langue) que l’on peut utiliser avec une certaine police en fonction des glyphes présents au sein de celle-ci (on parle alors de son « jeu de caractères »). Par exemple, une police peut prendre en charge plusieurs scripts, comme le latin, le cyrillique, l’arabe ou le chinois.
+
+|![](links/3-Terminologie_resized.gif) |
+|:---:|
+| Typothèque |
+
+# Typothèque
+
+Une typothèque est une collection organisée de polices de caractères. Elle peut être personnelle (regroupant les polices installées sur l’ordinateur d’un designer) ou collective (bibliothèques en ligne, plateformes de fonderies, catalogues d’écoles). Elle permet de gérer, comparer et sélectionner des polices pour différents usages.
 
 ### Sources
 
