@@ -1,7 +1,7 @@
 # 🦴 Classification Anatomique
 
 - [Tableau](#tableau)
-- [Squelette - Enveloppe - Terminaisons](#squelette-enveloppe-terminaisons)
+- [Squelette - Graisse - Enveloppe](#squelette-graisse-enveloppe)
 - [Squelette Dynamique](#squelette-dynamique)
 - [Squelette Statique](#squelette-statique)
 - [Squelette Géométrique](#squelette-geometrique)
@@ -15,7 +15,7 @@
 |:---:|
 | Classification basée sur la forme (anatomie) des signes | 
 
-# Squelette - Enveloppe - Terminaisons {#squelette-enveloppe-terminaisons}
+# Squelette - Graisse - Enveloppe {#squelette-graisse-enveloppe}
 
 |![](links/1-Anatomique.gif) |
 |:---:|
@@ -32,8 +32,11 @@ Squelette
     └── Linéaire  (sans)
 
         Enveloppe
-        ├── Avec (sérifs)
-        └── Sans (sérifs)
+          ├── Fûts
+          └── Terminaisons
+              ├── Avec (sérifs)
+              └── Sans (sérifs)
+          └── Ornements
 ```
 
 ## Squelette Dynamique {#squelette-dynamique}
