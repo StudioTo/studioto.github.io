@@ -15,14 +15,14 @@
 |:---:|
 | Squelette - Graisse - Enveloppe           |
 
-A.  **Squelette**
+1.  **Squelette**
     -  Dynamique  
     -  Statique  
     -  Géométrique  
-    B.  **Graisse**
+    2.  **Graisse**
         -  Contrasté (avec)
         -  Linéaire (sans)
-        C.  **Enveloppe**
+        3.  **Enveloppe**
             -  Avec (sérifs)
             -  Sans (sérifs)
 
