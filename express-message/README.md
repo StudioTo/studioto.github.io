@@ -35,14 +35,13 @@
 
 |![](links/0-Colonne20.gif) |
 |:---:|
-| Les caractères, au-delà de leur fonction première de vecteur visuel de la langue, peuvent teinter le texte d'une certaine atmosphère. |
+| Les caractères, au-delà de leur fonction première de vecteur visuel de la langue, peuvent teinter le texte d'une certaine atmosphère |
 
 # Explicite vs Implicite  
 
 |![](links/2-Semiotique26.gif) |
 |:---:|
-| Le texte est réduit à l'essentiel.  
-Ce qui est dit vs ce qui n'est pas dit |
+| Le texte est réduit à l'essentiel: ce qui est dit vs ce qui n'est pas dit |
 
 
 
