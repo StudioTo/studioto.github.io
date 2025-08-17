@@ -1,7 +1,5 @@
 # 📏 Mesures du signe
 
-## Index
-
 - [Mesures verticales](#mesures-verticales)
 - [Mesures horizontales](#mesures-horizontales)
 - [Mesures internes](#mesures-internes)
