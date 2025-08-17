@@ -7,7 +7,7 @@
 
 |![](links/2-Anatomique6.jpg) |
 |:---:|
-| Classification basée sur la forme des signes | 
+| Classification basée sur la forme (anatomie) des signes | 
 
 # Abc
 
