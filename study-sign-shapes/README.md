@@ -17,7 +17,7 @@
 
 | ![](links/Typo_Parameters_02.jpg) | ![](links/Typo_Parameters_03.jpg) | ![](links/Typo_Parameters_04_alt.jpg) |
 |:---:|:---:|:---:|
-| Principe dynamique           | Principe statique           | Principe géométrique           |
+| Principe dynamique: ce principe découle historiquement de la calligraphie humaniste (Renaissance) réalisée à la plume à bec large. La tension diagonale ainsi que les terminaisons ouvertes des lettres résultent de la translation du bec carré, maintenu à un angle fixe.           | Principe statique: ce principe découle historiquement de la calligraphie moderne (Renaissance) réalisée à la plume à bec pointu. La tension verticale ainsi que les terminaisons fermées des lettres résultent de l’expansion du bec carré, qui évolue avec la pression de la main.           | Principe géométrique: Ce principe découle historiquement du constructivisme post-moderne (XXe) réalisée à la plume à bec rond. La construction modulaire des lettres résultent du bec rond qui produit un contraste monolinéaire.           |
 
 | ![](links/Typo_Parameters_05.jpg) | ![](links/Typo_Parameters_06.jpg) | ![](links/Typo_Parameters_07.jpg) |
 |:---:|:---:|:---:|
