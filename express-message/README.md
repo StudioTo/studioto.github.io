@@ -15,6 +15,10 @@
 |:---:|
 | L’expression abstraite (avant même le sens des mots) porte déjà une coloration stéréotypée |
 
+|![](links/2-Semiotique.gif) |
+|:---:|
+| La forme des caractères influence l'interprétation du message |
+
 # Voir vs Lire  
 
 |![](links/2-Semiotique5.gif) |
@@ -25,11 +29,11 @@
 
 |![](links/2-Semiotique10.gif) |
 |:---:|
-| Le message est interprété à travers sa conception typographique: l'information est autant «lue» que «vue» |
+| Le message est interprété à travers sa conception typographique |
 
 |![](links/2-Semiotique16.gif) |
 |:---:|
-| La forme des caractères influence l'interprétation du message |
+| L'information est autant «lue» que «vue» |
 
 # Caractère  
 
@@ -45,24 +49,24 @@
 
 # Axes sémantiques
 
-	•	Fort ↔ Faible
-	•	Dur ↔ Doux
-	•	Sérieux ↔ Ludique
-	•	Traditionnel ↔ Moderne
-	•	Luxueux ↔ Populaire
-	•	Amical ↔ Autoritaire
-	•	Chaud ↔ Froid
-	•	Stable ↔ Dynamique
-	•	Lisible ↔ Expressif
-	•	Formel ↔ Informel
+•	Fort ↔ Faible
+•	Dur ↔ Doux
+•	Sérieux ↔ Ludique
+•	Traditionnel ↔ Moderne
+•	Luxueux ↔ Populaire
+•	Amical ↔ Autoritaire
+•	Chaud ↔ Froid
+•	Stable ↔ Dynamique
+•	Lisible ↔ Expressif
+•	Formel ↔ Informel
 
-  # Typologie
+# Typologie
 
-  •	Émotions: chaleureux, froid, joyeux, triste, rassurant, menaçant.
-	•	Société: prestigieux, populaire, féminin, masculin, enfantin, neutre.
-	•	Fonction: lisible, confus, stable, dynamique, clair, lourd, léger.
-	•	Culture: moderne, classique, rétro, futuriste, artisanal, technologique.
-	•	Esthétique: élégant, brut, raffiné, décoratif, minimaliste, grotesque.
+•	Émotions: chaleureux, froid, joyeux, triste, rassurant, menaçant.
+•	Société: prestigieux, populaire, féminin, masculin, enfantin, neutre.
+•	Fonction: lisible, confus, stable, dynamique, clair, lourd, léger.
+•	Culture: moderne, classique, rétro, futuriste, artisanal, technologique.
+•	Esthétique: élégant, brut, raffiné, décoratif, minimaliste, grotesque.
 
 
 ### Sources
