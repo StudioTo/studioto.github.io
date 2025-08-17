@@ -4,7 +4,7 @@
 
 |![](links/0-Eval2.gif) |
 |:---:|
-| La Linea | 
+| Tenir la ligne | 
 
 # Vousoiement
 Vouvoyer et être vouvoyé en retour.
