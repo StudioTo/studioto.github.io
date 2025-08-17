@@ -2,7 +2,7 @@
 
 - [Mesures verticales](#mesures-verticales)
 - [Mesures horizontales](#mesures-horizontales)
-- [Mesures internes](#mesures-internes)
+- [Mesures des surfaces](#mesures-des-surfaces)
 - [Casse](#casse)
 - [Morphologie](#morphologie)
 
@@ -86,7 +86,7 @@
 |:---:|
 | Le crénage désigne la gestion de l’espace entre certaines paires de lettres pour en améliorer l’harmonie visuelle           |
 
-# Mesures internes {#mesures-internes}
+# Mesures des surfaces {#mesures-des-surfaces}
 
 |![](links/2-Mesures_up2.jpg) |
 |:---:|
