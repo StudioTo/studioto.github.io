@@ -13,11 +13,11 @@
 
 # Expression {#expression}
 
-|![](links/2-Sémiotique.jpg) |
+|![](links/2-Seemiotique.jpg) |
 |:---:|
 | L’expression abstraite (avant même le sens des mots) porte déjà une coloration stéréotypée |
 
-|![](links/2-Sémiotique2.gif) |
+|![](links/2-Semiotique2.gif) |
 |:---:|
 | La forme des caractères influence l'interprétation du message |
 
