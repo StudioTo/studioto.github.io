@@ -5,9 +5,9 @@
 # &nbsp;
 # &nbsp;
 
-# Connaître l'anatomie d'une police de caractères
+# Connaître le vocabulaire de la typographie
 
-# Connaître les manières de classer les polices de caractères
+# Connaître la classification des caractères
 
 # Comprendre les unités typographiques
 
