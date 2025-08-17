@@ -1,9 +1,6 @@
 # ☝🏻 Règles du cours
 
-
-
-# &nbsp;
-# &nbsp;
+&nbsp;
 
 |![](links/0-Eval2.gif) |
 |:---:|
