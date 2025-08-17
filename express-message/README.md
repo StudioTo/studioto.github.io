@@ -1,6 +1,6 @@
 # 💥 Sémiotique
 
-- [Booba vs Kiki](#Booba-vs-Kiki)
+- [Expression](#Expression)
 - [Voir vs Lire](#Voir-vs-Lire)
 - [Caractère](#Caractère)
 - [Dénotation vs Conotation](#Dénotation-vs-Conotation)
@@ -11,7 +11,7 @@
 #  
 
 
-# Booba vs Kiki  
+# Expression 
 
 |![](links/2-Sémiotique.jpg) |
 |:---:|
