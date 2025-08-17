@@ -35,7 +35,7 @@
 
 |![](links/0-Colonne20.gif) |
 |:---:|
-| Les caractères, au-delà de leur fonction première de vecteur visuel de la langue, peuvent également venir teinter le texte d'une certaine atmosphère. |
+| Les caractères, au-delà de leur fonction première de vecteur visuel de la langue, peuvent teinter le texte d'une certaine atmosphère. |
 
 # Explicite vs Implicite  
 
