@@ -36,7 +36,7 @@ Squelette
         └── Sans (sérifs)
 ```
 
-# Squelette Dynamique {#squelette-dynamique}
+## Squelette Dynamique {#squelette-dynamique}
 
 Ce principe découle historiquement de la calligraphie humaniste (Renaissance) réalisée à la plume à bec large. La **tension diagonale** ainsi que les **terminaisons ouvertes** des lettres résultent de la **translation** du bec carré, maintenu à un angle fixe.
 
@@ -46,7 +46,7 @@ Ce principe découle historiquement de la calligraphie humaniste (Renaissance) r
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
-# Squelette Statique {#squelette-statique}
+## Squelette Statique {#squelette-statique}
 
 Ce principe découle historiquement de la calligraphie moderne (Renaissance) réalisée à la plume à bec pointu. La **tension verticale** ainsi que les **terminaisons fermées** des lettres résultent de l’**expansion** du bec carré, qui évolue avec la pression de la main.
 
@@ -56,7 +56,7 @@ Ce principe découle historiquement de la calligraphie moderne (Renaissance) ré
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
-# Squelette Géométrique {#squelette-geometrique}
+## Squelette Géométrique {#squelette-geometrique}
 
 Ce principe découle historiquement du constructivisme post-moderne (XXe) réalisée à la plume à bec rond. La **construction** modulaire des lettres résultent du bec rond qui produit un contraste **monolinéaire**.
 
