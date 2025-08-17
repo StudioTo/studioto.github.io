@@ -6,8 +6,8 @@
 
 |![](links/Tech13.gif) |
 |:---:|
-| Abc | 
+| Scanner sur une imprimante | 
 
 |![](links/Tech20.gif) |
 |:---:|
-| Abc | 
+| Corriger les contrastes sur photoshop | 
