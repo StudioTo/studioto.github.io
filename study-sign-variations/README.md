@@ -32,13 +32,13 @@ Pour des grands volume de texte, il est préférable d'utiliser des largeurs rom
 
 |![](links/4-Variations7.gif) |
 |:---:|
-| Les proportions restent les mêmes au sein d'une famille | 
+| Les proportions (ascendantes et descendantes) restent les mêmes au sein d'une famille | 
 
 Comme pour les graisses, il n'existe pas de normalisation unifiée des proportions (largeur et hauteur) dans le domaine des largeurs. Chaque famille de polices a ses propres ratios.
 
 |![](links/Typo_Parameters_14.jpg) |
 |:---:|
-| Les proportions changent d'une famille à l'autre | 
+| Les proportions (ascendantes et descendantes) changent d'une famille à l'autre | 
 
 # Inclinaison  
 
