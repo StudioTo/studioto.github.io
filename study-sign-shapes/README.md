@@ -1,5 +1,14 @@
 # 🦴 Anatomie du signe
 
+- [Squelette](#squelette)
+- [Graisse](#graisse)
+- [Enveloppe](#enveloppe)
+  - [Terminaisons](#terminaisons)
+  - [Futs](#futs)
+  - [Ouvertures](#ouvertures)
+  - [Ornements](#ornements)
+- [Sources](#sources)
+
   
 ### &nbsp;
 
@@ -11,9 +20,7 @@
 |:---:|
 | Squelette - Graisse - Enveloppe | 
 
-
-
-# Squelette
+# Squelette {#squelette}
 
 | ![](links/Typo_Parameters_02.jpg) | ![](links/Typo_Parameters_03.jpg) | ![](links/Typo_Parameters_04_alt.jpg) |
 |:---:|:---:|:---:|
@@ -23,15 +30,15 @@
 |:---:|:---:|:---:|
 | Squelette dynamique           | Squelette statique           | Squelette géométrique           |
 
-# Graisse
+# Graisse {#graisse}
 
 | ![](links/Typo_Parameters_08.jpg) | ![](links/Typo_Parameters_09.jpg) |
 |:---:|:---:|
 | Contrasté           | Linéaire           |
 
-# Enveloppe
+# Enveloppe {#enveloppe}
 
-## Terminaisons
+## Terminaisons {#terminaisons}
 
 | ![](links/Typo_Parameters_10.jpg) | ![](links/Typo_Parameters_11.jpg) |
 |:---:|:---:|
@@ -41,13 +48,13 @@
 |:---:|
 | Variation de la forme des empattements (sans, rectangulaire, triangulaire, transitionnel, intersection)           |
 
-## Fûts
+## Fûts {#futs}
 
 | ![](links/Typo_Parameters_18.jpg) | ![](links/Typo_Parameters_19.jpg) | ![](links/Typo_Parameters_20.jpg) |
 |:---:|:---:|:---:|
 | Concaves           | Rectilignes           | Convexes           |
 
-## Ouvertures
+## Ouvertures {#ouvertures}
 
 | ![](links/1-Formes25.jpg) |
 |:---:|
@@ -59,13 +66,13 @@
 |:---:|
 | Ouvertures fermées           |
 
-## Ornements
+## Ornements {#ornements}
 
 | ![](links/Typo_Parameters_22.jpg) |
 |:---:|
 | Variation de l'effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |
 
-### Sources
+### Sources {#sources}
 
 <!-- - **Prénom Nom**  
   *Titre*, 0000 -->
