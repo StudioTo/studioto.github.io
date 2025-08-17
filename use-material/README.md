@@ -7,7 +7,7 @@
 
 |![](links/Tech2.gif) |
 |:---:|
-| Matériel pour le cours de typo |
+| Matériel pour le cours de typographie |
 
 - Scotch
 - Matériel de découpe

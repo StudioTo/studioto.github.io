@@ -3,8 +3,7 @@
 - [Exercice technique](#Exercice-technique)
 - [Exercice créatif](#Exercice-créatif)
 
-# &nbsp;
-# &nbsp;
+&nbsp;
 
 
 # Exercice technique  
@@ -17,7 +16,7 @@
 
 |![](links/Eval23.gif) |
 |:---:|
-| Abc | 
+| Processus: organisation, développement, production | 
 
 ## 6 pts Organisation  
 
