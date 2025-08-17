@@ -106,7 +106,7 @@
 
 **Cours**
 ## [🎯 Objectifs](/evaluate-objectives)
-## [📊 Critères](/evaluate-criteria)
 ## [🪜 Méthode](/evaluate-method)
+## [📊 Critères](/evaluate-criteria)
 ## [🗂️ Rendus](/evaluate-deliverable)
 ## [☝🏻 Règles](/evaluate-rules)
