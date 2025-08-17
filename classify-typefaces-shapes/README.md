@@ -1,23 +1,15 @@
 # 🦴 Classification Formelle
 
   
-### &nbsp;
+&nbsp;
 
 # Tableau
 
-|![](links/2-Anatomique5.gif) |
+|![](links/2-Anatomique6.jpg) |
 |:---:|
-| Abc | 
+| Classification basée sur la forme des signes | 
 
-# Squelette - Graisse - Enveloppe
-
-|![](links/2-Anatomique.jpg) |
-|:---:|
-| Abc | 
-
-|![](links/2-Anatomique2.gif) |
-|:---:|
-| Abc | 
+# Abc
 
 |![](links/2-Anatomique7.gif) |
 |:---:|
