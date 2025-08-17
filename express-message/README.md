@@ -13,7 +13,7 @@
 
 |![](links/2-Semiotique.gif) |
 |:---:|
-|  |
+| L’expression abstraite (avant même le sens des mots) porte déjà une coloration stéréotypée |
 
 # Voir vs Lire  
 
@@ -43,6 +43,26 @@
 |:---:|
 | Le texte est réduit à l'essentiel: ce qui est dit vs ce qui n'est pas dit |
 
+# Axes sémantiques
+
+	•	Fort ↔ Faible
+	•	Dur ↔ Doux
+	•	Sérieux ↔ Ludique
+	•	Traditionnel ↔ Moderne
+	•	Luxueux ↔ Populaire
+	•	Amical ↔ Autoritaire
+	•	Chaud ↔ Froid
+	•	Stable ↔ Dynamique
+	•	Lisible ↔ Expressif
+	•	Formel ↔ Informel
+
+  # Typologie
+
+  •	Émotions: chaleureux, froid, joyeux, triste, rassurant, menaçant.
+	•	Société: prestigieux, populaire, féminin, masculin, enfantin, neutre.
+	•	Fonction: lisible, confus, stable, dynamique, clair, lourd, léger.
+	•	Culture: moderne, classique, rétro, futuriste, artisanal, technologique.
+	•	Esthétique: élégant, brut, raffiné, décoratif, minimaliste, grotesque.
 
 
 ### Sources
