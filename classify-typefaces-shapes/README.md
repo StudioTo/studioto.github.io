@@ -21,16 +21,21 @@
 |:---:|
 | Squelette - Graisse - Enveloppe           |
 
-1.  **Squelette**
-    -  Dynamique  
-    -  Statique  
-    -  Géométrique  
-    2.  **Graisse**
-        -  Contrasté (avec)
-        -  Linéaire (sans)
-        3.  **Enveloppe**
-            -  Avec (sérifs)
-            -  Sans (sérifs)
+```
+Squelette
+├── Dynamique
+├── Statique
+└── Géométrique
+
+    Graisse
+    ├── Contrasté (avec)
+    └── Linéaire (sans)
+
+        Enveloppe
+        ├── Avec (sérifs)
+        └── Sans (sérifs)
+
+```
 
 # Squelette Dynamique {#squelette-dynamique}
 
