@@ -27,7 +27,7 @@
 **Typographie**
 ## [💬 Language](/see-langage)
 ## [💥 Sémiotique](/express-message)
-## [🌐 Terminologie](/index-definitions)
+## [📖 Vocabulaire](/index-definitions)
 
 &nbsp;
 &nbsp;
