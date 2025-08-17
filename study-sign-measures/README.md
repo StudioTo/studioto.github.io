@@ -7,7 +7,7 @@
 
 |![](links/2-Mesures.jpg) |
 |:---:|
-| Abc | 
+| Les mesures verticales, héritées de la typographie en plomb où toutes les lettres partageaient la même hauteur de corps, définissent les repères de base qui structurent l’empilement du texte. | 
 
 ### Ligne de pied
 
@@ -61,7 +61,7 @@
 
 |![](links/2-Mesures12.jpg) |
 |:---:|
-| Abc | 
+| Les mesures horizontales, elles aussi issues du plomb typographique, déterminent l’enchâssement des lettres sur la ligne | 
 
 ### Chasse
 
@@ -81,12 +81,11 @@
 |:---:|
 | Le crénage désigne la gestion de l’espace entre certaines paires de lettres pour en améliorer l’harmonie visuelle           |
 
-
 # Mesures de surfaces  
 
-|![](links/abc.jpg) |
+|![](links/2-Mesures_up2.jpg) |
 |:---:|
-| Abc | 
+| Le signe est composé d'une organisation de surfaces noires et blanches | 
 
 ### Pleins & déliés
 
@@ -120,9 +119,9 @@
 
 # Casse
 
-|![](links/abc.jpg) |
+|![](links/2-Mesures_up.jpg) |
 |:---:|
-| Abc | 
+| Le terme «casse» provient de la caisse en bois où les lettres étaient rangées par catégories: majuscules en haut et minuscules en bas | 
 
 ### Bas de casse
 
@@ -138,9 +137,9 @@
 
 # Morphologie
 
-|![](links/abc-visage.jpg) |
+|![](links/Typo_Anatomy_01.jpg) |
 |:---:|
-| Abc | 
+| La terminologie des parties des signes découle de la une tendance humaine à tout anthropomorphiser | 
 
 ### Oeil
 
