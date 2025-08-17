@@ -9,7 +9,7 @@
 |:---:|
 | Abc | 
 
-# Formes d’écritures à travers l'histoire
+# Période - Technique
 
 |![](links/1-Historique.gif) |
 |:---:|
@@ -21,7 +21,7 @@
 |:---:|
 | Abc | 
 
-# Evolution des formes
+# Timeline
 
 | Grec lapidaire | 
 |:---:|
