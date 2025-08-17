@@ -1,15 +1,21 @@
 # 🦴 Classification Anatomique
 
+- [Tableau](#tableau)
+- [Squelette - Graisse - Enveloppe](#squelette---graisse---enveloppe)
+- [Squelette Dynamique](#squelette-dynamique)
+- [Squelette Statique](#squelette-statique)
+- [Squelette Géométrique](#squelette-geometrique)
+- [Combinaisons](#combinaisons)
   
 &nbsp;
 
-# Tableau
+# Tableau {#tableau}
 
 |![](links/Era_Typ_Class_01.jpg) |
 |:---:|
 | Classification basée sur la forme (anatomie) des signes | 
 
-# Squelette - Graisse - Enveloppe
+# Squelette - Graisse - Enveloppe {#squelette---graisse---enveloppe}
 
 |![](links/1-Anatomique.gif) |
 |:---:|
@@ -26,7 +32,7 @@
             -  Avec (sérifs)
             -  Sans (sérifs)
 
-# Squelette Dynamique
+# Squelette Dynamique {#squelette-dynamique}
 
 Ce principe découle historiquement de la calligraphie humaniste (Renaissance) réalisée à la plume à bec large. La **tension diagonale** ainsi que les **terminaisons ouvertes** des lettres résultent de la **translation** du bec carré, maintenu à un angle fixe.
 
@@ -36,7 +42,7 @@ Ce principe découle historiquement de la calligraphie humaniste (Renaissance) r
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
-# Squelette Statique
+# Squelette Statique {#squelette-statique}
 
 Ce principe découle historiquement de la calligraphie moderne (Renaissance) réalisée à la plume à bec pointu. La **tension verticale** ainsi que les **terminaisons fermées** des lettres résultent de l’**expansion** du bec carré, qui évolue avec la pression de la main.
 
@@ -46,7 +52,7 @@ Ce principe découle historiquement de la calligraphie moderne (Renaissance) ré
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
-# Squelette Géométrique
+# Squelette Géométrique {#squelette-geometrique}
 
 Ce principe découle historiquement du constructivisme post-moderne (XXe) réalisée à la plume à bec rond. La **construction** modulaire des lettres résultent du bec rond qui produit un contraste **monolinéaire**.
 
@@ -56,7 +62,7 @@ Ce principe découle historiquement du constructivisme post-moderne (XXe) réali
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
-# Combinaisons
+# Combinaisons {#combinaisons}
 
 |![](links/Pair_Fonts.gif) |
 |:---:|
