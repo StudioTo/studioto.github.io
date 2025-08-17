@@ -5,9 +5,10 @@
 - [Caractère](#Caractère)
 - [Dénotation vs Conotation](#Dénotation-vs-Conotation)
 - [Explicite vs Implicite](#Explicite-vs-Implicite)
+- [Explicite vs Implicite](#Explicite-vs-Implicite)
+- [Explicite vs Implicite](#Explicite-vs-Implicite)
+# &nbsp;
 
-# &nbsp;
-# &nbsp;
 
 # Booba vs Kiki  
 
