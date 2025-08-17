@@ -123,7 +123,7 @@ Un revival moderne, en revanche, désigne une fonte contemporaine créée à par
 
 |![](links/3-Terminologie31.gif) |
 |:---:|
-| Revival classique vs moderne |
+| Caractères en plomb → Revival classique vs Revival moderne |
 
 # Section  
 
