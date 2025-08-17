@@ -44,7 +44,7 @@
 
 |![](links/1-Language_v252.gif)|
 |:---:|
-| Langage et typographie fusionnent pour ne former qu’un seul message. |
+| Le message prend sa forme écrite grâce aux différentes unités de base de la typographie qui se combine pour former un ensemble cohérent |
 
 # 1. Le signe  
 
