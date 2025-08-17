@@ -13,18 +13,48 @@
 
 |![](links/Era_Typ_Class_01.jpg) |
 |:---:|
-| Classification formelle[^2]           |
+| Squelette - Graisse - Enveloppe           |
 
-1. **Squelette**
-   -  Dynamique  
-   -  Statique  
-   -  Géométrique  
-2. **Contraste**
-   -  Contrasté (avec)
-   -  Linéaire (sans)
-3. **Enveloppe**
-   -  Avec (sérifs)
-   -  Sans (sérifs)
+1.  **Squelette**
+    -  Dynamique  
+    -  Statique  
+    -  Géométrique  
+    2.  **Graisse**
+        -  Contrasté (avec)
+        -  Linéaire (sans)
+        3.  **Enveloppe**
+            -  Avec (sérifs)
+            -  Sans (sérifs)
+
+# Squelette Dynamique
+
+Ce principe découle historiquement de la calligraphie humaniste (Renaissance) réalisée à la plume à bec large. La **tension diagonale** ainsi que les **terminaisons ouvertes** des lettres résultent de la **translation** du bec carré, maintenu à un angle fixe.
+
+*convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel*
+
+|![](links/Typo_Classification_1_dynamique.gif) |
+|:---:|
+| Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
+
+# Squelette Statique
+
+Ce principe découle historiquement de la calligraphie moderne (Renaissance) réalisée à la plume à bec pointu. La **tension verticale** ainsi que les **terminaisons fermées** des lettres résultent de l’**expansion** du bec carré, qui évolue avec la pression de la main.
+
+*rationnel, ordonné, réservé, noble, élégant, sérieux, rigide, correct, rigoureux, autoritaire*
+
+|![](links/Typo_Classification_2_statique.gif) |
+|:---:|
+| Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
+
+# Squelette Géométrique
+
+Ce principe découle historiquement du constructivisme post-moderne (XXe) réalisée à la plume à bec rond. La **construction** modulaire des lettres résultent du bec rond qui produit un contraste **monolinéaire**.
+
+*géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
+
+|![](links/Typo_Classification_3_geometrique.gif) |
+|:---:|
+| Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
 # Combinaisons
 
