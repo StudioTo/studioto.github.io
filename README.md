@@ -77,7 +77,7 @@
 **Dessin de caractères**
 ## [✏️ Construction](/construct-typeface)
 ## [📸 Numérisation](/digitize-typeface)
-## [📐 Dessin vectoriel](/draw-vectors)
+## [🖥️ Dessin vectoriel](/draw-vectors)
 ## [🎚️ Interpolation](/interpolate-vectors)
 ## [🪲 Debug](/debug-drawings)
 
