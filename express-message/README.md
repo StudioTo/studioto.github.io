@@ -8,7 +8,7 @@
 - [Axes sémantiques](#Axes-sémantiques)
 - [Typologie](#Typologie)
 
-#  
+&nbsp;
 
 
 # Expression 
