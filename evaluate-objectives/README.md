@@ -1,13 +1,11 @@
 # 🎯 Objectifs
 
+«La typographie est vouée à un but clair : transmettre du sens à travers l’usage des caractères. Elle ne peut être exemptée de cette obligation par aucun argument ni aucune autre considération. Un produit imprimé qui ne peut être lu n’a absolument aucune signification.»
+Emil Ruder, 1967
 
 &nbsp;
 
-Nous constatons chaque jour que de plus en plus d'informations visuelles et verbales sont produites. D'énormes quantités de papier sont imprimées et des programmes sont écrits pour tous les types de terminaux d'affichage visuel. Nous assistons à un véritable déluge d'informations, ce qui représente un défi pour tous les concepteurs typographiques.
-
-Notre préoccupation porte sur les méthodes d'organisation et de conception de l'information verbale en fonction de son contenu et de son contexte, ainsi que sur les formes de publication sous lesquelles cette information est reçue par le lecteur.
-
-Nous considérons que le terme « typographie » couvre tout le spectre de la communication visuelle avec l'écriture, y compris, par exemple, la conception typographique de livres pour la mise en page de grandes quantités de texte et la conception d'une affiche avec des lettres à la main,
+Nous constatons chaque jour que de plus en plus d'informations visuelles et verbales sont produites, ce qui représente un défi pour tous les concepteurs typographiques. Ce cours porte sur les méthodes d'organisation et de conception de l'information verbale en fonction de son contenu et de son contexte, ainsi que sur les formes de publication sous lesquelles cette information est reçue par le lecteur. Dans le contexte du cours, le terme «typographie» couvre tout le spectre de la communication visuelle avec l'écriture, y compris, par exemple, la conception de publication textuelle, d'affiche, de logo ou de symbole.
 
 # Connaître le vocabulaire de la typographie
 
@@ -37,7 +35,7 @@ Assumer que la neutralité absolue n’existe pas ; toute typographie convoie un
 
 Acquérir la connaissance et la maîtrise des outils, techniques et règles permettant de concevoir et réaliser des compositions typographiques professionnelles.
 
-# Développer un regard critique et créatif
+# Développer un regard critique et imaginatif
 
 Adapter les solutions aux contextes et contraintes spécifiques.
 
