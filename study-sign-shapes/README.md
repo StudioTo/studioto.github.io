@@ -55,7 +55,7 @@
 | ![](links/1-Formes26.jpg) |
 |:---:|
 | Ouvertures semi-fermées           |
-| ![](links/1-Formes26.jpg) |
+| ![](links/1-Formes27.jpg) |
 |:---:|
 | Ouvertures fermées           |
 
