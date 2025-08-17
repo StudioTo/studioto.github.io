@@ -108,5 +108,5 @@
 ## [🎯 Objectifs](/evaluate-objectives)
 ## [📊 Critères](/evaluate-criteria)
 ## [🪜 Méthode](/evaluate-method)
-## [🗂️ Rendus](/evaluate-deliverable)
+## [🗂️ Rendus](/evaluate-method)
 ## [☝🏻 Règles](/evaluate-rules)
