@@ -2,29 +2,29 @@
 
 # &nbsp;
 
+|![](links/Eval44.gif) |
+|:---:|
+| Chercher de tous les côtés |
+
 # Savoir-faire
 
-En graphisme, comme dans toute forme d'expression créative, l'art découle du savoir-faire. En danse, le savoir-faire consiste à maîtriser les pas de base ; en musique, il s'agit d'apprendre les gammes, en maths les livrets, etc. En typographie, le savoir-faire concerne […] les unités typographiques
+En graphisme, comme dans toute forme d’expression créative, l’art découle du savoir-faire. En danse, il s’agit de maîtriser les pas de base ; en musique, d’apprendre les gammes ; en mathématiques, de connaître les méthodes fondamentales. En typographie, le savoir-faire concerne les unités typographiques.
 
 # Learn the rules / Break the rules
 
-La liberté est le fruit de la contrainte (des règles) qui constitue la base du jeu et de l'invention. Si, dans une œuvre réussie, une règle est ou semble être enfreinte, on découvrira qu'un élément compensatoire est à l'œuvre : soit une interprétation ingénieuse d'une règle familière, soit le remplacement de la règle par un élément extraordinaire ou novateur.
+La contrainte est la condition de l’inventivité. On ne peut transgresser une règle qu’en comprenant d’abord sa fonction, et en la remplaçant par un principe tout aussi cohérent. Il faut donc commencer par maîtriser les règles: l’inventivité ne réside pas tant dans leur rupture que dans la manière de les interpréter, de les détourner ou de les questionner.
+
+# Collection de manière de faire
+
+Ce cours ne fournit en aucun cas des réponses toutes faites, mais présente un catalogue de paramètre à prendre en compte pour le développememt de tout types de travaux typographiques. Si il parvient à stimuler les apprenants à expérimenter et produire des travaux originaux, systématiques et imaginatifs, il aura atteint son objectif.
 
 # Produire  
 
-Il n'est pas possuble d'évaluer la valeur d'une idee dans sa tete, il faut la produire (quand bien meme a l'état d'esquise) pour poivoir evaluer son potentiel. De plus, il est absolument nécessaire de garder toutes ces esquiesses afin de pouvoir les comparer entre et retracer l'évolution du concept.
-
-|![](links/Eval44.gif) |
-|:---:|
-| abc |
+Il est impossible d’évaluer la valeur d’une idée uniquement dans sa tête : il faut la produire, même sous forme d’esquisse, pour en mesurer le potentiel. Il est également essentiel de conserver toutes les esquisses afin de pouvoir les comparer et retracer l’évolution du concept.
 
 # Collaborer  
 
-Demander des avis, donner des avis, montrer vous vos travaux, échanger. Ne passez pas à coté de la richesse immense qui réside dans la collaboration
-
-|![](links/Eval44.gif) |
-|:---:|
-| abc |
+La collaboration enrichit le processus créatif : recueillir des avis, partager ses points de vue et confronter ses travaux permet d’élargir les perspectives et de renforcer la qualité des projets.
 
 <!-- # Prendre du plaisir  
 

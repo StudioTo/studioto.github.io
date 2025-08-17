@@ -1,9 +1,13 @@
 # 🎯 Objectifs
 
-<!-- - [Exercice technique](#Exercice-technique) -->
 
-# &nbsp;
-# &nbsp;
+&nbsp;
+
+Nous constatons chaque jour que de plus en plus d'informations visuelles et verbales sont produites. D'énormes quantités de papier sont imprimées et des programmes sont écrits pour tous les types de terminaux d'affichage visuel. Nous assistons à un véritable déluge d'informations, ce qui représente un défi pour tous les concepteurs typographiques.
+
+Notre préoccupation porte sur les méthodes d'organisation et de conception de l'information verbale en fonction de son contenu et de son contexte, ainsi que sur les formes de publication sous lesquelles cette information est reçue par le lecteur.
+
+Nous considérons que le terme « typographie » couvre tout le spectre de la communication visuelle avec l'écriture, y compris, par exemple, la conception typographique de livres pour la mise en page de grandes quantités de texte et la conception d'une affiche avec des lettres à la main,
 
 # Connaître le vocabulaire de la typographie
 
