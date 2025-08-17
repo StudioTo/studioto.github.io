@@ -30,21 +30,15 @@ Les espaces sont des intervalles typographiques de différentes sortes (fine, in
 
 # Format Desktop  
 
-Les polices destinées à un usage desktop sont installées localement sur l’ordinateur d’un utilisateur et utilisées dans des logiciels comme les applications de traitements de texte (Word, Pages,…) et de mise en page (InDesign, Illustrator,…).
-
-OTF, TTF
+[OTF, TTF] Les polices destinées à un usage desktop sont installées localement sur l’ordinateur d’un utilisateur et utilisées dans des logiciels comme les applications de traitements de texte (Word, Pages,…) et de mise en page (InDesign, Illustrator,…).
 
 # Format Variable  
 
-Les polices variables sont une nouvelle technologie qui permet d’inclure plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l’animation vidéo.
-
-OTF, TTF, WOFF, WOFF2
+[OTF, TTF, WOFF, WOFF2] Les polices variables sont une nouvelle technologie qui permet d’inclure plusieurs styles (par ex., graisse, largeur, angle, etc.) dans un seul fichier de police. Cela permet aux designers de créer des variations infinies entre des styles définis sans avoir à installer plusieurs fichiers de police distincts. Ce format de police peut être utilisé pour de la mise en page, du développement web ou encore de l’animation vidéo.
 
 # Format Web  
 
-Les polices destinées à un usage web sont compressées pour être utilisées directement sur des sites internet grâce à des langages comme le HTML et le CSS. Elles sont hébergées sur un serveur et chargées par le navigateur des utilisateurs lorsqu’ils visitent une page web.
-
-WOFF, WOFF2, EOT
+[WOFF, WOFF2, EOT] Les polices destinées à un usage web sont compressées pour être utilisées directement sur des sites internet grâce à des langages comme le HTML et le CSS. Elles sont hébergées sur un serveur et chargées par le navigateur des utilisateurs lorsqu’ils visitent une page web.
 
 # Folio  
 
@@ -102,9 +96,11 @@ Une police désigne un ensemble de fontes (un dossier de fontes) qui partagent u
 |:---:|
 | Revival classique vs moderne |
 
-# Revival
+# Revival classique
 
 Un revival classique est une digitalisation d’une fonte historique de l’histoire de la typographie, conçue avant l’ère numérique. La digitalisation consiste à convertir une police physique (par exemple, dessinée à la main ou gravée) en un format numérique, en numérisant les dessins existants et en les transformant en courbes vectorielles. Cela permet de préserver le caractère original tout en le rendant utilisable dans les environnements numériques.
+
+# Revival moderne
 
 Un revival moderne, en revanche, désigne une fonte contemporaine créée à partir du début du XXIe siècle. Il peut s’agir soit d’une réinterprétation d’un modèle classique, soit d’un design totalement original. La réinterprétation implique d’adapter une fonte existante à un nouveau contexte en modifiant certains aspects du dessin (formes des glyphes, graisse, contraste, espacement, jeu de caractères, etc.), afin d’actualiser son usage et son esthétique.
 
