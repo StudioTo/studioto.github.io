@@ -17,7 +17,7 @@
 |:---:|
 | L’expression abstraite (avant même le sens des mots) porte déjà une coloration stéréotypée |
 
-|![](links/2-Semiotique.gif) |
+|![](links/2-Sémiotique2.gif) |
 |:---:|
 | La forme des caractères influence l'interprétation du message |
 
