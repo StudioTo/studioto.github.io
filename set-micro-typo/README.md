@@ -8,7 +8,7 @@
   - [Le point, la virgule](#-le-point-la-virgule)
   - [Les points de suspension](#-les-points-de-suspension)
 - [Espaces](#-espaces)
-- [Césures](#-césures)
+- [Césures](#-cesures)
 - [Parenthèses](#-parentheses)
 - [Chiffres](#-chiffres)
   - [Les types de chiffres](#-les-types-de-chiffres)
@@ -69,7 +69,7 @@
 |:---:|
 | Les signes de ponctuation ( : ; ! ? ) doivent être précédés en français d’une espace fine insécable. | 
 
-# Césures {#-césures}  
+# Césures {#-cesures}  
 
 |![](links/1-Micro-typo31.gif) |
 |:---:|
