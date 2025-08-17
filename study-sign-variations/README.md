@@ -20,7 +20,7 @@ Il n'existe pas de normalisation unifiée du rapport de graisse. Par conséquent
 
 |![](links/4-Variations_up.jpg) |
 |:---:|
-| Les valeurs de noir changent d'une famille à l'autre | 
+| Les valeurs de noir pour une même graisse changent d'une famille à l'autre | 
 
 # Largeur  
 
