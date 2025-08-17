@@ -2,7 +2,7 @@
 
 - [Illusion](#illusion)
 - [Biais de proportions](#biais-de-proportions)
-  - [Carre](#carre)
+  - [Carré](#carre)
   - [Rond](#rond)
   - [Diagonale](#diagonale)
 - [Biais de dimensions](#biais-de-dimensions)
@@ -30,7 +30,7 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 |:---:|
 | Les traits horizontaux paraissent plus épaisses que les traits verticaux           |
 
-## Carre {#carre}
+## Carré {#carre}
 
 |![](links/Carre.gif) |
 |:---:|
