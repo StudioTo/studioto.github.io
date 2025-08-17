@@ -1,10 +1,12 @@
 # 🎛️ Variations de style
 
+- [Graisse](#graisse)
+- [Largeur](#largeur)
+- [Inclinaison](#inclinaison)
 
-  
 &nbsp;
 
-# Graisse  
+# Graisse {#graisse}
 
 Les différentes épaisseurs du trait d'une police de caractères par rapport à ses espaces intérieurs (contreformes), sans modification de la hauteur, sont appelées graisses (ou des cuts).
 
@@ -22,7 +24,7 @@ Il n'existe pas de normalisation unifiée du rapport de graisse. Par conséquent
 |:---:|
 | Les valeurs de noir pour une même graisse changent d'une famille à l'autre | 
 
-# Largeur  
+# Largeur {#largeur}
 
 Pour des grands volume de texte, il est préférable d'utiliser des largeurs romaines, conçues pour une lisibilité optimale. Dans certains cas, des exigences particulières peuvent justifier l'utilisation de styles condensés ou étendus (manque de place, augmentation de la lisiblité).
 
@@ -40,7 +42,7 @@ Comme pour les graisses, il n'existe pas de normalisation unifiée des proportio
 |:---:|
 | Les proportions (ascendantes et descendantes) changent d'une famille à l'autre | 
 
-# Inclinaison  
+# Inclinaison {#inclinaison}
 
 Les italiques sont disponibles en complément des polices roman (droites), c'est-à-dire toutes celles qui sont perpendiculaires à la ligne de base. Les italiques sont inclinées dans une seule direction. Il existe 2 sortes d'italic: cursif (forme historique) et penché ou slanted (forme moderne).
 
@@ -56,7 +58,7 @@ L'italique est utilisé pour mettre en évidence certains éléments dans le tex
 
 
 
-### Sources
+### Sources {#sources}
 
 <!-- - **Prénom Nom**  
   *Titre*, 0000 -->
