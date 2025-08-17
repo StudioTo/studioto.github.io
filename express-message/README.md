@@ -1,17 +1,17 @@
 # 💥 Sémiotique
 
-- [Expression](#Expression)
-- [Voir vs Lire](#Voir-vs-Lire)
-- [Caractère](#Caractère)
-- [Dénotation vs Conotation](#Dénotation-vs-Conotation)
-- [Explicite vs Implicite](#Explicite-vs-Implicite)
-- [Axes sémantiques](#Axes-sémantiques)
-- [Typologie](#Typologie)
+- [Expression](#expression)
+- [Voir vs Lire](#voir-vs-lire)
+- [Caractère](#caractere)
+- [Dénotation vs Connotation](#denotation-vs-connotation)
+- [Explicite vs Implicite](#explicite-vs-implicite)
+- [Axes sémantiques](#axes-semantiques)
+- [Typologie](#typologie)
 
 &nbsp;
 
 
-# Expression 
+# Expression {#expression}
 
 |![](links/2-Sémiotique.jpg) |
 |:---:|
@@ -21,13 +21,13 @@
 |:---:|
 | La forme des caractères influence l'interprétation du message |
 
-# Voir vs Lire  
+# Voir vs Lire {#voir-vs-lire}
 
 |![](links/2-Semiotique5.gif) |
 |:---:|
 | Deux niveaux d'information: textuel et pictural |
 
-# Dénotation vs Conotation  
+# Dénotation vs Connotation {#denotation-vs-connotation}
 
 |![](links/2-Semiotique10.gif) |
 |:---:|
@@ -37,19 +37,19 @@
 |:---:|
 | L'information est autant «lue» que «vue» |
 
-# Caractère  
+# Caractère {#caractere}
 
 |![](links/0-Colonne20.gif) |
 |:---:|
 | Les caractères, au-delà de leur fonction première de vecteur visuel de la langue, peuvent teinter le texte d'une certaine atmosphère |
 
-# Explicite vs Implicite  
+# Explicite vs Implicite {#explicite-vs-implicite}
 
 |![](links/2-Semiotique26.gif) |
 |:---:|
 | Le texte est réduit à l'essentiel: ce qui est dit vs ce qui n'est pas dit |
 
-# Axes sémantiques
+# Axes sémantiques {#axes-semantiques}
 
 •	Fort ↔ Faible  
 •	Dur ↔ Doux  
@@ -62,7 +62,7 @@
 •	Lisible ↔ Expressif  
 •	Formel ↔ Informel  
 
-# Typologie
+# Typologie {#typologie}
 
 •	Émotions: chaleureux, froid, joyeux, triste, rassurant, menaçant.  
 •	Société: prestigieux, populaire, féminin, masculin, enfantin, neutre.  
@@ -77,4 +77,3 @@
   *Titre*, 0000 -->
 
 <!-- [^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980 -->
-

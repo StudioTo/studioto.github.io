@@ -2,9 +2,9 @@
 
 - [Typographie](#typographie)
 - [Communication](#communication)
-- [Unités typographiques](#unités-typographiques)
+- [Unités typographiques](#unites-typographiques)
 - [Lecture](#lecture)
-- [Lisibilité vs Impact](#lisibilité-vs-impact)
+- [Lisibilité vs Impact](#lisibilite-vs-impact)
 
 &nbsp;
 
@@ -40,7 +40,7 @@
 |:---:|
 | La signalétique est une forme de langage universel, capable de communiquer à tous.tes et de dépasser les frontières linguistiques |
 
-# Unités typographiques  
+# Unités typographiques {#unites-typographiques}
 
 |![](links/1-Language_v252.gif)|
 |:---:|
@@ -80,7 +80,7 @@
 |:---:|
 | Que l'on modifie la longueur des lignes, le corps aussi bien que la forme du caractère typographique, la longueur des saccades et leur fréquence changent |
 
-# Lisibilité vs Impact  
+# Lisibilité vs Impact {#lisibilite-vs-impact}
 
 |![](links/1-Language_v2161.gif)|
 |:---:|
