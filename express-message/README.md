@@ -13,23 +13,23 @@
 
 |![](links/2-Semiotique.gif) |
 |:---:|
-| Abc |
+|  |
 
 # Voir vs Lire  
 
 |![](links/2-Semiotique5.gif) |
 |:---:|
-| L'utilisation des deux niveaux d'information, textuel et pictural |
+| Deux niveaux d'information: textuel et pictural |
 
 # Dénotation vs Conotation  
 
 |![](links/2-Semiotique10.gif) |
 |:---:|
-| L'information est autant «lue» que «vue» |
+| Le message est interprété à travers sa conception typographique: l'information est autant «lue» que «vue» |
 
 |![](links/2-Semiotique16.gif) |
 |:---:|
-| Abc |
+| La forme des caractères influence l'interprétation du message |
 
 # Caractère  
 
