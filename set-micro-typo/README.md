@@ -1,5 +1,7 @@
 # 🦠 Micro-typographie
 
+La micro-typographie concerne le soin apporté aux détails fins du contenu texte.
+
 - [Langue](#-langue)
   - [Les guillemets](#-les-guillemets)
 - [Ponctuation](#-ponctuation)

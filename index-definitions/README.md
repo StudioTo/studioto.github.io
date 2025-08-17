@@ -1,6 +1,5 @@
 # 📖 Vocabulaire
 
-  
 &nbsp;
 
 
@@ -87,11 +86,11 @@ Une ligne est une rangée horizontale de texte dans une composition, formant une
 
 # Macro-Typographie
 
-La macro-typographie désigne l’organisation globale d’un texte dans l’espace de la page ou de l’écran : disposition des colonnes, choix des marges, hiérarchie des titres, gabarits, proportions, etc. Elle structure la lecture à grande échelle.
+La macro-typographie désigne l’organisation globale d’un texte dans l’espace du format: disposition des colonnes, choix des marges, hiérarchie des titres, gabarits, proportions, etc. Elle structure la lecture à grande échelle.
 
 # Micro-Typographie
 
-La micro-typographie concerne le soin apporté aux détails fins du texte : gestion des espaces, ponctuation, césures, ligatures, interlettrage, justification, etc. Elle vise à optimiser la lisibilité et l’élégance d’un texte au niveau microscopique.
+La micro-typographie concerne le soin apporté aux détails fins du contenu texte : gestion des espaces, ponctuation, césures, ligatures, interlettrage, justification, etc. Elle vise à optimiser la lisibilité et l’élégance d’un texte au niveau microscopique.
 
 # &nbsp;  
 
