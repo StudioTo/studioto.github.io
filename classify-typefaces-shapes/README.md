@@ -1,7 +1,7 @@
 # 🦴 Classification Anatomique
 
 - [Tableau](#tableau)
-- [Squelette - Graisse - Enveloppe](#squelette---graisse---enveloppe)
+- [Squelette - Enveloppe - Terminaisons](#squelette-enveloppe-terminaisons)
 - [Squelette Dynamique](#squelette-dynamique)
 - [Squelette Statique](#squelette-statique)
 - [Squelette Géométrique](#squelette-geometrique)
@@ -15,7 +15,7 @@
 |:---:|
 | Classification basée sur la forme (anatomie) des signes | 
 
-# Squelette - Graisse - Enveloppe {#squelette---graisse---enveloppe}
+# Squelette - Enveloppe - Terminaisons {#squelette-enveloppe-terminaisons}
 
 |![](links/1-Anatomique.gif) |
 |:---:|
