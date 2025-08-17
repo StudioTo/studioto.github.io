@@ -25,7 +25,7 @@
 
 |![](links/2-Semiotique10.gif) |
 |:---:|
-| Abc |
+| L'information est autant «lue» que «vue» |
 
 |![](links/2-Semiotique16.gif) |
 |:---:|
@@ -35,13 +35,14 @@
 
 |![](links/0-Colonne20.gif) |
 |:---:|
-| Abc |
+| Les caractères, au-delà de leur fonction première de vecteur visuel de la langue, peuvent également venir teinter le texte d'une certaine atmosphère. |
 
 # Explicite vs Implicite  
 
 |![](links/2-Semiotique26.gif) |
 |:---:|
-| Abc |
+| Le texte est réduit à l'essentiel.  
+Ce qui est dit vs ce qui n'est pas dit |
 
 
 
