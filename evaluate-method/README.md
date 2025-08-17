@@ -1,7 +1,14 @@
 # 🪜 Méthode
 
 # &nbsp;
-# &nbsp;
+
+# Savoir-faire
+
+# Learn the rules / Break the rules
+
+|![](links/Eval44.gif) |
+|:---:|
+| Il faut produire une idée pour pouvoir l'évaluer |
 
 # Produire  
 
@@ -15,8 +22,8 @@
 |:---:|
 | Il faut produire une idée pour pouvoir l'évaluer |
 
-# Prendre du plaisir  
+<!-- # Prendre du plaisir  
 
 |![](links/Eval44.gif) |
 |:---:|
-| Il faut produire une idée pour pouvoir l'évaluer |
+| Il faut produire une idée pour pouvoir l'évaluer | -->
