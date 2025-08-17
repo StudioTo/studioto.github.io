@@ -65,14 +65,14 @@
 &nbsp;
 &nbsp;
 
-**Paramètres visuels**
+<!-- **Paramètres visuels**
 ## [🌓 Contraste](/form-contrast)
 ## [🎶 Rythme](/form-rythm)
 ## [📐 Proportions](/form-proportions)
 ## [🌈 Couleurs](/form-colors)
 
 &nbsp;
-&nbsp;
+&nbsp; -->
 
 **Dessin de caractères**
 ## [✏️ Construction](/construct-typeface)
