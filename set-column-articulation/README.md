@@ -1,4 +1,4 @@
-# 📶 Articulation des colonnes
+# 📶 Articulation de la lecture
 
   
 ### &nbsp;
