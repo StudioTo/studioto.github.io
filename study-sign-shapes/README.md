@@ -7,7 +7,6 @@
   - [Futs](#futs)
   - [Ouvertures](#ouvertures)
   - [Ornements](#ornements)
-- [Sources](#sources)
 
   
 ### &nbsp;
