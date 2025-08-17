@@ -6,14 +6,13 @@
 - [Lecture](#lecture)
 - [Lisibilité vs Impact](#lisibilité-vs-impact)
 
-# &nbsp;
-# &nbsp;
+#  
 
 # Typographie  
 
 |![](links/1-Language_v217.gif)|
 |:---:|
-| La langue est notre principal moyen de communication... et la typographie la rend lisible. C'est pourquoi nous produisons et consommons chaque jour des créations typographiques |
+| La langue est notre principal moyen de communication: la typographie la rend lisible. |
 
 # Communication  
 
