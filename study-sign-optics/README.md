@@ -103,16 +103,9 @@ Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi a
 | Transposition des formes primaires aux caractères construits sur un principe géométrique, statique et dynamique           |
 
 
-### 📎 Sources {#sources}
+# Sources
 
-- **Jost Hochuli**  
-  *Detail in Typography*, 1987
-- **Jonathan Hoefler**  
-  Hoefler & Co., *Typographic Illusions*  
-  www.typography.com  
-- **Anton Studer**  
-  *Is What I See What I Get? — Math & Optics in Type Design*  
-  www.typographica.org
+Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005 [éd. orig. 1987]  
 
 [^1]: Franz Carl Müller-Lyer, sociologiste, *Müller-Lyer Illusion*, 1889
 

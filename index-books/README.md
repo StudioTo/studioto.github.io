@@ -35,6 +35,9 @@ Harry Bloch, Pierrick Brégeon & Philippe Karrer
 # Hofmann, Armin  
 *Graphic Design Manual: Principles and Practice*. Zurich: ABC Verlag, 1965  
 
+# Hoefler, Jonathan  
+*Typographic Illusions*. www.typography.com  
+
 # Käch, Walter  
 *Die Gezeichnete Schrift*. Zürich: [s.n.], 1949  
 
@@ -68,8 +71,8 @@ Harry Bloch, Pierrick Brégeon & Philippe Karrer
 # Rüegg, Ruedi  
 *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*. Zurich: Delta & Spes, 1980  
 
-# Rappo, François  
-*Checklist — micro-typographie*. Lausanne: ECAL, 2009  
+# Studer, Anton  
+*Is What I See What I Get?* Lausanne: ECAL, 2017  
 
 # Tschichold, Jan  
 *Asymmetric Typography*. London: Faber & Faber, 1967 [éd. orig. 1935]  
@@ -90,6 +93,7 @@ Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Fran
 Walter Haettenschweiler, *Typographische Layouts*, Luzern: Th. Krämer Verlag, 1961  
 Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005 [éd. orig. 1987]  
 Armin Hofmann, *Graphic Design Manual: Principles and Practice*, Zurich: ABC Verlag, 1965  
+Jonathan Hoefler, *Typographic Illusions*, www.typography.com  
 Walter Käch, *Die Gezeichnete Schrift*, Zürich: [s.n.], 1949  
 Indra Kupferschmid, *Buchstaben kommen selten allein: Typografie-Handbuch*, Sulgen: Niggli, 2004  
 Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich: Hans-Rudolf Lutz Verlag, 1980  
@@ -101,6 +105,7 @@ Otto Neurath, *Des hiéroglyphiques à l’Isotype: Une autobiographie visuelle*
 Gerrit Noordzij, *The Stroke: Theory of Writing*, London: Hyphen Press, 2005  
 Emil Ruder, *Typographie: Ein Gestaltungslehrbuch*, Teufen: Niggli, 1967  
 Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
+Anton Studer, *Is What I See What I Get?*, Lausanne: ECAL, 2017  
 François Rappo, *Checklist — micro-typographie*, Lausanne: ECAL, 2009  
 Jan Tschichold, *Asymmetric Typography*, London: Faber & Faber, 1967 [éd. orig. 1935]  
 Jan Tschichold, *Livre et typographie*, Paris: Allia, 1994 [éd. orig. 1948]
