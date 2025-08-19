@@ -7,7 +7,7 @@
 
 |![](links/2-Logos.gif) |
 |:---:|
-| Abc |
+| Paul Rand, 1986 |
 
 # Apple
 
