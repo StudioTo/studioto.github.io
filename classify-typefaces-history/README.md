@@ -8,7 +8,7 @@
 - [Expressives](#expressives)
 - [Hybrides](#hybrides)
   
-### &nbsp;
+## &nbsp;
 
 # Tableau
 
@@ -32,7 +32,7 @@
 |:---:|
 | Evolution des formes de l'écriture | 
 
-## [Incises](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) {#incises}
+# [Incises](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) {#incises}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
@@ -86,7 +86,7 @@
 |:---:|
 | IIIe — VIIe siècle | 
 
-## Scriptes {#scriptes}
+# Scriptes {#scriptes}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
@@ -182,7 +182,7 @@
 |:---:|
 | XIVe siècle | 
 
-## Sérifs {#serifs}
+# Sérifs {#serifs}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
@@ -224,7 +224,7 @@
 |:---:|
 | 1531 | 
 
-## Slab-Sérifs {#slab-sérifs}
+# Slab-Sérifs {#slab-sérifs}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
@@ -266,7 +266,7 @@
 |:---:|
 | 1803 | 
 
-## Sans-Sérifs {#sans-sérifs}
+# Sans-Sérifs {#sans-sérifs}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
@@ -314,7 +314,7 @@
 |:---:|
 | 1931 | 
 
-## Expressives {#expressives}
+# Expressives {#expressives}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
@@ -350,7 +350,7 @@
 |:---:|
 | 1970 | 
 
-## Hybrides {#hybrides}
+# Hybrides {#hybrides}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
@@ -364,7 +364,7 @@
 
 
 
-### Sources
+## Sources
 
 - Robert Bringhurst, *The Elements of Typographic Style*, Vancouver: Hartley & Marks, 1992  
 - Indra Kupferschmid, *Buchstaben kommen selten allein: Typografie-Handbuch*, Sulgen: Niggli, 2004  
