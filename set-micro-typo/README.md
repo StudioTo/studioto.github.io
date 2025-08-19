@@ -68,6 +68,25 @@ La micro-typographie concerne le soin apporté aux détails fins du contenu text
 |:---:|
 | Les guillemets sont des signes de ponctuation utilisés par paire pour mettre en évidence une citation ; chaque langue possède ses propres formes. | 
 
+```
+Pour chaque langue il y a des conventions particulières, voici certains des ouvrages de références:
+
+Français CH  
+Guide du typographe romand
+
+Français FR  
+Lexique des règles en usage à l’Imprimerie nationale
+
+Allemand DE  
+Detail Typografie, Nachschlagewerk für alle Fragen zu Schrift und Satz
+
+Anglais UK  
+Hart’s Rules for Compositors and Readers at the University Press Oxford
+
+Anglais US  
+Chicago Manual of Style
+```
+
 # Ponctuation {#-ponctuation}  
 
 ## L’apostrophe {#-lapostrophe}

@@ -35,6 +35,9 @@ Harry Bloch, Pierrick Brégeon & Philippe Karrer
 # Hofmann, Armin  
 ***Graphic Design Manual: Principles and Practice***. Zurich: ABC Verlag, 1965  
 
+# Käch, Walter  
+***Die Gezeichnete Schrift***. Zürich: [s.n.], 1949  
+
 # Kupferschmid, Indra  
 ***Buchstaben kommen selten allein: Typografie-Handbuch***. Sulgen: Niggli, 2004  
 
