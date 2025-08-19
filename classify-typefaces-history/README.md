@@ -27,6 +27,11 @@
 
 # Timeline
 
+|  | Incises |  | 
+|:---:|:---:|:---:|
+| Période | Principe | Technique | 
+| Ie–IIe Antiquité | Statique (expansion) | Gravure dans la pierre | 
+
 | Grec lapidaire | 
 |:---:|
 |![](links/1-Historique9.jpg) |
@@ -74,6 +79,11 @@
 |![](links/1-Historique16.jpg) |
 |:---:|
 | IIIe — VIIe siècle | 
+
+|  | Scriptes |  | 
+|:---:|:---:|:---:|
+| Période | Principe | Technique | 
+| IVe–XIe Moyen-Âge | Dynamique (translation) | Calligraphie à la plume | 
 
 | Capitale quadrata | 
 |:---:|
@@ -165,6 +175,11 @@
 |:---:|
 | XIVe siècle | 
 
+|  | Sérifs |  | 
+|:---:|:---:|:---:|
+| Période | Principe | Technique | 
+| XVIe Renaissance | Statique (expansion) | Impression à caractères mobiles | 
+
 | Minuscule humaniste | 
 |:---:|
 |![](links/1-Historique32.jpg) |
@@ -201,6 +216,11 @@
 |:---:|
 | 1531 | 
 
+|  | Slab-Sérifs |  | 
+|:---:|:---:|:---:|
+| Période | Principe | Technique | 
+| XVIIIe Révolution industrielle | Statique / Géométrique | Composition à chaud | 
+
 | Caslon | 
 |:---:|
 |![](links/1-Historique38.jpg) |
@@ -236,6 +256,11 @@
 |![](links/1-Historique43.jpg) |
 |:---:|
 | 1803 | 
+
+|  | Sans-Sérifs |  | 
+|:---:|:---:|:---:|
+| Période | Principe | Technique | 
+| XIXe Modernisme | Géométrique (monolinear) | Photocomposition | 
 
 | Caslon égyptienne (première sans-sérif) | 
 |:---:|
@@ -279,6 +304,11 @@
 |:---:|
 | 1931 | 
 
+|  | Expressives |  | 
+|:---:|:---:|:---:|
+| Période | Principe | Technique | 
+| XXe Post-modernisme | Mixte (dyn./stat./géo.) | Publicité et expérimentations | 
+
 | Folio | 
 |:---:|
 |![](links/1-Historique51.jpg) |
@@ -308,6 +338,11 @@
 |![](links/1-Historique55.jpg) |
 |:---:|
 | 1970 | 
+
+|  | Hybrides |  | 
+|:---:|:---:|:---:|
+| Période | Principe | Technique | 
+| XXIe Contemporain | Fusion des trois | Composition digitale | 
 
 | Rotis | 
 |:---:|
