@@ -32,7 +32,7 @@
 |:---:|
 | Evolution des formes de l'écriture | 
 
-## Incises {#incises}
+## [Incises](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) {#incises}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
