@@ -13,7 +13,7 @@
 
 # Expression {#expression}
 
-|![](links/2-Seemiotique.jpg) |
+|![](links/2-Semiotique.jpg) |
 |:---:|
 | L’expression abstraite (avant même le sens des mots) porte déjà une coloration stéréotypée |
 
