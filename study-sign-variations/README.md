@@ -57,8 +57,10 @@ Les italiques sont disponibles en complément des polices roman (droites), c'est
 L'italique est utilisé pour mettre en évidence certains éléments dans le texte.
 
 
+### Sources
 
-### Sources {#sources}
+- Adrian Frutiger, *Type Sign Symbol*, Zurich: ABC Verlag, 1980  
+- Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
 
 <!-- - **Prénom Nom**  
   *Titre*, 0000 -->
