@@ -1,7 +1,5 @@
 # 🕰️ Classification Historique
 
-## Index des familles
-
 - [Incises](#incises)
 - [Scriptes](#scriptes)
 - [Sérifs](#serifs)
@@ -18,7 +16,7 @@
 |:---:|
 | Classification basée sur l’histoire de la typographie | 
 
-# Période - Technique
+# Période / Technique
 
 |![](links/1-Historique.gif) |
 |:---:|
@@ -28,17 +26,16 @@
 |:---:|
 | L'outil utilisé pour écrire définit certains aspects de la forme des signes | 
 
-# Timelapse
+# Timeline
 
 |![](links/1-Historique9.gif) |
 |:---:|
-| Abc | 
+| Evolution des formes de l'écriture | 
 
-# Timeline
+## Incises {#incises}
 
-|  | Incises {#incises} |  | 
-|:---:|:---:|:---:|
 | Période | Principe | Technique | 
+|:---:|:---:|:---:|
 | Ie–IIe Antiquité | Statique (expansion) | Gravure dans la pierre | 
 
 | Grec lapidaire | 
