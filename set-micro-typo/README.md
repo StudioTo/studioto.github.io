@@ -222,6 +222,10 @@ Chicago Manual of Style
 
 
 ### Sources
+ 
+- Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005 [éd. orig. 1987]  
+- François Rappo, *Checklist — micro-typographie*, Lausanne: ECAL, 2009  
+- ECAL/ Ecole Cantonale d’art de Lausanne, Harry Bloch, Pierrick Brégeon & Philippe Karrer, *Gas for my Cadillac: Manuel et quelques trucs de mise en page pour InDesign*, Lausanne: ECAL, 2013  
 
 <!-- - **Prénom Nom**  
   *Titre*, 0000 -->
