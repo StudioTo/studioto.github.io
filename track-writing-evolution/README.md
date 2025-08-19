@@ -1,10 +1,6 @@
 # ✍🏻 Evolution de l'écriture
 
-
-### &nbsp;
-
-
-## 🗂️ Classification Historique
+- 🗂️ Classification Historique
 - [Incises](#%EF%B8%8F-incises)
 - [Onciales](#%EF%B8%8F-onciales)
 - [Cursives](#%EF%B8%8F-cursives)
@@ -23,7 +19,7 @@
 - [Non-Alphabétiques](#%EF%B8%8F-non-alphabétiques)
 - [Hybrides](#%EF%B8%8F-hybrides)
 
-## 🛠️ Avancées technologiques
+- 🛠️ Avancées technologiques
 - [Invention de l’alphabet](#-1100-alpabet-occidental-moderne)
 - [Invention des chiffres latins](#1202-chiffres-latins)
 - [Invention de l’italique](#1500-litalique)
@@ -32,6 +28,9 @@
 - [Invention de la composition à chaud](#1880-automatisation)
 - [Invention de la photo-composition](#1950-développements-daprès-guerre)
 - [Invention de la typographie digitale](#1968--aujourdhui-typographie-digitale)
+
+&nbsp;
+
 
 # -64'000: Représentations symboliques
 Les traces peintes dans les grottes préhistoriques représentaient probablement des idées, des concepts spirituels, ou des symboles culturels, mais il n’y avait pas de grammaire ou de structure linguistique systématique derrière ces images. Elles servaient plutôt à des fins rituelles, artistiques ou symboliques.
