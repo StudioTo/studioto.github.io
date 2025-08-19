@@ -4,7 +4,7 @@
 
 |![](links/0-Eval2.gif) |
 |:---:|
-| Tenir la ligne | 
+| Tenir la ligne[^1] | 
 
 # Vousoiement
 Vouvoyer et être vouvoyé en retour.
@@ -51,6 +51,9 @@ En cas de retard, d’absence ou de difficulté à respecter un délai, avertir 
 # Délai
 Si un rendu est transmis après la date prévue, il faut l'envoyer par mail avec une justification du retard (et non le mettre sur teams)
 
+# Sources
+
+[^1]: Cavandoli, Osvaldo, *La Linea*, Italie : Cavandoli / Gamma Film, 1969.
 
 <!-- |![](links/Eval28.gif) |
 |:---:|
