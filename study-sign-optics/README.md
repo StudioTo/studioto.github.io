@@ -105,7 +105,8 @@ Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi a
 
 # Sources
 
-Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005 [éd. orig. 1987]  
+- Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005 [éd. orig. 1987]  
+- Jonathan Hoefler, *Typographic Illusions*, www.typography.com  
 
 [^1]: Franz Carl Müller-Lyer, sociologiste, *Müller-Lyer Illusion*, 1889
 
