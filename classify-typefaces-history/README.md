@@ -86,7 +86,7 @@
 |:---:|
 | IIIe — VIIe siècle | 
 
-# Scriptes {#scriptes}
+# [Scriptes](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) {#scriptes}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
@@ -182,7 +182,7 @@
 |:---:|
 | XIVe siècle | 
 
-# Sérifs {#serifs}
+# [Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-humanes) {#serifs}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
@@ -224,7 +224,7 @@
 |:---:|
 | 1531 | 
 
-# Slab-Sérifs {#slab-sérifs}
+# [Slab-Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-mécanes) {#slab-sérifs}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
@@ -266,7 +266,7 @@
 |:---:|
 | 1803 | 
 
-# Sans-Sérifs {#sans-sérifs}
+# [Sans-Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-grotesques) {#sans-sérifs}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
@@ -314,7 +314,7 @@
 |:---:|
 | 1931 | 
 
-# Expressives {#expressives}
+# [Expressives](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-expressives) {#expressives}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
@@ -350,11 +350,11 @@
 |:---:|
 | 1970 | 
 
-# Hybrides {#hybrides}
+# [Hybrides](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-hybrides) {#hybrides}
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
-| XXIe Contemporain | Fusion des trois | Composition digitale | 
+| XXIe Contemporain | Fusion des trois | [Composition digitale]() |
 
 | Rotis | 
 |:---:|
