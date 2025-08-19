@@ -110,7 +110,7 @@
 - Adrian Frutiger, *Type Sign Symbol*, Zurich: ABC Verlag, 1980  
 - Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972  
 - Abraham Moles, *Les sciences de l’imprécis: Échelles d’iconicité*, Paris: Seuil, 1990  
-- [^1]: Alva Noto & Anne-James Chaton, Uni Acronym, 2011
+[^1] Alva Noto & Anne-James Chaton, Uni Acronym, 2011
 
 <!-- - **Prénom Nom**  
   *Titre*, 0000 -->
