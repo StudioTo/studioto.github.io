@@ -36,7 +36,7 @@
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
-| Ie–IIe Antiquité | Statique (expansion) | Gravure dans la pierre | 
+| Ie–IIe Antiquité | Dynamique []() | [Gravure dans la pierre](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) | 
 
 | Grec lapidaire | 
 |:---:|
@@ -90,7 +90,7 @@
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
-| IVe–XIe Moyen-Âge | Dynamique (translation) | Calligraphie à la plume | 
+| IVe–XIe Moyen-Âge | Dynamique []() | [Calligraphie à la plume](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) | 
 
 | Capitale quadrata | 
 |:---:|
@@ -186,7 +186,7 @@
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
-| XVIe Renaissance | Statique (expansion) | Impression à caractères mobiles | 
+| XVIe Renaissance | Statique []() | [Impression à caractères mobiles](https://studioto.github.io/track-writing-evolution/#1450-gutenberg) | 
 
 | Minuscule humaniste | 
 |:---:|
@@ -228,7 +228,7 @@
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
-| XVIIIe Révolution industrielle | Statique / Géométrique | Composition à chaud | 
+| XVIIIe Révolution industrielle | Statique []() | [Composition à chaud](https://studioto.github.io/track-writing-evolution/#1880-automatisation) | 
 
 | Caslon | 
 |:---:|
@@ -270,7 +270,7 @@
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
-| XIXe Modernisme | Géométrique (monolinear) | Photocomposition | 
+| XIXe Modernisme | Géométrique []() | [Photocomposition](https://studioto.github.io/track-writing-evolution/#1950-développements-daprès-guerre) | 
 
 | Caslon égyptienne (première sans-sérif) | 
 |:---:|
@@ -318,7 +318,7 @@
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
-| XXe Post-modernisme | Mixte (dyn./stat./géo.) | Publicité et expérimentations | 
+| XXe Post-modernisme | Mixte | [Publicité](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-expressives) | 
 
 | Folio | 
 |:---:|
@@ -354,7 +354,7 @@
 
 | Période | Principe | Technique | 
 |:---:|:---:|:---:|
-| XXIe Contemporain | Fusion des trois | [Composition digitale]() |
+| XXIe Contemporain | Mixte | [Composition digitale](https://studioto.github.io/track-writing-evolution/#1968--aujourdhui-typographie-digitale) |
 
 | Rotis | 
 |:---:|
