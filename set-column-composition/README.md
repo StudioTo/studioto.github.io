@@ -46,8 +46,9 @@ La composition des colonnes concerne l’organisation du texte en largeur et en 
 | Le drapeau désigne l'ajustement du bord irrégulier du texte non justifié par un travail d'espacement, de césure et de retour à la ligne |
 
 
-
 ### Sources
+
+
 
 <!-- - **Prénom Nom**  
   *Titre*, 0000 -->
