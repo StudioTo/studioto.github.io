@@ -34,9 +34,9 @@
 
 # [Incises](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) {#incises}
 
-| Période | Principe | Technique | 
-|:---:|:---:|:---:|
-| Ie–IIe Antiquité | Dynamique []() | [Gravure dans la pierre](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) | 
+| Période | Technique | 
+|:---:|:---:|
+| Ie–IIe Antiquité | [Gravure dans la pierre](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) | 
 
 | Grec lapidaire | 
 |:---:|
@@ -88,9 +88,9 @@
 
 # [Scriptes](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) {#scriptes}
 
-| Période | Principe | Technique | 
-|:---:|:---:|:---:|
-| IVe–XIe Moyen-Âge | Dynamique []() | [Calligraphie à la plume](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) | 
+| Période | Technique | 
+|:---:|:---:|
+| IVe–XIe Moyen-Âge | [Calligraphie à la plume](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) | 
 
 | Capitale quadrata | 
 |:---:|
@@ -184,9 +184,9 @@
 
 # [Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-humanes) {#serifs}
 
-| Période | Principe | Technique | 
-|:---:|:---:|:---:|
-| XVIe Renaissance | Statique []() | [Impression à caractères mobiles](https://studioto.github.io/track-writing-evolution/#1450-gutenberg) | 
+| Période | Technique | 
+|:---:|:---:|
+| XVIe Renaissance | [Impression à caractères mobiles](https://studioto.github.io/track-writing-evolution/#1450-gutenberg) | 
 
 | Minuscule humaniste | 
 |:---:|
@@ -226,9 +226,9 @@
 
 # [Slab-Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-mécanes) {#slab-sérifs}
 
-| Période | Principe | Technique | 
-|:---:|:---:|:---:|
-| XVIIIe Révolution industrielle | Statique []() | [Composition à chaud](https://studioto.github.io/track-writing-evolution/#1880-automatisation) | 
+| Période | Technique | 
+|:---:|:---:|
+| XVIIIe Révolution industrielle | [Composition à chaud](https://studioto.github.io/track-writing-evolution/#1880-automatisation) | 
 
 | Caslon | 
 |:---:|
@@ -268,9 +268,9 @@
 
 # [Sans-Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-grotesques) {#sans-sérifs}
 
-| Période | Principe | Technique | 
-|:---:|:---:|:---:|
-| XIXe Modernisme | Géométrique []() | [Photocomposition](https://studioto.github.io/track-writing-evolution/#1950-développements-daprès-guerre) | 
+| Période | Technique | 
+|:---:|:---:|
+| XIXe Modernisme | [Photocomposition](https://studioto.github.io/track-writing-evolution/#1950-développements-daprès-guerre) | 
 
 | Caslon égyptienne (première sans-sérif) | 
 |:---:|
@@ -316,9 +316,9 @@
 
 # [Expressives](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-expressives) {#expressives}
 
-| Période | Principe | Technique | 
-|:---:|:---:|:---:|
-| XXe Post-modernisme | Mixte | [Publicité](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-expressives) | 
+| Période | Technique | 
+|:---:|:---:|
+| XXe Post-modernisme | [Publicité](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-expressives) | 
 
 | Folio | 
 |:---:|
@@ -352,9 +352,9 @@
 
 # [Hybrides](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-hybrides) {#hybrides}
 
-| Période | Principe | Technique | 
-|:---:|:---:|:---:|
-| XXIe Contemporain | Mixte | [Composition digitale](https://studioto.github.io/track-writing-evolution/#1968--aujourdhui-typographie-digitale) |
+| Période | Technique | 
+|:---:|:---:|
+| XXIe Contemporain | [Composition digitale](https://studioto.github.io/track-writing-evolution/#1968--aujourdhui-typographie-digitale) |
 
 | Rotis | 
 |:---:|
