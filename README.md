@@ -92,6 +92,7 @@
 ## [📘 Specimens](/index-specimens)
 ## [⚡ Logos](/index-logos)
 ## [🚸 Pictogrammes](/index-pictos)
+## [📚 Bibliographie](/index-books)
 
 &nbsp;
 &nbsp;
