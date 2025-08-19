@@ -72,13 +72,14 @@ Harry Bloch, Pierrick Brégeon & Philippe Karrer
 *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*. Zurich: Delta & Spes, 1980  
 
 # Studer, Anton  
-*Is What I See What I Get?* Lausanne: ECAL, 2017  
+*Is What I See What I Get? — Math & Optics in Type Design*. www.typographica.org  
 
 # Tschichold, Jan  
 *Asymmetric Typography*. London: Faber & Faber, 1967 [éd. orig. 1935]  
 
 # Tschichold, Jan  
 *Livre et typographie*. Paris: Allia, 1994 [éd. orig. 1948]  
+
 
 
 <!--
@@ -105,10 +106,9 @@ Otto Neurath, *Des hiéroglyphiques à l’Isotype: Une autobiographie visuelle*
 Gerrit Noordzij, *The Stroke: Theory of Writing*, London: Hyphen Press, 2005  
 Emil Ruder, *Typographie: Ein Gestaltungslehrbuch*, Teufen: Niggli, 1967  
 Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
-Anton Studer, *Is What I See What I Get?*, Lausanne: ECAL, 2017  
+Anton Studer, *Is What I See What I Get? — Math & Optics in Type Design*, www.typographica.org  
 François Rappo, *Checklist — micro-typographie*, Lausanne: ECAL, 2009  
 Jan Tschichold, *Asymmetric Typography*, London: Faber & Faber, 1967 [éd. orig. 1935]  
 Jan Tschichold, *Livre et typographie*, Paris: Allia, 1994 [éd. orig. 1948]
-
 
 -->
