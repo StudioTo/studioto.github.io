@@ -27,7 +27,7 @@
 - [Invention de l’alphabet](#-1100-alpabet-occidental-moderne)
 - [Invention des chiffres latins](#1202-chiffres-latins)
 - [Invention de l’italique](#1500-litalique)
-- [Invention des caractères mobiles](#1450-Gutenberg)
+- [Invention des caractères mobiles](#1450-gutenberg)
 - [Invention de la machine à écrire](#1829-machine-à-écrire)
 - [Invention de la composition à chaud](#1880-automatisation)
 - [Invention de la photo-composition](#1950-développements-daprès-guerre)
