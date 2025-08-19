@@ -16,6 +16,10 @@
 # Frutiger, Adrian  
 ***Des signes et des hommes***. Zurich: ABC Verlag, 1990  
 
+# ECAL/ Ecole Cantonale d’art de Lausanne  
+Harry Bloch, Pierrick Brégeon & Philippe Karrer  
+***Gas for my Cadillac: Manuel et quelques trucs de mise en page pour InDesign***. Lausanne: ECAL, 2013  
+
 # Gerstner, Karl  
 ***Designing Programmes***. Baden: Lars Müller Publishers, 2007 [1ʳᵉ éd. 1964]  
 
@@ -57,6 +61,9 @@
 
 # Rüegg, Ruedi  
 ***Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift***. Zurich: Delta & Spes, 1980  
+
+# Rappo, François  
+***Checklist — micro-typographie***. Lausanne: ECAL, 2009  
 
 # Tschichold, Jan  
 ***Asymmetric Typography***. London: Faber & Faber, 1967 [éd. orig. 1935]  
