@@ -109,5 +109,5 @@ Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi a
 - Jonathan Hoefler, *Typographic Illusions*, www.typography.com  
 - Anton Studer, *Is What I See What I Get? — Math & Optics in Type Design*, www.typographica.org  
 
-[^1]: Franz Carl Müller-Lyer, sociologiste, *Müller-Lyer Illusion*, 1889
+- [^1]: Franz Carl Müller-Lyer, *Müller-Lyer Illusion*, 1889
 
