@@ -106,7 +106,9 @@
 
 ### Sources
 
-
+- Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
+- Adrian Frutiger, *Type Sign Symbol*, Zurich: ABC Verlag, 1980  
+- Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972  
 
 <!-- - **Prénom Nom**  
   *Titre*, 0000 -->
