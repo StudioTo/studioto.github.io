@@ -576,4 +576,4 @@ Les polices variables contiennent plusieurs masters dans un fichier unique et pe
 |:------------------------------------------:|
 | Adrian Frutiger, Quelles seront les formes de demain?                                        |
 
-# 📎 Sources
+<!-- # Sources -->
