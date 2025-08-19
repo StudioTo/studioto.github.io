@@ -86,9 +86,10 @@
 |:---:|
 | IIIe — VIIe siècle | 
 
-|  | Scriptes {#scriptes} |  | 
-|:---:|:---:|:---:|
+## Scriptes {#scriptes}
+
 | Période | Principe | Technique | 
+|:---:|:---:|:---:|
 | IVe–XIe Moyen-Âge | Dynamique (translation) | Calligraphie à la plume | 
 
 | Capitale quadrata | 
@@ -181,9 +182,10 @@
 |:---:|
 | XIVe siècle | 
 
-|  | Sérifs {#serifs} |  | 
-|:---:|:---:|:---:|
+## Sérifs {#serifs}
+
 | Période | Principe | Technique | 
+|:---:|:---:|:---:|
 | XVIe Renaissance | Statique (expansion) | Impression à caractères mobiles | 
 
 | Minuscule humaniste | 
@@ -222,9 +224,10 @@
 |:---:|
 | 1531 | 
 
-|  | Slab-Sérifs {#slab-sérifs} |  | 
-|:---:|:---:|:---:|
+## Slab-Sérifs {#slab-sérifs}
+
 | Période | Principe | Technique | 
+|:---:|:---:|:---:|
 | XVIIIe Révolution industrielle | Statique / Géométrique | Composition à chaud | 
 
 | Caslon | 
@@ -263,9 +266,10 @@
 |:---:|
 | 1803 | 
 
-|  | Sans-Sérifs {#sans-sérifs} |  | 
-|:---:|:---:|:---:|
+## Sans-Sérifs {#sans-sérifs}
+
 | Période | Principe | Technique | 
+|:---:|:---:|:---:|
 | XIXe Modernisme | Géométrique (monolinear) | Photocomposition | 
 
 | Caslon égyptienne (première sans-sérif) | 
@@ -310,9 +314,10 @@
 |:---:|
 | 1931 | 
 
-|  | Expressives {#expressives} |  | 
-|:---:|:---:|:---:|
+## Expressives {#expressives}
+
 | Période | Principe | Technique | 
+|:---:|:---:|:---:|
 | XXe Post-modernisme | Mixte (dyn./stat./géo.) | Publicité et expérimentations | 
 
 | Folio | 
@@ -345,9 +350,10 @@
 |:---:|
 | 1970 | 
 
-|  | Hybrides {#hybrides} |  | 
-|:---:|:---:|:---:|
+## Hybrides {#hybrides}
+
 | Période | Principe | Technique | 
+|:---:|:---:|:---:|
 | XXIe Contemporain | Fusion des trois | Composition digitale | 
 
 | Rotis | 
