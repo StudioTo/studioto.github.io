@@ -1,5 +1,14 @@
 # 🕰️ Classification Historique
 
+## Index des familles
+
+- [Incises](#incises)
+- [Scriptes](#scriptes)
+- [Sérifs](#serifs)
+- [Slab-Sérifs](#slab-sérifs)
+- [Sans-Sérifs](#sans-sérifs)
+- [Expressives](#expressives)
+- [Hybrides](#hybrides)
   
 ### &nbsp;
 
@@ -27,7 +36,7 @@
 
 # Timeline
 
-|  | Incises |  | 
+|  | Incises {#incises} |  | 
 |:---:|:---:|:---:|
 | Période | Principe | Technique | 
 | Ie–IIe Antiquité | Statique (expansion) | Gravure dans la pierre | 
@@ -80,7 +89,7 @@
 |:---:|
 | IIIe — VIIe siècle | 
 
-|  | Scriptes |  | 
+|  | Scriptes {#scriptes} |  | 
 |:---:|:---:|:---:|
 | Période | Principe | Technique | 
 | IVe–XIe Moyen-Âge | Dynamique (translation) | Calligraphie à la plume | 
@@ -175,7 +184,7 @@
 |:---:|
 | XIVe siècle | 
 
-|  | Sérifs |  | 
+|  | Sérifs {#serifs} |  | 
 |:---:|:---:|:---:|
 | Période | Principe | Technique | 
 | XVIe Renaissance | Statique (expansion) | Impression à caractères mobiles | 
@@ -216,7 +225,7 @@
 |:---:|
 | 1531 | 
 
-|  | Slab-Sérifs |  | 
+|  | Slab-Sérifs {#slab-sérifs} |  | 
 |:---:|:---:|:---:|
 | Période | Principe | Technique | 
 | XVIIIe Révolution industrielle | Statique / Géométrique | Composition à chaud | 
@@ -257,7 +266,7 @@
 |:---:|
 | 1803 | 
 
-|  | Sans-Sérifs |  | 
+|  | Sans-Sérifs {#sans-sérifs} |  | 
 |:---:|:---:|:---:|
 | Période | Principe | Technique | 
 | XIXe Modernisme | Géométrique (monolinear) | Photocomposition | 
@@ -304,7 +313,7 @@
 |:---:|
 | 1931 | 
 
-|  | Expressives |  | 
+|  | Expressives {#expressives} |  | 
 |:---:|:---:|:---:|
 | Période | Principe | Technique | 
 | XXe Post-modernisme | Mixte (dyn./stat./géo.) | Publicité et expérimentations | 
@@ -339,7 +348,7 @@
 |:---:|
 | 1970 | 
 
-|  | Hybrides |  | 
+|  | Hybrides {#hybrides} |  | 
 |:---:|:---:|:---:|
 | Période | Principe | Technique | 
 | XXIe Contemporain | Fusion des trois | Composition digitale | 
