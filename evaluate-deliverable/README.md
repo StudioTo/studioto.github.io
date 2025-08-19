@@ -10,7 +10,7 @@
 
 |![](links/Eval2.gif) |
 |:---:|
-| Au début du cours = Au mur + Sur Teams | 
+| Au début du cours = Au mur + Sur Teams[^1] | 
 
 **Échéance**
 
@@ -46,3 +46,7 @@
 |![](links/Eval19.gif) |
 |:---:|
 | Mauvaise orientation, manque de netteté ou de contraste | 
+
+# Sources
+
+[^1]: Cavandoli, Osvaldo, *La Linea*, Italie : Cavandoli / Gamma Film, 1969.
