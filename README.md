@@ -100,6 +100,7 @@
 **Technique**
 ## [⚒️ Outils](/use-material)
 ## [🖨️ Scanner](/use-scanner)
+## [🖥️ InDesign](/use-indesign)
 ## [🧰 Typothèque](http://typo.eracom.ch)
 
 &nbsp;
