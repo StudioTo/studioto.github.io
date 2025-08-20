@@ -370,8 +370,3 @@
 - Indra Kupferschmid, *Buchstaben kommen selten allein: Typografie-Handbuch*, Sulgen: Niggli, 2004  
 - Gerrit Noordzij, *The Stroke: Theory of Writing*, London: Hyphen Press, 2005  
 - Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
-
-<!-- - **Prénom Nom**  
-  *Titre*, 0000 -->
-
-<!-- [^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980 -->

@@ -112,10 +112,6 @@
 - Abraham Moles, *Les sciences de l’imprécis: Échelles d’iconicité*, Paris: Seuil, 1990  
 [^1]: Alva Noto & Anne-James Chaton, *Uni Acronym*, 2011
 
-<!-- - **Prénom Nom**  
-  *Titre*, 0000 -->
-
-<!-- [^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980 -->
 
 <!--
 

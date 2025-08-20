@@ -4,7 +4,7 @@
 
 |![](links/Typo_Vectors_Interpolation.jpg) |
 |:---:|
-| Frutiger[^1]           |
+| Frutiger           |
 
 Dessin vectoriel
 

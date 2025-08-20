@@ -53,9 +53,3 @@ La composition des colonnes concerne l’organisation du texte en largeur et en 
 - Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972  
 - Karl Gerstner, *Designing Programmes*, Baden: Lars Müller Publishers, 2007 [1ʳᵉ éd. 1964]  
 - Josef Müller-Brockmann, *Grid Systems in Graphic Design: A Visual Communication Manual for Graphic Designers, Typographers and Three Dimensional Designers*, Zurich: Niggli, 1981  
-
-<!-- - **Prénom Nom**  
-  *Titre*, 0000 -->
-
-<!-- [^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980 -->
-
