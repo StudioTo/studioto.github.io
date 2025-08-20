@@ -12,9 +12,7 @@
 
 |![](links/1-Language_v217.gif)|
 |:---:|
-| Au début du cours = Au mur + Sur Teams[^1] | 
-
-<!-- | La langue est notre principal moyen de communication: la typographie la rend lisible[^1] | -->
+| La langue est notre principal moyen de communication: la typographie la rend lisible [^1] |
 
 # Communication  
 
