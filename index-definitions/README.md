@@ -146,9 +146,4 @@ Une typothèque est une collection organisée de polices de caractères. Elle pe
 |:---:|
 | Typothèque |
 
-### Sources
-
-<!-- - **Prénom Nom**  
-  *Titre*, 0000 -->
-
-<!-- [^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980 -->
+<!-- ### Sources -->

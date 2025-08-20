@@ -105,9 +105,3 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 
 - Indra Kupferschmid, *Buchstaben kommen selten allein: Typografie-Handbuch*, Sulgen: Niggli, 2004  
 - Gerrit Noordzij, *The Stroke: Theory of Writing*, London: Hyphen Press, 2005  
-
-<!-- - **Prénom Nom**  
-  *Titre*, 0000 -->
-
-<!-- [^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980 -->
-

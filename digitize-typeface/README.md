@@ -4,7 +4,7 @@
 
 |![](links/abc.jpg) |
 |:---:|
-| abc[^1]           |
+| abc           |
 
 Numérisation
 

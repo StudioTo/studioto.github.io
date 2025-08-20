@@ -12,7 +12,7 @@ https://designreviewed.com/type-specimens
 
 |![](links/Typo_Specimens.gif) |
 |:---:|
-| Sélection de specimens[^1]  
+| Sélection de specimens |  
 
 # Internet Archive
 https://archive.org/details/typecatalogs

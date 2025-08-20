@@ -23,9 +23,3 @@ La composition du mot se réfère à l’organisation globale de ses lettres dan
 - Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972 
 - Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
 - Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005 [éd. orig. 1987]  
-
-<!-- - **Prénom Nom**  
-  *Titre*, 0000 -->
-
-<!-- [^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980 -->
-

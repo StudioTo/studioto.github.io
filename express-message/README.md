@@ -78,8 +78,3 @@
 - Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972 
 - Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005 [éd. orig. 1987]  
 - Adrian Frutiger, *Type Sign Symbol*, Zurich: ABC Verlag, 1980  
-
-<!-- - **Prénom Nom**  
-  *Titre*, 0000 -->
-
-<!-- [^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980 -->
