@@ -10,7 +10,7 @@
 
 En graphisme, comme dans toute forme d’expression créative, l’art découle du savoir-faire. En danse, il s’agit de maîtriser les pas de base ; en musique, d’apprendre les gammes ; en mathématiques, de connaître les méthodes fondamentales. En typographie, le savoir-faire concerne les unités typographiques.
 
-# Learn the rules / Break the rules
+# Apprendre les règles / Dépasser les règles
 
 La contrainte est la condition de l’inventivité. On ne peut transgresser une règle qu’en comprenant d’abord sa fonction, et en la remplaçant par un principe tout aussi cohérent. Il faut donc commencer par maîtriser les règles: l’inventivité ne réside pas tant dans leur rupture que dans la manière de les interpréter, de les détourner ou de les questionner.
 
