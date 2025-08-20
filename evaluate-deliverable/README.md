@@ -47,6 +47,6 @@
 |:---:|
 | Mauvaise orientation, manque de netteté ou de contraste | 
 
-# Sources
+### Sources
 
 [^1]: Cavandoli, Osvaldo, *La Linea*, Italie : Cavandoli / Gamma Film, 1969.

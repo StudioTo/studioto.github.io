@@ -96,7 +96,7 @@
 - abc
 --->
 
-# 📎 Sources
+### Sources
 
 - **ECAL/ Ecole Cantonale d’art de Lausanne**  
   Harry Bloch, Pierrick Brégeon & Philippe Karrer  

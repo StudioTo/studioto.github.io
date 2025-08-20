@@ -103,7 +103,7 @@ Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi a
 | Transposition des formes primaires aux caractères construits sur un principe géométrique, statique et dynamique           |
 
 
-# Sources
+### Sources
 
 - Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005 [éd. orig. 1987]  
 - Jonathan Hoefler, *Typographic Illusions*, www.typography.com  
