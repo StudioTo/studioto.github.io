@@ -364,7 +364,7 @@
 
 
 
-## Sources
+### Sources
 
 - Robert Bringhurst, *The Elements of Typographic Style*, Vancouver: Hartley & Marks, 1992  
 - Indra Kupferschmid, *Buchstaben kommen selten allein: Typografie-Handbuch*, Sulgen: Niggli, 2004  

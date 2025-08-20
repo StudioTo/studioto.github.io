@@ -72,7 +72,7 @@ Voici une correspondance entre les règles mentionnées par Irene Wellington ci-
 |:---:|
 | v → x, k           |
 
-# 📎 Sources
+### Sources
 
 - **Walter Käch**  
   *Die Gezeichnete Schrift*, 1949
