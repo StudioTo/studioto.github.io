@@ -14,7 +14,7 @@ En graphisme, comme dans toute forme d’expression créative, l’art découle 
 
 La contrainte est la condition de l’inventivité. On ne peut transgresser une règle qu’en comprenant d’abord sa fonction, et en la remplaçant par un principe tout aussi cohérent. Il faut donc commencer par maîtriser les règles: l’inventivité ne réside pas tant dans leur rupture que dans la manière de les interpréter, de les détourner ou de les questionner.
 
-# Collection de manière de faire
+# Collection de paramètres
 
 Ce cours ne fournit en aucun cas des réponses toutes faites, mais présente un catalogue de paramètre à prendre en compte pour le développememt de tout types de travaux typographiques. Si il parvient à stimuler les apprenants à expérimenter et produire des travaux originaux, systématiques et imaginatifs, il aura atteint son objectif.
 
