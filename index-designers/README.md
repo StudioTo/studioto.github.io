@@ -95,7 +95,7 @@
 
 # Neurath, Otto
 
-# Norzij, Gerrit
+# Noordzij, Gerrit
 
 # Novarese, Aldo
 
