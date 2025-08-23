@@ -34,6 +34,8 @@
 
 # [Incises](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) {#incises}
 
+## Lapidaires {#lapidaires}
+
 <!-- | Période | Technique | Squelette | Vox | 
 |:---:|:---:|
 | Antiquité | [Gravure dans la pierre](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) |  —  |  Incises  | -->
@@ -228,7 +230,7 @@
 
 |  L’écriture de chancellerie — parfois également appelée «chancelleresque» — trouve son origine dans la calligraphie à plume large de la période de la Renaissance. Elle est basée sur l’écriture cursive des XVe et XVIe siècles développée en Italie, d’où le terme alternatif d’«italique». Des maîtres calligraphes comme Arrighi, Palatino et Tagliente ont publié des manuels d’écriture pour alimenter la «main italique». |
 
-| écriture de chancellerie / Main courante (Allemagne) | 
+| Écriture de chancellerie / Main courante (Allemagne) | 
 |:---:|
 |![](links/1-Historique36.jpg) |
 |:---:|
