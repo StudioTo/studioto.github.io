@@ -198,16 +198,6 @@
 
 # [Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-humanes) {#serifs}
 
-## [Sérifs Humanistes]() {#serifs-humanistes}
-
-| Période | Technique | Squelette | Vox | 
-|:---:|:---:|
-| XVIe Renaissance | [Impression à caractères mobiles](https://studioto.github.io/track-writing-evolution/#1450-gutenberg) | Dynamique |  Humanes, Garaldes |
-
-|  Le caractère humaniste est la forme originale des polices romaines développées à la Renaissance, au XVe siècle. Elle peut être divisée en deux styles: le style vénitien (Alde Manuce), caractérisé par une barre transversale inclinée sur le «e» minuscule, et le style français (Claude Garamond), dans lequel le «e» a généralement un œil plus petit. Les majuscules suivent les proportions des lettres romaines inscrites (Capitalis). Les italiques sont similaires à l’écriture chancelleresque.
-
-Les empattements sont généralement en forme de crochets, parfois asymétriques. Les empattements supérieurs sont pour la plupart angulaires.  |
-
 | Minuscule humaniste | 
 |:---:|
 |![](links/1-Historique32.jpg) |
@@ -238,11 +228,31 @@ Les empattements sont généralement en forme de crochets, parfois asymétriques
 |:---:|
 | XVIe siècle | 
 
+## [Sérifs Humanistes]() {#serifs-humanistes}
+
+| Période | Technique | Squelette | Vox | 
+|:---:|:---:|
+| Renaissance | [Impression à caractères mobiles](https://studioto.github.io/track-writing-evolution/#1450-gutenberg) | Dynamique |  Garaldes |
+
+|  Le caractère humaniste est la forme originale des polices romaines développées à la Renaissance, au XVe siècle. Elle peut être divisée en deux styles: le style vénitien (Alde Manuce), caractérisé par une barre transversale inclinée sur le «e» minuscule, et le style français (Claude Garamond), dans lequel le «e» a généralement un œil plus petit. Les majuscules suivent les proportions des lettres romaines inscrites (Capitalis). Les italiques sont similaires à l’écriture chancelleresque.
+
+Les empattements sont généralement en forme de crochets, parfois asymétriques. Les empattements supérieurs sont pour la plupart angulaires.  |
+
 | Garamond | 
 |:---:|
 |![](links/1-Historique37.jpg) |
 |:---:|
 | 1531 | 
+
+## [Sérifs Transitionelles]() {#serifs-transitionelles}
+
+| Période | Technique | Squelette | Vox | 
+|:---:|:---:|
+| Renaissance | [Impression à caractères mobiles](https://studioto.github.io/track-writing-evolution/#1450-gutenberg) | Dynamique / Statique (rotation) |  Réales |
+
+|  Le caractère réaliste, souvent appelée «transitionnel», se situe quelque part entre le style humaniste de la Renaissance et le modèle moderne et rationaliste de la période néoclassique. Elle est également parfois appelée «baroque». 
+
+Ses principales caractéristiques sont un contraste accru, des formes et des proportions plus régulières, s’éloignant progressivement des formes ressemblant à l’écriture manuscrite. Les empattements sont en forme de parenthèses.  |
 
 | Caslon | 
 |:---:|
@@ -261,6 +271,16 @@ Les empattements sont généralement en forme de crochets, parfois asymétriques
 |![](links/1-Historique40.jpg) |
 |:---:|
 | Milieu du XVIIIe siècle | 
+
+## [Sérifs Modernes]() {#serifs-transitionelles}
+
+| Période | Technique | Squelette | Vox | 
+|:---:|:---:|
+| Renaissance | [Impression à caractères mobiles](https://studioto.github.io/track-writing-evolution/#1450-gutenberg) | Statique |  Didones |
+
+|  Le caractère rationnel, également appelée «moderne» ou «néoclassique», se caractérise traditionnellement par un fort contraste vertical entre les tiges verticales épaisses et les traits horizontaux fins.
+
+Les empattements sont horizontaux, soit fins et abrupts. Les formes comportent souvent des terminaisons en forme de boules. Les italiques sont similaires à l’écriture ronde. Ces caractéristiques sont conservées même lorsque le contraste diminue.  |
 
 | Didot | 
 |:---:|
