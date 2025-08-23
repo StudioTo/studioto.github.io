@@ -198,9 +198,15 @@
 
 # [Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-humanes) {#serifs}
 
-| Période | Technique | 
+## [Sérifs Humanistes]() {#serifs-humanistes}
+
+| Période | Technique | Squelette | Vox | 
 |:---:|:---:|
-| XVIe Renaissance | [Impression à caractères mobiles](https://studioto.github.io/track-writing-evolution/#1450-gutenberg) | 
+| XVIe Renaissance | [Impression à caractères mobiles](https://studioto.github.io/track-writing-evolution/#1450-gutenberg) | Dynamique |  Humanes, Garaldes |
+
+|  Le caractère humaniste est la forme originale des polices romaines développées à la Renaissance, au XVe siècle. Elle peut être divisée en deux styles: le style vénitien (Alde Manuce), caractérisé par une barre transversale inclinée sur le «e» minuscule, et le style français (Claude Garamond), dans lequel le «e» a généralement un œil plus petit. Les majuscules suivent les proportions des lettres romaines inscrites (Capitalis). Les italiques sont similaires à l’écriture chancelleresque.
+
+Les empattements sont généralement en forme de crochets, parfois asymétriques. Les empattements supérieurs sont pour la plupart angulaires.  |
 
 | Minuscule humaniste | 
 |:---:|
