@@ -37,6 +37,8 @@
 | Période | Technique | Squelette | 
 |:---:|:---:|
 | Antiquité | [Gravure dans la pierre](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) |  Script  |
+
+|:---:|
 |  Ce groupe comprend les caractères à empattements inspirées des premières formes manuscrites, gravées et inscrites. Les polices avec de très petits «empattements en éperon» peuvent également appartenir à ce groupe.  |
 
 | Grec lapidaire | 
