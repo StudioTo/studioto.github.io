@@ -369,6 +369,6 @@
 ### Sources
 
 - Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
-- Robert Bringhurst, *The Elements of Typographic Style*, Vancouver: Hartley & Marks, 1992  
 - Indra Kupferschmid, *Buchstaben kommen selten allein: Typografie-Handbuch*, Sulgen: Niggli, 2004  
+- Robert Bringhurst, *The Elements of Typographic Style*, Vancouver: Hartley & Marks, 1992   
 - Gerrit Noordzij, *The Stroke: Theory of Writing*, London: Hyphen Press, 2005   
