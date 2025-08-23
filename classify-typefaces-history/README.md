@@ -61,7 +61,7 @@
 # [Scriptes](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) {#scriptes}
 # Moyen-Âge
 
-## [Onciales]() {#onciales}
+## Onciales {#onciales}
 
 | Squelette | Graisse | Enveloppe | Vox |
 |:---:|:---:|:---:|
