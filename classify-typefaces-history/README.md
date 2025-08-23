@@ -62,9 +62,9 @@
 
 ## [Onciales]() {#onciales}
 
-| Période | Squelette | Graisse | Enveloppe | Vox |
-|:---:|:---:|:---:|:---:|:---:|
-| Moyen-Âge | Scripte |  Contrasté  |  Proto-sérifs  | Manuaires  |
+| Période |  Technique | Vox | Squelette | Graisse | Enveloppe |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Moyen-Âge | [Calligraphie à la plume](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) | Manuaires | Scripte |  Contrasté  |  Proto-sérifs |
 
 | Période | Technique | Squelette | Vox | 
 |:---:|:---:|
