@@ -60,14 +60,13 @@
 
 # [Scriptes](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) {#scriptes}
 
-## Onciales {#onciales}
+## Scriptes Onciales / Manuaires {#scriptes-onciales}
 
 <!-- | Squelette | Graisse | Enveloppe | Vox |
 |:---:|:---:|:---:|
 | Scripte |  Contrasté  |  Proto-sérifs  | -->
 
 | L’onciale est un style de calligraphie dont les formes sont créées à l’aide d’une plume à pointe large à un angle presque horizontal, mais parfois plus incliné dans les variantes ultérieures. Il n’y a pas de formes distinctes pour les majuscules et les minuscules dans les designs onciaux purs — les lettres minuscules romaines avec ascendantes et descendantes ont été développées à partir des formes onciales et semi-onciales du Moyen Âge.  |
-|  Vox: Manuaires  |
 
 | Capitale rustika | 
 |:---:|
@@ -153,7 +152,7 @@
 |:---:|
 | XIe — XIIe siècle | 
 
-## Fractures {#fractures}
+## Scriptes Brisés / Fractures {#scriptes-fractures}
 
 | Dans les caractères fractures — également appelés «gothique» — certaines ou toutes les parties rondes des lettres sont «brisées» en traits droits. Ce style s’est progressivement développé dans les régions médiévales afin que les scribes puissent copier les manuscrits plus rapidement qu’avec la main minuscule carolingienne qui était courante auparavant. Alors que les empattements humanistes ont supplanté la lettre noire en Europe du Sud au cours de la Renaissance, le style lettre noire — en particulier le Fraktur — a continué à être largement utilisé dans les pays germanophones jusqu’au milieu du XXe siècle.  |
 
@@ -195,11 +194,17 @@
 
 # [Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-humanes) {#serifs}
 
+## Sérifs Dynamiques / Humanes, Garaldes {#serifs-humanistes}
+
+|  Le caractère humaniste est la forme originale des polices romaines développées à la Renaissance, au XVe siècle. Elle peut être divisée en deux styles: le style vénitien (Alde Manuce), caractérisé par une barre transversale inclinée sur le «e» minuscule, et le style français (Claude Garamond), dans lequel le «e» a généralement un œil plus petit. Les majuscules suivent les proportions des lettres romaines inscrites (Capitalis). Les italiques sont similaires à l’écriture chancelleresque. Les empattements sont généralement en forme de crochets, parfois asymétriques. Les empattements supérieurs sont pour la plupart angulaires.  |
+
 | Minuscule humaniste | 
 |:---:|
 |![](links/1-Historique32.jpg) |
 |:---:|
 | XVe — XVIe siècle | 
+
+<!-- ## Sérifs Cursives / Italiques {#serifs-italiques} -->
 
 | Humaniste cursive (italique) | 
 |:---:|
@@ -219,16 +224,15 @@
 |:---:|
 | XVIe — XVIIe siècle | 
 
+## Scriptes de Chancellerie {#scriptes-chancellerie}
+
+|  L’écriture de chancellerie — parfois également appelée «chancelleresque» — trouve son origine dans la calligraphie à plume large de la période de la Renaissance. Elle est basée sur l’écriture cursive des XVe et XVIe siècles développée en Italie, d’où le terme alternatif d’«italique». Des maîtres calligraphes comme Arrighi, Palatino et Tagliente ont publié des manuels d’écriture pour alimenter la «main italique». |
+
 | écriture de chancellerie / Main courante (Allemagne) | 
 |:---:|
 |![](links/1-Historique36.jpg) |
 |:---:|
 | XVIe siècle | 
-
-## Sérifs Humanistes {#serifs-humanistes}
-## Garaldes
-
-|  Le caractère humaniste est la forme originale des polices romaines développées à la Renaissance, au XVe siècle. Elle peut être divisée en deux styles: le style vénitien (Alde Manuce), caractérisé par une barre transversale inclinée sur le «e» minuscule, et le style français (Claude Garamond), dans lequel le «e» a généralement un œil plus petit. Les majuscules suivent les proportions des lettres romaines inscrites (Capitalis). Les italiques sont similaires à l’écriture chancelleresque. Les empattements sont généralement en forme de crochets, parfois asymétriques. Les empattements supérieurs sont pour la plupart angulaires.  |
 
 | Garamond | 
 |:---:|
@@ -236,7 +240,7 @@
 |:---:|
 | 1531 | 
 
-## Sérifs Transitionelles {#serifs-transitionelles}
+## Sérifs Dynamiques-Statiques (rotation) / Réales {#serifs-transitionelles}
 
 |  Le caractère réaliste, souvent appelée «transitionnel», se situe quelque part entre le style humaniste de la Renaissance et le modèle moderne et rationaliste de la période néoclassique. Elle est également parfois appelée «baroque». Ses principales caractéristiques sont un contraste accru, des formes et des proportions plus régulières, s’éloignant progressivement des formes ressemblant à l’écriture manuscrite. Les empattements sont en forme de parenthèses.  |
 
@@ -258,9 +262,13 @@
 |:---:|
 | Milieu du XVIIIe siècle | 
 
-## Sérifs Modernes {#serifs-transitionelles}
+<!-- ## Scriptes Main Ronde {#scriptes-main-ronde}
 
-|  Le caractère rationnel, également appelée «moderne» ou «néoclassique», se caractérise traditionnellement par un fort contraste vertical entre les tiges verticales épaisses et les traits horizontaux fins. Les empattements sont horizontaux, soit fins et abrupts. Les formes comportent souvent des terminaisons en forme de boules. Les italiques sont similaires à l’écriture ronde. Ces caractéristiques sont conservées même lorsque le contraste diminue.  |
+|  L’écriture à main ronde est basée sur la calligraphie à stylo pointu et est liée aux périodes de style baroque et classique. Elle a été développée en Angleterre à la fin du XVIIe siècle et s’est largement répandue en Europe et en Amérique du Nord par la suite, propagée par des maîtres de l’écriture tels que Shelley, Bickham ou Snell. | -->
+
+## Sérifs Statiques / Didones {#serifs-transitionelles}
+
+|  Le caractère «moderne», également appelée «néoclassique», se caractérise traditionnellement par un fort contraste vertical entre les tiges verticales épaisses et les traits horizontaux fins. Les empattements sont horizontaux, soit fins et abrupts. Les formes comportent souvent des terminaisons en forme de boules. Les italiques sont similaires à l’écriture ronde. Ces caractéristiques sont conservées même lorsque le contraste diminue.  |
 
 | Didot | 
 |:---:|
@@ -286,17 +294,23 @@
 |:---:|
 | 1816 | 
 
-# [Slab-Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-mécanes) {#slab-sérifs}
+# [Expressives](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-expressives) {#expressives}
 
-| Période | Technique | 
-|:---:|:---:|
-| XVIIIe Révolution industrielle | [Composition à chaud](https://studioto.github.io/track-writing-evolution/#1880-automatisation) | 
+## Publicité / Display {#slab-display}
+
+|  Il existe une histoire riche et abondante de caractères d’affichage décoratifs et ornementés à empattement plat conçus au 19e et au début du 20e siècle pour des affiches et d’autres travaux à façon. Ces caractères étaient particulièrement florissants aux États-Unis et étaient généralement produits sous forme de caractères en bois, car les grands corps devenaient trop lourds, trop chers et trop difficiles à couler en métal. |
 
 | Italienne | 
 |:---:|
 |![](links/1-Historique45.jpg) |
 |:---:|
 | 1821 | 
+
+# [Slab-Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-mécanes) {#slab-sérifs}
+
+## Slabs Statiques / Mécanes {#slab-mecanes}
+
+|  Les caractères slab rationnels se caractérisent par des empattements épais qui sont presque aussi épais que les traits principaux. Elles ont été développés au début XIXe siècle, dans le cadre d’une demande croissante de polices de caractères accrocheuses pour l’affichage et la publicité. Elles partagent le modèle de forme rationnelle avec des ouvertures fermées et des proportions cohérentes, généralement larges.  |
 
 | Clarendon | 
 |:---:|
@@ -306,9 +320,9 @@
 
 # [Sans-Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-grotesques) {#sans-sérifs}
 
-| Période | Technique | 
-|:---:|:---:|
-| XIXe Modernisme | [Photocomposition](https://studioto.github.io/track-writing-evolution/#1950-développements-daprès-guerre) | 
+## Sans Statiques / Grotesques {#sans-grotesques}
+
+|  Les caractères sans empattement qui sont apparues pour la première fois dans le catalogue des imprimeurs anglais au début du XIXe siècle ont été qualifiées à l’époque de «grotesques». Mais ce style n’était nouveau que dans le domaine de l’imprimerie: les lettres sans empattement étaient déjà utilisées dans les lettrages et les inscriptions. La police English Egyptian de William Caslon, composée uniquement de majuscules, datant de 1816, est considérée comme la première police sans empattement. |
 
 | Akzidenz Grotesk | 
 |:---:|
@@ -316,11 +330,19 @@
 |:---:|
 | 1898 | 
 
+## Sans Dynamiques / Humanes {#sans-humanes}
+
+|  Les premières polices de caractères de ce style sont apparues au début du XXe siècle, lors d’un renouveau calligraphique visant à surmonter ce que certains considéraient comme un excès d’éclectisme victorien. Ce mouvement a été lancé par Edward Johnston en Angleterre et s’est manifesté dans sa création pour le métro de Londres en 1916. La police de caractères créée par son élève Eric Gill en 1928 est considérée comme le premier exemple populaire du style humaniste. |
+
 | Gill | 
 |:---:|
 |![](links/1-Historique48.jpg) |
 |:---:|
 | 1927 | 
+
+## Sans Géométriques / Géométriques {#sans-geometriques}
+
+|  Les formes de caractères sont «construites» à partir de formes géométriques (corrigées optiquement) avec des parties rondes et généralement très peu de contraste entre les traits. D’autres caractères de cette catégorie ont des formes carrées, basées sur un rectangle plutôt que sur un cercle, ou construites à partir d’autres éléments modulaires. |
 
 | Futura | 
 |:---:|
@@ -333,12 +355,6 @@
 |![](links/1-Historique50.jpg) |
 |:---:|
 | 1931 | 
-
-# [Expressives](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-expressives) {#expressives}
-
-| Période | Technique | 
-|:---:|:---:|
-| XXe Post-modernisme | [Publicité](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-expressives) | 
 
 | Folio | 
 |:---:|
@@ -372,9 +388,9 @@
 
 # [Hybrides](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-hybrides) {#hybrides}
 
-| Période | Technique | 
-|:---:|:---:|
-| XXIe Contemporain | [Composition digitale](https://studioto.github.io/track-writing-evolution/#1968--aujourdhui-typographie-digitale) |
+## Superfamilles {#hybrides-superfamilles}
+
+| Les caractères hybrides cherchent à combiner dans une même famille plusieurs principes de construction typographique. Ils proposent souvent un système avec des variations de terminaisons (de sans-sérif à sérif par ex.) et de contrastes (contrasté à linéaire) de manière à donner plusieurs voix stylistiques à un seul squelette.  |
 
 | Rotis | 
 |:---:|
