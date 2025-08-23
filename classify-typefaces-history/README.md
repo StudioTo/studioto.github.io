@@ -34,9 +34,10 @@
 
 # [Incises](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) {#incises}
 
-| Période | Technique | 
+| Période | Technique | Squelette | 
 |:---:|:---:|
-| Ie–IIe Antiquité | [Gravure dans la pierre](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) | 
+| Antiquité | [Gravure dans la pierre](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) |  Script  |
+|  Ce groupe comprend les caractères à empattements inspirées des premières formes manuscrites, gravées et inscrites. Les polices avec de très petits «empattements en éperon» peuvent également appartenir à ce groupe.  |
 
 | Grec lapidaire | 
 |:---:|
@@ -54,7 +55,14 @@
 |:---:|
 |![](links/1-Historique11.jpg) |
 |:---:|
-| Ie siècle av. J.-C. | 
+| Ie siècle av. J.-C. |  
+
+# [Scriptes](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) {#scriptes}
+
+| Période | Technique | 
+|:---:|:---:|
+| Moyen-Âge | [Calligraphie à la plume](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) | 
+| L’onciale est un style de calligraphie celtique dont les formes sont créées à l’aide d’une plume à pointe large à un angle presque horizontal, mais parfois plus incliné dans les variantes ultérieures. Il n’y a pas de formes distinctes pour les majuscules et les minuscules dans les designs onciaux purs — les lettres minuscules romaines avec ascendantes et descendantes ont été développées à partir des formes onciales et semi-onciales du Moyen Âge.  |
 
 | Capitale rustika | 
 |:---:|
@@ -85,12 +93,6 @@
 |![](links/1-Historique16.jpg) |
 |:---:|
 | IIIe — VIIe siècle | 
-
-# [Scriptes](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) {#scriptes}
-
-| Période | Technique | 
-|:---:|:---:|
-| IVe–XIe Moyen-Âge | [Calligraphie à la plume](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) | 
 
 | Capitale quadrata | 
 |:---:|
