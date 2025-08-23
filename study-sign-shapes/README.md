@@ -21,6 +21,10 @@
 
 # Squelette {#squelette}
 
+|  Dynamique  |  Statique  |  Géométrique  |
+|  Translation  |  Expansion  |  Construction  |
+|  Humaniste  |  Rationnel  |  Construit  |
+|:---:|:---:|:---:|
 | ![](links/Typo_Parameters_02.jpg) | ![](links/Typo_Parameters_03.jpg) | ![](links/Typo_Parameters_04_alt.jpg) |
 |:---:|:---:|:---:|
 | Le principe dynamique découle historiquement de la calligraphie humaniste (Renaissance) réalisée à la plume à bec large. La tension diagonale ainsi que les terminaisons ouvertes des lettres résultent de la translation du bec carré, maintenu à un angle fixe.           | Le principe statique découle historiquement de la calligraphie moderne (Renaissance) réalisée à la plume à bec pointu. La tension verticale ainsi que les terminaisons fermées des lettres résultent de l’expansion du bec carré, qui évolue avec la pression de la main.           | Le principe géométrique découle historiquement du constructivisme post-moderne (XXe) réalisée à la plume à bec rond. La construction modulaire des lettres résultent du bec rond qui produit un contraste monolinéaire.           |
