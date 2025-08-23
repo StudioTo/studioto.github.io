@@ -34,9 +34,9 @@
 
 # [Incises](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) {#incises}
 
-| Période | Technique | Squelette | Vox | 
+<!-- | Période | Technique | Squelette | Vox | 
 |:---:|:---:|
-| Antiquité | [Gravure dans la pierre](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) |  —  |  Incises  |
+| Antiquité | [Gravure dans la pierre](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-incises) |  —  |  Incises  | -->
 
 |  Ce groupe comprend les caractères à empattements inspirées des premières formes manuscrites, gravées et inscrites. Les polices avec de très petits «empattements en éperon» peuvent également appartenir à ce groupe.  |
 
@@ -59,13 +59,12 @@
 | Ie siècle av. J.-C. |  
 
 # [Scriptes](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) {#scriptes}
-# Moyen-Âge
 
 ## Onciales {#onciales}
 
-| Squelette | Graisse | Enveloppe | Vox |
+<!-- | Squelette | Graisse | Enveloppe | Vox |
 |:---:|:---:|:---:|
-| Scripte |  Contrasté  |  Proto-sérifs  |
+| Scripte |  Contrasté  |  Proto-sérifs  | -->
 
 | L’onciale est un style de calligraphie dont les formes sont créées à l’aide d’une plume à pointe large à un angle presque horizontal, mais parfois plus incliné dans les variantes ultérieures. Il n’y a pas de formes distinctes pour les majuscules et les minuscules dans les designs onciaux purs — les lettres minuscules romaines avec ascendantes et descendantes ont été développées à partir des formes onciales et semi-onciales du Moyen Âge.  |
 |  Vox: Manuaires  |
@@ -154,11 +153,7 @@
 |:---:|
 | XIe — XIIe siècle | 
 
-## [Fractures]() {#fractures}
-
-| Période | Technique | Squelette | Vox | 
-|:---:|:---:|
-| Moyen-Âge | [Calligraphie à la plume](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) |  Scripte  |  Fractures  |
+## Fractures {#fractures}
 
 | Dans les caractères fractures — également appelés «gothique» — certaines ou toutes les parties rondes des lettres sont «brisées» en traits droits. Ce style s’est progressivement développé dans les régions médiévales afin que les scribes puissent copier les manuscrits plus rapidement qu’avec la main minuscule carolingienne qui était courante auparavant. Alors que les empattements humanistes ont supplanté la lettre noire en Europe du Sud au cours de la Renaissance, le style lettre noire — en particulier le Fraktur — a continué à être largement utilisé dans les pays germanophones jusqu’au milieu du XXe siècle.  |
 
@@ -230,15 +225,10 @@
 |:---:|
 | XVIe siècle | 
 
-## [Sérifs Humanistes]() {#serifs-humanistes}
+## Sérifs Humanistes {#serifs-humanistes}
+## Garaldes
 
-| Période | Technique | Squelette | Vox | 
-|:---:|:---:|
-| Renaissance | [Impression à caractères mobiles](https://studioto.github.io/track-writing-evolution/#1450-gutenberg) | Dynamique |  Garaldes |
-
-|  Le caractère humaniste est la forme originale des polices romaines développées à la Renaissance, au XVe siècle. Elle peut être divisée en deux styles: le style vénitien (Alde Manuce), caractérisé par une barre transversale inclinée sur le «e» minuscule, et le style français (Claude Garamond), dans lequel le «e» a généralement un œil plus petit. Les majuscules suivent les proportions des lettres romaines inscrites (Capitalis). Les italiques sont similaires à l’écriture chancelleresque.
-
-Les empattements sont généralement en forme de crochets, parfois asymétriques. Les empattements supérieurs sont pour la plupart angulaires.  |
+|  Le caractère humaniste est la forme originale des polices romaines développées à la Renaissance, au XVe siècle. Elle peut être divisée en deux styles: le style vénitien (Alde Manuce), caractérisé par une barre transversale inclinée sur le «e» minuscule, et le style français (Claude Garamond), dans lequel le «e» a généralement un œil plus petit. Les majuscules suivent les proportions des lettres romaines inscrites (Capitalis). Les italiques sont similaires à l’écriture chancelleresque. Les empattements sont généralement en forme de crochets, parfois asymétriques. Les empattements supérieurs sont pour la plupart angulaires.  |
 
 | Garamond | 
 |:---:|
@@ -246,15 +236,9 @@ Les empattements sont généralement en forme de crochets, parfois asymétriques
 |:---:|
 | 1531 | 
 
-## [Sérifs Transitionelles]() {#serifs-transitionelles}
+## Sérifs Transitionelles {#serifs-transitionelles}
 
-| Période | Technique | Squelette | Vox | 
-|:---:|:---:|
-| Renaissance | [Impression à caractères mobiles](https://studioto.github.io/track-writing-evolution/#1450-gutenberg) | Dynamique / Statique (rotation) |  Réales |
-
-|  Le caractère réaliste, souvent appelée «transitionnel», se situe quelque part entre le style humaniste de la Renaissance et le modèle moderne et rationaliste de la période néoclassique. Elle est également parfois appelée «baroque». 
-
-Ses principales caractéristiques sont un contraste accru, des formes et des proportions plus régulières, s’éloignant progressivement des formes ressemblant à l’écriture manuscrite. Les empattements sont en forme de parenthèses.  |
+|  Le caractère réaliste, souvent appelée «transitionnel», se situe quelque part entre le style humaniste de la Renaissance et le modèle moderne et rationaliste de la période néoclassique. Elle est également parfois appelée «baroque». Ses principales caractéristiques sont un contraste accru, des formes et des proportions plus régulières, s’éloignant progressivement des formes ressemblant à l’écriture manuscrite. Les empattements sont en forme de parenthèses.  |
 
 | Caslon | 
 |:---:|
@@ -274,15 +258,9 @@ Ses principales caractéristiques sont un contraste accru, des formes et des pro
 |:---:|
 | Milieu du XVIIIe siècle | 
 
-## [Sérifs Modernes]() {#serifs-transitionelles}
+## Sérifs Modernes {#serifs-transitionelles}
 
-| Période | Technique | Squelette | Vox | 
-|:---:|:---:|
-| Renaissance | [Impression à caractères mobiles](https://studioto.github.io/track-writing-evolution/#1450-gutenberg) | Statique |  Didones |
-
-|  Le caractère rationnel, également appelée «moderne» ou «néoclassique», se caractérise traditionnellement par un fort contraste vertical entre les tiges verticales épaisses et les traits horizontaux fins.
-
-Les empattements sont horizontaux, soit fins et abrupts. Les formes comportent souvent des terminaisons en forme de boules. Les italiques sont similaires à l’écriture ronde. Ces caractéristiques sont conservées même lorsque le contraste diminue.  |
+|  Le caractère rationnel, également appelée «moderne» ou «néoclassique», se caractérise traditionnellement par un fort contraste vertical entre les tiges verticales épaisses et les traits horizontaux fins. Les empattements sont horizontaux, soit fins et abrupts. Les formes comportent souvent des terminaisons en forme de boules. Les italiques sont similaires à l’écriture ronde. Ces caractéristiques sont conservées même lorsque le contraste diminue.  |
 
 | Didot | 
 |:---:|
