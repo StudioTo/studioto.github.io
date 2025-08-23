@@ -59,18 +59,16 @@
 | Ie siècle av. J.-C. |  
 
 # [Scriptes](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) {#scriptes}
+# Moyen-Âge
 
 ## [Onciales]() {#onciales}
 
-| Période |  Technique | Vox | Squelette | Graisse | Enveloppe |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Moyen-Âge | [Calligraphie à la plume](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) | Manuaires | Scripte |  Contrasté  |  Proto-sérifs |
-
-| Période | Technique | Squelette | Vox | 
-|:---:|:---:|
-| Moyen-Âge | [Calligraphie à la plume](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) |  Scripte  |  Manuaires  |
+| Squelette | Graisse | Enveloppe | Vox |
+|:---:|:---:|:---:|
+| Scripte |  Contrasté  |  Proto-sérifs  |
 
 | L’onciale est un style de calligraphie dont les formes sont créées à l’aide d’une plume à pointe large à un angle presque horizontal, mais parfois plus incliné dans les variantes ultérieures. Il n’y a pas de formes distinctes pour les majuscules et les minuscules dans les designs onciaux purs — les lettres minuscules romaines avec ascendantes et descendantes ont été développées à partir des formes onciales et semi-onciales du Moyen Âge.  |
+|  Vox: Manuaires  |
 
 | Capitale rustika | 
 |:---:|
