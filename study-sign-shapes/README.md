@@ -4,8 +4,8 @@
 - [Graisse](#graisse)
 - [Enveloppe](#enveloppe)
   - [Terminaisons](#terminaisons)
+  - [Sorties](#sorties)
   - [Futs](#futs)
-  - [Ouvertures](#ouvertures)
   - [Ornements](#ornements)
 
   
@@ -28,11 +28,13 @@
 | ![](links/Typo_Parameters_02.jpg) | ![](links/Typo_Parameters_03.jpg) | ![](links/Typo_Parameters_04_alt.jpg) |
 |:---:|:---:|:---:|
 |  Humaniste  |  Rationnel  |  Construit  |
-| Le principe dynamique découle historiquement de la calligraphie humaniste (Renaissance) réalisée à la plume à bec large. La tension diagonale ainsi que les terminaisons ouvertes des lettres résultent de la translation du bec carré, maintenu à un angle fixe.           | Le principe statique découle historiquement de la calligraphie moderne (Renaissance) réalisée à la plume à bec pointu. La tension verticale ainsi que les terminaisons fermées des lettres résultent de l’expansion du bec pointu qui évolue avec la pression de la main.           | Le principe géométrique découle historiquement du constructivisme post-moderne (XXe). Les formes sont «construites» à partir de modules géométriques (rond, carré ou autre) et comportent généralement très peu de contraste.           |
+| Le principe dynamique découle historiquement de la calligraphie humaniste (Renaissance) réalisée à la plume à bec large. La tension diagonale ainsi que les sorties ouvertes des lettres résultent de la translation du bec carré, maintenu à un angle fixe.           | Le principe statique découle historiquement de la calligraphie moderne (Renaissance) réalisée à la plume à bec pointu. La tension verticale ainsi que les sorties fermées des lettres résultent de l’expansion du bec pointu qui évolue avec la pression de la main.           | Le principe géométrique découle historiquement du constructivisme post-moderne (XXe). Les formes sont «construites» à partir de modules géométriques (rond, carré ou autre) et comportent généralement très peu de contraste.           |
 
+| Dynamique           | Statique           | Géométrique           |
+|:---:|:---:|:---:|
 | ![](links/Typo_Parameters_05.jpg) | ![](links/Typo_Parameters_06.jpg) | ![](links/Typo_Parameters_07.jpg) |
 |:---:|:---:|:---:|
-| Squelette dynamique           | Squelette statique           | Squelette géométrique           |
+| Axe oblique           | Axe vertical           | Modulaire           |
 
 # Graisse {#graisse}
 
@@ -52,13 +54,7 @@
 |:---:|
 | Variation de la forme des empattements (sans, rectangulaire, triangulaire, transitionnel, intersection)           |
 
-## Fûts {#futs}
-
-| ![](links/Typo_Parameters_18.jpg) | ![](links/Typo_Parameters_19.jpg) | ![](links/Typo_Parameters_20.jpg) |
-|:---:|:---:|:---:|
-| Concaves           | Rectilignes           | Convexes           |
-
-## Ouvertures {#ouvertures}
+## Sorties {#sorties}
 
 | ![](links/1-Formes25.jpg) |
 |:---:|
@@ -69,6 +65,12 @@
 | ![](links/1-Formes27.jpg) |
 |:---:|
 | Ouvertures fermées           |
+
+## Fûts {#futs}
+
+| ![](links/Typo_Parameters_18.jpg) | ![](links/Typo_Parameters_19.jpg) | ![](links/Typo_Parameters_20.jpg) |
+|:---:|:---:|:---:|
+| Concaves           | Rectilignes           | Convexes           |
 
 ## Ornements {#ornements}
 
