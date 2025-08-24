@@ -2,19 +2,19 @@
 
 - [Incises](#incises)
 - [Scriptes](#scriptes)
-	- [Scripte Onciale](#scriptes)
-	- [Scripte Brisé](#scriptes)
-	- [Scripte de Chancellerie](#scriptes)
-	- [Scripte Main Ronde](#scriptes)
+	- [Scripte Onciale](#scripte-onciale)
+	- [Scripte Brisé](#scripte-brise)
+	- [Scripte de Chancellerie](#scripte-chancellerie)
+	- [Scripte Main Ronde](#scripte-main-ronde)
 - [Sérifs](#serifs)
-	- [Sérif Humaniste](#scriptes)
-	- [Sérif Transitionnelle](#scriptes)
-	- [Sérif Rationnelle](#scriptes)
-- [Slab-Sérifs](#slab-sérifs)
-- [Sans-Sérifs](#sans-sérifs)
-	- [Sans Humaniste](#scriptes)
-	- [Sans Rationnelle](#scriptes)
-	- [Sans Construite](#scriptes)
+	- [Sérif Humaniste](#serif-humaniste)
+	- [Sérif Transitionnelle](#serif-transitionnelle)
+	- [Sérif Rationnelle](#serif-rationnelle)
+- [Slab-Sérifs](#slab-serifs)
+- [Sans-Sérifs](#sans-serifs)
+	- [Sans Rationnelle](#sans-rationnelle)
+	- [Sans Humaniste](#sans-humaniste)
+	- [Sans Construite](#sans-construite)
 - [Expressives](#expressives)
 - [Hybrides](#hybrides)
   
@@ -164,7 +164,7 @@
 |:---:|
 | XIe — XIIe siècle | 
 
-## Scripte Brisé / Fractures {#scripte-fracture}
+## Scripte Brisé / Fractures {#scripte-brise}
 
 | Dans les caractères fractures — également appelés «gothique» — certaines ou toutes les parties rondes des lettres sont «brisées» en traits droits. Ce style s’est progressivement développé dans les régions médiévales afin que les scribes puissent copier les manuscrits plus rapidement qu’avec la main minuscule carolingienne qui était courante auparavant. Alors que les empattements humanistes ont supplanté la lettre noire en Europe du Sud au cours de la Renaissance, le style lettre noire — en particulier le Fraktur — a continué à être largement utilisé dans les pays germanophones jusqu’au milieu du XXe siècle.  |
 
@@ -324,7 +324,7 @@
 |:---:|
 | 1821 | 
 
-# [Slab-Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-mécanes) {#slab-sérifs}
+# [Slab-Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-mécanes) {#slab-serifs}
 
 ## Slab Rationnelle / Mécanes {#slab-rationnelle}
 
@@ -336,7 +336,7 @@
 |:---:|
 | 1844 | 
 
-# [Sans-Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-grotesques) {#sans-sérifs}
+# [Sans-Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-grotesques) {#sans-serifs}
 
 ## Sans Rationnelle / Grotesques {#sans-rationnelle}
 
