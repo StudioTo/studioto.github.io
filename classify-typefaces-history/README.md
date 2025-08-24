@@ -25,19 +25,21 @@
 
 |![](links/1-Historique0.jpg) |
 |:---:|
-| Classification basée sur l’histoire de la typographie | 
-
-# Période / Technique
+| Classification historique | 
 
 |![](links/1-Historique.gif) |
 |:---:|
-| Les formes d’écriture reflètent l’esprit propre à chaque époque | 
+| Classification linéaire basée sur l'histoire des caractères | 
 
-|![](links/2-Historique_up.jpg) |
+<!-- |![](links/2-Historique_up.jpg) |
 |:---:|
-| L'outil utilisé pour écrire définit certains aspects de la forme des signes | 
+| L'outil utilisé pour écrire définit certains aspects de la forme des signes |  -->
 
 # Timeline
+
+|![](links/1-2-Formes.jpg) |
+|:---:|
+| Evolution de l'enveloppe des caractères | 
 
 |![](links/1-Historique9.gif) |
 |:---:|
