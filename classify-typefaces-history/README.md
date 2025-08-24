@@ -242,6 +242,16 @@
 |:---:|
 | 1531 | 
 
+## Scriptes Main Ronde {#scriptes-main-ronde}
+
+|  L’écriture à main ronde est basée sur la calligraphie à stylo pointu et est liée aux périodes de style baroque et classique. Elle a été développée en Angleterre à la fin du XVIIe siècle et s’est largement répandue en Europe et en Amérique du Nord par la suite, propagée par des maîtres de l’écriture tels que Shelley, Bickham ou Snell. |
+
+| Snell Main Ronde | 
+|:---:|
+|![](links/2-Historique_v2_up2.jpg) |
+|:---:|
+| 1712 | 
+
 ## Sérifs Dynamiques-Statiques (rotation) / Réales {#serifs-transitionelles}
 
 |  Le caractère réaliste, souvent appelée «transitionnel», se situe quelque part entre le style humaniste de la Renaissance et le modèle moderne et rationaliste de la période néoclassique. Elle est également parfois appelée «baroque». Ses principales caractéristiques sont un contraste accru, des formes et des proportions plus régulières, s’éloignant progressivement des formes ressemblant à l’écriture manuscrite. Les empattements sont en forme de parenthèses.  |
@@ -263,10 +273,6 @@
 |![](links/1-Historique40.jpg) |
 |:---:|
 | Milieu du XVIIIe siècle | 
-
-<!-- ## Scriptes Main Ronde {#scriptes-main-ronde}
-
-|  L’écriture à main ronde est basée sur la calligraphie à stylo pointu et est liée aux périodes de style baroque et classique. Elle a été développée en Angleterre à la fin du XVIIe siècle et s’est largement répandue en Europe et en Amérique du Nord par la suite, propagée par des maîtres de l’écriture tels que Shelley, Bickham ou Snell. | -->
 
 ## Sérifs Statiques / Didones {#serifs-transitionelles}
 
