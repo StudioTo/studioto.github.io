@@ -6,7 +6,7 @@
 |:---:|
 | Tenir la ligne[^1] | 
 
-# Vousoiement
+# Vouvoiement
 Vouvoyer et être vouvoyé en retour.
 
 # Respect
