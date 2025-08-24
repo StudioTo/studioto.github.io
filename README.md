@@ -99,6 +99,7 @@
 
 **Technique**
 ## [⚒️ Outils](/use-material)
+## [👥 Teams](/use-teams)
 ## [🖨️ Scanner](/use-scanner)
 ## [🖥️ InDesign](/use-indesign)
 ## [🧰 Typothèque](http://typo.eracom.ch)
