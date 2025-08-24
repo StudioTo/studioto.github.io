@@ -27,7 +27,7 @@
 |:---:|:---:|:---:|
 |  Translation |  Expansion  |  Construction  |
 |:---:|:---:|:---:|
-| ![](links/Typo_Parameters_02.jpg) | ![](links/Typo_Parameters_03.jpg) | ![](links/Typo_Parameters_04_alt.jpg) |
+| ![](links/1-2-Formes4.jpg) | ![](links/1-2-Formes5.jpg) | ![](links/1-2-Formes6.jpg) |
 |:---:|:---:|:---:|
 |  Humaniste  |  Rationnel  |  Construit  |
 |:---:|:---:|:---:|
@@ -35,7 +35,7 @@
 
 | Dynamique           | Statique           | Géométrique           |
 |:---:|:---:|:---:|
-| ![](links/Typo_Parameters_05.jpg) | ![](links/Typo_Parameters_06.jpg) | ![](links/Typo_Parameters_07.jpg) |
+| ![](links/1-3-Formes.jpg) | ![](links/1-3-Formes2.jpg) | ![](links/1-3-Formes3.jpg) |
 |:---:|:---:|:---:|
 | Axe oblique           | Axe vertical           | Modulaire           |
 
