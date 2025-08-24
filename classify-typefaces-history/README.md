@@ -3,19 +3,19 @@
 - [Incises](#incises)
 - [Scriptes](#scriptes)
 	- [Scripte Onciale](#scripte-onciale)
-	- [Scripte Brisé](#scripte-brise)
-	- [Scripte de Chancellerie](#scripte-chancellerie)
+	- [Scripte Fracturé](#scripte-fracture)
+	- [Scripte Chancellerie](#scripte-chancellerie)
 	- [Scripte Main Ronde](#scripte-main-ronde)
 - [Sérifs](#serifs)
-	- [Sérif Humaniste: Garaldes](#serif-humaniste)
-	- [Sérif Transitionnelle: Réales](#serif-transitionnelle)
-	- [Sérif Rationnelle: Didones](#serif-rationnelle)
+	- [Sérif Humaniste *Garaldes*](#serif-humaniste)
+	- [Sérif Transitionnelle *Réales*](#serif-transitionnelle)
+	- [Sérif Rationnelle *Didones*](#serif-rationnelle)
 - [Slab-Sérifs](#slab-serifs)
-	- [Slab Rationnelle: Mécanes](#slab-rationnelle)
+	- [Slab Rationnelle *Mécanes*](#slab-rationnelle)
 - [Sans-Sérifs](#sans-serifs)
-	- [Sans Rationnelle: Grotesques](#sans-rationnelle)
-	- [Sans Humaniste: Humanes](#sans-humaniste)
-	- [Sans Construite: Géométriques](#sans-construite)
+	- [Sans Rationnelle *Grotesques*](#sans-rationnelle)
+	- [Sans Humaniste *Humanes*](#sans-humaniste)
+	- [Sans Construite *Géométriques*](#sans-construite)
 - [Expressives](#expressives)
 - [Hybrides](#hybrides)
   
@@ -165,7 +165,7 @@
 |:---:|
 | XIe — XIIe siècle | 
 
-## Scripte Brisé / Fractures {#scripte-brise}
+## Scripte Fracturé / Fractures {#scripte-fracture}
 
 | Dans les caractères fractures — également appelés «gothique» — certaines ou toutes les parties rondes des lettres sont «brisées» en traits droits. Ce style s’est progressivement développé dans les régions médiévales afin que les scribes puissent copier les manuscrits plus rapidement qu’avec la main minuscule carolingienne qui était courante auparavant. Alors que les empattements humanistes ont supplanté la lettre noire en Europe du Sud au cours de la Renaissance, le style lettre noire — en particulier le Fraktur — a continué à être largement utilisé dans les pays germanophones jusqu’au milieu du XXe siècle.  |
 
@@ -208,6 +208,10 @@
 # [Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-humanes) {#serifs}
 
 ## Sérif Humaniste / Garaldes {#serif-humaniste}
+
+| Squelette | Graisse | Enveloppe |
+|:---:|:---:|:---:|
+| Dynamique |  Contrasté  |  Sérifs  |
 
 |  Le caractère humaniste est la forme originale des polices romaines développées à la Renaissance, au XVe siècle. Elle peut être divisée en deux styles: le style vénitien (Alde Manuce), caractérisé par une barre transversale inclinée sur le «e» minuscule, et le style français (Claude Garamond), dans lequel le «e» a généralement un œil plus petit. Les majuscules suivent les proportions des lettres romaines inscrites (Capitalis). Les italiques sont similaires à l’écriture chancelleresque. Les empattements sont généralement en forme de crochets, parfois asymétriques. Les empattements supérieurs sont pour la plupart angulaires.  |
 
@@ -265,6 +269,10 @@
 
 ## Sérif Transitionnelle / Réales {#serif-transitionnelle}
 
+| Squelette | Graisse | Enveloppe |
+|:---:|:---:|:---:|
+| Dynamique + Statique (rotation) |  Contrasté  |  Sérifs  |
+
 |  Le caractère réaliste, souvent appelée «transitionnel», se situe quelque part entre le style humaniste de la Renaissance et le modèle moderne et rationaliste de la période néoclassique. Elle est également parfois appelée «baroque». Ses principales caractéristiques sont un contraste accru, des formes et des proportions plus régulières, s’éloignant progressivement des formes ressemblant à l’écriture manuscrite. Les empattements sont en forme de parenthèses.  |
 
 | Caslon | 
@@ -286,6 +294,10 @@
 | Milieu du XVIIIe siècle | 
 
 ## Sérif Rationnelle / Didones {#serif-rationnelle}
+
+| Squelette | Graisse | Enveloppe |
+|:---:|:---:|:---:|
+| Statique |  Contrasté  |  Sérifs  |
 
 |  Le caractère «moderne», également appelée «néoclassique», se caractérise traditionnellement par un fort contraste vertical entre les tiges verticales épaisses et les traits horizontaux fins. Les empattements sont horizontaux, soit fins et abrupts. Les formes comportent souvent des terminaisons en forme de boules. Les italiques sont similaires à l’écriture ronde. Ces caractéristiques sont conservées même lorsque le contraste diminue.  |
 
@@ -329,6 +341,10 @@
 
 ## Slab Rationnelle / Mécanes {#slab-rationnelle}
 
+| Squelette | Graisse | Enveloppe |
+|:---:|:---:|:---:|
+| Statique |  Linéaire  |  Sérifs  |
+
 |  Les caractères slab rationnels se caractérisent par des empattements épais qui sont presque aussi épais que les traits principaux. Elles ont été développés au début XIXe siècle, dans le cadre d’une demande croissante de polices de caractères accrocheuses pour l’affichage et la publicité. Elles partagent le modèle de forme rationnelle avec des ouvertures fermées et des proportions cohérentes, généralement larges.  |
 
 | Clarendon | 
@@ -341,6 +357,10 @@
 
 ## Sans Rationnelle / Grotesques {#sans-rationnelle}
 
+| Squelette | Graisse | Enveloppe |
+|:---:|:---:|:---:|
+| Statique |  Linéaire  |  Sans-Sérif  |
+
 |  Les caractères sans empattement qui sont apparues pour la première fois dans le catalogue des imprimeurs anglais au début du XIXe siècle ont été qualifiées à l’époque de «grotesques». Mais ce style n’était nouveau que dans le domaine de l’imprimerie: les lettres sans empattement étaient déjà utilisées dans les lettrages et les inscriptions. La police English Egyptian de William Caslon, composée uniquement de majuscules, datant de 1816, est considérée comme la première police sans empattement. |
 
 | Akzidenz Grotesk | 
@@ -351,6 +371,10 @@
 
 ## Sans Humaniste / Humanes {#sans-humaniste}
 
+| Squelette | Graisse | Enveloppe |
+|:---:|:---:|:---:|
+| Dynamique |  Linéaire  |  Sans-Sérif  |
+
 |  Les premières polices de caractères de ce style sont apparues au début du XXe siècle, lors d’un renouveau calligraphique visant à surmonter ce que certains considéraient comme un excès d’éclectisme victorien. Ce mouvement a été lancé par Edward Johnston en Angleterre et s’est manifesté dans sa création pour le métro de Londres en 1916. La police de caractères créée par son élève Eric Gill en 1928 est considérée comme le premier exemple populaire du style humaniste. |
 
 | Gill | 
@@ -360,6 +384,10 @@
 | 1927 | 
 
 ## Sans Construite / Géométriques {#sans-construite}
+
+| Squelette | Graisse | Enveloppe |
+|:---:|:---:|:---:|
+| Géométrique |  Linéaire  |  Sans-Sérif  |
 
 |  Les formes de caractères sont «construites» à partir de formes géométriques (corrigées optiquement) avec des parties rondes et généralement très peu de contraste entre les traits. D’autres caractères de cette catégorie ont des formes carrées, basées sur un rectangle plutôt que sur un cercle, ou construites à partir d’autres éléments modulaires. |
 
