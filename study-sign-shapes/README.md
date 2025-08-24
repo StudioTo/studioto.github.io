@@ -11,7 +11,7 @@
   
 ### &nbsp;
 
-# Squelette - Graisse - Enveloppe 
+# Typologie   
 
 |![](links/1-Formes2.jpg) |
 |:---:|
