@@ -1,11 +1,11 @@
 # 🕰️ Classification Historique
 
 - [Incises](#incises)
-- [Scriptes](#scriptes)
-	- [Scripte Onciale](#scripte-onciale)
-	- [Scripte Brisé *Fractures*](#scripte-fracture)
-	- [Scripte Chancellerie](#scripte-chancellerie)
-	- [Scripte Main Ronde](#scripte-main-ronde)
+- [Scripts](#scripts)
+	- [Script Onciale](#script-onciale)
+	- [Script Interrompu *Fractures*](#script-fracture)
+	- [Script Cursif *Chancellerie*](#script-chancellerie)
+	- [Script Cursif *Main Ronde*](#script-main-ronde)
 - [Sérifs](#serifs)
 	- [Sérif Humaniste *Garaldes*](#serif-humaniste)
 	- [Sérif Transitionnelle *Réales*](#serif-transitionnelle)
@@ -71,13 +71,13 @@
 |:---:|
 | Ie siècle av. J.-C. |  
 
-# [Scriptes](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) {#scriptes}
+# [Scripts](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-onciales) {#scripts}
 
-## Scripte Onciale / Manuaires {#scripte-onciale}
+## Script Onciale / Manuaires {#script-onciale}
 
 <!-- | Squelette | Graisse | Enveloppe | Vox |
 |:---:|:---:|:---:|
-| Scripte |  Contrasté  |  Proto-sérifs  | -->
+| Script |  Contrasté  |  Proto-sérifs  | -->
 
 | L’onciale est un style de calligraphie dont les formes sont créées à l’aide d’une plume à pointe large à un angle presque horizontal, mais parfois plus incliné dans les variantes ultérieures. Il n’y a pas de formes distinctes pour les majuscules et les minuscules dans les designs onciaux purs — les lettres minuscules romaines avec ascendantes et descendantes ont été développées à partir des formes onciales et semi-onciales du Moyen Âge.  |
 
@@ -165,7 +165,7 @@
 |:---:|
 | XIe — XIIe siècle | 
 
-## Scripte Brisé / Fractures {#scripte-fracture}
+## Script Brisé / Fractures {#script-fracture}
 
 | Dans les caractères fractures — également appelés «gothique» — certaines ou toutes les parties rondes des lettres sont «brisées» en traits droits. Ce style s’est progressivement développé dans les régions médiévales afin que les scribes puissent copier les manuscrits plus rapidement qu’avec la main minuscule carolingienne qui était courante auparavant. Alors que les empattements humanistes ont supplanté la lettre noire en Europe du Sud au cours de la Renaissance, le style lettre noire — en particulier le Fraktur — a continué à être largement utilisé dans les pays germanophones jusqu’au milieu du XXe siècle.  |
 
@@ -241,7 +241,7 @@
 |:---:|
 | XVIe — XVIIe siècle | 
 
-## Scripte de Chancellerie {#scripte-chancellerie}
+## Script de Chancellerie {#script-chancellerie}
 
 |  L’écriture de chancellerie — parfois également appelée «chancelleresque» — trouve son origine dans la calligraphie à plume large de la période de la Renaissance. Elle est basée sur l’écriture cursive des XVe et XVIe siècles développée en Italie, d’où le terme alternatif d’«italique». Des maîtres calligraphes comme Arrighi, Palatino et Tagliente ont publié des manuels d’écriture pour alimenter la «main italique». |
 
@@ -257,7 +257,7 @@
 |:---:|
 | 1531 | 
 
-## Scripte Main Ronde {#scripte-main-ronde}
+## Script Main Ronde {#script-main-ronde}
 
 |  L’écriture à main ronde est basée sur la calligraphie à stylo pointu et est liée aux périodes de style baroque et classique. Elle a été développée en Angleterre à la fin du XVIIe siècle et s’est largement répandue en Europe et en Amérique du Nord par la suite, propagée par des maîtres de l’écriture tels que Shelley, Bickham ou Snell. |
 
