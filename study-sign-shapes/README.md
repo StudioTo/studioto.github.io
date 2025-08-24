@@ -23,7 +23,9 @@
 
 # Squelette {#squelette}
 
-|  Dynamique (translation)  |  Statique (expansion)  |  Géométrique (construction)  |
+|  Dynamique  |  Statique  |  Géométrique  |
+|:---:|:---:|:---:|
+|  Translation |  Expansion  |  Construction  |
 |:---:|:---:|:---:|
 | ![](links/Typo_Parameters_02.jpg) | ![](links/Typo_Parameters_03.jpg) | ![](links/Typo_Parameters_04_alt.jpg) |
 |:---:|:---:|:---:|
