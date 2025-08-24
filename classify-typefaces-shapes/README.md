@@ -13,7 +13,11 @@
 
 |![](links/Era_Typ_Class_01.jpg) |
 |:---:|
-| Classification basée sur la forme (anatomie) des signes | 
+| Classification anatomique | 
+
+|![](links/1-2-Formes3.jpg) |
+|:---:|
+| Classification ramifiée basée sur l'anatomie des caractères | 
 
 # Squelette - Graisse - Enveloppe {#squelette-graisse-enveloppe}
 
