@@ -59,13 +59,13 @@
 
 | ![](links/1-Formes25.jpg) |
 |:---:|
-| Ouvertures ouvertes          |
+| Sorties ouvertes          |
 | ![](links/1-Formes26.jpg) |
 |:---:|
-| Ouvertures semi-fermées           |
+| Sorties semi-fermées           |
 | ![](links/1-Formes27.jpg) |
 |:---:|
-| Ouvertures fermées           |
+| Sorties fermées           |
 
 ## Fûts {#futs}
 
