@@ -3,7 +3,7 @@
 - [Incises](#incises)
 - [Scriptes](#scriptes)
 	- [Scripte Onciale](#scripte-onciale)
-	- [Scripte Fracturé](#scripte-fracture)
+	- [Scripte Brisé *Fractures*](#scripte-fracture)
 	- [Scripte Chancellerie](#scripte-chancellerie)
 	- [Scripte Main Ronde](#scripte-main-ronde)
 - [Sérifs](#serifs)
@@ -165,7 +165,7 @@
 |:---:|
 | XIe — XIIe siècle | 
 
-## Scripte Fracturé / Fractures {#scripte-fracture}
+## Scripte Brisé / Fractures {#scripte-fracture}
 
 | Dans les caractères fractures — également appelés «gothique» — certaines ou toutes les parties rondes des lettres sont «brisées» en traits droits. Ce style s’est progressivement développé dans les régions médiévales afin que les scribes puissent copier les manuscrits plus rapidement qu’avec la main minuscule carolingienne qui était courante auparavant. Alors que les empattements humanistes ont supplanté la lettre noire en Europe du Sud au cours de la Renaissance, le style lettre noire — en particulier le Fraktur — a continué à être largement utilisé dans les pays germanophones jusqu’au milieu du XXe siècle.  |
 
