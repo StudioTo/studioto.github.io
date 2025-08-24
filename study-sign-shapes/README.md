@@ -28,6 +28,7 @@
 | ![](links/Typo_Parameters_02.jpg) | ![](links/Typo_Parameters_03.jpg) | ![](links/Typo_Parameters_04_alt.jpg) |
 |:---:|:---:|:---:|
 |  Humaniste  |  Rationnel  |  Construit  |
+|:---:|:---:|:---:|
 | Le principe dynamique découle historiquement de la calligraphie humaniste (Renaissance) réalisée à la plume à bec large. La tension diagonale ainsi que les sorties ouvertes des lettres résultent de la translation du bec carré, maintenu à un angle fixe.           | Le principe statique découle historiquement de la calligraphie moderne (Renaissance) réalisée à la plume à bec pointu. La tension verticale ainsi que les sorties fermées des lettres résultent de l’expansion du bec pointu qui évolue avec la pression de la main.           | Le principe géométrique découle historiquement du constructivisme post-moderne (XXe). Les formes sont «construites» à partir de modules géométriques (rond, carré ou autre) et comportent généralement très peu de contraste.           |
 
 | Dynamique           | Statique           | Géométrique           |
