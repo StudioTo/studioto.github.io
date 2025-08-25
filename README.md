@@ -5,7 +5,9 @@ title: "Typo-Graphic Resources"
 **Index Graphic Ressources**  
 Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) designer, [teacher](https://studioto.github.io)
 
-<!--
+# &nbsp;
+
+<!---
 ## [🦚 Index Littérature Visuelle]()
 ## [💼 Portfolio](Student's projects)
 ## [⚡ Index Logos]()
@@ -23,7 +25,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [🔡 Gris de texte](/see-shades)
 ## [📝 Checklists](/check-exports)
 ## [⚙️ Support](/support-technicals)
--->
+--->
 
 
 
@@ -32,6 +34,8 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [💥 Sémiotique](/express-message)
 ## [📖 Vocabulaire](/index-definitions)
 
+&nbsp;
+&nbsp;
 
 **Classification**
 ## [🦴 Anatomique](/classify-typefaces-shapes)
@@ -39,6 +43,8 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [✍🏻 Evolution de l'écriture](/track-writing-evolution)
 ## [🏢 Evolution de l'architecture](/track-architecture-evolution)
 
+&nbsp;
+&nbsp;
 
 **1. Signe**
 ## [🍖 Anatomie](/study-sign-shapes)
@@ -61,6 +67,8 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [📶 Articulation](/set-column-articulation)
 ## [⏹️ Mise en page](/set-column-layout)
 
+&nbsp;
+&nbsp;
 
 <!-- **Paramètres visuels**
 ## [🌓 Contraste](/form-contrast)
@@ -71,7 +79,8 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [Séquence]()
 ## [Ordre]()
 
- -->
+&nbsp;
+&nbsp; -->
 
 **Dessin de caractères**
 ## [✏️ Construction](/construct-typeface)
@@ -80,6 +89,8 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [🎚️ Interpolation](/interpolate-vectors)
 ## [🪲 Debug](/debug-drawings)
 
+&nbsp;
+&nbsp;
 
 **Références**
 ## [☎️ Designers](/index-designers)
@@ -88,6 +99,8 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [🚸 Pictogrammes](/index-pictos)
 ## [📚 Bibliographie](/index-books)
 
+&nbsp;
+&nbsp;
 
 **Technique**
 ## [⚒️ Outils](/use-material)
@@ -97,6 +110,8 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [🖥️ InDesign](/use-indesign)
 ## [🧰 Typothèque](http://typo.eracom.ch)
 
+&nbsp;
+&nbsp;
 
 **Cours**
 ## [🎯 Objectifs](/evaluate-objectives)
