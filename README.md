@@ -4,9 +4,8 @@ title: "Typo-Graphic Resources"
 
   **Index Graphic Ressources**  
   Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) designer, [teacher](https://studioto.github.io)
-# &nbsp;
 
-<!---
+<!--
 ## [🦚 Index Littérature Visuelle]()
 ## [💼 Portfolio](Student's projects)
 ## [⚡ Index Logos]()
@@ -24,7 +23,7 @@ title: "Typo-Graphic Resources"
 ## [🔡 Gris de texte](/see-shades)
 ## [📝 Checklists](/check-exports)
 ## [⚙️ Support](/support-technicals)
---->
+-->
 
 
 
@@ -33,8 +32,6 @@ title: "Typo-Graphic Resources"
 ## [💥 Sémiotique](/express-message)
 ## [📖 Vocabulaire](/index-definitions)
 
-&nbsp;
-&nbsp;
 
 **Classification**
 ## [🦴 Anatomique](/classify-typefaces-shapes)
@@ -42,8 +39,6 @@ title: "Typo-Graphic Resources"
 ## [✍🏻 Evolution de l'écriture](/track-writing-evolution)
 ## [🏢 Evolution de l'architecture](/track-architecture-evolution)
 
-&nbsp;
-&nbsp;
 
 **1. Signe**
 ## [🍖 Anatomie](/study-sign-shapes)
@@ -66,8 +61,6 @@ title: "Typo-Graphic Resources"
 ## [📶 Articulation](/set-column-articulation)
 ## [⏹️ Mise en page](/set-column-layout)
 
-&nbsp;
-&nbsp;
 
 <!-- **Paramètres visuels**
 ## [🌓 Contraste](/form-contrast)
@@ -78,8 +71,7 @@ title: "Typo-Graphic Resources"
 ## [Séquence]()
 ## [Ordre]()
 
-&nbsp;
-&nbsp; -->
+ -->
 
 **Dessin de caractères**
 ## [✏️ Construction](/construct-typeface)
@@ -88,8 +80,6 @@ title: "Typo-Graphic Resources"
 ## [🎚️ Interpolation](/interpolate-vectors)
 ## [🪲 Debug](/debug-drawings)
 
-&nbsp;
-&nbsp;
 
 **Références**
 ## [☎️ Designers](/index-designers)
@@ -98,8 +88,6 @@ title: "Typo-Graphic Resources"
 ## [🚸 Pictogrammes](/index-pictos)
 ## [📚 Bibliographie](/index-books)
 
-&nbsp;
-&nbsp;
 
 **Technique**
 ## [⚒️ Outils](/use-material)
@@ -109,8 +97,6 @@ title: "Typo-Graphic Resources"
 ## [🖥️ InDesign](/use-indesign)
 ## [🧰 Typothèque](http://typo.eracom.ch)
 
-&nbsp;
-&nbsp;
 
 **Cours**
 ## [🎯 Objectifs](/evaluate-objectives)
