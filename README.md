@@ -101,6 +101,7 @@
 ## [⚒️ Outils](/use-material)
 ## [👥 Teams](/use-teams)
 ## [🖨️ Scanner](/use-scanner)
+## [🖨️ Imprimer](/use-printer)
 ## [🖥️ InDesign](/use-indesign)
 ## [🧰 Typothèque](http://typo.eracom.ch)
 
