@@ -105,8 +105,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 **Technique**
 ## [👥 Teams](/use-teams)
 ## [⚒️ Outils](/use-material)
-## [🖨️ Scanner](/use-scanner)
-## [🖨️ Imprimer](/use-printer)
+## [🖨️ Imprimantes](/use-printer)
 ## [🖥️ InDesign](/use-indesign)
 ## [🧰 Typothèque](http://typo.eracom.ch)
 
