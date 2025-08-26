@@ -103,8 +103,8 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 
 **Technique**
-## [⚒️ Outils](/use-material)
 ## [👥 Teams](/use-teams)
+## [⚒️ Outils](/use-material)
 ## [🖨️ Scanner](/use-scanner)
 ## [🖨️ Imprimer](/use-printer)
 ## [🖥️ InDesign](/use-indesign)
