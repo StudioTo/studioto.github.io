@@ -8,7 +8,7 @@
 
 # Savoir-faire
 
-En graphisme, comme dans toute forme d’expression créative, l’art découle du savoir-faire. En danse, il s’agit de maîtriser les pas de base ; en musique, d’apprendre les gammes ; en mathématiques, de connaître les méthodes fondamentales. En typographie, le savoir-faire concerne les unités typographiques.
+En graphisme, comme dans toute forme d’expression créative, l’art découle du savoir-faire. En danse, il s’agit de maîtriser les pas de base; en musique, d’apprendre les gammes ; en mathématiques, de connaître les méthodes fondamentales. En typographie, le savoir-faire concerne les unités typographiques.
 
 # Apprendre les règles / Dépasser les règles
 
@@ -20,7 +20,11 @@ Ce cours ne fournit en aucun cas des réponses toutes faites, mais présente un 
 
 # Produire  
 
-Il est impossible d’évaluer la valeur d’une idée uniquement dans sa tête : il faut la produire, même sous forme d’esquisse, pour en mesurer le potentiel. Il est également essentiel de conserver toutes les esquisses afin de pouvoir les comparer et retracer l’évolution du concept.
+Produire, c’est confronter ses intuitions à la réalité. Il est impossible d’évaluer la valeur d’une idée uniquement dans sa tête: il faut la produire, même sous forme d’esquisse, pour en mesurer le potentiel.
+
+# Documenter  
+
+Il est essentiel de documenter (archiver) toutes les étapes du processus de design. Conserver toutes les versions permet de comparer les solutions entre elles, de comprendre le chemin parcouru et de retracer l’évolution du projet.
 
 # Collaborer  
 

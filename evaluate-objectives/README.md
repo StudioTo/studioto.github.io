@@ -13,7 +13,7 @@ Emil Ruder, 1967
 Identifier et utiliser avec précision les termes techniques de la discipline. 
 Comprendre ce vocabulaire permet de décrire, d’analyser et de communiquer clairement autour des choix typographiques.
 
-# Connaître la classification des caractères
+# Connaître les systèmes de classification des caractères
 
 Reconnaître les grandes familles de caractères et leurs particularités stylistiques.
 Savoir situer un caractère dans cette classification aide à orienter les choix graphiques et à justifier leur pertinence.
