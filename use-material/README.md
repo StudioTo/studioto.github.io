@@ -16,8 +16,8 @@
 	- Ciseaux
 - Règle
 - Feutre noir
-	- fin
-	- remplissage
+	- fin pour les tracés
+	- épais pour le remplissage
 - Typ-ex
 - Plume calligraphique
 - Compte pour accès aux imprimantes (impression / scan)
