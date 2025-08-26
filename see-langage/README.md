@@ -12,7 +12,7 @@
 
 |![](links/1-Language_v217.gif)|
 |:---:|
-| La langue est notre principal moyen de communication: la typographie la rend lisible |
+| La langue est notre principal moyen de communication: la typographie la rend lisible (images: Alva Noto) |
 
 # Communication  
 
@@ -66,9 +66,9 @@
 
 # 4. La colonne  
 
-|![](links/1-Language_v2108.gif)|
+|![](links/1-Language-typo-unit-column.gif)|
 |:---:|
-| La colonne est composée de lignes et introduit la dimension de la lecture continue |
+| La colonne est composée de lignes et introduit la dimension de la lecture continue (images: Jonas Voegeli) |
 
 # Lecture  
 
@@ -111,6 +111,7 @@
 - Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972  
 - Abraham Moles, *Les sciences de l’imprécis: Échelles d’iconicité*, Paris: Seuil, 1990  
 - Alva Noto & Anne-James Chaton, *Uni Acronym*, 2011
+- Jonas Voegeli, www.voegeli.info
 
 
 <!--
