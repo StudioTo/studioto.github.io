@@ -100,7 +100,7 @@ Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi a
 
 |![](links/3-Optique-up2.gif) |
 |:---:|
-| Transposition des formes primaires aux caractères construits sur un principe géométrique, statique et dynamique           |
+| Transposition des formes primaires aux caractères           |
 
 
 ### Sources
