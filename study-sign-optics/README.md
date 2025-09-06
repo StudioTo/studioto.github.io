@@ -98,7 +98,7 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 
 Les règles optiques qui s'appliquent aux formes primitives s'appliquent aussi aux caractères.
 
-|![](links/Conversion.gif) |
+|![](links/3-Optique-up2.gif) |
 |:---:|
 | Transposition des formes primaires aux caractères construits sur un principe géométrique, statique et dynamique           |
 
