@@ -10,7 +10,7 @@ La texture du mot fait référence aux formes de lettre choisies pour véhiculer
 
 |![](links/0-Mot2.gif) |
 |:---:|
-| Chaque technique a ses limitations |
+| Chaque technique a ses contraintes |
 
 # Connotation  
 
