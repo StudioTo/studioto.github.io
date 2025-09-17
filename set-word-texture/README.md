@@ -8,13 +8,13 @@ La texture du mot fait référence aux formes de lettre choisies pour véhiculer
 
 # Technique  
 
-|![](links/0-Mot15.gif) |
+|![](links/0-Mot2.gif) |
 |:---:|
 | Chaque technique a ses limitations |
 
 # Connotation  
 
-|![](links/0-Mot2.gif) |
+|![](links/0-Mot15.gif) |
 |:---:|
 | Chaque caractère produit différentes émotions |
 
