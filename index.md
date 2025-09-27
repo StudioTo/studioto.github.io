@@ -73,6 +73,9 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 **Process**
 ## [♻️ Variations](/create-variations)
 
+&nbsp;
+&nbsp;
+
 <!-- **Paramètres visuels**
 ## [🌓 Contraste](/form-contrast)
 ## [🎶 Rythme](/form-rythm)
