@@ -70,7 +70,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
-**Process**
+**Processus**
 ## [♻️ Variations](/create-variations)
 
 &nbsp;
