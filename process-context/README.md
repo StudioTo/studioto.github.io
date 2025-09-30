@@ -4,27 +4,33 @@ Définir le contexte, c’est identifier le format, le support et le contenu à 
   
 &nbsp;
 
-# Contenu 
+# Échelle typographie
 
-|![](links/Variations2.gif) |
+|![](links/1-Language_v252.gif) |
 |:---:|
 | Abc |
 
-# Technique  
+# Langue 
 
-|![](links/Variations2.gif) |
+|![](links/1-Language_v2120.gif) |
 |:---:|
 | Abc |
 
 # Format  
 
-|![](links/Variations2.gif) |
+|![](links/0-Colonne93.gif) |
 |:---:|
 | Abc |
 
-# Marges  
+# Technique  
 
-|![](links/Variations2.gif) |
+|![](links/0-Mot2.gif) |
+|:---:|
+| Abc |
+
+# Lisibilité vs Impact  
+
+|![](links/1-Language_v2161.gif) |
 |:---:|
 | Abc |
 
