@@ -4,21 +4,13 @@ La composition combine les différentes étapes du processus pour formuler une o
   
 &nbsp;
 
-# Hiérarchies  
-
-|![](links/Variations2.gif) |
+|![](links/Variations33.gif) |
 |:---:|
 | Abc |
 
 # Contrastes  
 
-|![](links/Variations10.gif) |
-|:---:|
-| Abc |
-
-# Technique  
-
-|![](links/Variations10.gif) |
+|![](links/) |
 |:---:|
 | Abc |
 

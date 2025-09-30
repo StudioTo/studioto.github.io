@@ -4,9 +4,21 @@ Le choix du caractère typographique fixe le ton du message. Il s’agit d’art
   
 &nbsp;
 
-# Ton  
+# Sémiotique  
 
-|![](links/Variations2.gif) |
+|![](links/2-Semiotique16.gif) |
+|:---:|
+| Abc |
+
+# Connotation  
+
+|![](links/0-Mot15.gif) |
+|:---:|
+| Abc |
+
+# Gris de texte  
+
+|![](links/0-Colonne20.gif) |
 |:---:|
 | Abc |
 
