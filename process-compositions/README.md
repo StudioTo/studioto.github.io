@@ -16,6 +16,12 @@ La composition combine les différentes étapes du processus pour formuler une o
 |:---:|
 | Abc |
 
+# Technique  
+
+|![](links/Variations10.gif) |
+|:---:|
+| Abc |
+
 <!-- ### Sources
 
 - Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972 
