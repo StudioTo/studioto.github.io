@@ -71,10 +71,10 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 
 **Processus**
-## [🖼️ Format](/process-format)
-## [🎭 Caractère](/process-typeface)
-## [♻️ Variations](/process-variations)
-## [🏗️ Compositions](/process-compositions)
+## [⏱️ Format](/process-format)
+## [🎹 Caractère](/process-typeface)
+## [🎶 Variations](/process-variations)
+## [🎼 Compositions](/process-compositions)
 
 &nbsp;
 &nbsp;
