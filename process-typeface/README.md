@@ -1,8 +1,6 @@
 # 🎹 Caractère
 
-<!-- La graphie désigne la manière dont un mot est écrit. Les mots sont des combinaisons de lettres dont la séquence est fixée par des règles orthographiques. Pourtant, il existe une multitude de façons de transmettre le même message selon la graphie choisie. Chaque variante typographique suscite des perceptions différentes chez le lecteur.
-
-→ La graphie du mot correspond à la mélodie -->
+Le choix du caractère typographique fixe le ton du message. Il s’agit d’articuler le rapport entre fond et forme, en tenant compte des connotations portées par la typographie.
   
 &nbsp;
 

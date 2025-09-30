@@ -1,24 +1,28 @@
-# ⏱️ Format
+# ⏱️ Cadre
 
-<!-- La graphie désigne la manière dont un mot est écrit. Les mots sont des combinaisons de lettres dont la séquence est fixée par des règles orthographiques. Pourtant, il existe une multitude de façons de transmettre le même message selon la graphie choisie. Chaque variante typographique suscite des perceptions différentes chez le lecteur.
-
-→ La graphie du mot correspond à la mélodie -->
+Définir le cadre, c’est identifier le format, le support et le contenu à traiter. C’est aussi prendre en compte les contraintes techniques et contextuelles qui orientent le processus de création.
   
 &nbsp;
 
-# Dimensions  
+# Contenu 
+
+|![](links/Variations2.gif) |
+|:---:|
+| Abc |
+
+# Technique  
+
+|![](links/Variations2.gif) |
+|:---:|
+| Abc |
+
+# Format  
 
 |![](links/Variations2.gif) |
 |:---:|
 | Abc |
 
 # Marges  
-
-|![](links/Variations2.gif) |
-|:---:|
-| Abc |
-
-# Contenu 
 
 |![](links/Variations2.gif) |
 |:---:|
