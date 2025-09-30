@@ -6,33 +6,21 @@
   
 &nbsp;
 
-# Orientation  
+# Dimensions  
 
 |![](links/Variations2.gif) |
 |:---:|
 | Abc |
 
-# Position  
+# Marges  
 
-|![](links/Variations10.gif) |
+|![](links/Variations2.gif) |
 |:---:|
 | Abc |
 
-# Dimension  
+# Contenu 
 
-|![](links/Variations18.gif) |
-|:---:|
-| Abc |
-
-# Rythme  
-
-|![](links/Variations27.gif) |
-|:---:|
-| Abc |
-
-# Composition  
-
-|![](links/Variations33.gif) |
+|![](links/Variations2.gif) |
 |:---:|
 | Abc |
 

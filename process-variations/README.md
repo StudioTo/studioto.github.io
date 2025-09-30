@@ -30,12 +30,6 @@
 |:---:|
 | Abc |
 
-# Composition  
-
-|![](links/Variations33.gif) |
-|:---:|
-| Abc |
-
 <!-- ### Sources
 
 - Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972 

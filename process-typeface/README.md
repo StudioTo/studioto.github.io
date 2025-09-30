@@ -6,33 +6,9 @@
   
 &nbsp;
 
-# Orientation  
+# Ton  
 
 |![](links/Variations2.gif) |
-|:---:|
-| Abc |
-
-# Position  
-
-|![](links/Variations10.gif) |
-|:---:|
-| Abc |
-
-# Dimension  
-
-|![](links/Variations18.gif) |
-|:---:|
-| Abc |
-
-# Rythme  
-
-|![](links/Variations27.gif) |
-|:---:|
-| Abc |
-
-# Composition  
-
-|![](links/Variations33.gif) |
 |:---:|
 | Abc |
 
