@@ -1,12 +1,12 @@
 # 🎼 Composition
 
-La composition combine les différentes étapes du processus pour formuler une ou plusieurs propositions de design, et ainsi apporter une réponse pertinente au cadre défini par les contraintes du projet.
+La composition combine les différentes variations pour formuler une ou plusieurs propositions de design. C’est seulement à ce stade qu’il est possible de modifier plusieurs paramètres en même temps, ceux-ci ayant été préalablement évalués séparément dans la phase des variations. La composition apporte ainsi une réponse pertinente au cadre défini par les contraintes du projet. 
   
 &nbsp;
 
 |![](links/Variations33.gif) |
 |:---:|
-| Abc |
+| Orientation, position, dimension, rythme,… |
 
 <!--
 
@@ -32,6 +32,12 @@ organique et symetrie-asymetrie. Les caracteres obliques cor-respondent à l'éc
 13 Contrastes large-etroit, excentrique-concentrique.
 14 Contrastes concentrique-excentrique et fermé-ouvert.
 15 Contrastes minuscules-majuscules et dynamique-statique.
+
+# Hiérarchies  
+
+|![](links/) |
+|:---:|
+| Abc |
 
 # Grille  
 
