@@ -8,25 +8,25 @@ Explorer un maximum de variations, en modulant un paramètre visuel à la fois. 
 
 |![](links/Variations2.gif) |
 |:---:|
-| Abc |
+| L’orientation agit sur la lisibilité et peut évoquer le mouvement, la stabilité ou l’instabilité d’une composition. |
 
 # Position  
 
 |![](links/Variations10.gif) |
 |:---:|
-| Abc |
+| La position influence la hiérarchie visuelle et l’équilibre spatial d’une composition. |
 
 # Dimension  
 
 |![](links/Variations18.gif) |
 |:---:|
-| Abc |
+| La dimension modifie le rapport d’échelle et l’importance perçue des éléments. |
 
 # Rythme  
 
 |![](links/Variations27.gif) |
 |:---:|
-| Abc |
+| Le rythme, déterminé par les espacements, agit sur la cadence de lecture et la perception de la densité visuelle. |
 
 <!-- ### Sources
 
