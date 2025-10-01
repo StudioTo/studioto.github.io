@@ -1,6 +1,6 @@
 # 🎼 Composition
 
-La composition combine les différentes étapes du processus pour formuler une ou plusieurs propositions de design, et ainsi apporter une réponse pertinente au cadre défini par le projet.
+La composition combine les différentes étapes du processus pour formuler une ou plusieurs propositions de design, et ainsi apporter une réponse pertinente au cadre défini par les contraintes du projet.
   
 &nbsp;
 
@@ -8,7 +8,9 @@ La composition combine les différentes étapes du processus pour formuler une o
 |:---:|
 | Abc |
 
-<!-- # Contrastes  
+<!--
+
+# Contrastes  
 
 |![](links/) |
 |:---:|
@@ -29,7 +31,22 @@ organique et symetrie-asymetrie. Les caracteres obliques cor-respondent à l'éc
 12 Contrastes animé-tranquille, foncé-clair et surface-ligne.
 13 Contrastes large-etroit, excentrique-concentrique.
 14 Contrastes concentrique-excentrique et fermé-ouvert.
-15 Contrastes minuscules-majuscules et dynamique-statique. -->
+15 Contrastes minuscules-majuscules et dynamique-statique.
+
+# Grille  
+
+|![](links/) |
+|:---:|
+| Abc |
+
+# Coins  
+
+|![](links/) |
+|:---:|
+| Abc |
+
+
+-->
 
 <!-- ### Sources
 
