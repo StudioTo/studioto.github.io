@@ -28,7 +28,7 @@ Définir le contexte, c’est identifier les contraintes telles que le format, l
 |:---:|
 | Chaque technique a ses contraintes (notamment la plus corps qu'il est possible d'imprimer) |
 
-# Lisibilité vs Impact  
+# Audience 
 
 |![](links/1-Language_v2161.gif) |
 |:---:|
