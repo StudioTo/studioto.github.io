@@ -4,6 +4,12 @@ Explorer un maximum de variations, en modulant un paramètre visuel à la fois. 
   
 &nbsp;
 
+# Forme  
+
+|![](links/Forme_Contre_Forme.gif) |
+|:---:|
+| Le blanc (contreforme) participe autant à l’équilibre que les signes imprimés (formes). |
+
 # Orientation  
 
 |![](links/Variations2.gif) |
