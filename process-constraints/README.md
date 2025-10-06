@@ -18,7 +18,7 @@ Définir le contexte, c’est identifier les contraintes telles que le format, l
 
 # Format  
 
-|![](links/0-Colonne93.gif) |
+|![](links/Format1.gif) |
 |:---:|
 | Le format, l'orientation et les marges conditionnent les possibités de design |
 
