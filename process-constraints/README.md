@@ -1,6 +1,8 @@
 # ⏱️ Contraintes
 
 Définir le contexte, c’est identifier les contraintes telles que le format, le type de contenu à traiter ainsi que les contraintes techniques qui orientent le processus de création.
+
+# ⁉️ Quel est le message à transmettre? À qui s’adresse-t-il? Quelles sont les contraintes?
   
 &nbsp;
 
