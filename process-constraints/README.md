@@ -2,7 +2,7 @@
 - Quel est le message à transmettre?  
 - À qui s’adresse-t-il?  
 - Quelles sont les contraintes techniques? financières? etc.  
-# &nbsp;
+# &nbsp;  
 Avant toute chose, il s’agit de définir clairement le message (contenu) et le public. Quel est le message à transmettre? Quelle idée, émotion ou information centrale doit être comprise ou ressentie? À qui s’adresse-t-il? Identifier le destinataire permet d’ajuster le ton, le niveau de complexité, les références ainsi que le registre visuel et verbal. C’est aussi identifier les contraintes techniques telles que le format ou la technique
   
 &nbsp;
