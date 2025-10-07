@@ -1,4 +1,4 @@
-# 🎭 Caractère
+# 🎭 Caractères
 ?   Quel ton ou registre sert le mieux le propos (avant même qu'il soit lu)?  
 #  
 Le choix du caractère typographique fixe le ton du message. Il s’agit d’articuler le rapport entre fond et forme, en tenant compte des connotations portées par la typographie.
