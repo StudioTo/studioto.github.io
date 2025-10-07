@@ -1,6 +1,7 @@
 # 🎼 Composition
-# ⁉️ Comment associer les différentes variations (paramètres) pour créer une proposition cohérente et pertinente? Est-ce possible de simplifier (un paramètre à la fois)?
-
+?   Comment associer les différentes variations (paramètres) pour créer une proposition cohérente et pertinente?
+?   Est-ce possible de simplifier (un paramètre à la fois)?
+#
 La composition combine les différentes variations pour formuler une ou plusieurs propositions de design. C’est seulement à ce stade qu’il est possible de modifier plusieurs paramètres en même temps, ceux-ci ayant été préalablement évalués séparément dans la phase des variations. La composition apporte ainsi une réponse pertinente au cadre défini par les contraintes du projet. 
   
 &nbsp;
