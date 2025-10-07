@@ -1,16 +1,21 @@
 # ⏱️ Contraintes
-
-Définir le contexte, c’est identifier les contraintes telles que le format, le type de contenu à traiter ainsi que les contraintes techniques qui orientent le processus de création.
-
 # ⁉️ Quel est le message à transmettre? À qui s’adresse-t-il? Quelles sont les contraintes?
+
+Avant toute chose, il s’agit de définir clairement le message (contenu) et le public. Quel est le message à transmettre? Quelle idée, émotion ou information centrale doit être comprise ou ressentie? À qui s’adresse-t-il? Identifier le destinataire permet d’ajuster le ton, le niveau de complexité, les références ainsi que le registre visuel et verbal. C’est aussi identifier les contraintes techniques telles que le format ou la technique
   
 &nbsp;
 
-# Échelle typographie
+# Contenu
 
 |![](links/1-Language_v252.gif) |
 |:---:|
 | Le signe, le mot, la phrase, la colonne |
+
+# Public 
+
+|![](links/1-Language_v2161.gif) |
+|:---:|
+| Les variables de lisibilité peuvent être opposée à celles de l’impact graphique |
 
 # Langue 
 
@@ -29,12 +34,6 @@ Définir le contexte, c’est identifier les contraintes telles que le format, l
 |![](links/0-Mot2.gif) |
 |:---:|
 | Chaque technique a ses contraintes (notamment la plus corps qu'il est possible d'imprimer) |
-
-# Audience 
-
-|![](links/1-Language_v2161.gif) |
-|:---:|
-| Les variables de lisibilité peuvent être opposée à celles de l’impact graphique |
 
 <!-- ### Sources
 
