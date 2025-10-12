@@ -17,11 +17,11 @@ Avant toute chose, il s’agit de définir clairement le message (contenu) et le
 |:---:|
 | Le signe, le mot, la phrase, la colonne |
 
-# Contenu (échelle typo)
+# Contenu
 
 |![](links/1-Language_v252.gif) |
 |:---:|
-| Le signe, le mot, la phrase, la colonne |
+| Échelle typographique: signe, mot, phrase, colonne |
 
 # Public 
 
