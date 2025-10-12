@@ -1,6 +1,7 @@
 # ⏱️ Contraintes
 
-- Quel est le message à transmettre?  
+- Quel est le sujet? Quel est le message à transmettre?  
+- Quelle est l'échelle typographique du contenu?    
 - À qui s’adresse-t-il?  
 - Quelles sont les contraintes techniques? financières? etc.  
 
