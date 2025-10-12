@@ -11,7 +11,13 @@ Avant toute chose, il s’agit de définir clairement le message (contenu) et le
   
 &nbsp;
 
-# Contenu
+# Sujet
+
+|![](links/1-Language_v217.gif) |
+|:---:|
+| Le signe, le mot, la phrase, la colonne |
+
+# Contenu (échelle typo)
 
 |![](links/1-Language_v252.gif) |
 |:---:|
