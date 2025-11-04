@@ -1,4 +1,4 @@
-# 🎶 Développement de variations
+# 🎶 Développement de variations: moduler un paramètre visuel à la fois
 
 - Comment peut-on souligner le propos en variant uniquement la forme, l'orientation, la position,…?  
 
