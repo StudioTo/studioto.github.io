@@ -1,4 +1,4 @@
-# 📐 Organisation (contraintes)
+# 📐 Organisation: comprendre les contraintes
 
 - Quel est le sujet? Quel est le message à transmettre?  
 - Quelle est l'échelle typographique du contenu?    

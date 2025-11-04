@@ -1,4 +1,4 @@
-# 🎼 Développement de compositions
+# 🎼 Développement de compositions: 
 
 - Comment associer les différentes variations (paramètres) pour créer une proposition cohérente et pertinente?  
 - Est-ce possible de simplifier (un paramètre à la fois)?  
