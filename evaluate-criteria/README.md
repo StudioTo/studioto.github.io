@@ -1,7 +1,7 @@
 # 📊 Critères d'évaluation
 
-- [Exercice technique](#Exercice-technique)
-- [Exercice de création](#Exercice-de-création)
+- [Exercice technique](#exercice-technique)
+- [Exercice de création](#exercice-de-creation)
 
 &nbsp;
 
