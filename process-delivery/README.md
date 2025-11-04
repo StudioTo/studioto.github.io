@@ -3,7 +3,6 @@
 
 ### Fichier
 
-
 ```
 ✓ Le format du document est correct
 ✓ Le nombre de pages est correct
@@ -20,19 +19,19 @@
 
 ```
 ✓ Le format du document est correct
-✓ L’impression est recto seule ou recto verso (en fonction du brief)
+✓ L’imposition correcte (recto seule ou recto verso en fonction du brief)
 ✓ L’impression est nette
 ✓ La coupe est propre (pas de liseret blanc ou de trait de crayon)
 ✓ Le noir est uniforme
+✓ La reliure est propre
 ```
 
 ### Présentation
 
 ```
-✓ Le format du document est correct
-✓ L’impression est recto seule ou recto verso (en fonction du brief)
-✓ Le fichier PDF n'est pas pixelisé
-✓ Les coupes sont franches
-✓ Il y a des traits de coupe et du débord
-✓ La coupe n'est pas réalisée avec un trait de crayon
+✓ Je connais les contraintes du brief
+✓ Je peux expliquer clairement mes solutions graphique par rapport au sujet
+✓ Je peux retracer mon processus de travail dans les phases de développement
+✓ Je suis capable de porter un regard critique sur mes propositions (points positifs / points négatifs)
+✓ Je connais les critères d’évaluation
 ```
