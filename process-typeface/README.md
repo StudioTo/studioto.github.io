@@ -1,4 +1,4 @@
-# 🎭 Caractères
+# 🎹 Développement du ton
 
 - Quel ton ou registre sert le mieux le propos (avant même qu'il soit lu)?  
 - Quels sont les axes sémantiques qui permettent de caractériser la thématique?  
