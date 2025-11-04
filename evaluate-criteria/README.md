@@ -12,26 +12,26 @@
 |:---:|
 | Juste ou faux | 
 
-# Exercice créatif  
+# Exercice de création  
 
 |![](links/Eval23.gif) |
 |:---:|
 | Processus: organisation, développement, production | 
 
-## 6 pts Organisation  
+## 6 pts Organisation (gestion)  
 
 |![](links/Eval29.gif) |
 |:---:|
 | Autonomie, compréhension du brief, gestion du temps et du matériel | 
 
-## 6 pts Développement  
+## 6 pts Développement (quantité)  
 
 |![](links/Eval34.gif) |
 |:---:|
 | Recherche, itérations, variété, regard critique | 
 
-## 6 pts Production  
+## 6 pts Production (qualité)  
 
-|![](links/Eval39.gif) |
+|![](links/Eval_prod4.gif) |
 |:---:|
 | Synthèse, impact graphique, propreté technique | 
