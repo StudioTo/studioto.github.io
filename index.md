@@ -71,10 +71,11 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 
 **Processus**
-## [⏱️ Contraintes](/process-constraints)
-## [🎭 Caractères](/process-typeface)
-## [🎶 Variations](/process-variations)
-## [🎼 Compositions](/process-compositions)
+## [⏱️ Organisation: contraintes](/process-constraints)
+## [🎹 Recherches A: Ton](/process-typeface)
+## [🎶 Recherches B: Variations](/process-variations)
+## [🎼 Recherches C: Compositions](/process-compositions)
+## [📦 Production: rendu](/process-delivery)
 
 &nbsp;
 &nbsp;
