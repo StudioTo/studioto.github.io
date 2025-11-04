@@ -1,4 +1,4 @@
-# 🎶 Variations
+# 🎶 Développement de variations
 
 - Comment peut-on souligner le propos en variant uniquement la forme, l'orientation, la position,…?  
 
