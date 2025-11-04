@@ -1,4 +1,4 @@
-# 📦 Production: délivrer des propositions
+# 📦 Production: délivrer une proposition
 
 
 ### Fichier
