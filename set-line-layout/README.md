@@ -6,7 +6,7 @@ La mise en forme de la ligne se réfère à l’organisation globale des mots da
 
 |![](links/0-Ligne27.gif) |
 |:---:|
-| Abc |
+| Mise en forme |
 
 
 
