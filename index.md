@@ -74,7 +74,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [📐 Organisation](/process-constraints)
 ## [🎹 Définition du ton](/process-typeface)
 ## [🎶 Développement de variations](/process-variations)
-## [🎼 Sélection et mise en forme](/process-compositions)
+## [🎼 Mise en forme](/process-compositions)
 ## [📦 Production](/process-delivery)
 
 &nbsp;

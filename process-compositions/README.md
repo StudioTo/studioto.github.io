@@ -1,4 +1,4 @@
-# 🎼 Sélection et mise en forme: décliner les pistes principales et ajuster les détails techniques
+# 🎼 Mise en forme: sélectionner les pistes principales et ajuster les détails techniques
 
 - Quelles sont les meilleures pistes qui ressortent des variations? (sélection)  
 - Comment associer les différentes variations (paramètres) pour créer une proposition cohérente et pertinente?  
