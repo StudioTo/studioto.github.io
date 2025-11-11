@@ -1,5 +1,4 @@
-# 📦 Production:  
-# délivrer une proposition
+# 📦 Production:<br>Délivrer une / des proposition(s)
 
 
 ### Fichier
