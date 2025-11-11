@@ -1,4 +1,4 @@
-# 🎼 Mise en forme (2ᵉ):  
+# 🎼 Mise en forme (2e vague):  
 # sélectionner les pistes principales et ajuster les détails techniques
 
 - Quelles sont les meilleures pistes qui ressortent des variations? (sélection)  
