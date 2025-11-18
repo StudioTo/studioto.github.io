@@ -43,13 +43,13 @@ Rester concentré sur la tâche en cours.
 Assumer ses actions et leurs conséquences.
 
 # Question
-En cas de blocage, demander de l'aide plutôt que de rester bloqué. Poser les question directement à l’enseignant plutôt qu’aux collègues.
+En cas de doute, demander de l'aide plutôt que de rester bloqué. Poser les question directement à l’enseignant plutôt qu’aux collègues.
+
+# Rendus
+Si un rendu est transmis après la date prévue, il faut l'envoyer par mail avec une justification du retard (et non le mettre sur teams)
 
 # Imprévu
-En cas de retard, d’absence ou de difficulté à respecter un délai, avertir le plus tôt possible par e-mail.
-
-# Délai
-Si un rendu est transmis après la date prévue, il faut l'envoyer par mail avec une justification du retard (et non le mettre sur teams)
+En cas de retard, d’absence ou de difficulté à respecter un délai, avertir le plus tôt possible par e-mail. En cas d’absence lors d’une évaluation, envoyer une justification par mail et se présenter au cours suivant pour effectuer le rattrapage. Sans nouvelle de votre part à votre retour en classe, la note attribuée sera 1.
 
 ### Sources
 
