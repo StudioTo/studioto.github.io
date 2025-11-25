@@ -1,4 +1,4 @@
-# 🎼 Mise en forme (2e vague):<br>Sélectionner les pistes principales et ajuster les détails techniques
+# 🎼 Compositions (2e vague):<br>Sélectionner les pistes principales et ajuster les détails techniques
 
 - Quelles sont les meilleures pistes qui ressortent des variations? (sélection)  
 - Comment associer les différentes variations (paramètres) pour créer une proposition cohérente et pertinente?  

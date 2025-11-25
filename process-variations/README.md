@@ -1,4 +1,4 @@
-# 🎶 Développement de variations (1re vague):<br>Moduler un paramètre visuel à la fois
+# 🎶 Variations (1re vague):<br>Moduler un paramètre visuel à la fois
 
 - Comment peut-on souligner le propos en variant uniquement la forme, l'orientation, la position,…?  
 - Attention à ne pas tomber amoureux de ses idées, cela restreint la créativité! (continuer à tester de nouvelles choses même si une piste vous plaît plus que les autres)  
