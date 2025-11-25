@@ -11,6 +11,13 @@ Avant toute chose, il s’agit de définir clairement le message (contenu) et le
   
 &nbsp;
 
+
+# Processus
+
+|![](links/Processus.jpg) |
+|:---:|
+| Organisation, Ton + Variations (1re vague), Compositions (2e vague), Production |
+
 # Sujet
 
 |![](links/1-Language_v217.gif) |
