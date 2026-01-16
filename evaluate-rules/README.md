@@ -30,6 +30,9 @@ Arriver à l’heure et être prêt à travailler.
 # Organisation
 Respecter les échéances fixées pour chaque travail.
 
+# Sauvegarde
+En cas de problème technique ou de perte de fichiers, il est attendu que vous puissiez fournir tout de même des sauvegardes récentes (disque dur externe, cloud, etc.).
+
 # Devoir
 Tout travail non finalisé dans le délai imparti doit être achevé hors classe et remis au début de la séance suivante.
 
@@ -45,11 +48,17 @@ Assumer ses actions et leurs conséquences.
 # Question
 En cas de doute, demander de l'aide plutôt que de rester bloqué. Poser les question directement à l’enseignant plutôt qu’aux collègues.
 
-# Rendus
-Si un rendu est transmis après la date prévue, il faut l'envoyer par mail avec une justification du retard (et non le mettre sur teams)
+# Absence
+En cas d’absence, avertir le plus tôt possible par e-mail avec une justification.
 
-# Imprévu
-En cas de retard, d’absence ou de difficulté à respecter un délai, avertir le plus tôt possible par e-mail. En cas d’absence lors d’une évaluation, envoyer une justification par mail et se présenter au cours suivant pour effectuer le rattrapage. Sans nouvelle de votre part à votre retour en classe, la note attribuée sera 1.
+# Absence prévue (examen)
+Si vous savez avant que vous ne pouvez pas être là pour un examen / un rendu, vous devez prévenir l'enseignant par écrit pour définir les modalités spécifiques de rendu avant le jour j (prévenir uniquement le secrétariat ne suffit pas).
+
+# Absence imprévue (examen)
+Si vous avez un imprévu le jour de l'examen / du rendu, vous devez prévenir l'enseignant avec une justification dès que vous êtes en capacité de le faire pour définir les modalités spécifiques de rendu (le jour même ou dès la fin du certificat médical, ne pas attendre le cours suivant).
+
+# Proactivité
+Les imprévus arrivent à tout le monde, là ou on démontre ses compétences, c'est dans la manière dont on les gère.
 
 ### Sources
 
