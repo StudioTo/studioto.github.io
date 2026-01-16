@@ -52,10 +52,10 @@ En cas de doute, demander de l'aide plutôt que de rester bloqué. Poser les que
 En cas d’absence, avertir le plus tôt possible par e-mail avec une justification.
 
 # Absence prévue (examen)
-Si vous savez avant que vous ne pouvez pas être là pour un examen / un rendu, vous devez prévenir l'enseignant par écrit pour définir les modalités spécifiques de rendu avant le jour j (prévenir uniquement le secrétariat ne suffit pas).
+En cas d’absence prévue à un examen / un rendu, prévenir l'enseignant par écrit avec une justification pour définir les modalités spécifiques de rendu avant le jour j (prévenir uniquement le secrétariat ne suffit pas).
 
 # Absence imprévue (examen)
-Si vous avez un imprévu le jour de l'examen / du rendu, vous devez prévenir l'enseignant avec une justification dès que vous êtes en capacité de le faire pour définir les modalités spécifiques de rendu (le jour même ou dès la fin du certificat médical, ne pas attendre le cours suivant).
+En cas d’absence imprévue à un examen / un rendu, prévenir l'enseignant avec une justification dès que vous êtes en capacité de le faire pour définir les modalités spécifiques de rendu (le jour même ou dès la fin du certificat médical, ne pas attendre le cours suivant).
 
 # Proactivité
 Les imprévus arrivent à tout le monde, là ou on démontre ses compétences, c'est dans la manière dont on les gère.
