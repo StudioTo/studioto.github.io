@@ -51,17 +51,26 @@ En cas de doute, demander de l'aide plutôt que de rester bloqué. Poser les que
 # Absence
 En cas d’absence, avertir le plus tôt possible par e-mail avec une justification.
 
-# Proactivité
-Les imprévus arrivent à tout le monde, là ou on démontre ses compétences, c'est dans la manière dont on les gère.
+# Absence Prévue
+En cas d’absence prévue à un examen / un rendu, prévenir l'enseignant par écrit avec une justification pour définir les modalités spécifiques de rendu avant le jour j (prévenir uniquement le secrétariat ne suffit pas).
+
+# Absence Imprévue
+En cas d’absence imprévue à un examen / un rendu, prévenir l'enseignant avec une justification dès que vous êtes en capacité de le faire pour définir les modalités spécifiques de rendu (le jour même ou dès la fin du certificat médical, au plus tard dès le début du cours suivant).
+
+# Evaluation
+Dans le cas ou une personne n'est pas appelée pour présenter son travail lors d'une évaludation, il est de sa responsabilité de se manifester au moment même du cours (ou au plus tard au début du cours suivant). Dans le cas contraire, l'évaluation est considérée comme non rendue.
+
+# Retard
+Un travail est considéré comme en retard si il n'est pas prêt à la date (et heure) mentionnée dans le brief. Il s'en suit que la note est péjorée en conséquence.
 
 # Rendu Partiel
 Il est primordial de rendre le travail au moment du rendu, même si il n'est pas terminé. Un travail partiel est évalué alors qu'un non rendu est sanctionné par un 1.
 
-# Examen (absence prévue)
-En cas d’absence prévue à un examen / un rendu, prévenir l'enseignant par écrit avec une justification pour définir les modalités spécifiques de rendu avant le jour j (prévenir uniquement le secrétariat ne suffit pas).
+# Non Rendu
+Un travail est considéré comme non rendu si il n'est pas rendu à la date mentionnée sur le brief et se retrouve sanctionné par un 1.
 
-# Examen (absence imprévue)
-En cas d’absence imprévue à un examen / un rendu, prévenir l'enseignant avec une justification dès que vous êtes en capacité de le faire pour définir les modalités spécifiques de rendu (le jour même ou dès la fin du certificat médical, ne pas attendre le cours suivant).
+# Proactivité
+Les imprévus arrivent à tout le monde, là ou on démontre ses compétences, c'est dans la manière dont on les gère.
 
 ### Sources
 
@@ -70,3 +79,5 @@ En cas d’absence imprévue à un examen / un rendu, prévenir l'enseignant ave
 <!-- |![](links/Eval28.gif) |
 |:---:|
 | Juste ou faux |  -->
+
+<!-- Un travail est considéré comme non rendu: 1. Si la personne est présente mais ne rend rien 2. Si la personne est absente et ne donne aucune nouvelle jusqu'au cours prochain. Un travail non rendu est sanctionné par un 1. -->
