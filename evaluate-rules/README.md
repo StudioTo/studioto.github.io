@@ -48,6 +48,9 @@ Assumer ses actions et leurs conséquences.
 # Question
 En cas de doute, demander de l'aide plutôt que de rester bloqué. Poser les question directement à l’enseignant plutôt qu’aux collègues.
 
+# Proactivité
+Les imprévus arrivent à tout le monde, là ou on démontre ses compétences, c'est dans la manière dont on les gère.
+
 # Absence
 En cas d’absence, avertir le plus tôt possible par e-mail avec une justification.
 
@@ -68,9 +71,6 @@ Il est primordial de rendre le travail au moment du rendu, même si il n'est pas
 
 # Non Rendu
 Un travail est considéré comme non rendu si il n'est pas rendu à la date mentionnée sur le brief et se retrouve sanctionné par un 1.
-
-# Proactivité
-Les imprévus arrivent à tout le monde, là ou on démontre ses compétences, c'est dans la manière dont on les gère.
 
 ### Sources
 
