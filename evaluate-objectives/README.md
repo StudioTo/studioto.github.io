@@ -42,7 +42,7 @@ Assumer que la neutralité absolue n’existe pas ; toute typographie convoie un
 
 Acquérir la connaissance et la maîtrise des outils, techniques et règles permettant de concevoir et réaliser des compositions typographiques professionnelles.
 
-# Développer un regard critique et imaginatif
+# Développer un regard critique et créatif
 
 Adapter les solutions aux contextes et contraintes spécifiques.
 
