@@ -54,6 +54,9 @@ En cas d’absence, avertir le plus tôt possible par e-mail avec une justificat
 # Proactivité
 Les imprévus arrivent à tout le monde, là ou on démontre ses compétences, c'est dans la manière dont on les gère.
 
+# Rendu Partiel
+Il est primordial de rendre le travail au moment du rendu, même si il n'est pas terminé. Un travail partiel est évalué alors qu'un non rendu est sanctionné par un 1.
+
 # Examen (absence prévue)
 En cas d’absence prévue à un examen / un rendu, prévenir l'enseignant par écrit avec une justification pour définir les modalités spécifiques de rendu avant le jour j (prévenir uniquement le secrétariat ne suffit pas).
 
