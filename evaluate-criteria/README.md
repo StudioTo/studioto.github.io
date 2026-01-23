@@ -1,9 +1,15 @@
 # 📊 Critères de notation
 
-- [Exercice technique](#exercice-technique)
-- [Exercice de création](#exercice-de-creation)
+| Domaine | Mot-clé | Indicateurs | Points |
+|:---|:---|:---|:---|
+| Organisation | Gestion | Autonomie, compréhension du brief, gestion du temps et du matériel | 6 pts |
+| Développement | Quantité | Recherche, itérations, variété, regard critique | 6 pts |
+| Production | Qualité | Synthèse, impact graphique, propreté technique | 6 pts |
 
-&nbsp;
+
+|![](links/Eval23.gif) |
+|:---:|
+| Processus: organisation, développement, production | 
 
 
 <!-- # Exercice technique  
@@ -11,20 +17,6 @@
 |![](links/Eval28.gif) |
 |:---:|
 | Juste ou faux |  -->
-
-# Processus de travail 
-
-|![](links/Eval23.gif) |
-|:---:|
-| Processus: organisation, développement, production | 
-
-# Grille d'évaluation
-
-| Domaine | Critères | Points |
-|:---|:---|:---|
-| Organisation | Autonomie, compréhension du brief, gestion du temps et du matériel | 6 pts |
-| Développement | Recherche, itérations, variété, regard critique | 6 pts |
-| Production | Synthèse, impact graphique, propreté technique | 6 pts |
 
 <!-- ## 6 pts Organisation (gestion)  
 
