@@ -4,11 +4,11 @@
 ### &nbsp;
 
 
-| Domaine | Mot-clé | Indicateurs | Points |
-|:---|:---|:---|:---|
-| Organisation | Gestion | Autonomie, compréhension du brief, gestion du temps et du matériel | 6 pts |
-| Développement | Quantité | Recherche, itérations, variété, regard critique | 6 pts |
-| Production | Qualité | Synthèse, impact graphique, propreté technique | 6 pts |
+| | Domaine | Mot-clé | Indicateurs | Points | Max |
+|:---|:---|:---|:---|:---|
+| **O** | Organisation | Gestion | Autonomie, compréhension du brief, gestion du temps et du matériel | | 6 pts |
+| **D** | Développement | Quantité | Recherche, itérations, variété, regard critique | | 6 pts |
+| **P** | Production | Qualité | Synthèse, impact graphique, propreté technique | | 6 pts |
 
 ### &nbsp;
 
