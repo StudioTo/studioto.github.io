@@ -2,7 +2,7 @@
 
 &nbsp;
 
-# Typographie S1
+# Typographie S1 (GR-ID)
 La lettre, le mot, la ligne et la colonne constituent les unités de base de la typographie. Chacune agit sur la lisibilité (dénotation) et l’expression (connotation) du message; leur équilibre est essentiel pour mettre en forme une communication claire et impactante.
 
 - **Lettre**	
@@ -44,6 +44,31 @@ La lettre, le mot, la ligne et la colonne constituent les unités de base de la 
 	|![](links/Eval44.gif) |
 	|:---:|
 	| Chercher de tous les côtés |
+
+
+# Typographie S2 (GR)
+Apprendre à dessiner des caractères commence par la capacité à les déconstruire: analyser leur structure permet ensuite de les reconstruire avec cohérence et intention. Ce travail trouve des applications très concrète dans le domaine du design graphique, notamment la création de marque verbale ou d'identité visuelle.
+
+- **lettrage**  
+	Sur la base d'une référence typographique, comprendre la construction des lettres afin de développer de nouveaux caractères appartenants à la même famille. 
+	
+	**Compétence:** analyser les caractèristiques des lettres et les appliquer de manière cohérentes dans le dessin  
+	**Outil:** feutre noir
+
+	|![](links/Eval44.gif) |
+	|:---:|
+	| Chercher de tous les côtés |
+
+- **Symbole**  
+	Sur la base d’un lettrage existant, décomposer les éléments identitaires de son langage visuel (graisse, contraste, terminaisons) afin de construire un symbole cohérent, qui cohabite harmonieusement avec celui-ci.
+	
+	**Compétence:** construire un symbole visuellement cohérent avec un lettrage donné   
+	**Outil:** cutter
+
+	|![](links/Eval44.gif) |
+	|:---:|
+	| Chercher de tous les côtés |
+
 
 <!-- # Prendre du plaisir	
 
