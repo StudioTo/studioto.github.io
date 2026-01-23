@@ -10,6 +10,7 @@
 | Développement | Quantité | Recherche, itérations, variété, regard critique | 6 pts |
 | Production | Qualité | Synthèse, impact graphique, propreté technique | 6 pts |
 
+### &nbsp;
 
 |![](links/0-Eval_process.jpg) |
 |:---:|
