@@ -1,4 +1,4 @@
-# 📊 Critères d'évaluation
+# 📊 Critères de notation
 
 - [Exercice technique](#exercice-technique)
 - [Exercice de création](#exercice-de-creation)
@@ -6,19 +6,27 @@
 &nbsp;
 
 
-# Exercice technique  
+<!-- # Exercice technique  
 
 |![](links/Eval28.gif) |
 |:---:|
-| Juste ou faux | 
+| Juste ou faux |  -->
 
-# Exercice de création  
+# Processus de travail 
 
 |![](links/Eval23.gif) |
 |:---:|
 | Processus: organisation, développement, production | 
 
-## 6 pts Organisation (gestion)  
+# Grille d'évaluation
+
+| Domaine | Critères | Points |
+|:---:|:---:|:---:|
+| Organisation | Autonomie, compréhension du brief, gestion du temps et du matériel | 6 pts |
+| Développement | Recherche, itérations, variété, regard critique | 6 pts |
+| Production | Synthèse, impact graphique, propreté technique | 6 pts |
+
+<!-- ## 6 pts Organisation (gestion)  
 
 |![](links/Eval29.gif) |
 |:---:|
@@ -34,4 +42,4 @@
 
 |![](links/Eval_prod4.gif) |
 |:---:|
-| Synthèse, impact graphique, propreté technique | 
+| Synthèse, impact graphique, propreté technique |  -->
