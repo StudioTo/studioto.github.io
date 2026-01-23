@@ -21,7 +21,7 @@
 # Grille d'évaluation
 
 | Domaine | Critères | Points |
-|:---:|:---:|:---:|
+|:---|:---|:---|
 | Organisation | Autonomie, compréhension du brief, gestion du temps et du matériel | 6 pts |
 | Développement | Recherche, itérations, variété, regard critique | 6 pts |
 | Production | Synthèse, impact graphique, propreté technique | 6 pts |
