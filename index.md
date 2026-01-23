@@ -125,6 +125,6 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 **Cours**
 ## [🎯 Objectifs](/evaluate-objectives)
 ## [🪜 Méthode](/evaluate-method)
-## [📊 Critères](/evaluate-criteria)
+## [📊 Notation](/evaluate-criteria)
 ## [🗂️ Rendus](/evaluate-deliverable)
 ## [☝🏻 Règles](/evaluate-rules)
