@@ -1,5 +1,9 @@
 # 📊 Critères de notation
 
+
+### &nbsp;
+
+
 | Domaine | Mot-clé | Indicateurs | Points |
 |:---|:---|:---|:---|
 | Organisation | Gestion | Autonomie, compréhension du brief, gestion du temps et du matériel | 6 pts |
@@ -7,7 +11,7 @@
 | Production | Qualité | Synthèse, impact graphique, propreté technique | 6 pts |
 
 
-|![](links/Eval23.gif) |
+|![](links/0-Eval_process.jpg) |
 |:---:|
 | Processus: organisation, développement, production | 
 
