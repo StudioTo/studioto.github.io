@@ -5,15 +5,15 @@
 # Typographie S1 (GR-ID)
 La lettre, le mot, la ligne et la colonne constituent les unités de base de la typographie. Chacune agit sur la lisibilité (dénotation) et l’expression (connotation) du message; leur équilibre est essentiel pour mettre en forme une communication claire et impactante.
 
-- **Lettre**	
+	|![](links/Eval44.gif) |
+	|:---:|
+	| Abc |
+
+- **Signe**	
 	Connaître l'anatomie, les mesures, les variations de style ainsi que les principes optiques des lettres.	
 	
 	**Compétence:** choisir, associer et contextualiser des caractères  
 	**Outil:** à la main
-
-	|![](links/Eval44.gif) |
-	|:---:|
-	| Chercher de tous les côtés |
 
 - **Mot**	
 	Moduler l'impact visuel des mots en faisant varier leurs contours grâce aux changements de casse et d'inter-lettrage. 
@@ -21,19 +21,11 @@ La lettre, le mot, la ligne et la colonne constituent les unités de base de la 
 	**Compétence:** composer une marque verbale (logotype)  
 	**Outil:** InDesign
 
-	|![](links/Eval44.gif) |
-	|:---:|
-	| Chercher de tous les côtés |
-
 - **Ligne**	
 	Renforcer la lisibilité d'un message en réglant l'inter-mots, l'usage et l'espacement des signes de ponctuation (micro-typo) ainsi que les distinctions sémantiques (italique, bold, soulignement) au sein d'une ligne.	
 	
 	**Compétence:** mettre en page des lignes de texte dans un format à visée d’impact graphique (affiche, flyer, couverture de livre)  
 	**Outil:** à la main
-
-	|![](links/Eval44.gif) |
-	|:---:|
-	| Chercher de tous les côtés |
 
 - **Colonne**	 
 	Disposer des blocs de texte dans un format donné (macro-typo) doit prendre en compte toutes les unités typographiques pour établir un gris de texte adéquat. Le réglage des colonnes doit notamment considérer la relation entre le corps du caractère, la longueur des lignes (largeur de la colonne) et leur espacement vertical (inter-lignes).
@@ -41,33 +33,21 @@ La lettre, le mot, la ligne et la colonne constituent les unités de base de la 
 	**Compétence:** mettre en page des blocs de texte dans un format à visée de lecture continue (livre, publication)  
 	**Outil:** InDesign
 
-	|![](links/Eval44.gif) |
-	|:---:|
-	| Chercher de tous les côtés |
-
 
 # Typographie S2 (GR)
 Apprendre à dessiner des caractères commence par la capacité à les déconstruire: analyser leur structure permet ensuite de les reconstruire avec cohérence et intention. Ce travail trouve des applications très concrète dans le domaine du design graphique, notamment la création de marque verbale ou d'identité visuelle.
 
-- **lettrage**  
+- **Lettrage**  
 	Sur la base d'une référence typographique, comprendre la construction des lettres afin de développer de nouveaux caractères appartenants à la même famille. 
 	
 	**Compétence:** analyser les caractèristiques des lettres et les appliquer de manière cohérentes dans le dessin  
 	**Outil:** feutre noir
-
-	|![](links/Eval44.gif) |
-	|:---:|
-	| Chercher de tous les côtés |
 
 - **Symbole**  
 	Sur la base d’un lettrage existant, décomposer les éléments identitaires de son langage visuel (graisse, contraste, terminaisons) afin de construire un symbole cohérent, qui cohabite harmonieusement avec celui-ci.
 	
 	**Compétence:** construire un symbole visuellement cohérent avec un lettrage donné   
 	**Outil:** cutter
-
-	|![](links/Eval44.gif) |
-	|:---:|
-	| Chercher de tous les côtés |
 
 
 <!-- # Prendre du plaisir	
