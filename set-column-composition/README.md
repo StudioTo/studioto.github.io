@@ -2,28 +2,28 @@
 
 La composition des colonnes concerne l’organisation du texte en largeur et en hauteur au sein de la zone de texte.
 
-- [Mots / Ligne](#-mots--ligne)
-- [Inter-ligne](#-inter-ligne)
-- [Division en colonnes](#-division-en-colonnes)
-- [Alignement](#-alignement)
-- [Drapeau](#-drapeau)
+- [Mots / Ligne](#mots-ligne)
+- [Inter-ligne](#inter-ligne)
+- [Division en colonnes](#division-en-colonnes)
+- [Alignement](#alignement)
+- [Drapeau](#drapeau)
 
   
 &nbsp;
 
-# Mots / Ligne {#-mots--ligne}  
+# Mots / Ligne {#mots-ligne}  
 
 |![](links/0-Colonne41.gif) |
 |:---:|
 | Le nombre de mots par ligne influence directement la lisibilité du texte (optimum 8-12) |
 
-# Inter-ligne {#-inter-ligne}
+# Inter-ligne {#inter-ligne}
 
 |![](links/0-Colonne47.gif) |
 |:---:|
 | Un corps plus grand demande moins d’interlignage, alors qu’un corps plus petit nécessite plus d’espace entre les lignes |
 
-# Division en colonnes {#-division-en-colonnes}
+# Division en colonnes {#division-en-colonnes}
 
 |![](links/0-Colonne55.gif) |
 |:---:|
@@ -33,13 +33,13 @@ La composition des colonnes concerne l’organisation du texte en largeur et en 
 |:---:|
 | L’enjeu principal de la justification est d’éviter l’apparition de lézardes dans le gris typographique |
 
-# Alignement {#-alignement}
+# Alignement {#alignement}
 
 |![](links/0-Colonne69.gif) |
 |:---:|
 | Le texte peut être aligné à gauche, à droite, centré ou justifié, selon l’effet recherché |
 
-# Drapeau {#-drapeau}
+# Drapeau {#drapeau}
 
 |![](links/0-Colonne73.gif) |
 |:---:|
