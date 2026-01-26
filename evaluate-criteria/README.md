@@ -57,7 +57,7 @@
         <td><strong>Organisation</strong></td>
         <td>Gestion</td>
         <td>Compréhension, proactivité, gestion du temps et du matériel</td>
-        <td><input type="number" min="0" max="6" step="0.01" inputmode="decimal" oninput="recalcEval()"></td>
+        <td><input type="number" min="0" max="6" step="0.1" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
         <td id="note-cell" rowspan="3" style="text-align:center; vertical-align:middle;">
           <div style="font-size:28px; font-weight:700; line-height:1;">
@@ -69,14 +69,14 @@
         <td><strong>Développement</strong></td>
         <td>Quantité</td>
         <td>Recherche, itérations, variété, regard critique</td>
-        <td><input type="number" min="0" max="6" step="0.01" inputmode="decimal" oninput="recalcEval()"></td>
+        <td><input type="number" min="0" max="6" step="0.1" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
       </tr>
       <tr>
         <td><strong>Production</strong></td>
         <td>Qualité</td>
         <td>Synthèse, impact graphique, précision technique</td>
-        <td><input type="number" min="0" max="6" step="0.01" inputmode="decimal" oninput="recalcEval()"></td>
+        <td><input type="number" min="0" max="6" step="0.1" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
       </tr>
     </tbody>
@@ -86,18 +86,13 @@
     function clamp(v, min, max) {
       return v < min ? min : (v > max ? max : v);
     }
-    function roundToStep(v, step) {
-      return Math.round(v / step) * step;
-    }
 
     function recalcEval() {
       const inputs = document.querySelectorAll('#eval-table input');
       let sum = 0;
-      let filled = 0;
 
       inputs.forEach(i => {
         if (i.value === '') return;
-        filled++;
 
         let v = parseFloat(i.value);
         if (Number.isNaN(v)) {
@@ -107,23 +102,16 @@
 
         v = clamp(v, 0, 6);
 
-        // Snap to nearest 0.25 (quarter points)
-        v = roundToStep(v, 0.25);
+        // Restrict to 1 decimal (e.g., 4.3)
+        v = Math.round(v * 10) / 10;
 
-        // Write back the snapped value (always show 2 decimals: 4.25, 4.50, 4.75)
-        i.value = v.toFixed(2);
+        // Write back with exactly 1 decimal
+        i.value = v.toFixed(1);
 
         sum += v;
       });
 
       const noteCell = document.getElementById('note-cell');
-
-      // Only show the note when all 3 fields are filled
-      if (filled < 3) {
-        document.getElementById('final').textContent = '';
-        noteCell.classList.remove('note-good', 'note-bad');
-        return;
-      }
 
       let avg = sum / 3;
 
