@@ -70,16 +70,6 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
-**Processus**
-## [📐 Organisation](/process-constraints)
-## [🎹 Ton](/process-typeface)
-## [🎶 Variations](/process-variations)
-## [🎼 Compositions](/process-compositions)
-## [📦 Production](/process-delivery)
-
-&nbsp;
-&nbsp;
-
 <!-- **Paramètres visuels**
 ## [🌓 Contraste](/form-contrast)
 ## [🎶 Rythme](/form-rythm)
@@ -98,6 +88,16 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [🖥️ Dessin vectoriel](/draw-vectors)
 ## [🎚️ Interpolation](/interpolate-vectors)
 ## [🪲 Debug](/debug-drawings)
+
+&nbsp;
+&nbsp;
+
+**Processus**
+## [📐 Organisation](/process-constraints)
+## [🎹 Ton](/process-typeface)
+## [🎶 Variations](/process-variations)
+## [🎼 Compositions](/process-compositions)
+## [📦 Production](/process-delivery)
 
 &nbsp;
 &nbsp;
