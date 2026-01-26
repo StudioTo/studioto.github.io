@@ -62,11 +62,11 @@
       <tr>
         <td><strong>Organisation</strong></td>
         <td>Gestion</td>
-        <td>Compréhension, proactivité, gestion du temps et du matériel</td>
+        <td>Compréhension, proactivité, gestion du temps, gestion du matériel</td>
         <td><input type="number" min="0" max="6" step="0.1" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
         <td id="note-cell" rowspan="3" style="text-align:center; vertical-align:middle;">
-          <div style="font-size:70px; font-weight:700; line-height:1;">
+          <div style="font-size:50px; font-weight:700; line-height:1;">
             <span id="final">0.00</span>
           </div>
         </td>
@@ -74,14 +74,14 @@
       <tr>
         <td><strong>Développement</strong></td>
         <td>Quantité</td>
-        <td>Recherche, itérations, variété, regard critique</td>
+        <td>Recherche, itérations, variété, pertinence, regard critique</td>
         <td><input type="number" min="0" max="6" step="0.1" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
       </tr>
       <tr>
         <td><strong>Production</strong></td>
         <td>Qualité</td>
-        <td>Synthèse, impact graphique, précision technique</td>
+        <td>Sélection, aboutissement, impact graphique, précision technique, présentation</td>
         <td><input type="number" min="0" max="6" step="0.1" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
       </tr>
