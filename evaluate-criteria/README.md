@@ -34,12 +34,13 @@
       -webkit-appearance: none;
       margin: 0;
     }
+    .markdown-body #note-cell.note-good { background: #dafbe1; }
+    .markdown-body #note-cell.note-bad  { background: #ffebe9; }
   </style>
 
   <table id="eval-table">
     <thead>
       <tr>
-        <th></th>
         <th>Domaine</th>
         <th>Mot-clé</th>
         <th>Indicateurs</th>
@@ -50,32 +51,29 @@
     </thead>
     <tbody>
       <tr>
-        <td></td>
         <td><strong>Organisation</strong></td>
         <td>Gestion</td>
         <td>Autonomie, compréhension du brief, gestion du temps et du matériel</td>
-        <td><input type="number" min="0" max="6" step="0.1" oninput="recalcEval()"></td>
+        <td><input type="number" min="0" max="6" step="0.01" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
-        <td rowspan="3" style="text-align:center; vertical-align:middle;">
+        <td id="note-cell" rowspan="3" style="text-align:center; vertical-align:middle;">
           <div style="font-size:28px; font-weight:700; line-height:1;">
             <span id="final">0.00</span>
           </div>
         </td>
       </tr>
       <tr>
-        <td></td>
         <td><strong>Développement</strong></td>
         <td>Quantité</td>
         <td>Recherche, itérations, variété, regard critique</td>
-        <td><input type="number" min="0" max="6" step="0.1" oninput="recalcEval()"></td>
+        <td><input type="number" min="0" max="6" step="0.01" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
       </tr>
       <tr>
-        <td></td>
         <td><strong>Production</strong></td>
         <td>Qualité</td>
         <td>Synthèse, impact graphique, propreté technique</td>
-        <td><input type="number" min="0" max="6" step="0.1" oninput="recalcEval()"></td>
+        <td><input type="number" min="0" max="6" step="0.01" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
       </tr>
     </tbody>
@@ -84,6 +82,9 @@
   <script>
     function clamp(v, min, max) {
       return v < min ? min : (v > max ? max : v);
+    }
+    function roundToStep(v, step) {
+      return Math.round(v / step) * step;
     }
 
     function recalcEval() {
@@ -100,7 +101,12 @@
         }
 
         v = clamp(v, 0, 6);
-        i.value = (Math.round(v * 10) / 10).toString();
+
+        // Snap to nearest 0.25 (quarter points)
+        v = roundToStep(v, 0.25);
+
+        // Write back the snapped value (always show 2 decimals: 4.25, 4.50, 4.75)
+        i.value = v.toFixed(2);
 
         sum += v;
       });
@@ -111,6 +117,10 @@
       avg = Math.round(avg / 0.05) * 0.05;
 
       document.getElementById('final').textContent = avg.toFixed(2);
+
+      const noteCell = document.getElementById('note-cell');
+      noteCell.classList.remove('note-good', 'note-bad');
+      noteCell.classList.add(avg > 4 ? 'note-good' : 'note-bad');
     }
   </script>
 </div>
