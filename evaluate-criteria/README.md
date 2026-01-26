@@ -70,7 +70,7 @@
             <span id="final">0.00</span>
           </div>
           <div style="margin-top:8px; font-size:12px; color:#57606a;">
-            <button id="save-btn" type="button" style="background:none; border:none; padding:0; font:inherit; color:#0969da; cursor:pointer; text-decoration:underline;">
+            <button id="save-btn" type="button" style="background:none; border:none; padding:0; font:inherit; color:#57606a; cursor:pointer; text-decoration:none;">
               export
             </button>
           </div>
@@ -188,8 +188,13 @@
 
       document.getElementById('final').textContent = avg.toFixed(2);
 
+      const hasAnyValue = Array.from(inputs).some(i => i.value !== '');
+
       noteCell.classList.remove('note-good', 'note-bad');
-      noteCell.classList.add(avg > 4 ? 'note-good' : 'note-bad');
+
+      if (hasAnyValue) {
+        noteCell.classList.add(avg > 4 ? 'note-good' : 'note-bad');
+      }
 
       const saveBtn = document.getElementById('save-btn');
       if (saveBtn && !saveBtn.dataset.bound) {
