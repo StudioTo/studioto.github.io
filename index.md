@@ -104,22 +104,22 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
-**Processus**
-## [📐 Organisation](/process-constraints)
-## [🎹 Ton](/process-typeface)
-## [🎶 Variations](/process-variations)
-## [🎼 Compositions](/process-compositions)
-## [📦 Production](/process-delivery)
-
-&nbsp;
-&nbsp;
-
 **Références**
 ## [☎️ Designers](/index-designers)
 ## [📘 Specimens](/index-specimens)
 ## [⚡ Logos](/index-logos)
 ## [🚸 Pictogrammes](/index-pictos)
 ## [📚 Bibliographie](/index-books)
+
+&nbsp;
+&nbsp;
+
+**Processus**
+## [📐 Organisation](/process-constraints)
+## [🎹 Ton](/process-typeface)
+## [🎶 Variations](/process-variations)
+## [🎼 Compositions](/process-compositions)
+## [📦 Production](/process-delivery)
 
 &nbsp;
 &nbsp;
