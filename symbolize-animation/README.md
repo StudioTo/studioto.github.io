@@ -12,4 +12,5 @@ La mise en forme de la ligne se réfère à l’organisation globale des mots da
 
 ### Sources
 
-- Peter von Arx, *Film + Design : Die elementaren Phänomene und Dimensionen des Films im gestalterischen Unterricht*, Haupt, 1983 
+- **Peter von Arx**  
+  *Film + Design : Die elementaren Phänomene und Dimensionen des Films im gestalterischen Unterricht*, Haupt, 1983
