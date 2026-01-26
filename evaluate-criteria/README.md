@@ -62,7 +62,7 @@
       <tr>
         <td><strong>Organisation</strong></td>
         <td>Gestion</td>
-        <td>Compréhension, proactivité, gestion du temps, gestion du matériel</td>
+        <td>Compréhension, gestion du temps, gestion du matériel, proactivité</td>
         <td><input type="number" min="0" max="6" step="0.1" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
         <td id="note-cell" rowspan="3" style="text-align:center; vertical-align:middle;">
@@ -81,7 +81,7 @@
       <tr>
         <td><strong>Production</strong></td>
         <td>Qualité</td>
-        <td>Sélection, aboutissement, impact graphique, précision technique, présentation</td>
+        <td>Sélection, aboutissement, impact graphique, précision technique, argumentation</td>
         <td><input type="number" min="0" max="6" step="0.1" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
       </tr>
