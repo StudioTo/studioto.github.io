@@ -82,12 +82,24 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp; -->
 
-**Dessin de caractères**
+**Caractères**
 ## [✏️ Construction](/type-construct)
 ## [📸 Numérisation](/type-digitize)
 ## [🖥️ Dessin vectoriel](/type-vectorize)
 ## [🎚️ Interpolation](/type-interpolate)
 ## [🪲 Debug](/type-debug)
+
+&nbsp;
+&nbsp;
+
+**Symboles**
+## [♨️ Développement](/)
+
+&nbsp;
+&nbsp;
+
+**Mouvement**
+## [📽️ Animation](/)
 
 &nbsp;
 &nbsp;
