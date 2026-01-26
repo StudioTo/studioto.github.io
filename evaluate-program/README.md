@@ -5,9 +5,9 @@
 # Typographie S1 (GR-ID)
 La lettre, le mot, la ligne et la colonne constituent les unités de base de la typographie. Chacune agit sur la lisibilité (dénotation) et l’expression (connotation) du message; leur équilibre est essentiel pour mettre en forme une communication claire et impactante.
 
-	|![](links/Eval44.gif) |
+	|![](links/Eracom_Typo_Teaser_Manual.gif) |
 	|:---:|
-	| Abc |
+	| Aperçu des exercices réalisés en typographie |
 
 - **Signe** (1 note)  
 	Connaître l'anatomie, les mesures, les variations de style ainsi que les principes optiques des lettres.	
