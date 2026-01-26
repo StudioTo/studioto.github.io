@@ -93,13 +93,8 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 
 **Symboles**
-## [♨️ Développement](/)
-
-&nbsp;
-&nbsp;
-
-**Mouvement**
-## [📽️ Animation](/)
+## [♨️ Développement](/symbolize-development)
+## [📽️ Animation](/symbolize-animation)
 
 &nbsp;
 &nbsp;
