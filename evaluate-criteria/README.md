@@ -27,6 +27,12 @@
       border-radius: 6px;
       font: inherit;
       background: #ffffff;
+      -moz-appearance: textfield;
+    }
+    .markdown-body input[type="number"]::-webkit-outer-spin-button,
+    .markdown-body input[type="number"]::-webkit-inner-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
     }
   </style>
 
@@ -44,33 +50,32 @@
     </thead>
     <tbody>
       <tr>
-        <td><input type="number" min="0" max="6" step="0.1" oninput="recalcEval()"></td>
+        <td></td>
         <td><strong>Organisation</strong></td>
         <td>Gestion</td>
         <td>Autonomie, compréhension du brief, gestion du temps et du matériel</td>
-        <td></td>
+        <td><input type="number" min="0" max="6" step="0.1" oninput="recalcEval()"></td>
         <td>6 pts</td>
         <td rowspan="3" style="text-align:center; vertical-align:middle;">
           <div style="font-size:28px; font-weight:700; line-height:1;">
             <span id="final">0.00</span>
           </div>
-          <div style="margin-top:6px; font-size:12px; color:#57606a;">/ 6 pts</div>
         </td>
       </tr>
       <tr>
-        <td><input type="number" min="0" max="6" step="0.1" oninput="recalcEval()"></td>
+        <td></td>
         <td><strong>Développement</strong></td>
         <td>Quantité</td>
         <td>Recherche, itérations, variété, regard critique</td>
-        <td></td>
+        <td><input type="number" min="0" max="6" step="0.1" oninput="recalcEval()"></td>
         <td>6 pts</td>
       </tr>
       <tr>
-        <td><input type="number" min="0" max="6" step="0.1" oninput="recalcEval()"></td>
+        <td></td>
         <td><strong>Production</strong></td>
         <td>Qualité</td>
         <td>Synthèse, impact graphique, propreté technique</td>
-        <td></td>
+        <td><input type="number" min="0" max="6" step="0.1" oninput="recalcEval()"></td>
         <td>6 pts</td>
       </tr>
     </tbody>
@@ -100,7 +105,11 @@
         sum += v;
       });
 
-      const avg = sum / 3;
+      let avg = sum / 3;
+
+      // round to nearest 0.05 (5e)
+      avg = Math.round(avg / 0.05) * 0.05;
+
       document.getElementById('final').textContent = avg.toFixed(2);
     }
   </script>
