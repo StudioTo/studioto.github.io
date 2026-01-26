@@ -39,6 +39,12 @@
     }
     .markdown-body #note-cell.note-good { background: #dafbe1; }
     .markdown-body #note-cell.note-bad  { background: #ffebe9; }
+    /* Widen Note column while keeping table at 100% width */
+    .markdown-body #eval-table { table-layout: fixed; }
+    .markdown-body #eval-table th:last-child,
+    .markdown-body #eval-table td#note-cell {
+      width: 20%;
+    }
   </style>
 
   <table id="eval-table">
@@ -102,11 +108,8 @@
 
         v = clamp(v, 0, 6);
 
-        // Restrict to 1 decimal (e.g., 4.3)
+        // Restrict to 1 decimal for calculation only (do NOT rewrite field while typing)
         v = Math.round(v * 10) / 10;
-
-        // Write back with exactly 1 decimal
-        i.value = v.toFixed(1);
 
         sum += v;
       });
