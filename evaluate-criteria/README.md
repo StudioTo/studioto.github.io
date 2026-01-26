@@ -20,6 +20,9 @@
     .markdown-body thead tr {
       background: #f6f8fa;
     }
+    /* Header alignment: left for all, center only for Note */
+    .markdown-body th { text-align: left; }
+    .markdown-body #eval-table th:last-child { text-align: center; }
     .markdown-body input[type="number"] {
       width: 4.5em;
       padding: 2px 6px;
@@ -53,7 +56,7 @@
       <tr>
         <td><strong>Organisation</strong></td>
         <td>Gestion</td>
-        <td>Autonomie, compréhension du brief, gestion du temps et du matériel</td>
+        <td>Compréhension, proactivité, gestion du temps et du matériel</td>
         <td><input type="number" min="0" max="6" step="0.01" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
         <td id="note-cell" rowspan="3" style="text-align:center; vertical-align:middle;">
@@ -72,7 +75,7 @@
       <tr>
         <td><strong>Production</strong></td>
         <td>Qualité</td>
-        <td>Synthèse, impact graphique, propreté technique</td>
+        <td>Synthèse, impact graphique, précision technique</td>
         <td><input type="number" min="0" max="6" step="0.01" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
       </tr>
@@ -90,9 +93,11 @@
     function recalcEval() {
       const inputs = document.querySelectorAll('#eval-table input');
       let sum = 0;
+      let filled = 0;
 
       inputs.forEach(i => {
         if (i.value === '') return;
+        filled++;
 
         let v = parseFloat(i.value);
         if (Number.isNaN(v)) {
@@ -111,6 +116,15 @@
         sum += v;
       });
 
+      const noteCell = document.getElementById('note-cell');
+
+      // Only show the note when all 3 fields are filled
+      if (filled < 3) {
+        document.getElementById('final').textContent = '';
+        noteCell.classList.remove('note-good', 'note-bad');
+        return;
+      }
+
       let avg = sum / 3;
 
       // round to nearest 0.05 (5e)
@@ -118,7 +132,6 @@
 
       document.getElementById('final').textContent = avg.toFixed(2);
 
-      const noteCell = document.getElementById('note-cell');
       noteCell.classList.remove('note-good', 'note-bad');
       noteCell.classList.add(avg > 4 ? 'note-good' : 'note-bad');
     }
