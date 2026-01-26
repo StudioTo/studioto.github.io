@@ -66,7 +66,7 @@
         <td><input type="number" min="0" max="6" step="0.1" inputmode="decimal" oninput="recalcEval()"></td>
         <td>6 pts</td>
         <td id="note-cell" rowspan="3" style="text-align:center; vertical-align:middle;">
-          <div style="margin-top:8px; font-size:12px; color:#57606a;">
+          <div style="margin-top:8px; font-size:16px; color:#57606a;">
             <button id="" type="button" style="background:none; border:none; padding:0; font:inherit; color:#57606a; cursor:pointer; text-decoration:none;">
               &nbsp;
             </button>
@@ -74,7 +74,7 @@
           <div style="font-size:50px; font-weight:700; line-height:1;">
             <span id="final">0.00</span>
           </div>
-          <div style="margin-top:8px; font-size:12px; color:#57606a;">
+          <div style="margin-top:8px; font-size:16px; color:#57606a;">
             <button id="save-btn" type="button" style="background:none; border:none; padding:0; font:inherit; color:#57606a; cursor:pointer; text-decoration:none;">
               export
             </button>
