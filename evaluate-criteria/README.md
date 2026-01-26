@@ -115,6 +115,9 @@
         }
 
         v = clamp(v, 0, 6);
+        // Hard limit: prevent values above 6 or below 0 from staying in the field
+        if (parseFloat(i.value) > 6) i.value = '6';
+        if (parseFloat(i.value) < 0) i.value = '0';
 
         // Restrict to 1 decimal for calculation only (do NOT rewrite field while typing)
         v = Math.round(v * 10) / 10;
