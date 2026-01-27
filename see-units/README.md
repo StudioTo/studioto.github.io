@@ -1,36 +1,41 @@
 # 🔎 Les unités typographiques
 
+- [Le signe](#le-signe)
+- [Le mot](#le-mot)
+- [La phrase](#la-ligne)
+- [La colonne](#la-colonne)
+
 &nbsp;
 
 |![](links/1-Language_v217.gif)|
 |:---:|
 | La langue est notre principal moyen de communication: la typographie la rend lisible (images: Alva Noto) |
 
-# Unités typographiques {#unites-typographiques}
+# Les unités / échelles  
 
 |![](links/1-Language_v252.gif)|
 |:---:|
 | Le message prend sa forme écrite grâce aux différentes unités de base de la typographie qui se combine pour former un ensemble cohérent |
 
-# 1. Le signe  
+# 1. Le signe {#le-signe}  
 
 |![](links/1-Language_v272.gif)|
 |:---:|
 | Les signes sont les particules élémentaires du langage écrit |
 
-# 2. Le mot  
+# 2. Le mot (#le-mot)  
 
 |![](links/1-Language_v279.gif)|
 |:---:|
 | Le mot est une combinaison de signes (lettres) |
 
-# 3. La ligne  
+# 3. La ligne {#la-ligne}  
 
 |![](links/1-Language_v285.gif)|
 |:---:|
 | La ligne est constituée d'une séquence de mots séparés par des espaces |
 
-# 4. La colonne  
+# 4. La colonne {#la-colonne}  
 
 |![](links/1-Language-typo-unit-column.gif)|
 |:---:|

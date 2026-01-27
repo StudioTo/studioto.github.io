@@ -1,7 +1,7 @@
 # 🪧 Sémiotique
 
+- [Langage](#langage)
 - [Expression](#expression)
-- [Voir vs Lire](#voir-vs-lire)
 - [Caractère](#caractere)
 - [Dénotation vs Connotation](#denotation-vs-connotation)
 - [Explicite vs Implicite](#explicite-vs-implicite)
@@ -10,7 +10,7 @@
 
 &nbsp;
 
-# Abc
+# Langage {#langage}
 
 |![](links/1-Language_v2.gif)|
 |:---:|
