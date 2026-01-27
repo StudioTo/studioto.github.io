@@ -1,20 +1,6 @@
-# 💬 Language
-
-- [Typographie](#typographie)
-- [Communication](#communication)
-- [Unités typographiques](#unites-typographiques)
-- [Lecture](#lecture)
-- [Lisibilité vs Impact](#lisibilite-vs-impact)
+# ⚠️ Iconicité
 
 &nbsp;
-
-# Typographie  
-
-|![](links/1-Language_v217.gif)|
-|:---:|
-| La langue est notre principal moyen de communication: la typographie la rend lisible (images: Alva Noto) |
-
-# Communication  
 
 |![](links/1-Language_v2.gif)|
 |:---:|
@@ -39,69 +25,6 @@
 |![](links/1-Language_v2127.gif)|
 |:---:|
 | La signalétique est une forme de langage universel, capable de communiquer à tous.tes et de dépasser les frontières linguistiques |
-
-# Unités typographiques {#unites-typographiques}
-
-|![](links/1-Language_v252.gif)|
-|:---:|
-| Le message prend sa forme écrite grâce aux différentes unités de base de la typographie qui se combine pour former un ensemble cohérent |
-
-# 1. Le signe  
-
-|![](links/1-Language_v272.gif)|
-|:---:|
-| Les signes sont les particules élémentaires du langage écrit |
-
-# 2. Le mot  
-
-|![](links/1-Language_v279.gif)|
-|:---:|
-| Le mot est une combinaison de signes (lettres) |
-
-# 3. La ligne  
-
-|![](links/1-Language_v285.gif)|
-|:---:|
-| La ligne est constituée d'une séquence de mots séparés par des espaces |
-
-# 4. La colonne  
-
-|![](links/1-Language-typo-unit-column.gif)|
-|:---:|
-| La colonne est composée de lignes et introduit la dimension de la lecture continue (images: Jonas Voegeli) |
-
-# Lecture  
-
-|![](links/1-Language_v2133.gif)|
-|:---:|
-| L'importance de l'accentuation de la moitié supérieure de la lettre |
-
-|![](links/1-Language_def_up2.gif)|
-|:---:|
-| L'œil du lecteur adulte ne déchiffrant pas les mots lettre par lettre, mais enregistrant leurs contours |
-
-|![](links/1-Language_v2137.gif)|
-|:---:|
-| Que l'on modifie la longueur des lignes, le corps aussi bien que la forme du caractère typographique, la longueur des saccades et leur fréquence changent |
-
-# Lisibilité vs Impact {#lisibilite-vs-impact}
-
-|![](links/1-Language_v2161.gif)|
-|:---:|
-| Les variables de lisibilité peuvent être opposée à celles de l'impact graphique |
-
-|![](links/1-Language_v2168.jpg)|
-|:---:|
-| Le logo d'IBM constitue un bon exemple de compromis |
-
-|![](links/1-Language_v2169.jpg)|
-|:---:|
-| Extrême lisibilité |
-
-|![](links/1-Language_v2170.jpg)|
-|:---:|
-| Extrême impact |
-
 
 
 ### Sources
