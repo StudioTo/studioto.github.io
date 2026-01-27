@@ -1,12 +1,16 @@
 # ♨️ Développement de symboles
 
-La mise en forme de la ligne se réfère à l’organisation globale des mots dans l’espace. Elle détermine le rythme visuel et la cohérence d’ensemble.
+Abc
   
 ### &nbsp;
 
-|![](links/0-Ligne27.gif) |
+|![](links/Développement.jpg) |
 |:---:|
-| Mise en forme |
+| La valeur symbolique d'un signe individuel reste souvent cachée et insignifiante. |
+
+|![](links/Développement2.gif) |
+|:---:|
+| La présentation d'une séquence de signes ou leur confrontation permet cependant de conférer aux signes une valeur narrative, voire figurative. |
 
 
 
