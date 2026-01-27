@@ -1,5 +1,6 @@
 # 🪧 Sémiotique
 
+- [Signes](#signes)
 - [Langage](#langage)
 - [Expression](#expression)
 - [Caractère](#caractere)
@@ -10,7 +11,7 @@
 
 &nbsp;
 
-# Langage {#langage}
+# Signes {#signes}
 
 |![](links/1-Language_v2.gif)|
 |:---:|
@@ -24,6 +25,8 @@
 |:---:|
 | Les lettres sont des signes abstraits qui représentent des sons |
 
+# Langage {#langage}
+
 |![](links/1-Language_v2116.jpg)|
 |:---:|
 | Les lettres n'acquièrent un sens que lorsqu'elles sont combinées |
@@ -35,7 +38,6 @@
 |![](links/1-Language_v2127.gif)|
 |:---:|
 | La signalétique est une forme de langage universel, capable de communiquer à tous.tes et de dépasser les frontières linguistiques |
-
 
 # Expression {#expression}
 
