@@ -1,4 +1,4 @@
-# 💥 Sémiotique
+# 🪧 Sémiotique
 
 - [Expression](#expression)
 - [Voir vs Lire](#voir-vs-lire)
@@ -9,6 +9,32 @@
 - [Typologie](#typologie)
 
 &nbsp;
+
+# Abc
+
+|![](links/1-Language_v2.gif)|
+|:---:|
+| Les signes constituent le vecteur par lequel un émetteur transmet un message à un récepteur |
+
+|![](links/1-Language_v215.jpg)|
+|:---:|
+| Le langage est un système de signes permettent d’exprimer des idées, des émotions ou des informations |
+
+|![](links/1-Language_v210.jpg)|
+|:---:|
+| Les lettres sont des signes abstraits qui représentent des sons |
+
+|![](links/1-Language_v2116.jpg)|
+|:---:|
+| Les lettres n'acquièrent un sens que lorsqu'elles sont combinées |
+
+|![](links/1-Language_v2120.gif)|
+|:---:|
+| Toutes les langues peuvent être codifiés dans n'importe quel alphabet (scripte) | 
+
+|![](links/1-Language_v2127.gif)|
+|:---:|
+| La signalétique est une forme de langage universel, capable de communiquer à tous.tes et de dépasser les frontières linguistiques |
 
 
 # Expression {#expression}
