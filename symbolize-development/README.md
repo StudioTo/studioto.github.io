@@ -1,12 +1,22 @@
-# ♨️ Développement de symboles
+# ♨️ Sigle-Symbole
 
-Abc
+Le sigle est un signe orienté vers l’usage (dénotation), le symbole est un signe orienté vers le sens (connotation).
   
 ### &nbsp;
+
+# Symbole vs Sigle
+
+|![](links/Developpement.jpg) |
+|:---:|
+| Sigle (téléphone) vs Symbole (le futur) |
+
+# Valeur symbolique
 
 |![](links/Developpement.jpg) |
 |:---:|
 | La valeur symbolique d'un signe individuel reste souvent cachée et insignifiante. |
+
+# Séquence de symboles
 
 |![](links/Developpement2.gif) |
 |:---:|
