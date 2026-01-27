@@ -48,12 +48,9 @@
 
 ### Sources
 
-- Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
-- Adrian Frutiger, *Type Sign Symbol*, Zurich: ABC Verlag, 1980  
+- Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich: Hans-Rudolf Lutz Verlag, 1980 
 - Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972  
-- Abraham Moles, *Les sciences de l’imprécis: Échelles d’iconicité*, Paris: Seuil, 1990  
-- Alva Noto & Anne-James Chaton, *Uni Acronym*, 2011
-- Jonas Voegeli, www.voegeli.info
+- Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005
 
 
 <!--
