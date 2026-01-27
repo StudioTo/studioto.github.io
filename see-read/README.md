@@ -2,25 +2,9 @@
 
 &nbsp;
 
-# Lire vs Voir {#lire-vs-voir}
-
 |![](links/2-Semiotique5.gif) |
 |:---:|
 | Deux niveaux d'information: textuel et pictural |
-
-# Lecture  
-
-|![](links/1-Language_v2133.gif)|
-|:---:|
-| L'importance de l'accentuation de la moitié supérieure de la lettre |
-
-|![](links/1-Language_def_up2.gif)|
-|:---:|
-| L'œil du lecteur adulte ne déchiffrant pas les mots lettre par lettre, mais enregistrant leurs contours |
-
-|![](links/1-Language_v2137.gif)|
-|:---:|
-| Que l'on modifie la longueur des lignes, le corps aussi bien que la forme du caractère typographique, la longueur des saccades et leur fréquence changent |
 
 # Lisibilité vs Impact {#lisibilite-vs-impact}
 
@@ -39,6 +23,20 @@
 |![](links/1-Language_v2170.jpg)|
 |:---:|
 | Extrême impact |
+
+# Lisibilité des caractères  
+
+|![](links/1-Language_v2133.gif)|
+|:---:|
+| L'importance de l'accentuation de la moitié supérieure de la lettre |
+
+|![](links/1-Language_def_up2.gif)|
+|:---:|
+| L'œil du lecteur adulte ne déchiffrant pas les mots lettre par lettre, mais enregistrant leurs contours |
+
+|![](links/1-Language_v2137.gif)|
+|:---:|
+| Que l'on modifie la longueur des lignes, le corps aussi bien que la forme du caractère typographique, la longueur des saccades et leur fréquence changent |
 
 
 
