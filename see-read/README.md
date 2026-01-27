@@ -2,7 +2,7 @@
 
 - [Textuel vs Pictural](#textuel-vs-pictural)
 - [Lisibilité vs Impact visuel](#lisibilite-vs-impact)
-- [isibilité des caractères](#lisibilite)
+- [Lisibilité des caractères](#lisibilite)
 
 &nbsp;
 
