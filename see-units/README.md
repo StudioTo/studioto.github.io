@@ -2,7 +2,7 @@
 
 - [Le signe](#le-signe)
 - [Le mot](#le-mot)
-- [La phrase](#la-ligne)
+- [La ligne](#la-ligne)
 - [La colonne](#la-colonne)
 
 &nbsp;
