@@ -30,8 +30,10 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 
 
 **Typographie**
-## [💬 Language](/see-langage)
-## [💥 Sémiotique](/express-message)
+## [🧩 Unités](/see-units)
+## [⚠️ Iconicité](/see-iconicity)
+## [👀 Lire-Voir](/see-read)
+## [💥 Sémiotique](/see-semiotic)
 ## [📖 Vocabulaire](/index-definitions)
 
 &nbsp;
