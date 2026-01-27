@@ -1,16 +1,12 @@
 # 👀 Lire-Voir
 
-- [Langage](#langage)
-- [Expression](#expression)
-- [Caractère](#caractere)
-- [Dénotation vs Connotation](#denotation-vs-connotation)
-- [Explicite vs Implicite](#explicite-vs-implicite)
-- [Axes sémantiques](#axes-semantiques)
-- [Typologie](#typologie)
+- [Textuel vs Pictural](#textuel-vs-pictural)
+- [Lisibilité vs Impact visuel](#lisibilite-vs-impact)
+- [isibilité des caractères](#lisibilite)
 
 &nbsp;
 
-# Abc
+# Textuel vs Pictural {#textuel-vs-pictural}  
 
 |![](links/2-Semiotique5.gif) |
 |:---:|
