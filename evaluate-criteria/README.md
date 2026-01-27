@@ -132,7 +132,7 @@
 
     async function copyScoresToClipboard() {
       const { avg, org, dev, prod } = getScores();
-      const text = `${avg.toFixed(2)} orga: ${org.toFixed(1)} / dvlp: ${dev.toFixed(1)} / prod: ${prod.toFixed(1)}`;
+      const text = `${avg.toFixed(2)} = orga: ${org.toFixed(1)} / dvlp: ${dev.toFixed(1)} / prod: ${prod.toFixed(1)}`;
 
       try {
         await navigator.clipboard.writeText(text);
