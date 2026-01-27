@@ -94,7 +94,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 
 **Symboles**
-## [♨️ Développement](/symbolize-development)
+## [♨️ Sigle-Symbole](/symbolize-development)
 ## [📽️ Animation](/symbolize-animation)
 
 &nbsp;
