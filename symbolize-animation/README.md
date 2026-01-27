@@ -1,12 +1,20 @@
 # 📽️ Animation de symboles
 
-La mise en forme de la ligne se réfère à l’organisation globale des mots dans l’espace. Elle détermine le rythme visuel et la cohérence d’ensemble.
+Abc
   
 ### &nbsp;
 
-|![](links/0-Ligne27.gif) |
+|![](links/Animation1.gif) |
 |:---:|
-| Mise en forme |
+| Abc |
+
+|![](links/Animation8.gif) |
+|:---:|
+| Abc |
+
+|![](links/Animation17.gif) |
+|:---:|
+| Abc |
 
 
 
