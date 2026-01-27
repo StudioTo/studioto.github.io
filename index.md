@@ -39,7 +39,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
-**Classification**
+**Classifications**
 ## [🦴 Anatomique](/classify-typefaces-shapes)
 ## [🕰️ Historique](/classify-typefaces-history)
 ## [✍🏻 Evolution de l'écriture](/track-writing-evolution)
@@ -111,7 +111,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
-**Processus**
+**Processus de design**
 ## [📐 Organisation](/process-constraints)
 ## [🎹 Ton](/process-typeface)
 ## [🎶 Variations](/process-variations)
