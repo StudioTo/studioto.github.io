@@ -49,6 +49,12 @@
 |:---:|
 | La forme des caractères influence l'interprétation du message |
 
+# Caractère {#caractere}
+
+|![](links/0-Colonne20.gif) |
+|:---:|
+| Les caractères, au-delà de leur fonction première de vecteur visuel de la langue, peuvent teinter le texte d'une certaine atmosphère |
+
 # Dénotation vs Connotation {#denotation-vs-connotation}
 
 |![](links/2-Semiotique10.gif) |
@@ -58,12 +64,6 @@
 |![](links/2-Semiotique16.gif) |
 |:---:|
 | L'information est autant «lue» que «vue» |
-
-# Caractère {#caractere}
-
-|![](links/0-Colonne20.gif) |
-|:---:|
-| Les caractères, au-delà de leur fonction première de vecteur visuel de la langue, peuvent teinter le texte d'une certaine atmosphère |
 
 # Explicite vs Implicite {#explicite-vs-implicite}
 
