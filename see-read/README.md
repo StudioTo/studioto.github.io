@@ -1,12 +1,22 @@
 # 👀 Lire-Voir
 
+- [Langage](#langage)
+- [Expression](#expression)
+- [Caractère](#caractere)
+- [Dénotation vs Connotation](#denotation-vs-connotation)
+- [Explicite vs Implicite](#explicite-vs-implicite)
+- [Axes sémantiques](#axes-semantiques)
+- [Typologie](#typologie)
+
 &nbsp;
+
+# Abc
 
 |![](links/2-Semiotique5.gif) |
 |:---:|
-| Deux niveaux d'information: textuel et pictural |
+| Deux niveaux d'information: textuel (lisibilité) et pictural (impact visuel) |
 
-# Lisibilité vs Impact {#lisibilite-vs-impact}
+# Lisibilité vs Impact visuel {#lisibilite-vs-impact}
 
 |![](links/1-Language_v2161.gif)|
 |:---:|
@@ -24,7 +34,7 @@
 |:---:|
 | Extrême impact |
 
-# Lisibilité des caractères  
+# Lisibilité des caractères {#lisibilite}  
 
 |![](links/1-Language_v2133.gif)|
 |:---:|

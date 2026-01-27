@@ -7,9 +7,11 @@
 
 &nbsp;
 
+# Le champ de la typographie  
+
 |![](links/1-Language_v217.gif)|
 |:---:|
-| La langue est notre principal moyen de communication: la typographie la rend lisible (images: Alva Noto) |
+| La langue est notre principal moyen de communication: la typographie la rend lisible par des formes visuelles (images: Alva Noto) |
 
 # Les unités / échelles  
 
