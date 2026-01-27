@@ -1,22 +1,26 @@
 # 📽️ Animation de symboles
 
-Abc
+En animation, le nombre d’images construit le temps, l’ampleur des changements détermine la vitesse, la variation des formes produit le mouvement et la continuité visuelle assure les transitions.
   
 ### &nbsp;
 
 |![](links/Animation1.gif) |
 |:---:|
-| Abc |
+| Animation 1 |
 
 |![](links/Animation8.gif) |
 |:---:|
-| Abc |
+| Animation 2 |
 
 |![](links/Animation17.gif) |
 |:---:|
-| Abc |
+| Animation 3 |
 
 
+<!-- Temps = nombre d’images
+Vitesse = écart de changement
+Mouvement = variation
+Transition = continuité visuelle -->
 
 ### Sources
 
