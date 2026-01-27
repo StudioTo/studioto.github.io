@@ -6,7 +6,7 @@ Le sigle est un signe orienté vers l’usage (dénotation), le symbole est un s
 
 # Symbole vs Sigle
 
-|![](links/Developpement.jpg) |
+|![](links/Sigle_Symbole.jpg) |
 |:---:|
 | Sigle (téléphone) vs Symbole (le futur) |
 
