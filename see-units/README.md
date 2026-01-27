@@ -25,7 +25,7 @@
 |:---:|
 | Les signes sont les particules élémentaires du langage écrit |
 
-# 2. Le mot (#le-mot)  
+# 2. Le mot {#le-mot}  
 
 |![](links/1-Language_v279.gif)|
 |:---:|
