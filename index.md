@@ -47,7 +47,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
-**1. Lettre**
+**1. Caractère**
 ## [🍖 Anatomie](/study-sign-shapes)
 ## [📏 Mesures](/study-sign-measures)
 ## [🌀 Optique](/study-sign-optics)
@@ -83,7 +83,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp; -->
 
-**Caractères**
+**Glyphes**
 ## [✏️ Construction](/type-construct)
 ## [📸 Numérisation](/type-digitize)
 ## [🖥️ Dessin vectoriel](/type-vectorize)
@@ -93,8 +93,8 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
-**Symboles**
-## [♨️ Sigle-Symbole](/symbolize-development)
+**Signe**
+## [♨️ Icône-Symbole](/symbolize-development)
 ## [📽️ Animation](/symbolize-animation)
 
 &nbsp;
