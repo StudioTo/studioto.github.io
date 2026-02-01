@@ -1,4 +1,4 @@
-# 🌀 Optique du signe
+# 🌀 Optique de la lettre
 
 - [Illusion](#illusion)
 - [Biais de proportions](#biais-de-proportions)

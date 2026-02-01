@@ -47,7 +47,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
-**1. Signe**
+**1. Lettre**
 ## [🍖 Anatomie](/study-sign-shapes)
 ## [📏 Mesures](/study-sign-measures)
 ## [🌀 Optique](/study-sign-optics)
