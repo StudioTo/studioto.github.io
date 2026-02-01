@@ -1,6 +1,6 @@
 # 🔎 Les unités typographiques
 
-- [Le signe](#le-signe)
+- [La caractère](#le-caractere)
 - [Le mot](#le-mot)
 - [La ligne](#la-ligne)
 - [La colonne](#la-colonne)
@@ -13,13 +13,13 @@
 |:---:|
 | La langue est notre principal moyen de communication: la typographie la rend lisible par des formes visuelles (images: Alva Noto) |
 
-# Les unités / échelles  
+# Les unités typographiques  
 
 |![](links/1-Language_v252.gif)|
 |:---:|
 | Le message prend sa forme écrite grâce aux différentes unités de base de la typographie qui se combine pour former un ensemble cohérent |
 
-# 1. Le signe {#le-signe}  
+# 1. Le caractère {#le-caractere}  
 
 |![](links/1-Language_v272.gif)|
 |:---:|
