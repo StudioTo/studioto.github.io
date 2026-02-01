@@ -1,4 +1,4 @@
-# 🦴 Anatomie de la lettre
+# 🦴 Anatomie du caractère
 
 - [Squelette](#squelette)
 - [Graisse](#graisse)

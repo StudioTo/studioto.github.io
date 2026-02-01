@@ -1,4 +1,4 @@
-# 🎛️ Variations de la lettre
+# 🎛️ Variations du caractère
 
 - [Graisse](#graisse)
 - [Largeur](#largeur)

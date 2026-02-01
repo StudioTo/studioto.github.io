@@ -1,4 +1,4 @@
-# 📏 Mesures de la lettre
+# 📏 Mesures du caractère
 
 - [Mesures verticales](#mesures-verticales)
 - [Mesures horizontales](#mesures-horizontales)
