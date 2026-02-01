@@ -33,7 +33,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [🔎 Unités](/see-units)
 ## [👀 Lire-Voir](/see-read)
 ## [🎭 Sémiotique](/see-signs)
-## [📖 Vocabulaire](/index-definitions)
+## [🌐 Vocabulaire](/index-definitions)
 
 &nbsp;
 &nbsp;
