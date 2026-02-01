@@ -1,10 +1,10 @@
-# ♨️ Sigle-Symbole
+# ♨️ Icône-Symbole
 
-Le sigle est un signe orienté vers l’usage (dénotation), le symbole est un signe orienté vers le sens (connotation).
+L'icône est un signe orienté vers l’usage (dénotation), le symbole est un signe orienté vers le sens (connotation).
   
 ### &nbsp;
 
-# Symbole vs Sigle
+# Icône vs Sigle
 
 |![](links/Sigle_Symbole.jpg) |
 |:---:|
