@@ -1,4 +1,4 @@
-# 🪧 Sémiotique
+# 🎭 Sémiotique
 
 - [Signes](#signes)
 - [Langage](#langage)
