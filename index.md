@@ -32,6 +32,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 **Typographie**
 ## [🔎 Unités](/see-units)
 ## [👀 Lire-Voir](/see-read)
+## [👁️‍🗨️ Gestalt](/see-gestalt)
 ## [🎭 Sémiotique](/see-signs)
 ## [🌐 Vocabulaire](/index-definitions)
 
@@ -41,6 +42,11 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 **Classifications**
 ## [🦴 Anatomique](/classify-typefaces-shapes)
 ## [🕰️ Historique](/classify-typefaces-history)
+
+&nbsp;
+&nbsp;
+
+**Histoire**
 ## [✍🏻 Evolution de l'écriture](/track-writing-evolution)
 ## [🏢 Evolution de l'architecture](/track-architecture-evolution)
 
