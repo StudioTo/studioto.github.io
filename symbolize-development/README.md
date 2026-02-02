@@ -6,9 +6,9 @@ L'icône est un signe orienté vers l’usage (dénotation), le symbole est un s
 
 # Signe
 
-|![](links/1-Language_v2.gif)|
+|![](links/1-Language_v215.jpg)|
 |:---:|
-| Les signes constituent le vecteur par lequel un émetteur transmet un message à un récepteur |
+| Le langage est un système de signes permettent d’exprimer des idées, des émotions ou des informations |
 
 # Icône vs Symbole
 
