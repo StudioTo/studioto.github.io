@@ -111,7 +111,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 
 **Design**
-## [📐 Organisation](/process-constraints)
+## [📋 Organisation](/process-constraints)
 ## [🎹 Ton](/process-typeface)
 ## [🎶 Variations](/process-variations)
 ## [🎼 Compositions](/process-compositions)
