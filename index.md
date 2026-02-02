@@ -110,16 +110,6 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
-**Références**
-## [☎️ Designers](/index-designers)
-## [📘 Specimens](/index-specimens)
-## [⚡ Logos](/index-logos)
-## [🚸 Pictogrammes](/index-pictos)
-## [📚 Bibliographie](/index-books)
-
-&nbsp;
-&nbsp;
-
 **Processus de design**
 ## [📐 Organisation](/process-constraints)
 ## [🎹 Ton](/process-typeface)
@@ -130,12 +120,22 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
+**Références**
+## [📕 Designers](/index-designers)
+## [📘 Specimens](/index-specimens)
+## [📗 Logos](/index-logos)
+## [📙 Pictogrammes](/index-pictos)
+## [📓 Bibliographie](/index-books)
+
+&nbsp;
+&nbsp;
+
 **Technique**
-## [👥 Teams](/use-teams)
-## [⚒️ Outils](/use-material)
-## [🖨️ Imprimantes](/use-printer)
-## [🖥️ InDesign](/use-indesign)
-## [🧰 Typothèque](http://typo.eracom.ch)
+## [🛗 Teams](/use-teams)
+## [🛃 Outils](/use-material)
+## [🛜 Imprimantes](/use-printer)
+## [🛂 InDesign](/use-indesign)
+## [🛄 Typothèque](http://typo.eracom.ch)
 
 &nbsp;
 &nbsp;
