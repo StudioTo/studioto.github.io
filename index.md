@@ -43,20 +43,6 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
-**Classifications typographiques**
-## [🦴 Anatomique](/classify-typefaces-shapes)
-## [🕰️ Historique](/classify-typefaces-history)
-
-&nbsp;
-&nbsp;
-
-**Histoire**
-## [✍🏻 Evolution de l'écriture](/track-writing-evolution)
-## [🏢 Evolution de l'architecture](/track-architecture-evolution)
-
-&nbsp;
-&nbsp;
-
 **1. Caractère**
 ## [🍖 Anatomie](/study-sign-shapes)
 ## [📏 Mesures](/study-sign-measures)
@@ -77,6 +63,20 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [↔️ Composition](/set-column-composition)
 ## [📶 Articulation](/set-column-articulation)
 ## [⏹️ Mise en page](/set-column-layout)
+
+&nbsp;
+&nbsp;
+
+**Classifications typographiques**
+## [🦴 Anatomique](/classify-typefaces-shapes)
+## [🕰️ Historique](/classify-typefaces-history)
+
+&nbsp;
+&nbsp;
+
+**Histoire**
+## [✍🏻 Evolution de l'écriture](/track-writing-evolution)
+## [🏢 Evolution de l'architecture](/track-architecture-evolution)
 
 &nbsp;
 &nbsp;
