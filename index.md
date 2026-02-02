@@ -79,19 +79,19 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp; -->
 
+**Signes**
+## [♨️ Icône-Symbole](/symbolize-development)
+## [📽️ Animation](/symbolize-animation)
+
+&nbsp;
+&nbsp;
+
 **Glyphes**
 ## [✏️ Construction](/type-construct)
 ## [📸 Numérisation](/type-digitize)
 ## [🖥️ Dessin vectoriel](/type-vectorize)
 ## [🎚️ Interpolation](/type-interpolate)
 ## [🪲 Debug](/type-debug)
-
-&nbsp;
-&nbsp;
-
-**Signe**
-## [♨️ Icône-Symbole](/symbolize-development)
-## [📽️ Animation](/symbolize-animation)
 
 &nbsp;
 &nbsp;
