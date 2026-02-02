@@ -28,18 +28,22 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 --->
 
 
+**Communication visuelle**
+## [👁️‍🗨️ Gestalt](/see-gestalt)
+## [🏷️ Sémiotique](/see-signs)
+
+&nbsp;
+&nbsp;
 
 **Typographie**
 ## [🔎 Unités](/see-units)
 ## [👀 Lire-Voir](/see-read)
-## [👁️‍🗨️ Gestalt](/see-gestalt)
-## [🎭 Sémiotique](/see-signs)
 ## [🌐 Vocabulaire](/index-definitions)
 
 &nbsp;
 &nbsp;
 
-**Classifications**
+**Classifications typographiques**
 ## [🦴 Anatomique](/classify-typefaces-shapes)
 ## [🕰️ Historique](/classify-typefaces-history)
 
