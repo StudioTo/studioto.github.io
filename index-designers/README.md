@@ -1,4 +1,4 @@
-# ☎️ Index des designers
+# 📕 Index des designers
 
 ### &nbsp;
 

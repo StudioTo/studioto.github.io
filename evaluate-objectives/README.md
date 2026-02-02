@@ -1,4 +1,4 @@
-# 🎯 Objectifs
+# *️⃣ Objectifs
 
 «La typographie est soumise à un but précis: le message imprimé. Elle ne peut d'aucune manière se libérer de cette sujétion. L'ouvrage imprimé qui ne peut être lu devient un non-sens.»
 

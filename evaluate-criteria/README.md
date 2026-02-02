@@ -1,4 +1,4 @@
-# 📊 Critères de notation
+# 📶 Critères de notation
 
 
 ### &nbsp;

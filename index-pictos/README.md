@@ -1,4 +1,4 @@
-# 🚸 Index des pictogrammes
+# 📙 Index des pictogrammes
 
 ### &nbsp;
 

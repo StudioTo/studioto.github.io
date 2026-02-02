@@ -1,4 +1,4 @@
-# 🖨️ Scanner
+# 🛜 Imprimantes
 
 
 ### &nbsp;

@@ -7,7 +7,7 @@
 
 ## &nbsp;  
 
-Avant toute chose, il s’agit de définir clairement le message (contenu) et le public. Quel est le message à transmettre? Quelle idée, émotion ou information centrale doit être comprise ou ressentie? À qui s’adresse-t-il? Identifier le destinataire permet d’ajuster le ton, le niveau de complexité, les références ainsi que le registre visuel et verbal. C’est aussi identifier les contraintes techniques telles que le format ou la technique
+*Design* signifie dessiner avec intention, c'est à dire transformer un message en une organisation visuelle claire, lisible et signifiante pour un public donné. Quel est le message à transmettre? Quelle idée, émotion ou information centrale doit être comprise ou ressentie? À qui s’adresse-t-il? Identifier le destinataire permet d’ajuster le ton, le niveau de complexité, les références ainsi que le registre visuel et verbal. C’est aussi identifier les contraintes techniques telles que le format ou la technique
   
 &nbsp;
 

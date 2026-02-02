@@ -1,4 +1,4 @@
-# ⚡️ Index des logos
+# 📗 Index des logos
 
 ### &nbsp;
 
