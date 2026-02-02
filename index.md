@@ -137,9 +137,9 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 
 **Cours**
-## [🎯 Objectifs](/evaluate-objectives)
-## [🪜 Méthode](/evaluate-method)
-## [🗓️ Programme](/evaluate-program)
-## [📊 Notation](/evaluate-criteria)
-## [🗂️ Rendus](/evaluate-deliverable)
-## [☝🏻 Règles](/evaluate-rules)
+## [*️⃣ Objectifs](/evaluate-objectives)
+## [🔁 Méthode](/evaluate-method)
+## [🔡 Programme](/evaluate-program)
+## [📶 Notation](/evaluate-criteria)
+## [⬇️ Rendus](/evaluate-deliverable)
+## [🧑‍🧑‍🧒‍🧒 Règles](/evaluate-rules)
