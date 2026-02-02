@@ -1,4 +1,4 @@
-# ☝🏻 Règles du cours
+# 🧑‍🧑‍🧒‍🧒 Règles du cours
 
 &nbsp;
 

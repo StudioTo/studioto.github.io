@@ -110,7 +110,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
-**Processus de design**
+**Design**
 ## [📐 Organisation](/process-constraints)
 ## [🎹 Ton](/process-typeface)
 ## [🎶 Variations](/process-variations)
