@@ -4,7 +4,13 @@ L'icône est un signe orienté vers l’usage (dénotation), le symbole est un s
   
 ### &nbsp;
 
-# Icône vs Sigle
+# Signe
+
+|![](links/1-Language_v2.gif)|
+|:---:|
+| Les signes constituent le vecteur par lequel un émetteur transmet un message à un récepteur |
+
+# Icône vs Symbole
 
 |![](links/Sigle_Symbole.jpg) |
 |:---:|

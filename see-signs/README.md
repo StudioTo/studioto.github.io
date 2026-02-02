@@ -17,10 +17,6 @@
 
 # Signes {#signes}
 
-|![](links/1-Language_v2.gif)|
-|:---:|
-| Les signes constituent le vecteur par lequel un émetteur transmet un message à un récepteur |
-
 |![](links/1-Language_v215.jpg)|
 |:---:|
 | Le langage est un système de signes permettent d’exprimer des idées, des émotions ou des informations |
