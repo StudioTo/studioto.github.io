@@ -11,7 +11,7 @@
 
 &nbsp;
 
-|![](links/2-Sémiotique-v2_1.gif)|
+|![](links/2-Semiotique-v2_1.gif)|
 |:---:|
 | Le signifiant est la forme visible ou sonore d’un signe (ce que l’on perçoit) alors que le signifié est l’idée ou le concept qu’elle fait naître dans l’esprit (ce que l’on comprend) |
 
