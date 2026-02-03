@@ -1,4 +1,4 @@
-# 🌀 Optique du caractère
+# 🔼 Optique du caractère
 
 - [Illusion](#illusion)
 - [Biais de proportions](#biais-de-proportions)
