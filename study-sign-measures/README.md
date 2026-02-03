@@ -1,4 +1,4 @@
-# 📏 Mesures du caractère
+# ↕️ Mesures du caractère
 
 - [Mesures verticales](#mesures-verticales)
 - [Mesures horizontales](#mesures-horizontales)

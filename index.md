@@ -45,9 +45,9 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 
 **1. Caractère**
 ## [🍖 Anatomie](/study-sign-shapes)
-## [📏 Mesures](/study-sign-measures)
-## [🌀 Optique](/study-sign-optics)
-## [🎛️ Variations](/study-sign-variations)
+## [↕️ Mesures](/study-sign-measures)
+## [🔼 Optique](/study-sign-optics)
+## [🔀 Variations](/study-sign-variations)
 **2. Mot**
 ## [🔈 Texture](/set-word-texture)
 ## [🔡 Graphie](/set-word-case)
