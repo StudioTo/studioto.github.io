@@ -80,8 +80,8 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp; -->
 
 **Signes**
-## [♨️ Icône-Symbole](/symbolize-development)
-## [📽️ Animation](/symbolize-animation)
+## [🚸 Icône-Symbole](/symbolize-development)
+## [📽️ Mouvement](/symbolize-animation)
 
 &nbsp;
 &nbsp;
