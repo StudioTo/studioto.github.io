@@ -49,7 +49,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [🔼 Optique](/study-sign-optics)
 ## [🔀 Variations](/study-sign-variations)
 **2. Mot**
-## [🔈 Texture](/set-word-texture)
+## [🪨 Texture](/set-word-texture)
 ## [🔡 Graphie](/set-word-case)
 ## [📶 Articulation](/set-word-articulation)
 ## [↔️ Composition](/set-word-composition)
