@@ -15,7 +15,7 @@ Elle repose sur une idée centrale souvent résumée par la formule ***le tout e
 
 # Proximité
 
-|![](links/4-Gestalt3.gif)|
+|![](links/4-Gestalt13.gif)|
 |:---:|
 | Les éléments proches les uns des autres sont perçus comme liés. |
 
@@ -35,7 +35,7 @@ Elle repose sur une idée centrale souvent résumée par la formule ***le tout e
 
 # Prégnance
 
-|![](links/4-Gestalt17.gif)|
+|![](links/4-Gestalt7.gif)|
 |:---:|
 | La perception privilégie la forme la plus simple, stable et organisée (décompose en formes simples). |
 
