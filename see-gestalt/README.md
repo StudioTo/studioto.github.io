@@ -1,7 +1,7 @@
 # 👁️‍🗨️ La psychologie de la forme (Gestalt)
 
 La Gestalt étudie les conditions de la perception visuelle: comment le cerveau reconnaît, organise et assemble les formes pour produire du sens.
-Elle repose sur une idée centrale souvent résumée par la formule *le tout est plus que la somme des parties*. Plutôt que de percevoir des éléments isolés, la perception construit spontanément des ensembles organisés. En design graphique, ces principes permettent de structurer l’information, guider le regard et améliorer la lisibilité.
+Elle repose sur une idée centrale souvent résumée par la formule ***le tout est plus que la somme des parties***. Plutôt que de percevoir des éléments isolés, la perception construit spontanément des ensembles organisés. En design graphique, ces principes permettent de structurer l’information, guider le regard et améliorer la lisibilité.
 
 # Similarité
 
@@ -9,23 +9,39 @@ Elle repose sur une idée centrale souvent résumée par la formule *le tout est
 |:---:|
 | Les éléments similaires sont perçus comme appartenant au même groupe. |
 
+|![](links/4-Gestalt2.gif)|
+|:---:|
+| NBC |
+
 # Proximité
 
-|![](links/4-Gestalt7.gif)|
+|![](links/4-Gestalt3.gif)|
 |:---:|
 | Les éléments proches les uns des autres sont perçus comme liés. |
 
-# Continuité
-
-|![](links/4-Gestalt13.gif)|
+|![](links/4-Gestalt2.gif)|
 |:---:|
-| L’œil perçoit en priorité les trajectoires continues. |
+| Adidas |
 
-# Prégnance
+# Continuité
 
 |![](links/4-Gestalt19.gif)|
 |:---:|
+| L’œil perçoit en priorité les trajectoires continues. |
+
+|![](links/4-Gestalt2.gif)|
+|:---:|
+| Amazon |
+
+# Prégnance
+
+|![](links/4-Gestalt17.gif)|
+|:---:|
 | La perception privilégie la forme la plus simple, stable et organisée (décompose en formes simples). |
+
+|![](links/4-Gestalt2.gif)|
+|:---:|
+| Nike |
 
 # Clôture
 
@@ -33,11 +49,19 @@ Elle repose sur une idée centrale souvent résumée par la formule *le tout est
 |:---:|
 | Les formes incomplètes sont complétées par le cerveau. |
 
+|![](links/4-Gestalt2.gif)|
+|:---:|
+| USA Network |
+
 # Figure-Fond
 
 |![](links/4-Gestalt35.gif)|
 |:---:|
 | La perception distingue spontanément une forme principale de son arrière-plan. |
+
+|![](links/4-Gestalt2.gif)|
+|:---:|
+| FedEx |
 
 
 
