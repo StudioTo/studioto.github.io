@@ -1,4 +1,4 @@
-# 🏷️ Sémiotique
+# 🏷️ Sémiotique: l'interprétation
 
 - [Signes](#signes)
 - [Langage](#langage)
