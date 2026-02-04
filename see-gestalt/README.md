@@ -9,7 +9,7 @@ Elle repose sur une idée centrale souvent résumée par la formule ***le tout e
 |:---:|
 | Les éléments similaires sont perçus comme appartenant au même groupe. |
 
-|![](links/4-Gestalt2.gif)|
+|![](links/4-Gestalt-logo1.jpg)|
 |:---:|
 | NBC |
 
@@ -19,7 +19,7 @@ Elle repose sur une idée centrale souvent résumée par la formule ***le tout e
 |:---:|
 | Les éléments proches les uns des autres sont perçus comme liés. |
 
-|![](links/4-Gestalt2.gif)|
+|![](links/4-Gestalt-logo2.jpg)|
 |:---:|
 | Adidas |
 
@@ -29,7 +29,7 @@ Elle repose sur une idée centrale souvent résumée par la formule ***le tout e
 |:---:|
 | L’œil perçoit en priorité les trajectoires continues. |
 
-|![](links/4-Gestalt2.gif)|
+|![](links/4-Gestalt-logo3.jpg)|
 |:---:|
 | Amazon |
 
@@ -39,7 +39,7 @@ Elle repose sur une idée centrale souvent résumée par la formule ***le tout e
 |:---:|
 | La perception privilégie la forme la plus simple, stable et organisée (décompose en formes simples). |
 
-|![](links/4-Gestalt2.gif)|
+|![](links/4-Gestalt-logo4.jpg)|
 |:---:|
 | Nike |
 
@@ -49,7 +49,7 @@ Elle repose sur une idée centrale souvent résumée par la formule ***le tout e
 |:---:|
 | Les formes incomplètes sont complétées par le cerveau. |
 
-|![](links/4-Gestalt2.gif)|
+|![](links/4-Gestalt-logo5.jpg)|
 |:---:|
 | USA Network |
 
@@ -59,7 +59,7 @@ Elle repose sur une idée centrale souvent résumée par la formule ***le tout e
 |:---:|
 | La perception distingue spontanément une forme principale de son arrière-plan. |
 
-|![](links/4-Gestalt2.gif)|
+|![](links/4-Gestalt-logo6.jpg)|
 |:---:|
 | FedEx |
 
