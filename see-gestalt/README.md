@@ -27,7 +27,7 @@ Elle repose sur une idée centrale souvent résumée par la formule ***le tout e
 
 |![](links/4-Gestalt19.gif)|
 |:---:|
-| L’œil perçoit en priorité les trajectoires continues. |
+| L’œil est guidé en priorité par les trajectoires continues. |
 
 |![](links/4-Gestalt-logo3.jpg)|
 |:---:|
@@ -37,7 +37,7 @@ Elle repose sur une idée centrale souvent résumée par la formule ***le tout e
 
 |![](links/4-Gestalt7.gif)|
 |:---:|
-| La perception privilégie la forme la plus simple, stable et organisée (décompose en formes simples). |
+| La perception privilégie la forme la plus simple, stable et organisée. |
 
 |![](links/4-Gestalt-logo4.jpg)|
 |:---:|
@@ -47,7 +47,7 @@ Elle repose sur une idée centrale souvent résumée par la formule ***le tout e
 
 |![](links/4-Gestalt30.gif)|
 |:---:|
-| Les formes incomplètes sont complétées par le cerveau. |
+| Les formes absentes sont complétées par le cerveau. |
 
 |![](links/4-Gestalt-logo5.jpg)|
 |:---:|
