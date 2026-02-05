@@ -49,7 +49,7 @@ Assumer ses actions et leurs conséquences.
 En cas de doute, demander de l'aide plutôt que de rester bloqué. Poser les question directement à l’enseignant plutôt qu’aux collègues.
 
 # Proactivité
-Les imprévus arrivent à tout le monde, là ou on démontre ses compétences, c'est dans la manière dont on les gère.
+Il revient à l’élève de se manifester auprès de l’enseignant pour demander un rattrapage ou solliciter un prolongement de délai. L’enseignant n’est pas tenu de rappeler ces règles ni de signaler un oubli.
 
 # Absence
 En cas d’absence, avertir le plus tôt possible par e-mail avec une justification.
