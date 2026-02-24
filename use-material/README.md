@@ -16,7 +16,7 @@
 	- Ciseaux
 - Règle
 - Feutre noir
-	- fin pour les tracés
+	- fin pour les contours
 	- épais pour le remplissage
 - Feutre blanc couvrant
 - Plume calligraphique*
