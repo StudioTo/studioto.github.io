@@ -9,9 +9,9 @@
 |:---:|
 | Matériel pour le cours de typographie |
 
-- Scotch
+- Scotch carrossier
 - Matériel de découpe
-	- Mat
+	- Mat ou carton
 	- Cutter
 	- Ciseaux
 - Règle
