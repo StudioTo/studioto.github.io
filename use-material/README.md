@@ -5,7 +5,7 @@
 
 # Matériel
 
-|![](links/Tech2.gif) |
+|![](links/Tech_materiel.jpg) |
 |:---:|
 | Matériel pour le cours de typographie |
 
@@ -18,11 +18,13 @@
 - Feutre noir
 	- fin pour les tracés
 	- épais pour le remplissage
-- Typ-ex
-- Plume calligraphique
+- Feutre blanc couvrant
+- Plume calligraphique*
 - Compte pour accès aux imprimantes (impression / scan)
 - Ordinateur
 	- Typothèque
 	- InDesign
-	- Glyphs
+	- Glyphs*
 	- Teams
+
+* pour les étudiant.e.s en graphisme
