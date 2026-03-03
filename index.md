@@ -30,7 +30,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 
 **Communication visuelle**
 ## [👁️‍🗨️ Gestalt](/see-gestalt)
-## [🏷️ Sémiotique](/see-signs)
+## [🗂️ Sémiotique](/see-signs)
 
 &nbsp;
 &nbsp;
