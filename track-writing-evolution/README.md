@@ -345,7 +345,7 @@ Les slabs-sérifs (mécanes) deviennent populaires suite à la campagne d'égypt
 
 |![](links/overview-writing-history-v3_003.png)|
 |:------------------------------------------:|
-| Presse rotatives                                        |
+| Presse rotative                                        |
 
 |![](links/overview-writing-history_102.jpg)|
 |:------------------------------------------:|
