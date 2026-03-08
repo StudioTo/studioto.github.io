@@ -1,6 +1,7 @@
 # ✍🏻 Evolution de l'écriture
 
-- 🗂️ Classification Historique
+🗂️ **Classification Historique**
+
 - [Incises](#%EF%B8%8F-incises)
 - [Onciales](#%EF%B8%8F-onciales)
 - [Cursives](#%EF%B8%8F-cursives)
@@ -19,7 +20,8 @@
 - [Non-Alphabétiques](#%EF%B8%8F-non-alphabétiques)
 - [Hybrides](#%EF%B8%8F-hybrides)
 
-- 🛠️ Avancées technologiques
+🛠️ **Avancées technologiques**
+
 - [Invention de l’alphabet](#-1100-alpabet-occidental-moderne)
 - [Invention des chiffres latins](#1202-chiffres-latins)
 - [Invention de l’italique](#1500-litalique)
