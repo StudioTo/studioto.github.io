@@ -1,4 +1,4 @@
-# 🛂 InDesign
+# Ⓜ️ InDesign
 
 - [Incises](#incises)
 - [Scripts](#scripts)
