@@ -28,7 +28,13 @@
   
 ## &nbsp;
 
-# 1. Gabarit
+# 1. Document
+
+|![](links/1-Historique0.jpg) |
+|:---:|
+| Classification historique | 
+
+# 2. Gabarit
 
 |![](links/1-Historique0.jpg) |
 |:---:|
@@ -42,31 +48,37 @@
 |:---:|:---:|
 | Nouveau document | <kbd class="keyboard-key nowrap">⌘ Command</kbd> + <kbd class="keyboard-key nowrap">Option</kbd> + <kbd class="keyboard-key nowrap">⇧ Shift</kbd> |
 
-# 2. Import
+# 3. Import
 
 |![](links/1-Historique0.jpg) |
 |:---:|
 | Classification historique | 
 
-# 3. Texte
+# 4. Texte
 
 |![](links/1-Historique0.jpg) |
 |:---:|
 | Classification historique | 
 
-# 4. Image
+# 5. Image
 
 |![](links/1-Historique0.jpg) |
 |:---:|
 | Classification historique | 
 
-# 5. Nuance
+# 6. Nuance
 
 |![](links/1-Historique0.jpg) |
 |:---:|
 | Classification historique | 
 
-# 6. Export
+# 7. Vérification
+
+|![](links/1-Historique0.jpg) |
+|:---:|
+| Classification historique | 
+
+# 8. Export
 
 |![](links/1-Historique0.jpg) |
 |:---:|
