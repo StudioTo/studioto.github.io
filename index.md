@@ -134,8 +134,10 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [🛗 Teams](/use-teams)
 ## [🛃 Outils](/use-material)
 ## [🛜 Imprimantes](/use-printer)
-## [🛂 InDesign](/use-indesign)
 ## [🛄 Typothèque](http://typo.eracom.ch)
+## [Ⓜ️ InDesign](/use-indesign)
+## [Ⓜ️ Figma](/use-figma)
+## [Ⓜ️ AfterEffects](/use-aftereffects)
 
 &nbsp;
 &nbsp;
