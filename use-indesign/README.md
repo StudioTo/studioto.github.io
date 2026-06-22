@@ -1,23 +1,30 @@
 # Ⓜ️ InDesign
 
-- [Incises](#incises)
-- [Scripts](#scripts)
+- [1. Gabarit](#scripts)
     - [Script Onciale](#script-onciale)
     - [Script Interrompu *Fractures*](#script-fracture)
     - [Script Cursif *Chancellerie*](#script-chancellerie)
     - [Script Cursif *Main Ronde*](#script-main-ronde)
-- [Sérifs](#serifs)
-    - [Sérif Humaniste *Garaldes*](#serif-humaniste)
-    - [Sérif Transitionnelle *Réales*](#serif-transitionnelle)
-    - [Sérif Rationnelle *Didones*](#serif-rationnelle)
-- [Slab-Sérifs](#slab-serifs)
-    - [Slab Rationnelle *Mécanes*](#slab-rationnelle)
-- [Sans-Sérifs](#sans-serifs)
-    - [Sans Rationnelle *Grotesques*](#sans-rationnelle)
-    - [Sans Humaniste *Humanes*](#sans-humaniste)
-    - [Sans Construite *Géométriques*](#sans-construite)
-- [Expressives](#expressives)
-- [Hybrides](#hybrides)
+- [2. Import](#scripts)
+    - [Script Onciale](#script-onciale)
+    - [Script Interrompu *Fractures*](#script-fracture)
+    - [Script Cursif *Chancellerie*](#script-chancellerie)
+    - [Script Cursif *Main Ronde*](#script-main-ronde)
+- [3. Texte](#scripts)
+    - [Script Onciale](#script-onciale)
+    - [Script Interrompu *Fractures*](#script-fracture)
+    - [Script Cursif *Chancellerie*](#script-chancellerie)
+    - [Script Cursif *Main Ronde*](#script-main-ronde)
+- [4. Image](#scripts)
+    - [Script Onciale](#script-onciale)
+    - [Script Interrompu *Fractures*](#script-fracture)
+    - [Script Cursif *Chancellerie*](#script-chancellerie)
+    - [Script Cursif *Main Ronde*](#script-main-ronde)
+- [6. Export](#scripts)
+    - [Script Onciale](#script-onciale)
+    - [Script Interrompu *Fractures*](#script-fracture)
+    - [Script Cursif *Chancellerie*](#script-chancellerie)
+    - [Script Cursif *Main Ronde*](#script-main-ronde)
   
 ## &nbsp;
 
@@ -33,7 +40,7 @@
 
 | Commande | Raccourcis |
 |:---:|:---:|
-| Nouveau document | cmd + alt + <kbd class="keyboard-key nowrap">⇧ Shift</kbd> |
+| Nouveau document | <kbd class="keyboard-key nowrap">⌘ Command</kbd> + <kbd class="keyboard-key nowrap">Option</kbd> + <kbd class="keyboard-key nowrap">⇧ Shift</kbd> |
 
 # 2. Import
 
@@ -64,8 +71,6 @@
 |![](links/1-Historique0.jpg) |
 |:---:|
 | Classification historique | 
-
-# Export Checklist
 
 ```
 ✓ Le format du document est correct
