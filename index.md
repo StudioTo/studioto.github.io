@@ -115,7 +115,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 
 **Histoire de la typographie**
 ## [✍🏻 Evolution de l'écriture](/track-writing-evolution)
-## [🏢 Evolution de l'architecture](/track-architecture-evolution)
+<!-- ## [🏢 Evolution de l'architecture](/track-architecture-evolution) -->
 
 &nbsp;
 &nbsp;
