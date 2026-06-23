@@ -32,9 +32,44 @@
 
 |![](links/1-Historique0.jpg) |
 |:---:|
+| Espace de travail typo | 
+
+- Espace de travail typo + liens + etc.
+
+|![](links/1-Historique0.jpg) |
+|:---:|
 | Classification historique | 
 
+- Format
+- CMJN + mm vs RVB + px
+- Pages en vis à vis ou simple
+- Bloc texte courant
+- Débord
+- Langue
+- Calques
+
+# 3. Import
+
+|![](links/1-Historique0.jpg) |
+|:---:|
+| Classification historique | 
+
+- copier-coller texte, coller dans le style
+- copier-coller vecteurs depuis AI
+- fichier > importer avec option
+- glisser
+
 # 2. Gabarit
+
+- Fenêtre page
+- gabarit vs page
+- créer des pages, des gabarits
+- insérer des marques: folio, section
+- appliquer / dévérouiller gabarit
+- options de gabarit: titre section, numérotation
+- marges
+- repères
+- grille de ligne de base
 
 |![](links/1-Historique0.jpg) |
 |:---:|
@@ -48,13 +83,14 @@
 |:---:|:---:|
 | Nouveau document | <kbd class="keyboard-key nowrap">⌘ Command</kbd> + <kbd class="keyboard-key nowrap">Option</kbd> + <kbd class="keyboard-key nowrap">⇧ Shift</kbd> |
 
-# 3. Import
-
-|![](links/1-Historique0.jpg) |
-|:---:|
-| Classification historique | 
-
 # 4. Texte
+
+- outil texte
+- option de bloc texte
+- chaînage des blocs
+- style de paragraphe
+- style de caractères
+- rechercher-remplacer (micro)
 
 |![](links/1-Historique0.jpg) |
 |:---:|
