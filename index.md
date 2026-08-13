@@ -43,7 +43,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 &nbsp;
 
-**1. Caractère**
+**1. Lettre**
 ## [🍖 Anatomie](/study-sign-shapes)
 ## [↕️ Mesures](/study-sign-measures)
 ## [🔼 Optique](/study-sign-optics)
@@ -54,15 +54,16 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [📶 Articulation](/set-word-articulation)
 ## [↔️ Composition](/set-word-composition)
 **3. Ligne**
-## [🦠 Micro-typo](/set-micro-typo)
+## [👍 Orthographe](/set-micro-typo)
 ## [↔️ Composition](/set-line-composition)
 ## [📶 Articulation](/set-line-articulation)
 ## [⏹️ Mise en forme](set-line-layout)
 **4. Colonne**
-## [🌍 Macro-typo](/set-macro-typo)
+## [🔎 Lisibilité](/set-macro-typo)
 ## [↔️ Composition](/set-column-composition)
 ## [📶 Articulation](/set-column-articulation)
 ## [⏹️ Mise en page](/set-column-layout)
+**5. Grille**
 
 &nbsp;
 &nbsp;
