@@ -65,6 +65,9 @@ Harry Bloch, Pierrick Brégeon & Philippe Karrer
 # Noordzij, Gerrit  
 *The Stroke: Theory of Writing*. London: Hyphen Press, 2005  
 
+# Paim, Nina  
+*Taking a Line for a Walk: Assignments in design education*. Leipzig: Spector Books, 2016  
+
 # Ruder, Emil  
 *Typographie: Ein Gestaltungslehrbuch*. Teufen: Niggli, 1967  
 
