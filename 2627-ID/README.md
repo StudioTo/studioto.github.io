@@ -9,8 +9,8 @@
     1. [Sujet](../see-read)
     2. [Objectifs](../evaluate-objectives)  
     3. [Programme](../see-units)
-    4. [Règles](../evaluate-rules)
-    5. [Évaluations](../evaluate-criteria)
+    4. [Évaluations](../evaluate-criteria)
+    5. [Règles](../evaluate-rules)
 2. Installation
     1.  [Guide eracom](https://eracom.ch/eleves/)
     2. [Compte eduvaud](https://aka.ms/mysecurityinfo)
