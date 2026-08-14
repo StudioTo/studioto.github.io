@@ -18,7 +18,7 @@ Laisser chacun s’exprimer sans interruption.
 # Silence
 Maintenir le silence pendant les sessions d'écoute et de travail. Musique autorisée avec des écouteurs.
 
-# Téléphone
+# Téléphone ⚠️
 Ranger son téléphone hors de vue pendant la durée du cours.
 
 # Participation
@@ -30,7 +30,7 @@ Arriver à l’heure et être prêt à travailler.
 # Organisation
 Respecter les échéances fixées pour chaque travail.
 
-# Sauvegarde
+# Sauvegarde ⚠️
 En cas de problème technique ou de perte de fichiers, il est attendu que vous puissiez fournir tout de même des sauvegardes récentes (disque dur externe, cloud, etc.).
 
 # Devoir
@@ -39,7 +39,7 @@ Tout travail non finalisé dans le délai imparti doit être achevé hors classe
 # Soin
 Rendre des travaux proprement exécutés et correspondant aux normes de rendus.
 
-# Concentration
+# Concentration ⚠️
 Rester concentré sur la tâche du cours uniquement (par ex.: pas d'autre application, fichier ou page web ouvertes sans rapport avec le court).
 
 # Responsabilité
@@ -51,7 +51,7 @@ En cas de doute, demander de l'aide plutôt que de rester bloqué. Poser les que
 # Proactivité
 Il revient à l’élève de se manifester auprès de l’enseignant pour demander un rattrapage ou solliciter un prolongement de délai. L’enseignant n’est pas tenu de rappeler ces règles ni de signaler un oubli.
 
-# Absence
+# Absence ⚠️
 En cas d’absence, avertir le plus tôt possible par e-mail avec une justification.
 
 # Absence Prévue
@@ -60,7 +60,7 @@ En cas d’absence prévue à un examen / un rendu, prévenir l'enseignant par �
 # Absence Imprévue
 En cas d’absence imprévue à un examen / un rendu, prévenir l'enseignant avec une justification dès que vous êtes en capacité de le faire pour définir les modalités spécifiques de rendu (le jour même ou dès la fin du certificat médical, au plus tard dès le début du cours suivant).
 
-# Evaluation
+# Evaluation ⚠️
 Dans le cas ou une personne n'est pas appelée pour présenter son travail lors d'une évaludation, il est de sa responsabilité de se manifester au moment même du cours (ou au plus tard au début du cours suivant). Dans le cas contraire, l'évaluation est considérée comme non rendue.
 
 # Retard
