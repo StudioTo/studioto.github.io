@@ -17,13 +17,17 @@
     4. [Figma](https://www.figma.com/login)
     5. [Typothèque eracom](https://typo.eracom.ch)
 
-# 24-25 août
+# 24.8.2026
 
-# 31 août - 1er septembre
+# 31.8.2026
 
-# 7-8 septembre
+# 07.9.2026
 
-# 14-15 septembre
+# 14.9.2026
+
+# 21.9.2026 🏖️ (congé)
+
+# 28.9.2026 📝 (rendu noté 1)
 
 # 17-18 août
 
