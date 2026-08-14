@@ -19,7 +19,7 @@ Laisser chacun s’exprimer sans interruption.
 Maintenir le silence pendant les sessions d'écoute et de travail. Musique autorisée avec des écouteurs.
 
 # Téléphone
-Autorisé uniquement si demandés par le cours, sinon ils doivent être hors de vue.
+Ranger son téléphone hors de vue pendant la durée du cours.
 
 # Participation
 S'impliquer et on contribuer au cours.
@@ -40,7 +40,7 @@ Tout travail non finalisé dans le délai imparti doit être achevé hors classe
 Rendre des travaux proprement exécutés et correspondant aux normes de rendus.
 
 # Concentration
-Rester concentré sur la tâche en cours.
+Rester concentré sur la tâche du cours uniquement (par ex.: pas d'autre application, fichier ou page web ouvertes sans rapport avec le court).
 
 # Responsabilité
 Assumer ses actions et leurs conséquences.
