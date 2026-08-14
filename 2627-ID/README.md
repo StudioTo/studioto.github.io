@@ -7,8 +7,8 @@
 | Tenir la ligne[^1] | 
 
 # 17-18 août
-[1. Sujet](../see-units)
-2. Programme
+[1. Sujet](../see-read)
+[2. Programme](../see-units)
 3. Règles
 4. Évaluations
 - compte eduvaud
