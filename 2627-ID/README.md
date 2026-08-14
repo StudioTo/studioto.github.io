@@ -6,10 +6,11 @@
 
 # 🗓️ 17.8.2026
 1. Informations
-    1. [Sujet du cours](../see-read)  
-    2. [Programme](../see-units)
-    3. [Règles](../evaluate-rules)
-    4. [Évaluations](../evaluate-criteria)
+    1. [Sujet](../see-read)
+    2. [Objectifs](../evaluate-objectives)  
+    3. [Programme](../see-units)
+    4. [Règles](../evaluate-rules)
+    5. [Évaluations](../evaluate-criteria)
 2. Installation
     1.  [Guide eracom](https://eracom.ch/eleves/)
     2. [Compte eduvaud](https://aka.ms/mysecurityinfo)
