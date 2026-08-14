@@ -4,7 +4,7 @@
 &nbsp;
 &nbsp;
 
-# 🗓️ 17.8.2026
+# 17.8.2026
 1. Informations
     1. [Sujet](../see-read)
     2. [Objectifs](../evaluate-objectives)  
@@ -18,17 +18,17 @@
     4. [Figma](https://www.figma.com/login)
     5. [Typothèque eracom](https://typo.eracom.ch)
 
-# 🗓️ 24.8.2026
+# 24.8.2026
 
-# 🗓️ 31.8.2026
+# 31.8.2026
 
-# 🗓️ 07.9.2026
+# 07.9.2026
 
-# 🗓️ 14.9.2026
+# 14.9.2026
 
-# 🗓️ 21.9.2026 🏖️ (congé)
+# 21.9.2026 🏖️ (congé)
 
-# 🗓️ 28.9.2026 📝 (rendu noté 1)
+# 28.9.2026 ⚠️ (rendu noté 1)
 
 # 17-18 août
 
