@@ -1,10 +1,10 @@
-# Typographie ID 2026-2027
+# Typographie ID462
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-# 17 août
+# 17.8.2026
 1. Informations
     1. [Sujet du cours](../see-read)  
     2. [Programme](../see-units)
