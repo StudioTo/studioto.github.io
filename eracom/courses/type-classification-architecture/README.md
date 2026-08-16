@@ -46,8 +46,8 @@
 
 # Objectifs
 
-✅ Connâitre abc
+✅ Connaître abc
 
 # Évaluation
 
-📶 [Histoire de l’écriture](../../evaluate-criteria/)
+📶 [Auto-évaluation](../../../evaluate-criteria/)
