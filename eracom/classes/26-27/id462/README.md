@@ -1,10 +1,11 @@
-# id462 Typographie I
+# Typographie I
+id462 2026–2027
 
 &nbsp;
 &nbsp;
 &nbsp;
 
-## 17.8.2026
+# 17.8.2026
 
 [Introduction](../../../lessons/intro/)
 
