@@ -1,4 +1,4 @@
-# Typographie: introduction
+# Introduction
 
 &nbsp;
 &nbsp;
