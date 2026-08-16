@@ -12,6 +12,7 @@
         format de page: A4 (210 × 297 mm)
         marges: 10 mm
         fonds-perdus: 3 mm
+
     2.  Page de gauche
         télécharger les photographies des différentes époques architecturales
         placer les images dans le dossier « Liens »
@@ -19,6 +20,7 @@
         si l’image est horizontale, la tourner de 90° dans le sens contraire des aiguilles d’une montre
         format pleine page
         remplir des fonds perdus
+
     3.  Page de droite
         localiser dans la typothèque le dossier de la classification concernée par l’image
         choisir et activer une police de cette classification
@@ -44,4 +46,8 @@
 
 # Objectifs
 
-# Évaluatopm
+✅ Connâitre abc
+
+# Évaluation
+
+[Histoire de l’écriture](../../evaluate-criteria/)
