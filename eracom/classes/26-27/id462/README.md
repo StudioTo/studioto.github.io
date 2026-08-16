@@ -32,7 +32,7 @@
 
 # 05.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
-2\. Mot: animer un logo
+2\. Mot: animer un logotype
 
 # 12.10.2026 🏖️
 
