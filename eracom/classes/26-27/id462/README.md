@@ -10,19 +10,21 @@
 
 # 24.8.2026
 
-[1.1. Lettre: classification](../../../courses/type-classification-architecture/)
+1.1. Lettre: ex. classification
+
+<!-- [1.1. Lettre: classification](../../../courses/type-classification-architecture/) -->
 
 # 31.8.2026
 
-1.2. Lettre: anatomie
+1.2. Lettre: ex. anatomie
 
 # 07.9.2026
 
-1.3. Lettre: optique
+1.3. Lettre: ex. optique
 
 # 14.9.2026
 
-1.4. Lettre: variations
+1.4. Lettre: ex. variations
 
 # 21.9.2026 🏖️
 
@@ -30,7 +32,7 @@
 
 # 05.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
-2\. Mot: connotation typographique
+2\. Mot: choisir une police pour un logo
 
 # 12.10.2026 🏖️
 
@@ -42,7 +44,7 @@
 
 # 09.11.2026 ⚠️ (rendu noté ex. 2)
 
-3\. Phrase: règles de composition
+3\. Phrase: appliquer correctement les règles de composition typographiques
 
 # 16.11.2026
 
@@ -50,7 +52,7 @@
 
 # 30.11.2026 ⚠️ (rendu noté ex. 3)
 
-4\. Colonne: optimisation de la lisibilité
+4\. Colonne: optimiser la lisibilité d’un texte dans différents formats
 
 # 07.12.2026
 
