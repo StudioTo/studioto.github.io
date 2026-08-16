@@ -6,8 +6,8 @@
 
 # 17.08.2026
 
-[Organisation](../../../courses/intro/)
-Documentaire: **Graphic Means**
+[Organisation](../../../courses/intro/)  
+Documentaire: *Graphic Means*
 
 <!-- Définition du programme
 Sem. 1 Remake (page de journal) + Grille de mise en page (booklet) + Visualisation de donnée (poster)
