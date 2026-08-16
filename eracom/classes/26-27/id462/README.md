@@ -1,5 +1,4 @@
-# Typographie I id462
-# 2026–2027
+# Typographie I (id462)
 
 &nbsp;
 &nbsp;
