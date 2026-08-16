@@ -1,4 +1,4 @@
-# ID462 Typographie Sem. 1 2026-2027
+# GR460-462 Typographie Sem. 1 2026-2027
 
 &nbsp;
 &nbsp;
@@ -52,7 +52,7 @@
 
 # 30.11.2026 ⚠️ (rendu noté ex. 3)
 
-4\. Colonne: optimiser la lisibilité d’un texte dans différents formats
+4\. Colonne: optimiser la lisibilité de textes dans différents formats
 
 # 07.12.2026
 
