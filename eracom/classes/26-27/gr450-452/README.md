@@ -6,7 +6,7 @@
 
 # 17.08.2026
 
-[Organisation](../../../courses/intro/)  
+[Gestion de classe](../../../courses/intro/)  
 Documentaire: *Graphic Means*
 
 <!-- Définition du programme
@@ -19,7 +19,11 @@ Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more
 
 # 24.08.2026
 
+<!-- Fin du documentaire + distrib journeaux -->
+
 # 31.08.2026
+<!-- 
+Remake 1 page (images from Moma) -->
 
 # 07.09.2026
 
@@ -37,6 +41,9 @@ Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more
 
 # 26.10.2026 
 
+<!-- Rendu page
+Remake publicité -->
+
 # 02.11.2026 
 
 # 09.11.2026
@@ -46,6 +53,9 @@ Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more
 # 23.11.2026
 
 # 30.11.2026
+
+<!-- Rendu publicité
+Remake logo -->
 
 # 07.12.2026
 
@@ -60,3 +70,5 @@ Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more
 # 11.01.2027
 
 # 18.01.2027
+
+<!-- Rendu logo -->
