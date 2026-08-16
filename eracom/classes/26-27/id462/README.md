@@ -26,7 +26,7 @@
 
 # 21.9.2026 🏖️ (congé)
 
-# 28.9.2026 ⚠️ (rendu noté ex. 1.1-1.4)
+# 28.9.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
 2. Mot: connotation typographique
 
