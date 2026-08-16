@@ -14,19 +14,21 @@
 
 # 31.8.2026
 
-1.2 Lettre: anatomie
+1.2. Lettre: anatomie
 
 # 07.9.2026
 
-1.3 Lettre: variations
+1.3. Lettre: optique
 
 # 14.9.2026
 
-1.4 Lettre: optique
+1.4. Lettre: variations
 
 # 21.9.2026 🏖️ (congé)
 
 # 28.9.2026 ⚠️ (rendu noté 1)
+
+\2. Mot: connotation typographique
 
 # 05.10.2026
 
@@ -40,6 +42,8 @@
 
 # 09.11.2026 ⚠️ (rendu noté 2)
 
+\3. Phrase: règles de composition
+
 # 16.11.2026
 
 # 23.11.2026
@@ -47,6 +51,8 @@
 # 30.11.2026
 
 # 07.12.2026 ⚠️ (rendu noté 3)
+
+\4. Colonne: optimisation de la lisibilité
 
 # 14.12.2026
 
