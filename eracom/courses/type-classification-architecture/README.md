@@ -14,7 +14,7 @@
         fonds-perdus: 3 mm
 
     2.  Page de gauche
-        télécharger les photographies des différentes époques architecturales
+        télécharger les images des monuments
         placer les images dans le dossier « Liens »
         dans un bloc image, importer 1 image pour chaque double page
         si l’image est horizontale, la tourner de 90° dans le sens contraire des aiguilles d’une montre
@@ -41,12 +41,12 @@
 
 # Ressources
 
-📎 [Images](links/Images.zip)  
+📎 [Monuments architecturaux](links/Images.zip)  
 📎 [Histoire de l’écriture](../../../track-writing-evolution/)
 
 # Objectifs
 
-✅ Connaître abc
+✅ Connaître les systèmes de classification des caractères
 
 # Évaluation
 
