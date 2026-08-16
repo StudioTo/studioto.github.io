@@ -1,5 +1,5 @@
 # Typographie
-### 1.1 Lettre: classification
+1.1 Lettre: classification
 
 &nbsp;
 &nbsp;
