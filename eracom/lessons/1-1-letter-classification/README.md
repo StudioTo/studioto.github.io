@@ -50,23 +50,23 @@
 |:---:|
 | Arc de Constantin, 315, Rome |
 
-|![](links/2.1_Scriptes_Fractures_Notre-Dame_1163_Paris.jpg) |
+|![](links/2-1_Scriptes_Fractures_Notre-Dame_1163_Paris.jpg) |
 |:---:|
 | Notre-Dame, 1163, Paris |
 
-|![](links/2.2_Scriptes_Cursives_Palais_des_Papes_1352_Avignon.jpg) |
+|![](links/2-2_Scriptes_Cursives_Palais_des_Papes_1352_Avignon.jpg) |
 |:---:|
 | Palais des Papes, 1352, Avignon |
 
-|![](links/3.1_Sans-Sérifs_Humanes_Palais_Dario_1479_Venise.jpg) |
+|![](links/3-1_Sans-Sérifs_Humanes_Palais_Dario_1479_Venise.jpg) |
 |:---:|
 | Palais Dario, 1479, Venise |
 
-|![](links/3.2_Sans-Sérifs_Réales_Palais_de_Versaille_1661.jpg) |
+|![](links/3-2_Sans-Sérifs_Réales_Palais_de_Versaille_1661.jpg) |
 |:---:|
 | Palais de Versaille, 1661 |
 
-|![](links/3.3_Sans-Sérifs_Didones_Rue_Rivolli_1855_Paris.jpg) |
+|![](links/3-3_Sans-Sérifs_Didones_Rue_Rivolli_1855_Paris.jpg) |
 |:---:|
 | Rue Rivolli, 1855, Paris |
 
@@ -74,15 +74,15 @@
 |:---:|
 | Palais de Cristal, 1851, Londres |
 
-|![](links/5.1_Sans-Sérifs_Humanistes_Métro_Underground_1916_Londres.jpg) |
+|![](links/5-1_Sans-Sérifs_Humanistes_Métro_Underground_1916_Londres.jpg) |
 |:---:|
 | Métro Underground, 1916, Londres |
 
-|![](links/5.2_Sans-Sérifs_Géométriques_Café_de_Unie_1925_Rotterdam.jpg) |
+|![](links/5-2_Sans-Sérifs_Géométriques_Café_de_Unie_1925_Rotterdam.jpg) |
 |:---:|
 | Café de Unie, 1925, Rotterdam |
 
-|![](links/5.3_Sans-Sérifs_Grotesques_Cité_Radieuse_1952_Marseille.jpg) |
+|![](links/5-3_Sans-Sérifs_Grotesques_Cité_Radieuse_1952_Marseille.jpg) |
 |:---:|
 | Cité Radieuse, 1952, Marseille |
 
