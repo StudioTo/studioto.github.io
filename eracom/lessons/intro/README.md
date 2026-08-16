@@ -5,11 +5,11 @@
 &nbsp;
 
 # Informations
-- [Sujet](../../see-read)
-- [Objectifs](../../evaluate-objectives)  
-- [Programme](../../see-units)
-- [Évaluations](../../evaluate-criteria)
-- [Règles](../../evaluate-rules)
+- [Sujet](../../../../see-read)
+- [Objectifs](../../../../evaluate-objectives)  
+- [Programme](../../../../see-units)
+- [Évaluations](../../../../evaluate-criteria)
+- [Règles](../../../../evaluate-rules)
 
 # Installation
 - [Guide eracom](https://eracom.ch/eleves/)
