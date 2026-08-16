@@ -32,7 +32,7 @@
 
 # 05.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
-2\. Mot: choisir une police pour un logo
+2\. Mot: animer un logo
 
 # 12.10.2026 🏖️
 
@@ -44,7 +44,7 @@
 
 # 09.11.2026 ⚠️ (rendu noté ex. 2)
 
-3\. Phrase: appliquer correctement les règles de composition typographiques
+3\. Phrase: recomposer une affiche en format digital
 
 # 16.11.2026
 
@@ -52,7 +52,7 @@
 
 # 30.11.2026 ⚠️ (rendu noté ex. 3)
 
-4\. Colonne: optimiser la lisibilité d’un texte dans différents formats
+4\. Colonne: composer un générique de film purement typographique
 
 # 07.12.2026
 
