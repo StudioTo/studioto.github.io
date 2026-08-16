@@ -1,4 +1,4 @@
-# ID462 Typographie I
+# ID462 Typographie Sem. 1 2026-2027
 
 &nbsp;
 &nbsp;
@@ -6,11 +6,11 @@
 
 # 17.8.2026
 
-[Introduction](../../../lessons/intro/)
+[Introduction](../../../classes/intro/)
 
 # 24.8.2026
 
-[1.1 Lettre: classification](../../../lessons/1-1-letter-classification/)
+[1.1 Lettre: classification](../../../type-classification-architecture/)
 
 # 31.8.2026
 
@@ -28,11 +28,11 @@
 
 # 28.9.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
-2. Mot: connotation typographique
+2\. Mot: connotation typographique
 
 # 05.10.2026
 
-2. Mot: connotation typographique
+2\. Mot: connotation typographique
 
 # 12.10.2026 🏖️ (congé)
 
@@ -40,7 +40,7 @@
 
 # 26.10.2026 ⚠️ (rendu noté ex. 2)
 
-3. Phrase: règles de composition
+3\. Phrase: règles de composition
 
 # 02.11.2026
 
@@ -54,7 +54,7 @@
 
 # 07.12.2026 ⚠️ (rendu noté ex. 3)
 
-4. Colonne: optimisation de la lisibilité
+4\. Colonne: optimisation de la lisibilité
 
 # 14.12.2026
 
