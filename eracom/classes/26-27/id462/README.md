@@ -26,33 +26,33 @@
 
 # 21.9.2026 🏖️ (congé)
 
-# 28.9.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
+# 28.9.2026
+
+# 05.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
 2\. Mot: connotation typographique
-
-# 05.10.2026
 
 # 12.10.2026 🏖️ (congé)
 
 # 19.10.2026 🏖️ (congé)
 
-# 26.10.2026 ⚠️ (rendu noté ex. 2)
+# 26.10.2026 
+
+# 02.11.2026 
+
+# 09.11.2026 ⚠️ (rendu noté ex. 2)
 
 3\. Phrase: règles de composition
-
-# 02.11.2026
-
-# 09.11.2026 
 
 # 16.11.2026
 
 # 23.11.2026
 
-# 30.11.2026
-
-# 07.12.2026 ⚠️ (rendu noté ex. 3)
+# 30.11.2026 ⚠️ (rendu noté ex. 3)
 
 4\. Colonne: optimisation de la lisibilité
+
+# 07.12.2026
 
 # 14.12.2026
 
