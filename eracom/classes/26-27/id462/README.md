@@ -11,7 +11,7 @@
 
 # 24.8.2026
 
-[1.1 Lettre: classification](../../../lessons/1-1-letter-classification/)
+[1.1 Lettre: classification](../../../../lessons/1-1-letter-classification/)
 
 # 31.8.2026
 

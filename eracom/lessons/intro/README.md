@@ -1,5 +1,4 @@
-# Typographie
-# Introduction
+# Typographie: introduction
 
 &nbsp;
 &nbsp;
@@ -11,6 +10,7 @@
     - [Programme](../../see-units)
     - [Évaluations](../../evaluate-criteria)
     - [Règles](../../evaluate-rules)
+
 # Installation
     - [Guide eracom](https://eracom.ch/eleves/)
     - [Compte eduvaud](https://aka.ms/mysecurityinfo)
