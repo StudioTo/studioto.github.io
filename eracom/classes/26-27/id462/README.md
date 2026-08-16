@@ -6,11 +6,11 @@
 
 # 17.8.2026
 
-[Introduction](../../lessons/intro/)
+[Introduction](../../../lessons/intro/)
 
 # 24.8.2026
 
-[1.1 Lettre: classification](../../lessons/1-1-letter-classification/)
+[1.1 Lettre: classification](../../../lessons/1-1-letter-classification/)
 
 # 31.8.2026
 
