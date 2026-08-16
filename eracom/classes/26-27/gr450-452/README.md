@@ -12,9 +12,9 @@ Documentaire: **Graphic Means**
 <!-- Définition du programme
 Sem. 1 Remake (page de journal) + Grille de mise en page (booklet) + Visualisation de donnée (poster)
 journal
-    1 page
-    1 publicité
-    1 logo
+    1 page (images from Moma)
+    1 publicité (traduire forme???)
+    1 logo (redessiner dans Glyphs)
 Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more & poster -->
 
 # 24.08.2026
