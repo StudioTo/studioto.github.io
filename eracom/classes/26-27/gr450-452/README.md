@@ -7,13 +7,15 @@
 # 17.08.2026
 
 [Organisation](../../../courses/intro/)
-Définition du programme
+Documentaire: **Graphic Means**
+
+<!-- Définition du programme
 Sem. 1 Remake (page de journal) + Grille de mise en page (booklet) + Visualisation de donnée (poster)
 journal
     1 page
     1 publicité
     1 logo
-Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more & poster
+Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more & poster -->
 
 # 24.08.2026
 
