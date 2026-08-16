@@ -32,8 +32,6 @@
 
 # 05.10.2026
 
-2\. Mot: connotation typographique
-
 # 12.10.2026 🏖️ (congé)
 
 # 19.10.2026 🏖️ (congé)
