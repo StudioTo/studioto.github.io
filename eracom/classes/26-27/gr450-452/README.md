@@ -6,33 +6,28 @@
 
 # 17.08.2026
 
-[Introduction](../../../courses/intro/)
+[Organisation](../../../courses/intro/)
+Définition du programme
+Sem. 1 Remake (page de journal) + Grille de mise en page (booklet) + Visualisation de donnée (poster)
+journal
+    1 page
+    1 publicité
+    1 logo
+Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more & poster
 
 # 24.08.2026
 
-1.1. Lettre: ex. classification
-
-<!-- [1.1. Lettre: classification](../../../courses/type-classification-architecture/) -->
-
 # 31.08.2026
-
-1.2. Lettre: ex. anatomie
 
 # 07.09.2026
 
-1.3. Lettre: ex. optique
-
 # 14.09.2026
-
-1.4. Lettre: ex. variations
 
 # 21.09.2026 🏖️
 
 # 28.09.2026
 
-# 05.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
-
-2\. Mot: choisir une police pour un logo
+# 05.10.2026
 
 # 12.10.2026 🏖️
 
@@ -42,17 +37,13 @@
 
 # 02.11.2026 
 
-# 09.11.2026 ⚠️ (rendu noté ex. 2)
-
-3\. Ligne: appliquer correctement les règles de composition typographiques
+# 09.11.2026
 
 # 16.11.2026
 
 # 23.11.2026
 
-# 30.11.2026 ⚠️ (rendu noté ex. 3)
-
-4\. Colonne: optimiser la lisibilité de textes dans différents formats
+# 30.11.2026
 
 # 07.12.2026
 
@@ -66,4 +57,4 @@
 
 # 11.01.2027
 
-# 18.01.2027 ⚠️ (rendu noté ex. 4)
+# 18.01.2027
