@@ -44,7 +44,7 @@
 
 # 10.11.2026 ⚠️ (rendu noté ex. 2)
 
-3\. Phrase: recomposer une affiche en format digital
+3\. Ligne: recomposer une affiche en format digital
 
 # 17.11.2026
 
