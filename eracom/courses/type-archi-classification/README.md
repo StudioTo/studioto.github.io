@@ -1,11 +1,11 @@
-# Typographie 1.1. Lettre: classification
+# Classification typographique
 
 &nbsp;
 &nbsp;
 &nbsp;
 
 # Brief
-    1.  Créer un fichier InDesign « Typographie-1-1-Lettre-Classification.indd »
+    1.  Créer un fichier InDesign
         mode: impression
         nombre de pages: 26
         affichage des pages: vis-à-vis
@@ -22,7 +22,7 @@
     3.  Page de droite
         localiser dans la typothèque le dossier de la classification concernée par l’image
         choisir et activer une police de cette classification
-        dans un bloc texte qui épouse les marges, inscrire avec la police activée les informations suivantes
+        dans un bloc texte qui épouse les marges, inscrire avec la police activée les informations suivantes:
 
         Classification
         Technique
@@ -39,5 +39,5 @@
 
 # Ressources
 
-[Images](/links/Images.zip)
+[Images](links/Images.zip)
 [Histoire de l’écriture](../../track-writing-evolution/)
