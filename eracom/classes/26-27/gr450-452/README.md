@@ -1,4 +1,4 @@
-# GR460-462 Typographie Sem. 1 2026-2027
+# GR450-452 Typographie Sem. 1 2026-2027
 
 &nbsp;
 &nbsp;
