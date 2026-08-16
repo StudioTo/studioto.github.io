@@ -14,13 +14,38 @@
         format de page: A4 (210 × 297 mm)
         marges: 10 mm
         fonds-perdus: 3 mm
-    3.  Télécharger les photographies des différentes époques architecturales
-        importer 1 image par double page, sur la page de gauche
+    3.  Page de gauche
+        télécharger les photographies des différentes époques architecturales
+        placer les images dans le dossier « Liens »
+        dans un bloc image, importer 1 image pour chaque double page
+        si l’image est horizontale, la tourner de 90° dans le sens contraire des aiguilles d’une montre
         format pleine page
         remplir des fonds perdus
+    4.  Page de droite
+        localiser dans la typothèque le dossier de la classification concernée par l’image
+        choisir et activer une police dans ce dossier
+        dans un bloc texte qui épouse les marges, inscrire avec la police activée les informations suivantes
+
+        Classification
+        Technique
+
+        ABCDEFGHIJK
+        LMNOPQRSTUV
+        WXYZ
+
+        abcdefghijk
+        lmnopqrstuv
+        wxyz
+
+        Bâtiment, ville, année
+
+    5.  Les informations requises se trouvent:
+        classification: dans la légende de l’image
+        technique: sur la page chronologie
+        bâtiment: dans la légende de l’image
 
 # Ressources
 
-|![](links/Processus.jpg) |
+|![](links/1_Incises_Arc_de_Constantin_315_Rome.jpg) |
 |:---:|
-| Organisation, Ton + Variations (1re vague), Compositions (2e vague), Production |
+| Arc de Constantin, 315, Rome |
