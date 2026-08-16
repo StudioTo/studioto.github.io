@@ -44,7 +44,7 @@
 
 # 09.11.2026 ⚠️ (rendu noté ex. 2)
 
-3\. Phrase: appliquer correctement les règles de composition typographiques
+3\. Ligne: appliquer correctement les règles de composition typographiques
 
 # 16.11.2026
 
