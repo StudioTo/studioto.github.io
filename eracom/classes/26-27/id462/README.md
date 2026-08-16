@@ -10,7 +10,7 @@
 
 # 24.8.2026
 
-[1.1 Lettre: classification](../../../courses/type-classification-architecture/)
+[1.1. Lettre: classification](../../../courses/type-classification-architecture/)
 
 # 31.8.2026
 
