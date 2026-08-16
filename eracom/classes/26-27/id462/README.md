@@ -14,9 +14,15 @@
 
 # 31.8.2026
 
+[1.2 Lettre: anatomie](../../../lessons/1-1-letter-classification/)
+
 # 07.9.2026
 
+[1.3 Lettre: variations](../../../lessons/1-1-letter-classification/)
+
 # 14.9.2026
+
+[1.4 Lettre: optique](../../../lessons/1-1-letter-classification/)
 
 # 21.9.2026 🏖️ (congé)
 
