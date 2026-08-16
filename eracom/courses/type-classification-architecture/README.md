@@ -41,8 +41,8 @@
 
 # Ressources
 
-[Images](links/Images.zip)
-[Histoire de l’écriture](../../track-writing-evolution/)
+📎 [Images](links/Images.zip)  
+📎 [Histoire de l’écriture](../../../track-writing-evolution/)
 
 # Objectifs
 
@@ -50,4 +50,4 @@
 
 # Évaluation
 
-[Histoire de l’écriture](../../evaluate-criteria/)
+📶 [Histoire de l’écriture](../../evaluate-criteria/)
