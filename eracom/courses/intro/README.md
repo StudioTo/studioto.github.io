@@ -5,9 +5,9 @@
 &nbsp;
 
 # Informations
-- [Sujet](../../../../see-read)
+- [Sujet](../../../../see-units)
+- [Enjeux](../../../../see-read)
 - [Objectifs](../../../../evaluate-objectives)  
-- [Programme](../../../../see-units)
 - [Évaluations](../../../../evaluate-criteria)
 - [Règles](../../../../evaluate-rules)
 
