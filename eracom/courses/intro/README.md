@@ -5,11 +5,11 @@
 &nbsp;
 
 # Informations
-- [Sujet](../../../../see-units)
-- [Enjeux](../../../../see-read)
-- [Objectifs](../../../../evaluate-objectives)  
-- [Évaluations](../../../../evaluate-criteria)
-- [Règles](../../../../evaluate-rules)
+- [Qu'est-ce que la typographie?](../../../../see-units)
+- [Enjeux du domaine](../../../../see-read)
+- [Objectifs de formation](../../../../evaluate-objectives)  
+- [Modalités d’évaluation](../../../../evaluate-criteria)
+- [Règles du cours](../../../../evaluate-rules)
 
 # Installation
 - [Guide eracom](https://eracom.ch/eleves/)
