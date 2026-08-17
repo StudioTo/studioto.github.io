@@ -33,6 +33,7 @@
 # 05.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
 2\. Mot: choisir une police pour un logo
+📖 Robert Bringhurst, *The Elements of Typographic Style* (pour une fonte)
 
 # 12.10.2026 🏖️
 
@@ -45,6 +46,7 @@
 # 09.11.2026 ⚠️ (rendu noté ex. 2)
 
 3\. Ligne: appliquer correctement les règles de composition typographiques
+📖 *Guide du typographe romand* (pour les guillemets)
 
 # 16.11.2026
 
