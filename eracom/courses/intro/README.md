@@ -1,8 +1,10 @@
 # Introduction
 
 &nbsp;
-&nbsp;
-&nbsp;
+
+|![](links/Eracom_Typo_Teaser_Manual.gif) |
+|:---:|
+| Exercices réalisés en typographie |
 
 # Informations
 - [Qu'est-ce que la typographie?](../../../../see-units)
