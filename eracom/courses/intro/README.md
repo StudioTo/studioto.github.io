@@ -27,4 +27,7 @@ choisir *high school* (lycée) non *higher education* (école supérieure) comme
 - [Typothèque eracom](https://typo.eracom.ch)
 
 
-Drawing by Adrian Frutiger and captures from the documentary *Graphic Means, A History of Graphic Design Production* by Briar Levit
+### Sources
+
+- Drawing by Adrian Frutiger
+- Captures from the documentary *Graphic Means, A History of Graphic Design Production* by Briar Levit
