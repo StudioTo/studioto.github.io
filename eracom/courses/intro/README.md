@@ -26,7 +26,7 @@ identifiant: mail anonymisé (**pp00xxx@eduvaud.ch**)
 installer InDesign et After Effects
 - [Figma](https://www.figma.com/login)  
 **création d’un compte** education avec le mail anonymisé (**pp00xxx@eduvaud.ch**)   
-vérifier le statut de l’établissement en choisissant **K12**  
+choisir pour le statut de l’établissement: *higher education* puis **K12**  
 - [Typothèque eracom](https://typo.eracom.ch)
 
 
