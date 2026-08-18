@@ -4,7 +4,7 @@
 
 |![](links/Evolution_Metier.gif) |
 |:---:|
-| L’évolution du métier |
+| L’évolution du métier[^1][^2]  |
 
 # Informations
 - [Qu'est-ce que la typographie?](../../../../see-units)
@@ -32,5 +32,5 @@ vérifier le statut de l’établissement en choisissant **K12**
 
 ### Sources
 
-- Drawing by Adrian Frutiger
-- Captures from the documentary *Graphic Means, A History of Graphic Design Production* by Briar Levit
+[^1]: Frutiger, Adrian, *Type Sign Symbol*. Zurich: ABC Verlag, 1980 
+[^2]: Briar Levit, *Graphic Means, A History of Graphic Design Production*, 2017
