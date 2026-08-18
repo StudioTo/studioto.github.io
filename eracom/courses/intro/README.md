@@ -22,7 +22,7 @@
 **connection** avec le mail anonymisé (**pp00xxx@eduvaud.ch**)
 installer InDesign et After Effects
 - [Figma](https://www.figma.com/login)  
-**création d’un compte** education avec le mail anonymisé (**pp00xxx@eduvaud.ch**)
+**création d’un compte** education avec le mail anonymisé (**pp00xxx@eduvaud.ch**)  
 choisir *high school* (lycée) non *higher education* (école supérieure) comme type d’institution
 - [Typothèque eracom](https://typo.eracom.ch)
 
