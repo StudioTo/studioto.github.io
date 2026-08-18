@@ -12,6 +12,20 @@
 |:---:|
 | Deux niveaux d'information: textuel (lisibilité) et pictural (impact visuel) |
 
+# Lisibilité des caractères {#lisibilite}  
+
+|![](links/1-Language_v2133.gif)|
+|:---:|
+| L'importance de l'accentuation de la moitié supérieure de la lettre |
+
+|![](links/1-Language_def_up2.gif)|
+|:---:|
+| L'œil du lecteur adulte ne déchiffrant pas les mots lettre par lettre, mais enregistrant leurs contours |
+
+|![](links/1-Language_v2137.gif)|
+|:---:|
+| Que l'on modifie la longueur des lignes, le corps aussi bien que la forme du caractère typographique, la longueur des saccades et leur fréquence changent |
+
 # Lisibilité vs Impact visuel {#lisibilite-vs-impact}
 
 |![](links/1-Language_v2161.gif)|
@@ -29,20 +43,6 @@
 |![](links/1-Language_v2170.jpg)|
 |:---:|
 | Extrême impact |
-
-# Lisibilité des caractères {#lisibilite}  
-
-|![](links/1-Language_v2133.gif)|
-|:---:|
-| L'importance de l'accentuation de la moitié supérieure de la lettre |
-
-|![](links/1-Language_def_up2.gif)|
-|:---:|
-| L'œil du lecteur adulte ne déchiffrant pas les mots lettre par lettre, mais enregistrant leurs contours |
-
-|![](links/1-Language_v2137.gif)|
-|:---:|
-| Que l'on modifie la longueur des lignes, le corps aussi bien que la forme du caractère typographique, la longueur des saccades et leur fréquence changent |
 
 
 
