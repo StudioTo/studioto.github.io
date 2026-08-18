@@ -8,7 +8,8 @@
 
 # Informations
 - [Qu'est-ce que la typographie?](../../../../see-units)
-- [Enjeux du domaine, savoir faire](../../../../see-read)
+- [Enjeux du domaine](../../../../see-signs)
+- [Savoir faire](../../../../see-read)
 - [Objectifs de formation](../../../../evaluate-objectives)  
 - [Modalités d’évaluation](../../../../evaluate-criteria)
 - [Règles du cours](../../../../evaluate-rules)
