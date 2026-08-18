@@ -2,9 +2,9 @@
 
 &nbsp;
 
-|![](links/Eracom_Typo_Teaser_Manual.gif) |
+|![](links/Evolution_Metier.gif) |
 |:---:|
-| Exercices réalisés en typographie |
+| Drawing by Adrian Frutiger and captures from the documentary *Graphic Means, A History of Graphic Design Production* by Briar Levit |
 
 # Informations
 - [Qu'est-ce que la typographie?](../../../../see-units)
