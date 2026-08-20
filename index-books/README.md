@@ -68,6 +68,9 @@ Harry Bloch, Pierrick Brégeon & Philippe Karrer
 # Paim, Nina  
 *Taking a Line for a Walk: Assignments in design education*. Leipzig: Spector Books, 2016  
 
+# Rietveld Academie  
+*Typography Manual*. Amsterdam: initiated by Laurenz Brunner and designed by the 2nd year Graphic Design Department, 2010  
+
 # Ruder, Emil  
 *Typographie: Ein Gestaltungslehrbuch*. Teufen: Niggli, 1967  
 
