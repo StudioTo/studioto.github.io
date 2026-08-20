@@ -8,7 +8,7 @@
 
 [GR460-462](/eracom/classes/26-27/gr460-462/)  
 [GR461](/eracom/classes/26-27/gr461/)  
-[ID461](/eracom/classes/26-27/id461/)  
+[ID462](/eracom/classes/26-27/id462/)  
 
 # 2e année
 
