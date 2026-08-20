@@ -1,4 +1,4 @@
-# Classification typographique
+# Remake journal
 
 &nbsp;
 &nbsp;
