@@ -47,7 +47,7 @@
 
 ✅ Reconnaître les polices de caractères  
 ✅ Connaître les règles de la composition typographique  
-✅ Comprendre la grille de mise en page d’une page donnée  
+✅ Comprendre la grille de mise en page d’une publication donnée  
 ✅ Produire une mise en page dans InDesign selon les règles de l'art (grille, styles, microtypographie)   
 
 # Évaluation
