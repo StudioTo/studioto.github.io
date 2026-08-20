@@ -37,7 +37,7 @@
         lmnopqrstuv
         wxyz
 
-        Bâtiment, ville, année
+        + Référence de l’image adjacente: Bâtiment, Ville, année
 
 # Ressources
  
