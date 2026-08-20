@@ -41,15 +41,14 @@
 
 # Ressources
  
-📎 [Histoire de l’écriture](../../../track-writing-evolution/)  
-✉️ [Monuments architecturaux (images)](links/Images.zip) 
+✉️ Gazette de Lausanne (pdf) 
 
 # Objectifs
 
-✅ Connaître la classification historique des caractères  
-✅ Savoir trouver des polices dans la typothèque  
-✅ Savoir activer des polices dans la typothèque  
-✅ Savoir utiliser les blocs texte et image dans InDesign  
+✅ Reconnaître les polices de caractères  
+✅ Connaître les règles de la composition typographique  
+✅ Comprendre la grille de mise en page d’une page donnée  
+✅ Produire une mise en page dans InDesign selon les règles de l'art (grille, styles, microtypographie)   
 
 # Évaluation
 
