@@ -7,7 +7,7 @@
 |:---:|
 | Vérification[^1]           |
 
-# 📁 Rendu 
+<!-- # 📁 Rendu 
 
 - Sur Teams, dans le dossier correspondant à l’exercice
 - En un seul fichier (et non plusieurs fichiers dans un dossier)
@@ -18,7 +18,7 @@
 - Scanné proprement (scan et non photo au téléphone, à plat, avec uniquement du noir et blanc, net)
 - Nommé correctement (GRXXX_Nom_Prénom_Exercice)
 
-⚠️  Si le rendu est transmis après la date prévue, il faut l'envoyer par mail avec une justification du retard (et non le mettre sur le serveur)
+⚠️  Si le rendu est transmis après la date prévue, il faut l'envoyer par mail avec une justification du retard (et non le mettre sur le serveur) -->
 
 
 # 💻 InDesign
