@@ -6,7 +6,7 @@
 
 # 17.08.2026
 
-[Gestion de classe](../../../courses/intro/)  
+[Gestion de classe](../../../courses/introduce/)  
 Documentaire: *Graphic Means*
 
 <!-- Définition du programme

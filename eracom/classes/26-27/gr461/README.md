@@ -6,7 +6,7 @@
 
 # 17.8.2026
 
-[Introduction](../../../courses/intro/)
+[Introduction](../../../courses/introduce/)
 
 # 24.8.2026
 
