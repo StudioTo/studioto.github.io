@@ -39,6 +39,7 @@ installer InDesign et After Effects
 choisir pour le statut de l’établissement: *higher education* puis **K12**  
 - [Typothèque eracom](https://typo.eracom.ch)
 
+&nbsp;
 
 ### Sources
 
