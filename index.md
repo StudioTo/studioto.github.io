@@ -131,14 +131,14 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 
 **Technique**
-## [🛗 Teams](/use-teams)
 ## [🛃 Outils](/use-material)
+## [🛂 Checklists](/check-exports)
 ## [🛜 Imprimantes](/use-printer)
 ## [🛄 Typothèque](http://typo.eracom.ch)
-## [🛂 Checklists](/check-exports)
 <!-- ## [Ⓜ️ InDesign](/use-indesign) -->
 <!-- ## [Ⓜ️ Figma](/use-figma) -->
 <!-- ## [Ⓜ️ AfterEffects](/use-aftereffects) -->
+<!-- ## [🛗 Teams](/use-teams) -->
 
 &nbsp;
 &nbsp;
