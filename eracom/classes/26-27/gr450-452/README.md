@@ -6,7 +6,7 @@
 
 # 17.08.2026
 
-[Gestion de classe](../../../courses/introduce-typography/)  
+[Gestion de classe](../../../briefs/introduce-typography/)  
 Documentaire: *Graphic Means*
 
 <!-- Définition du programme

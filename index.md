@@ -132,7 +132,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 
 **Technique**
 ## [🛃 Outils](/use-material)
-## [🛂 Checklists](/check-exports)
+## [🛂 Checklists](/check-export)
 ## [🛜 Imprimantes](/use-printer)
 ## [🛄 Typothèque](http://typo.eracom.ch)
 <!-- ## [Ⓜ️ InDesign](/use-indesign) -->
