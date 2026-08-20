@@ -42,5 +42,5 @@ choisir pour le statut de l’établissement: *higher education* puis **K12**
 
 ### Sources
 
-- [^1]: (dessin) Frutiger, Adrian, *Type Sign Symbol*. Zurich: ABC Verlag, 1980  
-- [^2]: (captures) Briar Levit, *Graphic Means, A History of Graphic Design Production*, 2017
+[^1]: (dessin) Frutiger, Adrian, *Type Sign Symbol*. Zurich: ABC Verlag, 1980
+[^2]: (captures) Briar Levit, *Graphic Means, A History of Graphic Design Production*, 2017
