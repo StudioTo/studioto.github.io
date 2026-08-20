@@ -23,7 +23,6 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [↔️ Longueur de ligne](/set-line-width)
 ## [↕️ Inter-lignes](/set-line-height)
 ## [🔡 Gris de texte](/see-shades)
-## [📝 Checklists](/check-exports)
 ## [⚙️ Support](/support-technicals)
 --->
 
@@ -136,6 +135,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [🛃 Outils](/use-material)
 ## [🛜 Imprimantes](/use-printer)
 ## [🛄 Typothèque](http://typo.eracom.ch)
+## [🛂 Checklists](/check-exports)
 <!-- ## [Ⓜ️ InDesign](/use-indesign) -->
 <!-- ## [Ⓜ️ Figma](/use-figma) -->
 <!-- ## [Ⓜ️ AfterEffects](/use-aftereffects) -->

@@ -9,7 +9,7 @@
         mode: impression
         nombre de pages: 1
         affichage des pages: simple
-        format de page: 416 × 570 mm
+        format de page: Broadsheet (410 × 580 mm)
         marges: 10 mm
         fonds-perdus: 3 mm
 
@@ -25,11 +25,17 @@
         trouver des oeuvres dans la collection du MoMA pour remplacer les images
         créer les éléments graphiques (filets)
 
+    3.  Vérifier le fichier
+        pas de symbole manquant
+        de de symbole remplacé dans une police
+        pas d’exception de style (pas de plus)
+
 
 # Ressources
 
-📎 [Collection du MoMA](https://www.moma.org/collection/works/?classifications=any&date_begin=Pre-1850&date_end=2026&include_uncataloged_works=false&on_view=false&q=swimming+pool&recent_acquisitions=false&with_images=true)
 ✉️ Gazette de Lausanne (pdf) 
+📎 [Collection du MoMA](https://www.moma.org/collection/works/?classifications=any&date_begin=Pre-1850&date_end=2026&include_uncataloged_works=false&on_view=false&q=swimming+pool&recent_acquisitions=false&with_images=true)  
+📎 [Checklists](../../../check-export/)  
 
 # Objectifs
 
