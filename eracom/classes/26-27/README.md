@@ -6,10 +6,10 @@
 
 # 1re année
 
-[GR460-462](/eracom/classes/gr460-462/)  
-[GR461](/eracom/classes/gr461/)  
-[ID461](/eracom/classes/id461/)  
+[GR460-462](/eracom/classes/26-27/gr460-462/)  
+[GR461](/eracom/classes/26-27/gr461/)  
+[ID461](/eracom/classes/26-27/id461/)  
 
 # 2e année
 
-[GR450-452](/eracom/classes/gr450-452/)  
+[GR450-452](/eracom/classes/26-27/gr450-452/)  
