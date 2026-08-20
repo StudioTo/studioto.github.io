@@ -25,16 +25,22 @@
         trouver des oeuvres dans la collection du MoMA pour remplacer les images
         créer les éléments graphiques (filets)
 
-    3.  Vérifier le fichier
+    3.  Vérifier le fichier:
         pas de symbole manquant
-        de de symbole remplacé dans une police
-        pas d’exception de style (pas de plus)
+        pas de de symbole remplacé dans une police
+        pas d’exception de style de paragraphe ou de caractère
+        les blocs sont alignés sur la grille
+        les styles sont alignés sur la grille de ligne de base
+        pas de lien manquant ou modifié
+        les images sont à 300 dpi dans la mise en page
+        les images sont au ratio original (1/1)
+        le contrôle en amont (preflight) est vert
 
 
 # Ressources
 
 ✉️ Gazette de Lausanne (pdf) 
-📎 [Collection du MoMA](https://www.moma.org/collection/works/?classifications=any&date_begin=Pre-1850&date_end=2026&include_uncataloged_works=false&on_view=false&q=swimming+pool&recent_acquisitions=false&with_images=true)  
+📎 [Collection du MoMA (images)](https://www.moma.org/collection/works/?classifications=any&date_begin=Pre-1850&date_end=2026&include_uncataloged_works=false&on_view=false&q=swimming+pool&recent_acquisitions=false&with_images=true)  
 📎 [Checklists](../../../check-export/)  
 
 # Objectifs
