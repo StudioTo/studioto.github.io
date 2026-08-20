@@ -7,40 +7,28 @@
 # Brief
     1.  Créer un fichier InDesign
         mode: impression
-        nombre de pages: 26
-        affichage des pages: vis-à-vis
-        format de page: A4 (210 × 297 mm)
+        nombre de pages: 1
+        affichage des pages: simple
+        format de page: 416 × 570 mm
         marges: 10 mm
         fonds-perdus: 3 mm
 
-    2.  Page de gauche
-        télécharger les images des monuments
-        placer les images dans le dossier « Liens »
-        dans un bloc image, importer 1 image pour chaque double page
-        si l’image est horizontale, la tourner de 90° dans le sens contraire des aiguilles d’une montre
-        format pleine page
-        remplir des fonds perdus
+    2.  Recomposer une page du journal imposé
+        importer les textes par copier-coller
+        nettoyer les textes importés (retours, microtypographie)
+        créer et appliquer des styles de paragraphes et de caractères
+        activer les polices les plus semblables
+        adapter les styles
+        configurer les colonnes
+        configurer la grille de ligne de base
+        créer et positionner des blocs textes
+        trouver des oeuvres dans la collection du MoMA pour remplacer les images
+        créer les éléments graphiques (filets)
 
-    3.  Page de droite
-        localiser dans la typothèque le dossier de la classification concernée par l’image
-        choisir et activer une police de cette classification
-        dans un bloc texte qui épouse les marges, inscrire avec la police activée les informations suivantes:
-
-        Classification
-        Technique
-
-        ABCDEFGHIJK
-        LMNOPQRSTUV
-        WXYZ
-
-        abcdefghijk
-        lmnopqrstuv
-        wxyz
-
-        + Référence de l’image adjacente: Bâtiment, Ville, année
 
 # Ressources
- 
+
+📎 [Collection du MoMA](https://www.moma.org/collection/works/?classifications=any&date_begin=Pre-1850&date_end=2026&include_uncataloged_works=false&on_view=false&q=swimming+pool&recent_acquisitions=false&with_images=true)
 ✉️ Gazette de Lausanne (pdf) 
 
 # Objectifs
