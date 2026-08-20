@@ -42,7 +42,7 @@
 # Ressources
  
 📎 [Histoire de l’écriture](../../../track-writing-evolution/)  
-✉️ [Monuments architecturaux (images)](links/Images.zip) 
+✉️ Monuments architecturaux (images)
 
 # Objectifs
 
