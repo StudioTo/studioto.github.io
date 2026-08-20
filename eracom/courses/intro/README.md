@@ -14,6 +14,16 @@
 - [Modalités d’évaluation](../../../../evaluate-criteria)
 - [Règles du cours](../../../../evaluate-rules)
 
+# Matériel
+- Ordinateur MacBook
+- Feutre noir fin pour les contours (GR)
+- Feutre noir épais pour le remplissage (GR)
+- Feutre blanc couvrant, type posca (GR)
+
+# Livres (GR)
+- *Guide du typographe*, Association suisse des typographes (AST), Lausanne, 2020
+- *Principes élémentaires de la typographie*, Robert Bringhurst, B42, Montreuil, 2023
+
 # Installation
 - [Guide eracom](https://eracom.ch/eleves/)
 - [Compte eduvaud](https://aka.ms/mysecurityinfo)  
