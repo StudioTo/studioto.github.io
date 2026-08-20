@@ -20,9 +20,9 @@
 - Feutre noir épais pour le remplissage (GR)
 - Feutre blanc couvrant, type posca (GR)
 
-# Livres (GR)
-- *Guide du typographe*, Association suisse des typographes (AST), Lausanne, 2020
-- *Principes élémentaires de la typographie*, Robert Bringhurst, B42, Montreuil, 2023
+# Livres
+- *Guide du typographe*, Association suisse des typographes (AST), Lausanne, 2020 (GR)
+- *Principes élémentaires de la typographie*, Robert Bringhurst, B42, Montreuil, 2023 (GR)
 
 # Installation
 - [Guide eracom](https://eracom.ch/eleves/)
