@@ -20,6 +20,7 @@ Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more
 # 24.08.2026
 
 <!-- Fin du documentaire + distrib journeaux -->
+🎥 [Intro vidéo](https://kdrive.t-o.studio/app/share/105447/067f63d0-54e0-455a-8ce3-76f17c99b808)
 
 # 31.08.2026
 <!-- 
