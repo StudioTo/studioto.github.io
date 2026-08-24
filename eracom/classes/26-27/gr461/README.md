@@ -10,7 +10,6 @@
 
 # 24.8.2026
 
-[📄 1.1. Lettre: ex. classification](../../../briefs/classify-fonts-by-architecture/)  
 [🎥 Télécharger la typothèque](https://kdrive.t-o.studio/app/share/105447/f421abe9-419c-4080-9cec-244a5198f91c)  
 [🎥 Activer des polices pour InDesign](https://kdrive.t-o.studio/app/share/105447/0c5b14e0-fb4f-45b2-8dd5-9de203e41435)  
 
@@ -18,19 +17,21 @@
 
 # 31.8.2026
 
-1.2. Lettre: ex. anatomie
+[📄 1.1. Lettre: ex. classification](../../../briefs/classify-fonts-by-architecture/)  
 
 # 07.9.2026
 
-1.3. Lettre: ex. optique
+1.2. Lettre: ex. anatomie
 
 # 14.9.2026
 
-1.4. Lettre: ex. variations
+1.3. Lettre: ex. optique
 
 # 21.9.2026 🏖️
 
 # 28.9.2026
+
+1.4. Lettre: ex. variations
 
 # 05.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
