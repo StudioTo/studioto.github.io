@@ -41,7 +41,7 @@
     :;!?
 
     rechercher:     (?<=\w)(( | )*?)([?!;:])
-    remplacer:       $3
+    remplacer:      $3
 
     «»
 
