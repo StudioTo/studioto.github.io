@@ -36,14 +36,7 @@
         les images sont au ratio original (1/1)
         le contrôle en amont (preflight) est vert
 
-
-# Ressources
-
-✉️ Gazette de Lausanne (pdf)  
-📎 [Collection du MoMA (images)](https://www.moma.org/collection/works/?classifications=any&date_begin=Pre-1850&date_end=2026&include_uncataloged_works=false&on_view=false&q=swimming+pool&recent_acquisitions=false&with_images=true)  
-📎 [Checklists](../../../check-export/)  
-
-# Code
+# Regex
 
     :;!?
 
@@ -54,6 +47,12 @@
 
     rechercher:     (\«)( )(.+?)( )(\»)
     remplacer:      $1~<$3~<$5
+
+# Ressources
+
+✉️ Gazette de Lausanne (pdf)  
+📎 [Collection du MoMA (images)](https://www.moma.org/collection/works/?classifications=any&date_begin=Pre-1850&date_end=2026&include_uncataloged_works=false&on_view=false&q=swimming+pool&recent_acquisitions=false&with_images=true)  
+📎 [Checklists](../../../check-export/)  
 
 # Objectifs
 
