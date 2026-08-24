@@ -43,6 +43,18 @@
 📎 [Collection du MoMA (images)](https://www.moma.org/collection/works/?classifications=any&date_begin=Pre-1850&date_end=2026&include_uncataloged_works=false&on_view=false&q=swimming+pool&recent_acquisitions=false&with_images=true)  
 📎 [Checklists](../../../check-export/)  
 
+# Code
+
+    :;!?
+
+    rechercher:     (?<=\w)(( | )*?)([?!;:])
+    remplacer:       $3
+
+    «»
+
+    rechercher:     (\«)( )(.+?)( )(\»)
+    remplacer:      $1~<$3~<$5
+
 # Objectifs
 
 ✅ Reconnaître les polices de caractères  
