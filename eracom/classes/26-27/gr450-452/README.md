@@ -19,6 +19,8 @@ Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more
 
 # 24.08.2026
 
+[Remake journal](../../../briefs/remake-journal-layout/) 
+
 <!-- Fin du documentaire + distrib journeaux -->
 
 # 31.08.2026
