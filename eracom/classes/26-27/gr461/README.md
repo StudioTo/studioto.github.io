@@ -10,8 +10,8 @@
 
 # 24.8.2026
 
-[📄 1.1. Lettre: ex. classification](../../../briefs/classify-fonts-by-architecture/) 
-[🎥 Activer des polices pour InDesign]()
+[📄 1.1. Lettre: ex. classification](../../../briefs/classify-fonts-by-architecture/)  
+[🎥 Activer des polices pour InDesign]()  
 
 <!-- [1.1. Lettre: classification](../../../courses/type-classification-architecture/) -->
 
