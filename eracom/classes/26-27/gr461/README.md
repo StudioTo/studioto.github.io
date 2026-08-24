@@ -10,7 +10,7 @@
 
 # 24.8.2026
 
-1.1. Lettre: ex. classification
+[📄 1.1. Lettre: ex. classification](../../../briefs/classify-fonts-by-architecture/) 
 
 <!-- [1.1. Lettre: classification](../../../courses/type-classification-architecture/) -->
 
