@@ -36,7 +36,7 @@
 
 # 06.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
-2\. Mot: animer un logotype
+2\. Mot: logotype
 
 # 13.10.2026 🏖️
 
@@ -48,7 +48,7 @@
 
 # 10.11.2026 ⚠️ (rendu noté ex. 2)
 
-3\. Ligne: recomposer une affiche en format digital
+3\. Ligne: affiche
 
 # 17.11.2026
 
@@ -56,7 +56,7 @@
 
 # 01.12.2026 ⚠️ (rendu noté ex. 3)
 
-4\. Colonne: composer un générique de film purement typographique
+4\. Colonne: générique de film
 
 # 08.12.2026
 
