@@ -17,8 +17,7 @@
 # 01.09.2026
 
 [📄 1.1. Lettre: ex. classification](../../../briefs/classify-fonts-by-architecture/)  
-
-
+[🎥 1.1. Lettre: ex. classification](https://kdrive.t-o.studio/app/share/105447/67f74da6-d128-4261-9e80-12524796e4e5)
 
 # 08.09.2026
 
