@@ -40,9 +40,9 @@
         + Référence de l’image adjacente: Bâtiment, Ville, année
 
 # Ressources
- 
+
+✉️ Monuments architecturaux (images)  
 📎 [Histoire de l’écriture (technique)](../../../track-writing-evolution/)  
-✉️ Monuments architecturaux (images)
 
 # Objectifs
 
