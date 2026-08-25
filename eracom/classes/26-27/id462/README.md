@@ -10,23 +10,27 @@
 
 # 25.08.2026
 
-1.1. Lettre: ex. classification
+[Installation de la typothèque](https://typo.eracom.ch)
 
 <!-- [1.1. Lettre: classification](../../../courses/type-classification-architecture/) -->
 
 # 01.09.2026
 
-1.2. Lettre: ex. anatomie
+[📄 1.1. Lettre: ex. classification](../../../briefs/classify-fonts-by-architecture/)  
+
+
 
 # 08.09.2026
 
-1.3. Lettre: ex. optique
+1.2. Lettre: ex. anatomie
 
 # 15.09.2026
 
-1.4. Lettre: ex. variations
+1.3. Lettre: ex. optique
 
 # 22.09.2026
+
+1.4. Lettre: ex. variations
 
 # 29.09.2026
 
