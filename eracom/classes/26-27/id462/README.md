@@ -10,7 +10,7 @@
 
 # 25.08.2026
 
-[Installation de la typothèque](https://typo.eracom.ch)
+[📎 Installation de la typothèque](https://typo.eracom.ch)
 
 <!-- [1.1. Lettre: classification](../../../courses/type-classification-architecture/) -->
 
