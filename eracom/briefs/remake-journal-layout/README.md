@@ -40,12 +40,12 @@
 
     :;!?
 
-    rechercher:     (?<=\w)(( | )*?)([?!;:])
-    remplacer:      $3
+    rechercher:     (?<=\w)((\s|~S)*?)([?!;:])
+    remplacer:      ~<$3
 
     «»
 
-    rechercher:     (\«)( )(.+?)( )(\»)
+    rechercher:     (\«)(\s)(.+?)( )(\»)
     remplacer:      $1~<$3~<$5
 
 # Ressources
