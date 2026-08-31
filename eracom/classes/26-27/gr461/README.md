@@ -10,14 +10,14 @@
 
 # 24.8.2026
 
-[🎥 Télécharger la typothèque](https://kdrive.t-o.studio/app/share/105447/f421abe9-419c-4080-9cec-244a5198f91c)  
-[🎥 Activer des polices pour InDesign](https://kdrive.t-o.studio/app/share/105447/0c5b14e0-fb4f-45b2-8dd5-9de203e41435)  
+[🎥 Télécharger la typothèque](https://kdrive.t-o.studio/app/share/105447/f421abe9-419c-4080-9cec-244a5198f91c)   
 
 <!-- [1.1. Lettre: classification](../../../courses/type-classification-architecture/) -->
 
 # 31.8.2026
 
 [📄 1.1. Lettre: ex. classification](../../../briefs/classify-fonts-by-architecture/)  
+[🎥 1.1. Lettre: ex. classification](https://kdrive.t-o.studio/app/share/105447/0c5b14e0-fb4f-45b2-8dd5-9de203e41435) 
 
 # 07.9.2026
 
