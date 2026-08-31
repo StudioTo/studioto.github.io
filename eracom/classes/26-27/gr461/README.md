@@ -10,14 +10,15 @@
 
 # 24.8.2026
 
-[🎥 Télécharger la typothèque](https://kdrive.t-o.studio/app/share/105447/f421abe9-419c-4080-9cec-244a5198f91c)   
+[🎥 Télécharger la typothèque](https://kdrive.t-o.studio/app/share/105447/f421abe9-419c-4080-9cec-244a5198f91c)  
+[🎥 Activer une police](https://kdrive.t-o.studio/app/share/105447/0c5b14e0-fb4f-45b2-8dd5-9de203e41435) 
 
 <!-- [1.1. Lettre: classification](../../../courses/type-classification-architecture/) -->
 
 # 31.8.2026
 
 [📄 1.1. Lettre: ex. classification](../../../briefs/classify-fonts-by-architecture/)  
-[🎥 1.1. Lettre: ex. classification](https://kdrive.t-o.studio/app/share/105447/0c5b14e0-fb4f-45b2-8dd5-9de203e41435) 
+[🎥 1.1. Lettre: ex. classification](https://kdrive.t-o.studio/app/share/105447/8f2e81cc-4e63-4481-977d-c3087538bbd6)  
 
 # 07.9.2026
 
