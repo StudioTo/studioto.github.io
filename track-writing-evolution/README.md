@@ -272,9 +272,9 @@ La Renaissance ravive l’intérêt porté à la littérature classique et met e
 |:------------------------------------------:|
 | Minuscules humanistes: retour aux formes arrondies                                        |
 
-# 1495: Imprimeurs Vénitiens
+# 1495: Imprimeurs italiens
 # 🗂️ Humanes
-Aldo Manuce cherche à reproduire la plus belle graphie possible avec des caractères de métal.
+À Venise, Aldo Manuce cherche à reproduire la plus belle graphie possible avec des caractères en métal.
 
 |![](links/overview-writing-history_077.jpg)|![](links/overview-writing-history_078.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -532,7 +532,7 @@ La grilles de pixels finalement est remplacée par des tracés vectoriels, qui p
 
 |![](links/overview-writing-history_170.jpg)|![](links/overview-writing-history_171.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
-| Conception assistée par ordinateurs (CAD)                                        | Courbes de Bézier (vecteurs), d'abord utilisées pour l'aérodynamique des voitures                                        |
+| Conception assistée par ordinateurs (CAD)                                        | Courbes de Bézier (vecteurs), d'abord utilisées pour l'aérodynamisme des voitures                                        |
 
 |![](links/overview-writing-history_172.jpg)|![](links/overview-writing-history_172_Image_0002.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
