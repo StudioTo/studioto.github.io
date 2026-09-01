@@ -17,7 +17,7 @@
 - [Humanistes](#%EF%B8%8F-humanistes)
 - [Géométriques](#%EF%B8%8F-géométriques)
 - [Néo-Grotesques](#%EF%B8%8F-néo-grotesques)
-- [Non-Alphabétiques](#%EF%B8%8F-non-alphabétiques)
+- [Non-Latines](#%EF%B8%8F-non-latines)
 - [Hybrides](#%EF%B8%8F-hybrides)
 
 <!-- 🛠️ **Avancées technologiques**
@@ -547,8 +547,8 @@ La grilles de pixels finalement est remplacée par des tracés vectoriels, qui p
 | PostScript (PS): deux fichiers (un pour l’écran et un pour l’impression). TrueType (TT): un seul fichier qui fait à la fois office de fichier d’écran et d’impression.                                        |
 
 # 1978: Character-sets étendus
-# 🗂️ Non-Alphabétiques
-Symboles (pictos, maths)
+# 🗂️ Non-Latines
+Symboles (pictogrammes, formules mathématiques)
 
 |![](links/overview-writing-history_159.jpg)|![](links/overview-writing-history_157.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
