@@ -48,7 +48,7 @@
 
 ✉️ Monuments architecturaux (images)  
 📎 [Histoire de l’écriture (technique)](../../../track-writing-evolution/)  
-📎 [Classification anatomique](../../../classify-typefaces-shapes/) 
+📎 [Classification anatomique](../../../classify-typefaces-shapes/)  
 📎 [Classification historique](../../../classify-typefaces-history/)  
 
 # Objectifs
