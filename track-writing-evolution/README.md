@@ -20,7 +20,7 @@
 - [Non-Alphabétiques](#%EF%B8%8F-non-alphabétiques)
 - [Hybrides](#%EF%B8%8F-hybrides)
 
-🛠️ **Avancées technologiques**
+<!-- 🛠️ **Avancées technologiques**
 
 - [Invention de l’alphabet](#-1100-alpabet-occidental-moderne)
 - [Invention des chiffres latins](#1202-chiffres-latins)
@@ -29,7 +29,7 @@
 - [Invention de la machine à écrire](#1829-machine-à-écrire)
 - [Invention de la composition à chaud](#1880-automatisation)
 - [Invention de la photo-composition](#1950-développements-daprès-guerre)
-- [Invention de la typographie digitale](#1968--aujourdhui-typographie-digitale)
+- [Invention de la typographie digitale](#1968--aujourdhui-typographie-digitale) -->
 
 &nbsp;
 
@@ -145,6 +145,9 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 |:------------------------------------------:|:------------------------------------------:|
 | Cippus Perusinus, près de Pérouse, Italie                                        | Évolution du grec au latin                                        |
 
+# 🛠️ Gravure sur pierre
+Les inscriptions romaines sont gravées (ductus = mode d’emploi) au ciseau sur la pierre.
+
 # -753: Antiquité Romaine
 # 🗂️ Incises
 À mesure que l'Empire Romain est devenu la puissance dominante, il a synthétisé les influences étrusques pour créer une culture unique. La capitale monumentale romaine incarne ainsi l'autorié de l'empire et témoigne du développement architectural et urbain de Rome.
@@ -163,7 +166,10 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 
 |![](links/overview-writing-history_033.jpg)|
 |:------------------------------------------:|
-| Les inscriptions romaines sont gravées (ductus = mode d’emploi) au ciseau sur la pierre                                        |
+| Les inscriptions romaines sont gravées (ductus = mode d’emploi) au ciseau sur la pierre.                                       |
+
+# 🛠️ Calligraphie à la plume
+Les formes des lettres évoluent: on passe de lettres ciselées dans la pierre à des lettres tracées à la plume de roseau (calame).
 
 # 0 – 476: Empire Romain
 # 🗂️ Onciales
@@ -224,6 +230,14 @@ La minuscule carolingienne devient plus étroite (plus de lettres sur une ligne)
 |![](links/overview-writing-history_059.jpg)|
 |:------------------------------------------:|
 | Ductus gothique                                        |
+
+# 1350 – 1420: Écriture de Chancellerie
+# 🗂️ Cursives
+L’écriture de chancellerie trouve son origine dans la calligraphie à plume large utilisée par la chancellerie italienne pour les relations commerciales pendant la Renaissance. Cette écriture devait être calligraphiée rapidement, d’où son appelation «cursive» (qui court).
+
+|![](links/overview-writing-history-v4_001.png)|
+|:------------------------------------------:|
+| Écriture de Chancellerie anglaise, Lettre de Henri V, 1418                                         |
   
 # 1450: Gutenberg
 # 🛠️ Caractères mobiles
@@ -269,8 +283,7 @@ Aldo Manuce cherche à reproduire la plus belle graphie possible avec des caract
 | Minuscules Humanistes calligraphiées                                        | Minuscules Humanistes imprimées                                        |
 
 # 1500: L’italique
-# 🗂️ Cursives
-Apparition de l’italique, inspirée de l’écriture utilisée par la chancellerie italienne (relations commerciales).
+Apparition de l’italique, inspirée de l’écriture utilisée par la chancellerie italienne.
 
 |![](links/overview-writing-history_084.jpg)|![](links/overview-writing-history_085.jpg)|
 |:------------------------------------------:|:------------------------------------------:|

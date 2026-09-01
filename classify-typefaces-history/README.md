@@ -7,7 +7,7 @@
 	- [Script Cursif *Chancellerie*](#script-chancellerie)
 	- [Script Cursif *Main Ronde*](#script-main-ronde)
 - [Sérifs](#serifs)
-	- [Sérif Humaniste *Garaldes*](#serif-humaniste)
+	- [Sérif Humaniste *Humanes-Garaldes*](#serif-humaniste)
 	- [Sérif Transitionnelle *Réales*](#serif-transitionnelle)
 	- [Sérif Rationnelle *Didones*](#serif-rationnelle)
 - [Slab-Sérifs](#slab-serifs)
@@ -209,7 +209,7 @@
 
 # [Sérifs](https://studioto.github.io/track-writing-evolution/#%EF%B8%8F-humanes) {#serifs}
 
-## Sérif Humaniste / Garaldes {#serif-humaniste}
+## Sérif Humaniste / Humanes-Garaldes {#serif-humaniste}
 
 | Squelette | Graisse | Enveloppe |
 |:---:|:---:|:---:|
