@@ -40,7 +40,7 @@
         + Référence de l’image adjacente: Bâtiment, Ville, année
 
     4.  Bonus (pour les personnes qui ont terminé l’exercice en avance)
-        lire la page sur la classification anatomique
+        lire la page sur l’anatomie + la classification anatomique
         pour chaque famille, indiquer en dessous de la technique les 3 paramètres anatomiques
         (possible de se référer à la page classification historique)
 
@@ -48,6 +48,7 @@
 
 ✉️ Monuments architecturaux (images)  
 📎 [Histoire de l’écriture (technique)](../../../track-writing-evolution/)  
+📎 [Anatomie des caractères](../../../study-sign-shapes/) 
 📎 [Classification anatomique](../../../classify-typefaces-shapes/)  
 📎 [Classification historique](../../../classify-typefaces-history/)  
 
