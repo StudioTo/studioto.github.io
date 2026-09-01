@@ -145,10 +145,9 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 |:------------------------------------------:|:------------------------------------------:|
 | Cippus Perusinus, près de Pérouse, Italie                                        | Évolution du grec au latin                                        |
 
+# -753: Antiquité Romaine
 # 🛠️ Gravure sur pierre
 Les inscriptions romaines sont gravées (ductus = mode d’emploi) au ciseau sur la pierre.
-
-# -753: Antiquité Romaine
 # 🗂️ Incises
 À mesure que l'Empire Romain est devenu la puissance dominante, il a synthétisé les influences étrusques pour créer une culture unique. La capitale monumentale romaine incarne ainsi l'autorié de l'empire et témoigne du développement architectural et urbain de Rome.
 
@@ -168,10 +167,9 @@ Les inscriptions romaines sont gravées (ductus = mode d’emploi) au ciseau sur
 |:------------------------------------------:|
 | Les inscriptions romaines sont gravées (ductus = mode d’emploi) au ciseau sur la pierre.                                       |
 
+# 0 – 476: Empire Romain
 # 🛠️ Calligraphie à la plume
 Les formes des lettres évoluent: on passe de lettres ciselées dans la pierre à des lettres tracées à la plume de roseau (calame).
-
-# 0 – 476: Empire Romain
 # 🗂️ Onciales
   Le script oncial était officiellement utilisé dans l'empire pour la copie de textes littéraires, religieux et bibliques sur sur parchemin.
 
@@ -489,7 +487,7 @@ Le style international incarne la volonté de représenter l’information de ma
 # 1968 — Aujourd’hui: Typographie digitale
 
 # 1965: Numérique
-# 🛠️ Caractères assemblés numériquement
+# 🛠️ Caractères assemblés numériquement (typographie digitale)
 Le Digiset étant une opération entièrement digitale, elle a permis aux dessinateurs de caractères de partager leur travail sur des disquettes, mais aussi d'y revenir à tout moment pour y apporter des modifications.
 
 |![](links/overview-writing-history_166.jpg)|
@@ -501,7 +499,7 @@ Le Digiset étant une opération entièrement digitale, elle a permis aux dessin
 | Digi-Grotesk, première fonte digitale                                        |
 
 # 1965: Numérisation
-# 🛠️ OCR (Optical Character Recognition)
+# 🔧 OCR (Optical Character Recognition)
 La technologie de reconnaissance optique des caractères permet d'identifier les caractères imprimés et de les reproduire / enregistrer sous forme d'informations numériques.
 
 |![](links/overview-writing-history-v3_006.png)|
@@ -517,7 +515,7 @@ La technologie de reconnaissance optique des caractères permet d'identifier les
 | Reconnaissance de la lettre par décomposition en modules simples                                        | Traduction de la forme dans une grille matricielle                                       |
 
 # 1970: Grille de pixels
-# 🛠️ Bitmap
+# 🔧 Bitmap
 Le système matriciel utilise une combinaison de pixels pour créer des caractères individuels. Bien que des fichiers distincts pour chaque taille et résolution soit nécessaires (coûteux en mémoire à l'époque), les bitmaps ont grandement facilité l'utilisation et le transfert des fontes.
 
 |![](links/overview-writing-history_168.jpg)|
@@ -529,7 +527,7 @@ Le système matriciel utilise une combinaison de pixels pour créer des caractè
 | Sélection de fontes bitmap                                        |
 
 # 1980: Vecteurs
-# 🛠️ Postscript
+# 🔧 Postscript
 La grilles de pixels finalement est remplacée par des tracés vectoriels, qui permettent aux concepteurs de mettre à l'échelle n'importe quel symbole sans perte de qualité.
 
 |![](links/overview-writing-history_170.jpg)|![](links/overview-writing-history_171.jpg)|
@@ -565,7 +563,7 @@ Famille hybrides qui comprennent notamment des fontes avec et sans empatements, 
 | Rotis, Otl Aicher                                        |
 
 # 1996: TrueType + PostScript
-# 🛠️ Opentype
+# 🔧 Opentype
 Le format OpenType est un format de police de caractères unifié qui combine les technologies TrueType (Apple) et Type 1 PostScript (Adobe), offrant une large compatibilité multiplateforme et la prise en charge de fonctionnalités typographiques telles que les substitutions ou la gestion de différents systèmes d’écriture.
 
 |![](links/overview-writing-history_175.jpg)|
@@ -573,7 +571,7 @@ Le format OpenType est un format de police de caractères unifié qui combine le
 | En raison de sa flexibilité, l’openType s’impose comme le format de référence sur les plates-formes informatiques                                        |
 
 # 2016: Interpolations
-# 🛠️ OpenType Variable Fonts
+# 🔧 OpenType Variable Fonts
 Les polices variables contiennent plusieurs masters dans un fichier unique et permettent d’interpoler entre ces masters le long de différents axes
 
 |![](links/overview-writing-history_176.jpg)|
