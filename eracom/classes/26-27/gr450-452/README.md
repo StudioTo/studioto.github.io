@@ -25,6 +25,8 @@ Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more
 <!-- Fin du documentaire + distrib journeaux -->
 
 # 31.08.2026
+
+⬆️
 <!-- 
 Remake 1 page (images from Moma) -->
 
