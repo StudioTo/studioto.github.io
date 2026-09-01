@@ -5,7 +5,7 @@
 - [Incises](#%EF%B8%8F-incises)
 - [Onciales](#%EF%B8%8F-onciales)
 - [Cursives](#%EF%B8%8F-cursives)
-- [Gothiques](#%EF%B8%8F-gothiques)
+- [Fractures](#%EF%B8%8F-Fractures)
 - [Humanes](#%EF%B8%8F-humanes)
 - [Garaldes](#%EF%B8%8F-garaldes)
 - [Réales](#%EF%B8%8F-réales)
@@ -214,7 +214,7 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 | Généalogie des chiffres latins                                        |
 
 # 1200 – 1450: Gothique
-# 🗂️ Gothiques
+# 🗂️ Fractures
 La minuscule carolingienne devient plus étroite (plus de lettres sur une ligne), les arrondis des lettres commencent à se briser (calligraphie « fracturée »).
 
 |![](links/overview-writing-history_057.jpg)|
