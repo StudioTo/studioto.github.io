@@ -16,6 +16,7 @@
 	- [Sans Rationnelle *Grotesques*](#sans-rationnelle)
 	- [Sans Humaniste *Humanes*](#sans-humaniste)
 	- [Sans Construite *Géométriques*](#sans-construite)
+	- [Sans Rationnelle *Néo-Grotesques*](#sans-rationnelle-neo)
 - [Expressives](#expressives)
 - [Hybrides](#hybrides)
   
@@ -404,6 +405,14 @@
 |![](links/1-Historique50.jpg) |
 |:---:|
 | 1931 | 
+
+## Sans Rationnelle / Néo-Grotesques {#sans-rationnelle-neo}
+
+| Squelette | Graisse | Enveloppe |
+|:---:|:---:|:---:|
+| Statique |  Linéaire  |  Sans-Sérif  |
+
+|  Les «néo-grotesques» émergent au milieu du XXe siècle avec le *Style Typographique International* (ou *Style Suisse*). Les caractères perdent les irrégularités de dessin de leurs prédécesseures (les «grotestques») pour atteindre un optimum de clarté. Elles ont donc une apparence moins chaleureuse et plus neutre que les grotesques. Les caractères sont généralement peu contrastés et les capitales sont dessinées avec une largeur uniforme. |
 
 | Folio | 
 |:---:|
