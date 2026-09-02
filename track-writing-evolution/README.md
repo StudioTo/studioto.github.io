@@ -548,6 +548,7 @@ La grilles de pixels finalement est remplacée par des tracés vectoriels, qui p
 
 # 1978: Character-sets étendus
 # 🗂️ Non-Latines
+# 🛠️ Dingbats
 Symboles (pictogrammes, formules mathématiques)
 
 |![](links/overview-writing-history_159.jpg)|![](links/overview-writing-history_157.jpg)|
@@ -556,6 +557,7 @@ Symboles (pictogrammes, formules mathématiques)
 
 # 1988: Super familles
 # 🗂️ Hybrides
+# 🛠️ Superfamille: variations stylistiques au sein d’une même famille
 Famille hybrides qui comprennent notamment des fontes avec et sans empatements, de même que des fontes linéaires et contrastées, toutes basées sur le même squelette.
 
 |![](links/overview-writing-history_161.jpg)|
