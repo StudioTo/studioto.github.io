@@ -548,8 +548,8 @@ La grilles de pixels finalement est remplacée par des tracés vectoriels, qui p
 
 # 1978: Character-sets étendus
 # 🗂️ Non-Latines
-# 🛠️ Dingbats
-Symboles (pictogrammes, formules mathématiques)
+# 🛠️ Dingbats & Pi Fonts (symboles à la place des lettres)
+Historiquement en typographie, un *dingbat* est un ornement (souvent utilisé pour délimiter des espaces ou créer des contours). Au débuts de la typographie digitale, la technologie de l’époque ne permettait pas de stocker des symboles en plus des lettres dans un même fichier fonte. Par conséquent, les fontes *Dingbats* (symboles) ou les fontes *Pi* (symboles mathématiques) étaient des fichiers fontes entièrement dédiés aux symboles. Les symboles étaient stockés dans les emplacements normalement dédiés aux lettres.
 
 |![](links/overview-writing-history_159.jpg)|![](links/overview-writing-history_157.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
@@ -557,7 +557,7 @@ Symboles (pictogrammes, formules mathématiques)
 
 # 1988: Super familles
 # 🗂️ Hybrides
-# 🛠️ Superfamille: variations stylistiques au sein d’une même famille
+# 🛠️ Superfamille (variations stylistiques sur le même squelette)
 Famille hybrides qui comprennent notamment des fontes avec et sans empatements, de même que des fontes linéaires et contrastées, toutes basées sur le même squelette.
 
 |![](links/overview-writing-history_161.jpg)|
