@@ -5,7 +5,8 @@
 &nbsp;
 
 # Brief
-    1.  Créer un fichier InDesign
+    1.  Préparation du document
+        créer un fichier InDesign
         mode: impression
         nombre de pages: 26
         affichage des pages: vis-à-vis
@@ -13,7 +14,8 @@
         marges: 10 mm
         fonds-perdus: 3 mm
 
-    2.  Page de gauche
+    2.  Bloc image
+        page de gauche
         télécharger les images des monuments
         placer les images dans le dossier « Liens »
         dans un bloc image, importer 1 image pour chaque double page
@@ -21,7 +23,8 @@
         format pleine page
         remplir des fonds perdus
 
-    3.  Page de droite
+    3.  Bloc texte
+        page de droite
         localiser dans la typothèque le dossier de la classification concernée par l’image
         choisir et activer une police de cette classification
         dans un bloc texte qui épouse les marges, inscrire avec la police activée les informations suivantes:
@@ -39,7 +42,8 @@
 
         + Référence de l’image adjacente: Bâtiment, Ville, année
 
-    4.  Bonus (pour les personnes qui ont terminé l’exercice en avance)
+    4.  Classification anatomique
+        bonus (pour les personnes qui ont terminé l’exercice en avance)
         lire la page sur l’anatomie + la classification anatomique
         pour chaque famille, indiquer en dessous de la technique les 3 paramètres anatomiques
         (possible de se référer à la page classification historique)
