@@ -56,7 +56,7 @@
 |:---:|
 | Le corps est la taille totale de la police de caractères, mesurée de la ligne la plus basse à la ligne la plus haute comprises dans les mesures verticales           |
 
-### Carre cadratin {#carre-cadratin}
+### Carré cadratin {#carre-cadratin}
 
 |![](links/Typo_Anatomy_15.jpg) |
 |:---:|
