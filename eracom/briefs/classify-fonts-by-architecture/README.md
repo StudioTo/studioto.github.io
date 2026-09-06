@@ -33,7 +33,7 @@
         dans un bloc texte qui épouse les marges, inscrire avec la police activée les informations suivantes:
 
             Classification
-            Technique
+            + Technique de production des lettres (voir page histoire de l’écriture)
 
             ABCDEFGHIJK
             LMNOPQRSTUV
@@ -43,7 +43,7 @@
             lmnopqrstuv
             wxyz
 
-            + Référence de l’image adjacente: Bâtiment, Ville, année
+            + Référence de l’image adjacente: Bâtiment, Ville, année (voir nom des images)
 
     4.  Analyse anatomique 🎁
     
