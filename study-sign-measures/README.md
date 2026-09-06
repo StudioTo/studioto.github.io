@@ -98,7 +98,7 @@
 |:---:|
 | Les pleins sont les parties plus épaisses des caractères, tandis que les déliés sont les parties plus fines           |
 
-### Fut {#fut}
+### Fût {#fut}
 
 |![](links/Typo_Anatomy_30.jpg) |
 |:---:|
