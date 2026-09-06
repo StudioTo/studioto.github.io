@@ -1,15 +1,15 @@
 # 🔼 Optique du caractère
 
 - [Illusion](#illusion)
-- [Biais de proportions](#biais-de-proportions)
+- [Illusion de proportions](#illusion-de-proportions)
   - [Carré](#carre)
   - [Rond](#rond)
   - [Diagonale](#diagonale)
-- [Biais de dimensions](#biais-de-dimensions)
+- [Illusion de dimensions](#illusion-de-dimensions)
   - [Courbes](#courbes)
   - [Pointes](#pointes)
-- [Biais de contraste](#biais-de-contraste)
-- [Biais de position](#biais-de-position)
+- [Illusion de contraste](#illusion-de-contraste)
+- [Illusion de position](#illusion-de-position)
   - [Alignement](#alignement)
   - [Espacement](#espacement)
 - [Formes → Caractères](#formes--caracteres)
@@ -24,7 +24,7 @@
 
 Notre esprit conçoit les formes différement de comment nos yeux les perçoivent. En effet, notre oeil perçoit les traits horizontaux comme étant plus épais qu'ils ne le sont en réalité. D'autre part, les horizontales paraîssent plus longues qu'elles ne le sont mathématiquement. Une partie du travail de conception des caractères consiste donc à gérer cette friction entre logique et optique.
 
-# Biais de proportions {#biais-de-proportions}
+# Illusion de proportions {#illusion-de-proportions}
 
 |![](links/Contraste.gif) |
 |:---:|
@@ -48,7 +48,7 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 |:---:|
 | Il faut donc compenser graduellement les traits diagonaux, plus le trait est horizontal, plus il faut le compenser           |
 
-# Biais de dimensions {#biais-de-dimensions}
+# Illusion de dimensions {#illusion-de-dimensions}
 
 |![](links/Taille.gif) |
 |:---:|
@@ -66,13 +66,13 @@ Notre esprit conçoit les formes différement de comment nos yeux les perçoiven
 |:---:|
 | Les pointes doivent dépasser, souvent plus que les courbes (seulement au niveau des angles)           |
 
-# Biais de contraste {#biais-de-contraste}
+# Illusion de contraste {#illusion-de-contraste}
 
 |![](links/Compositions_negatif.gif) |
 |:---:|
 | Un carré de même taille en blanc sur noir paraît plus grand que en noir sur blanc           |
 
-# Biais de position {#biais-de-position}
+# Illusion de position {#illusion-de-position}
 
 |![](links/Rond_position.gif) |
 |:---:|
