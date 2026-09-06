@@ -54,10 +54,10 @@
 
 # Objectifs
 
-✅ Connaître la classification historique des caractères  
-✅ Savoir trouver des polices dans la typothèque  
-✅ Savoir activer des polices dans la typothèque  
-✅ Savoir utiliser les blocs texte et image dans InDesign  
+✅ Connaître l’anatomie des caractères (C1)  
+✅ Trouver des polices dans la typothèque (C3)  
+✅ Activer des polices dans la typothèque (C3)  
+✅ Utiliser les blocs texte et image dans InDesign (C3)  
 
 # Évaluation
 
