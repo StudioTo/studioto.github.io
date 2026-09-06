@@ -60,7 +60,7 @@
 
 ✅ Connaître l’anatomie des caractères (C1)  
 ✅ Rassembler les caractères d’une même police (C3)  
-✅ Positionner les caractères correctement selon les mesures verticales (C3) 
+✅ Positionner les caractères correctement selon les mesures verticales (C3)  
 ✅ Espacer les caractères correctement dans le sens horizontal (C3)  
 ✅ Utiliser les outils pathfinder, rotation, les calques et les repères dans InDesign (C3)  
 
