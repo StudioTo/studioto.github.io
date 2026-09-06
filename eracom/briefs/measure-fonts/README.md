@@ -33,15 +33,15 @@
             Positionner correctement chaque mesure en fonction de la police
 
     4.  Alignement horizontal des caractères
-    
+
         Espacer horizontalement les caractères de sorte à ce que le vide entre chaque caractère soit le même
 
     5.  Terminologie 🎁
 
 # Ressources
 
-📄 Fichier Illustrator (caractères) 
-📄 Fichier InDesign (mesures)   
+✉️ Fichier Illustrator (caractères)  
+✉️ Fichier InDesign (mesures)   
 📎 [Mesures du caractère](../../../study-sign-measures/)  
 
 # Objectifs
