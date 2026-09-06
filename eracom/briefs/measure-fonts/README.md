@@ -46,16 +46,17 @@
 
 # Ressources
 
-📄 Fichier InDesign (images)  
-📄 Fichier Illustrator (images)  
-📎 [Histoire de l’écriture (point 3)](../../../track-writing-evolution/)  
+📄 Fichier Illustrator (caractères) 
+📄 Fichier InDesign (gabarit)   
+📎 [Mesures du caractère](../../../study-sign-measures/)  
 
 # Objectifs
 
 ✅ Connaître l’anatomie des caractères (C1)  
-✅ Trouver des polices dans la typothèque (C3)  
-✅ Activer des polices dans la typothèque (C3)  
-✅ Utiliser les blocs texte et image dans InDesign (C3)  
+✅ Rassembler les caractères d’une même police (C3)  
+✅ Positionner les caractères correctement selon les mesures verticales (C3) 
+✅ Espacer les caractères correctement dans le sens horizontal (C3)  
+✅ Utiliser les outils pathfinder, rotation et les repères dans InDesign (C3)  
 
 # Évaluation
 
