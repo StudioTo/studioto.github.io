@@ -46,11 +46,9 @@
 
 # Ressources
 
-✉️ Monuments architecturaux (images)  
+📄 Fichier InDesign (images)  
+📄 Fichier Illustrator (images)  
 📎 [Histoire de l’écriture (point 3)](../../../track-writing-evolution/)  
-📎 [Anatomie des caractères (point 4)](../../../study-sign-shapes/)  
-📎 [Classification anatomique (point 4)](../../../classify-typefaces-shapes/)  
-📎 [Classification historique (point 4)](../../../classify-typefaces-history/)  
 
 # Objectifs
 
