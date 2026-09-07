@@ -32,6 +32,8 @@ Remake 1 page (images from Moma) -->
 
 # 07.09.2026
 
+[🎥 Création des styles de paragraphes / de caractères](https://kdrive.t-o.studio/app/share/105447/03d6af24-521e-464d-b27c-a3293e306963) 
+
 # 14.09.2026
 
 # 21.09.2026 🏖️
