@@ -22,7 +22,7 @@
 
 # 07.9.2026
 
-1.2. Lettre: ex. anatomie
+[📄 1.2. Lettre: ex. anatomie](../../../briefs/measure-fonts/) 
 
 # 14.9.2026
 
