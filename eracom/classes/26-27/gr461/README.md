@@ -23,6 +23,7 @@
 # 07.9.2026
 
 [📄 1.2. Lettre: ex. anatomie](../../../briefs/measure-fonts/) 
+[🎥 1.2. Lettre: ex. anatomie](https://kdrive.t-o.studio/app/share/105447/e110f401-2145-4708-8a8b-5f65e6f2f8e8)  
 
 # 14.9.2026
 
