@@ -40,9 +40,11 @@
         ⚠️ laisser le crénage en métrique
         ➡️ corriger l’approche à l’oeil
 
-    3.  Bonus 🎁
+    3.  Primitive shapes 🎁
 
-        Dessin pathfinder carré, rond, triangle + croix
+        à l’aide du pathfinder ou de la plume
+        dessiner les formes primitives suivantes avec un fond noir: carré, rond, triangle
+        sur la même ligne de base et avec une même hauteur de x de 4cm
 
 # Ressources
 
@@ -51,11 +53,10 @@
 
 # Objectifs
 
-✅ Connaître l’anatomie des caractères (C1)  
-✅ Rassembler les caractères d’une même police (C3)  
-✅ Positionner les caractères correctement selon les mesures verticales (C3)  
-✅ Espacer les caractères correctement dans le sens horizontal (C3)  
-✅ Utiliser les outils pathfinder, rotation, les calques et les repères dans InDesign (C3)  
+✅ Connaître les règlages optiques des caractères (C1)  
+✅ Ajuster le crénage entre des caractères (C3)  
+✅ Ajuster optiquement des formes primitives (C3)  
+✅ Utiliser les outils de crénage, le pathfinder et la plume dans InDesign (C3)  
 
 # Évaluation
 
