@@ -37,16 +37,16 @@
             police: police reçue par mail
             corps: 50pts
 
-        laisser le crénage en métrique
-        corriger l’approche à l’oeil
+        ⚠️ laisser le crénage en métrique
+        ➡️ corriger l’approche à l’oeil
 
     3.  Bonus 🎁
 
-        ???
+        Dessin pathfinder carré, rond, triangle + croix
 
 # Ressources
 
-✉️ Fichier de police (espacement déréglé)  
+✉️ Fichier de police (broken font)  
 📎 [Mesures du caractère](../../../study-sign-measures/)  
 
 # Objectifs
