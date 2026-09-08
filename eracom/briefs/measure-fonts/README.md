@@ -33,6 +33,8 @@
             Dévérouiller toutes les mesures sauf la ligne de pied
             Positionner correctement chaque mesure en fonction de la police
 
+        ⚠️  Les caractères sont déjà à la bonne taille, il ne faut pas les re-dimensionner
+
     4.  Alignement horizontal des caractères
 
         Espacer horizontalement les caractères de sorte à ce que les vides entre les caractères soient les mêmes
