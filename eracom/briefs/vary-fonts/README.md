@@ -28,13 +28,13 @@
 
     2.  Création de blocs textes pour chaque section
 
-             a |   | c |   
+             a | a | c | c 
             ———————––––––––
-             b |   |   |   
+             b | b | c | c 
             ———————––––––––
-             d |   |   |   
+             d | d | d | d 
             ———————––––––––
-               |   |   |   
+             d | d | d | d 
 
         a.  section graisses
 
