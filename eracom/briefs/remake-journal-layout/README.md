@@ -16,17 +16,6 @@
 
     2.  Recomposer une page du journal imposé
 
-<!-- importer les textes par copier-coller
-nettoyer les textes importés (retours, microtypographie)
-créer et appliquer des styles de paragraphes et de caractères
-activer les polices les plus semblables
-adapter les styles
-configurer les colonnes
-configurer la grille de ligne de base
-créer et positionner des blocs textes
-trouver des oeuvres dans la collection du MoMA pour remplacer les images
-créer les éléments graphiques (filets) -->
-
         a.  Importation du texte
 
             ✓ Captures d'écran par article  
@@ -73,6 +62,17 @@ créer les éléments graphiques (filets) -->
         les images sont à 300 dpi dans la mise en page
         les images sont au ratio original (1/1)
         le contrôle en amont (preflight) est vert
+
+<!-- importer les textes par copier-coller
+nettoyer les textes importés (retours, microtypographie)
+créer et appliquer des styles de paragraphes et de caractères
+activer les polices les plus semblables
+adapter les styles
+configurer les colonnes
+configurer la grille de ligne de base
+créer et positionner des blocs textes
+trouver des oeuvres dans la collection du MoMA pour remplacer les images
+créer les éléments graphiques (filets) -->
 
 # Regex
 
