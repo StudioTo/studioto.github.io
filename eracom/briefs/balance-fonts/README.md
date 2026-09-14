@@ -31,7 +31,7 @@
         créer un bloc de texte
 
             dimensions: dans les marges
-            décalage ligne de base: ascendante
+            décalage ligne de base: capitales
             alignement horizontal: centré
             alignement vertical: centré
             police: police reçue par mail
