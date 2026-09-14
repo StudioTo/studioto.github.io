@@ -21,11 +21,6 @@ Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more
 
 [📄 Brief Remake Journal](../../../briefs/remake-journal-layout/)  
 [🎥 Importation du texte](https://kdrive.t-o.studio/app/share/105447/3da71e7d-ce17-4c98-9be2-c1119d0928c0)  
-  
-☑️ Captures d'écran par article  
-☑️ Copier, coller sans style  
-☑️ Notes de bas de page  
-☑️ Regex  
 
 <!-- Fin du documentaire + distrib journeaux -->
 
@@ -38,35 +33,20 @@ Remake 1 page (images from Moma) -->
 # 07.09.2026
 
 [🎥 Styles de paragraphes et de caractères](https://kdrive.t-o.studio/app/share/105447/03d6af24-521e-464d-b27c-a3293e306963)  
-  
-☑️ Identifier les hiérarchies = styles (paragraphes vs caractères)  
-☑️ Format de caractères de base (famille, casse)  
-☑️ Retrait et espacement  
 
 # 14.09.2026
 
 [🎥 Grille horizontale: colonnes](https://kdrive.t-o.studio/app/share/105447/31e89ef0-7dfc-45b7-94ab-1d3aec32e53f)  
-  
-☑️ Marges et colonnes  
-☑️ Étendue de colonnes  
-☑️ Habillage  
-☑️ Options de notes de bas de page du document  
 
 # 21.09.2026 🏖️
 
 # 28.09.2026
 
-🎥 Grille verticale: lignes (grille de ligne de base, + césure, + justification)  
-  
-☑️ Grille de ligne de base  
-☑️ Alignement sur la grille (style)  
-☑️ Césures  
-☑️ Justification  
+🎥 Grille verticale: lignes  
 
 # 05.10.2026
 
-🎥 Images + Éléments graphiques (titre, filets, publicités texte + vecto)
-  
+🎥 Éléments graphiques
 
 # 12.10.2026 🏖️
 
