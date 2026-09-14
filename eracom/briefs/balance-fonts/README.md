@@ -49,7 +49,8 @@
 # Ressources
 
 ✉️ Fichier de police (broken font)  
-📎 [Mesures du caractère](../../../study-sign-measures/)  
+📎 [Kerning Quizz](https://type.method.ac/)  
+📎 [Optique du caractère](../../../study-sign-optics/)  
 
 # Objectifs
 
