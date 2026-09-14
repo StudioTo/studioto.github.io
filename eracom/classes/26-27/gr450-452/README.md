@@ -20,7 +20,7 @@ Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more
 # 24.08.2026
 
 [📄 Brief Remake Journal](../../../briefs/remake-journal-layout/)  
-[🎥 Importation Texte](https://kdrive.t-o.studio/app/share/105447/3da71e7d-ce17-4c98-9be2-c1119d0928c0)  
+[🎥 Importation du texte](https://kdrive.t-o.studio/app/share/105447/3da71e7d-ce17-4c98-9be2-c1119d0928c0)  
 
 <!-- Fin du documentaire + distrib journeaux -->
 
@@ -32,7 +32,7 @@ Remake 1 page (images from Moma) -->
 
 # 07.09.2026
 
-[🎥 Création des styles de paragraphes et de caractères](https://kdrive.t-o.studio/app/share/105447/03d6af24-521e-464d-b27c-a3293e306963) 
+[🎥 Styles de paragraphes et de caractères](https://kdrive.t-o.studio/app/share/105447/03d6af24-521e-464d-b27c-a3293e306963) 
 
 # 14.09.2026
 
