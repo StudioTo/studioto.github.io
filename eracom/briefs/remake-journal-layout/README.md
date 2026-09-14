@@ -53,15 +53,15 @@
 
     3.  Vérifier le fichier:
 
-        pas de symbole manquant
-        pas de de symbole remplacé dans une police
-        pas d’exception de style de paragraphe ou de caractère
-        les blocs sont alignés sur la grille
-        les styles sont alignés sur la grille de ligne de base
-        pas de lien manquant ou modifié
-        les images sont à 300 dpi dans la mise en page
-        les images sont au ratio original (1/1)
-        le contrôle en amont (preflight) est vert
+        ✓ pas de symbole manquant
+        ✓ pas de de symbole remplacé dans une police
+        ✓ pas d’exception de style de paragraphe ou de caractère
+        ✓ les blocs sont alignés sur la grille
+        ✓ les styles sont alignés sur la grille de ligne de base
+        ✓ pas de lien manquant ou modifié
+        ✓ les images sont à 300 dpi dans la mise en page
+        ✓ les images sont au ratio original (1/1)
+        ✓ le contrôle en amont (preflight) est vert
 
 <!-- importer les textes par copier-coller
 nettoyer les textes importés (retours, microtypographie)
