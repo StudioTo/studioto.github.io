@@ -53,7 +53,7 @@ Remake 1 page (images from Moma) -->
 
 # 28.09.2026
 
-Grille verticale: lignes (grille de ligne de base, + césure, + justification)  
+🎥 Grille verticale: lignes (grille de ligne de base, + césure, + justification)  
 ☑️ Grille de ligne de base  
 ☑️ Alignement sur la grille (style)  
 ☑️ Césures  
@@ -61,7 +61,7 @@ Grille verticale: lignes (grille de ligne de base, + césure, + justification)
 
 # 05.10.2026
 
-Images + Éléments graphiques (titre, filets, publicités texte + vecto)
+🎥 Images + Éléments graphiques (titre, filets, publicités texte + vecto)
 
 # 12.10.2026 🏖️
 
