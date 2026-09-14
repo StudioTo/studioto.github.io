@@ -44,16 +44,16 @@ Remake 1 page (images from Moma) -->
 # 14.09.2026
 
 [🎥 Grille horizontale: colonnes](https://kdrive.t-o.studio/app/share/105447/31e89ef0-7dfc-45b7-94ab-1d3aec32e53f)  
-☑️ Marges et colonnes 
-☑️ Étendue de colonnes 
+☑️ Marges et colonnes  
+☑️ Étendue de colonnes  
 ☑️ Habillage  
-☑️ Options de notes de bas de page du document 
+☑️ Options de notes de bas de page du document  
 
 # 21.09.2026 🏖️
 
 # 28.09.2026
 
-Grille verticale: lignes (grille de ligne de base, + césure, + justification)
+Grille verticale: lignes (grille de ligne de base, + césure, + justification)  
 ☑️ Grille de ligne de base  
 ☑️ Alignement sur la grille (style)  
 ☑️ Césures  
