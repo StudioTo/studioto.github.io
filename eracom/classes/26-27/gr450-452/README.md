@@ -7,7 +7,7 @@
 # 17.08.2026
 
 [📎 Gestion de classe](../../../briefs/introduce-typography/)  
-Documentaire: *Graphic Means*
+📼 Documentaire: *Graphic Means*
 
 <!-- Définition du programme
 Sem. 1 Remake (page de journal) + Grille de mise en page (booklet) + Visualisation de donnée (poster)
@@ -36,9 +36,9 @@ Remake 1 page (images from Moma) -->
 
 # 14.09.2026
 
-Point de situation
-Choix des polices
-Colonnes, étendue et division
+Point de situation  
+Choix des polices  
+Colonnes, étendue et division  
 
 # 21.09.2026 🏖️
 
