@@ -36,9 +36,9 @@ Remake 1 page (images from Moma) -->
 
 # 14.09.2026
 
-Point de situation  
-Choix des polices  
-Colonnes, étendue et division  
+☑️ Point de situation  
+☑️ Choix des polices  
+☑️ Colonnes, étendue et division  
 
 # 21.09.2026 🏖️
 
