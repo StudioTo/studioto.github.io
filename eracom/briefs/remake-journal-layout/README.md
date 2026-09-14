@@ -6,6 +6,7 @@
 
 # Brief
     1.  Créer un fichier InDesign
+
         mode: impression
         nombre de pages: 1
         affichage des pages: simple
@@ -14,18 +15,55 @@
         fonds-perdus: 3 mm
 
     2.  Recomposer une page du journal imposé
-        importer les textes par copier-coller
-        nettoyer les textes importés (retours, microtypographie)
-        créer et appliquer des styles de paragraphes et de caractères
-        activer les polices les plus semblables
-        adapter les styles
-        configurer les colonnes
-        configurer la grille de ligne de base
-        créer et positionner des blocs textes
-        trouver des oeuvres dans la collection du MoMA pour remplacer les images
-        créer les éléments graphiques (filets)
+
+<!-- importer les textes par copier-coller
+nettoyer les textes importés (retours, microtypographie)
+créer et appliquer des styles de paragraphes et de caractères
+activer les polices les plus semblables
+adapter les styles
+configurer les colonnes
+configurer la grille de ligne de base
+créer et positionner des blocs textes
+trouver des oeuvres dans la collection du MoMA pour remplacer les images
+créer les éléments graphiques (filets) -->
+
+        a.  Importation du texte
+
+            ✓ Captures d'écran par article  
+            ✓ Copier, coller sans style  
+            ✓ Notes de bas de page  
+            ✓ Regex  
+
+        b.  Styles de paragraphes & caractères
+
+            ✓ Identifier les hiérarchies = styles (paragraphes vs caractères)  
+            ✓ Format de caractères de base (famille, casse)  
+            ✓ Retrait et espacement  
+
+        c.  Grille horizontale: colonnes
+
+            ✓ Marges et colonnes  
+            ✓ Étendue de colonnes  
+            ✓ Habillage  
+            ✓ Options de notes de bas de page du document  
+
+        d.  Grille verticale: lignes
+
+            ✓ Grille de ligne de base  
+            ✓ Alignement sur la grille (style)  
+            ✓ Césures  
+            ✓ Justification  
+
+        e.  Éléments graphiques
+
+            ✓ Images
+            ✓ Titre
+            ✓ Prix
+            ✓ Filets
+            ✓ Publicités (texte + vecto)
 
     3.  Vérifier le fichier:
+
         pas de symbole manquant
         pas de de symbole remplacé dans une police
         pas d’exception de style de paragraphe ou de caractère
