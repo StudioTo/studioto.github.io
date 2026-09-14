@@ -45,11 +45,17 @@
 
         e.  Éléments graphiques
 
-            ✓ Images
-            ✓ Titre
-            ✓ Prix
-            ✓ Filets
-            ✓ Publicités (texte + vecto)
+            ✓ Navigation: titre, section, folio, date
+            ✓ Formes: symboles, encadrements, filets
+            ✓ Listes
+            ✓ Tableaux
+            ✓ Schémas
+
+        f.  Images
+
+            ✓ Images (Moma)
+            ✓ Illustrations (vectorisation)
+            ✓ Logos, Logotypes
 
     3.  Vérifier le fichier:
 
