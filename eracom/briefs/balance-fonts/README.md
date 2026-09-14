@@ -37,8 +37,8 @@
             police: police reçue par mail
             corps: 50pts
 
-        ⚠️ laisser le crénage en métrique
-        ➡️ corriger l’approche à l’oeil
+        ⚠️ laisser l’approche à zéro
+        ➡️ corriger le crénage à l’oeil (en métrique)
 
     3.  Primitive shapes 🎁
 
