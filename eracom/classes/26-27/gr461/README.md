@@ -27,7 +27,7 @@
 
 # 14.9.2026
 
-1.3. Lettre: ex. optique
+[📄 1.3. Lettre: ex. optique](../../../briefs/balance-fonts/)  
 
 # 21.9.2026 🏖️
 
