@@ -36,15 +36,17 @@ Remake 1 page (images from Moma) -->
 
 # 14.09.2026
 
-☑️ Point de situation  
-☑️ Choix des polices  
-☑️ Colonnes, étendue et division  
+[🎥 Grille horizontale: colonnes](https://kdrive.t-o.studio/app/share/105447/31e89ef0-7dfc-45b7-94ab-1d3aec32e53f) 
 
 # 21.09.2026 🏖️
 
 # 28.09.2026
 
+Grille verticale: lignes
+
 # 05.10.2026
+
+Images + Éléments graphiques (titre, filets, publicités)
 
 # 12.10.2026 🏖️
 
