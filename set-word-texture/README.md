@@ -16,7 +16,7 @@ La texture du mot fait référence aux formes de lettre choisies pour véhiculer
 
 |![](links/0-Mot15.gif) |
 |:---:|
-| Chaque caractère produit différents effets |
+| Chaque caractère produit un effet différent |
 
 **Axes sémantiques**
 
