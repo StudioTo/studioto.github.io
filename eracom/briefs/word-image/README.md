@@ -20,10 +20,9 @@
         Plus le.la typographe forme de nouvelles combinaisons, plus il.elle est en mesure de faire produire une proposition précise.
         C’est un processus cumulatif.
 
-    1.  Composition de marques verbales
+    1.  Composition d’une marque verbale
 
-        choisir 3 clients parmis la liste que vous avez reçue
-        pour chacun, créer une marque verbale en suivant le processus cumulatif suivant:
+        pour le client qui vous a été attribué, créer une marque verbale en suivant le processus cumulatif suivant:
         
         a. la texture du mot: 10 essais
         b. la graphie du mot: 10 essais
@@ -31,6 +30,8 @@
         d. la composition du mot: 10 essais
 
         + 10 essais qui combinent les meilleurs variantes de a-b-c-d
+
+        ⚠️ la marque verbale doit contenir le nom du client uniquement (et non l’information qui est entre parenthèses)
 
 # Ressources
 
