@@ -42,6 +42,7 @@
 
     3.  Primitive shapes 🎁
 
+        lire et comprendre la page «Optique du caractère»
         à l’aide du pathfinder ou de la plume
         dessiner les formes primitives suivantes avec un fond noir: carré, rond, triangle
         sur la même ligne de base et avec une même hauteur de x de 4cm
