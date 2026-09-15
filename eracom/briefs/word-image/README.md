@@ -36,7 +36,7 @@
 
 # Ressources
 
-✉️ Listes de clients 
+✉️ Listes de clients  
 📎 [Texture du mot](../../../set-word-texture/)  
 📎 [Graphie du mot](../../../set-word-case/)  
 📎 [Articulation du mot](../../../set-word-articulation/)  
