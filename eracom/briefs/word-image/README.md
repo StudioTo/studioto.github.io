@@ -7,9 +7,9 @@
 # Brief
 
         La composition typographique d’un mot est régie par la grammaire et l’orthographe de la langue concernée.
-        Ces paramètres sont hors du champ d’action du typographe.
+        Ces paramètres sont hors du champ d’action de la typographie.
 
-        Néanmoins, malgré ces contraintes, le.la typographe peut agir sur différents paramètres:
+        Néanmoins, malgré ces contraintes, la typographie peut agir sur différents paramètres:
 
         – la texture du mot
         — la graphie du mot
@@ -17,21 +17,22 @@
         – la composition du mot
 
         Ces paramètres peuvent être combinés à volonté.
-        Plus le.la typographe forme de nouvelles combinaisons, plus il.elle est en mesure de faire produire une proposition précise.
+        Plus on forme de nouvelles combinaisons, plus on est en mesure de faire produire une proposition précise.
         C’est un processus cumulatif.
 
     1.  Composition d’une marque verbale
 
-        pour le client qui vous a été attribué, créer une marque verbale en suivant le processus cumulatif suivant:
+        pour le client qui vous a été attribué, créer une marque verbale en suivant le processus suivant:
         
         a. la texture du mot: 10 essais
-        b. la graphie du mot: 10 essais
-        c. l’articulation du mot: 10 essais
-        d. la composition du mot: 10 essais
+        b. la graphie du mot: 10 essais (en partant de la meilleure variante a)
+        c. l’articulation du mot: 10 essais (en partant de la meilleure variante b)
+        d. la composition du mot: 10 essais (en partant de la meilleure variante c)
 
         + 10 essais qui combinent les meilleurs variantes de a-b-c-d
 
-        ⚠️ la marque verbale doit contenir le nom du client uniquement (et non l’information qui est entre parenthèses)
+        ⚠️  la marque verbale doit contenir le nom du client uniquement (et non l’information qui est entre parenthèses)
+            cette information vous sert définir quel type de connotation vous devez donner à la marque (voir page «Texture du mot»)
 
 # Ressources
 
