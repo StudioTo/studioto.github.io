@@ -30,7 +30,7 @@
         c. l’articulation du mot: 10 essais
         d. la composition du mot: 10 essais
 
-        + 10 essais qui combinent les meilleurs essais a-b-c-d
+        + 10 essais qui combinent les meilleurs variantes de a-b-c-d
 
 # Ressources
 
