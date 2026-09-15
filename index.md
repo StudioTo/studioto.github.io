@@ -67,16 +67,16 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [📶 Articulation](/set-word-articulation)
 ## [↔️ Composition](/set-word-composition)
 **3. Ligne**
-## [👍 Orthographe](/set-micro-typo)
+## [👍 Orthographe typographique (micro)](/set-micro-typo)
 ## [↔️ Composition](/set-line-composition)
 ## [📶 Articulation](/set-line-articulation)
 ## [⏹️ Mise en forme](set-line-layout)
 **4. Colonne**
-## [🔎 Lisibilité](/set-macro-typo)
+## [🔎 Lisibilité (macro)](/set-macro-typo)
 ## [↔️ Composition](/set-column-composition)
 ## [📶 Articulation](/set-column-articulation)
 ## [⏹️ Mise en page](/set-column-layout)
-**5. Grille**
+<!-- **5. Grille** -->
 
 &nbsp;
 &nbsp;
