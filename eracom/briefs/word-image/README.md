@@ -27,17 +27,26 @@
         ⚠️  la marque verbale doit contenir le nom du client uniquement (et non l’information qui est entre parenthèses)
             cette information vous sert définir quel type de connotation vous devez donner à la marque (voir page «Texture du mot»)
 
+        ⚠️  garder tous vos essais, ne rien supprimer
+
         a.  Recherche: expérimenter avec les différents paramètres
         
-            a.1. la texture du mot: 10 essais
-            a.2. la graphie du mot: 10 essais (en partant de la meilleure variante a)
-            a.3. l’articulation du mot: 10 essais (en partant de la meilleure variante b)
-            a.4. la composition du mot: 10 essais (en partant de la meilleure variante c)
+            a.1. la texture du mot: min. 10 essais
+            a.2. la graphie du mot: min. 10 essais (en partant de la meilleure variante a)
+            a.3. l’articulation du mot: min. 10 essais (en partant de la meilleure variante b)
+            a.4. la composition du mot: min. 10 essais (en partant de la meilleure variante c)
 
-        b.  Développement: choisir la meilleure piste et affiner
+        b.  Développement: définir le concept et affiner la proposition
 
-            b.1. 10 essais qui combinent les meilleurs variantes de a.1.-a.2.-a.3.-a.4.
-            b.2. 10 essais qui combinent les meilleurs variantes de a.1.-a.2.-a.3.-a.4.
+            b.1. choisir la meilleure mise en forme provenant des recherches
+            b.2. mettre par écrit, en une phrase, le concept: les raisons pour lesquelles cette mise en forme est la meilleure (axes sémantiques, typologies)
+            b.3. sur la base du concept défini, réaliser min. 10 nouveaux essais pour vérifier que la proposition est bel et bien la meilleure mise en forme de ce concept
+
+        c.  Production: vérifier que tout est en ordre
+
+            c.1. choisir la mise en forme finale
+            c.2. vérifier que tout est en ordre: police, alignement, fonds, contours
+            c.3. exporter la mise en forme finale au format PDF
 
 
 
