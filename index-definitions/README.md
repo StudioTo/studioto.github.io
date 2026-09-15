@@ -90,13 +90,13 @@ La macro-typographie désigne l’organisation globale d’un texte dans l’esp
 
 # Micro-Typographie
 
-La micro-typographie concerne le soin apporté aux détails fins du contenu texte : gestion des espaces, ponctuation, césures, ligatures, interlettrage, justification, etc. Elle vise à optimiser la lisibilité et l’élégance d’un texte au niveau microscopique.
+La micro-typographie concerne le soin apporté aux détails du contenu texte : gestion des espaces, ponctuation, césures, ligatures, interlettrage, justification, etc. Elle vise à optimiser la lisibilité.
 
-# &nbsp;  
+<!-- # &nbsp;  
 
 |![](links/3-Terminologie35.gif) |
 |:---:|
-| Micro vs Macro typographie |
+| Micro vs Macro typographie | -->
 
 # Miroir de page  
 
