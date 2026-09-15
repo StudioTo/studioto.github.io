@@ -60,10 +60,10 @@
 
 # Objectifs
 
-❌ Connaître les variations des caractères (C1)  
-✅ Trouver et activer les fonctionnalités OpenType d’une police (C3)  
-✅ Trouver et activer tous les glyphes du character set d’une police (C3)  
-✅ Utiliser les blocs texte et les repères dans InDesign (C3)  
+✅ Connaître les paramètres typographiques qui concerne l’image du mot (C1)   
+✅ Produire des variations sur la base des paramètres de l’image du mot (C3)  
+✅ Utiliser les commandes de mise en forme de paragraphe et de caractère dans InDesign (C3) 
+✅ Analyser des variations de mise en forme et sélectionner la meilleure parmis celles-ci (C4)  
 
 # Évaluation
 
