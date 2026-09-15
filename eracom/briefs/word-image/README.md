@@ -60,7 +60,7 @@
 
 # Objectifs
 
-✅ Connaître les variations des caractères (C1)  
+❌ Connaître les variations des caractères (C1)  
 ✅ Trouver et activer les fonctionnalités OpenType d’une police (C3)  
 ✅ Trouver et activer tous les glyphes du character set d’une police (C3)  
 ✅ Utiliser les blocs texte et les repères dans InDesign (C3)  
