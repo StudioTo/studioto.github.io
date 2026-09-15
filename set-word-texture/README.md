@@ -1,4 +1,4 @@
-# 🪨 Texture du mot
+# 🎨 Texture du mot
 
 La texture du mot fait référence aux formes de lettre choisies pour véhiculer le message. Les facteurs à prendre en considération dans le choix d'une police (en fonction du contexte d'utilisation) sont la lisibilité du caractère, l'étendue de la famille et du jeu de caractères, la technique de production ainsi que la connotation visuelle (valeur sémiotique).
 

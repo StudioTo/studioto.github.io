@@ -1,4 +1,4 @@
-# 🦠 Micro-typographie
+# 🖍️ Micro-typographie
 
 La micro-typographie concerne le soin apporté aux détails fins du contenu texte.
 
