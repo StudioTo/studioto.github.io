@@ -9,29 +9,28 @@
         La composition typographique d’un mot est régie par la grammaire et l’orthographe de la langue concernée.
         Ces paramètres sont hors du champ d’action du typographe.
 
-        Néanmoins, malgré ces contraintes, le typographe peut agir sur différents paramètres:
+        Néanmoins, malgré ces contraintes, le.la typographe peut agir sur différents paramètres:
 
         – la texture du mot
         — la graphie du mot
         – l’articulation du mot
         – la composition du mot
 
-        Ces
+        Ces paramètres peuvent être combinés à volonté.
+        Plus le.la typographe forme de nouvelles combinaisons, plus il.elle est en mesure de faire produire une proposition précise.
+        C’est un processus cumulatif.
 
-    1.  Préparation du document
+    1.  Composition de marques verbales
 
-        créer un fichier InDesign
+        choisir 3 clients parmis la liste que vous avez reçue
+        pour chacun, créer une marque verbale en suivant le processus cumulatif suivant:
         
-            mode: impression
-            nombre de pages: 1
-            affichage des pages: simple (vis-à-vis décoché)
-            format de page: A3 (297 × 420 mm)
-            orientation: portrait
-            marges: 10 mm
-            fonds-perdus: 3 mm
+        a. la texture du mot: 10 essais
+        b. la graphie du mot: 10 essais
+        c. l’articulation du mot: 10 essais
+        d. la composition du mot: 10 essais
 
-
-
+        + 10 essais qui combinent les meilleurs essais a-b-c-d
 
 # Ressources
 
