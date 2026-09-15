@@ -27,6 +27,7 @@
 # 15.09.2026
 
 [📄 1.3. Lettre: ex. optique](../../../briefs/balance-fonts/)  
+[🎥 1.3. Lettre: ex. optique](https://kdrive.t-o.studio/app/share/105447/da8e83b9-5bfb-4dbb-b79d-8e3465db38c5)  
 
 # 22.09.2026
 
