@@ -16,7 +16,28 @@ La texture du mot fait référence aux formes de lettre choisies pour véhiculer
 
 |![](links/0-Mot15.gif) |
 |:---:|
-| Chaque caractère produit différentes émotions |
+| Chaque caractère produit différents effets |
+
+**Axes sémantiques**
+
+•	Fort ↔ Faible  
+•	Dur ↔ Doux  
+•	Sérieux ↔ Ludique  
+•	Traditionnel ↔ Moderne  
+•	Luxueux ↔ Populaire  
+•	Amical ↔ Autoritaire  
+•	Chaud ↔ Froid  
+•	Stable ↔ Dynamique  
+•	Lisible ↔ Expressif  
+•	Formel ↔ Informel  
+
+**Typologie**
+
+•	Émotions: chaleureux, froid, joyeux, triste, rassurant, menaçant.  
+•	Société: prestigieux, populaire, féminin, masculin, enfantin, neutre.  
+•	Fonction: lisible, confus, stable, dynamique, clair, lourd, léger.  
+•	Culture: moderne, classique, rétro, futuriste, artisanal, technologique.  
+•	Esthétique: élégant, brut, raffiné, décoratif, minimaliste, grotesque.  
 
 ### Sources
 
