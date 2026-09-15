@@ -6,13 +6,13 @@ La texture du mot fait référence aux formes de lettre choisies pour véhiculer
   
 &nbsp;
 
-# Technique  
+<!-- # Technique  
 
 |![](links/0-Mot2.gif) |
 |:---:|
 | Chaque technique a ses contraintes |
 
-# Connotation  
+# Connotation   -->
 
 |![](links/0-Mot15.gif) |
 |:---:|

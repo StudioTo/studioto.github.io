@@ -23,16 +23,23 @@
     1.  Composition d’une marque verbale
 
         pour le client qui vous a été attribué, créer une marque verbale en suivant le processus suivant:
-        
-        a. la texture du mot: 10 essais
-        b. la graphie du mot: 10 essais (en partant de la meilleure variante a)
-        c. l’articulation du mot: 10 essais (en partant de la meilleure variante b)
-        d. la composition du mot: 10 essais (en partant de la meilleure variante c)
-
-        + 10 essais qui combinent les meilleurs variantes de a-b-c-d
 
         ⚠️  la marque verbale doit contenir le nom du client uniquement (et non l’information qui est entre parenthèses)
             cette information vous sert définir quel type de connotation vous devez donner à la marque (voir page «Texture du mot»)
+
+        a.  Recherche: expérimenter avec les différents paramètres
+        
+            a.1. la texture du mot: 10 essais
+            a.2. la graphie du mot: 10 essais (en partant de la meilleure variante a)
+            a.3. l’articulation du mot: 10 essais (en partant de la meilleure variante b)
+            a.4. la composition du mot: 10 essais (en partant de la meilleure variante c)
+
+        b.  Développement: choisir la meilleure piste et affiner
+
+            b.1. 10 essais qui combinent les meilleurs variantes de a.1.-a.2.-a.3.-a.4.
+            b.2. 10 essais qui combinent les meilleurs variantes de a.1.-a.2.-a.3.-a.4.
+
+
 
 # Ressources
 
