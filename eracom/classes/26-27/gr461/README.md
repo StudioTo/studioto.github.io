@@ -34,7 +34,7 @@
 
 # 28.9.2026
 
-1.4. Lettre: ex. variations
+[📄 1.4. Lettre: ex. variations](../../../briefs/vary-fonts/)  
 
 # 05.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
