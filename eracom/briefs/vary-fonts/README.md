@@ -67,11 +67,21 @@
 
             1 catégorie = 1 ligne
 
+    3.  Recherche d’informations complémentaires 🎁
+
+        Designer
+        Fonderie
+        Phrase d’explication du concept de la police
+        Classification historique
+        Classification anatomique
+
 
 # Ressources
 
 ✉️ Polices attribuées  
-📎 [Variations du caractère](../../../study-sign-variations/)  
+📎 [Variations du caractère](../../../study-sign-variations/) 
+📎 [Classification historique](../../../classify-typefaces-history/) 
+📎 [Classification anatomique](../../../classify-typefaces-shapes/)  
 
 # Objectifs
 
