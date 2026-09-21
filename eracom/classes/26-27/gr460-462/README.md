@@ -31,7 +31,7 @@
 
 # 22.09.2026
 
-1.4. Lettre: ex. variations
+[📄 1.4. Lettre: ex. variations](../../../briefs/vary-fonts/)  
 
 # 29.09.2026
 
