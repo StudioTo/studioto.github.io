@@ -7,7 +7,7 @@
 # Brief
 
         Ajuster les réglages optiques d’une composition typographique
-
+ 
     1.  Kerning quizz
 
         ouvrir l’url suivante:

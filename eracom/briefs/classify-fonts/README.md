@@ -7,7 +7,7 @@
 # Brief
 
         Classer les polices de caractères, selon l’époque de leur dessin original ou selon les caractéristiques morphologiques de leur dessin
-
+ 
     1.  Préparation du document
 
         créer un fichier InDesign
