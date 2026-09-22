@@ -5,6 +5,9 @@
 &nbsp;
 
 # Brief
+
+        Regrouper, aligner et mesurer des glyphes
+
     1.  Préparation du document
 
         Ouvrir le fichier InDesign
