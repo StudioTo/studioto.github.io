@@ -1,4 +1,4 @@
-# Remake journal
+# Remake layout
 
 &nbsp;
 &nbsp;
