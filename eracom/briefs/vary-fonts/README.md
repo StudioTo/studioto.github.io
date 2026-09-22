@@ -79,8 +79,8 @@
 # Ressources
 
 ✉️ Polices attribuées  
-📎 [Variations du caractère](../../../study-sign-variations/) 
-📎 [Classification historique](../../../classify-typefaces-history/) 
+📎 [Variations du caractère](../../../study-sign-variations/)  
+📎 [Classification historique](../../../classify-typefaces-history/)  
 📎 [Classification anatomique](../../../classify-typefaces-shapes/)  
 
 # Objectifs
