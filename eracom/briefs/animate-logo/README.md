@@ -12,16 +12,50 @@
 
     2.  Importation du logo dans Figma
 
-        importer votre logo dans Figma
-        grouper ou séparer les formes de manière cohérente à l'aide des calques (par type de forme, par couleur, pas emplacement)
+        ouvrir le fichier eps du logo dans Illustrator
+        copier les tracés vectoriels > coller dans figma
+        renommer le calque avec le nom du logo et chaque sous-calque du logo de manière descriptive
+        (cela vous aidera à vous y retrouver lorsque vous allez muliplier les calques)
 
-    3.  Animation du logo dans Figma
+    3.  Création du frame de l’animation
 
-        format: carré vide
+        créer un frame carré de 1000 × 1000
 
-        étape init: vide
-        étape def: logo
+    4.  Animation du logo (min. 5 étapes)
 
+        étape 1: frame vide
+        étape 2:
+        étape 3:
+        étape 4:
+        […]
+        étape finale: logo complet, centré dans le frame
+
+    *   travailler à l’envers de l'animation
+
+        préparer le frame final
+        sur la gauche, dupliquer le frame puis le modifier (1ère étape de disparition)
+
+            modifications possibles (liste non exhaustive):
+
+            - position
+            - proportions
+            - rotation
+            - opacité
+            - couleur de fond et/ou de contour
+            - effets
+            - […]
+
+        à nouveau, sur la gauche, dupliquer le frame puis le modifier (2e étape de disparition)
+        et ainsi de suite jusqu’à la disparition complète du logo
+        dans le mode prototype, créer des liens interatifs entre les frames, dans l’ordre de l’animation (du début à la fin)
+
+            interaction:
+
+            trigger:    on click
+            action:     navigate to
+            animation:  smart animate
+
+        cliquer sur le bouton play pour prévisualiser l’animation
 
 
 # Ressources
