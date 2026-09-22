@@ -57,8 +57,8 @@
         f.  Images
 
             ✓ Images (Moma)
-            ✓ Illustrations (vectorisation)
-            ✓ Logos, Logotypes
+            ✓ Illustrations (Moma)
+            ✓ Logos, Logotypes (dans Illustrator, fenêtre > vectorisation de l'image)
 
     3.  Vérifier le fichier:
 
