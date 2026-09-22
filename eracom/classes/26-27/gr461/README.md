@@ -36,33 +36,33 @@
 
 [📄 1.4. Lettre: ex. variations](../../../briefs/vary-fonts/)  
 
-# 05.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
-
-<!-- 2\. Mot: choisir une police pour un logo  
-📖 Robert Bringhurst, *The Elements of Typographic Style* (pour une fonte) -->
+# 05.10.2026
 
 # 12.10.2026 🏖️
 
 # 19.10.2026 🏖️
 
-# 26.10.2026 
+# 26.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
+
+<!-- 2\. Mot: choisir une police pour un logo  
+📖 Robert Bringhurst, *The Elements of Typographic Style* (pour une fonte) -->
 
 # 02.11.2026 
 
-# 09.11.2026 ⚠️ (rendu noté ex. 2)
+# 09.11.2026
+
+# 16.11.2026 ⚠️ (rendu noté ex. 2)
 
 3\. Ligne: appliquer correctement les règles de composition typographiques  
 <!-- 📖 *Guide du typographe romand* (pour les guillemets) -->
 
-# 16.11.2026
-
 # 23.11.2026
 
-# 30.11.2026 ⚠️ (rendu noté ex. 3)
+# 30.11.2026
+
+# 07.12.2026 ⚠️ (rendu noté ex. 3)
 
 4\. Colonne: optimiser la lisibilité de textes dans différents formats
-
-# 07.12.2026
 
 # 14.12.2026
 
