@@ -66,7 +66,7 @@
 # Ressources
 
 ✉️ Logos attribués  
-📎 [Animation de symboles](../../../symbolize-animation/)  
+<!-- 📎 [Animation de symboles](../../../symbolize-animation/)   -->
 📎 [Installation du plugin LotieFiles](https://lottiefiles.com/plugins/figma)  
 📎 [Créer une animation Lotie](https://www.youtube.com/watch?v=ajfKecCyNOs)  
 📎 [5 conseils pour créer une animation Lotie](https://www.youtube.com/watch?v=xawbY5A4miI)  
