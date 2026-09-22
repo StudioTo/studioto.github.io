@@ -5,7 +5,8 @@
 &nbsp;
 
 # Brief
-        Créer un specimen pour une police de caractère attribuée
+
+        Créer un specimen pour une police de caractères attribuée
 
     1.  Préparation du document
 
