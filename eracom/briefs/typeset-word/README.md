@@ -6,6 +6,8 @@
 
 # Brief
 
+    ●   Créer un logotype
+
         La composition typographique d’un mot est régie par la grammaire et l’orthographe de la langue concernée.
         Ces paramètres sont hors du champ d’action de la typographie.
 
