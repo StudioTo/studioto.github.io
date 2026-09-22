@@ -6,7 +6,7 @@
 
 # Brief
 
-    ●  Ajuster les réglages optiques d’une composition typographique
+    ●   Ajuster les réglages optiques d’une composition typographique
 
     1.  Kerning quizz
 

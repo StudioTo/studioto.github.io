@@ -6,7 +6,7 @@
 
 # Brief
 
-    ●  Regrouper, aligner et mesurer des glyphes
+    ●   Regrouper, aligner et mesurer des glyphes
 
     1.  Préparation du document
 

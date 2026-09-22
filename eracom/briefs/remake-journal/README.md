@@ -5,6 +5,9 @@
 &nbsp;
 
 # Brief
+
+    ●   Recomposer entièrement une page de journal
+
     1.  Créer un fichier InDesign
 
         mode: impression
