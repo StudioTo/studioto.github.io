@@ -44,6 +44,7 @@
             - couleur de fond et/ou de contour
             - effets
             - […]
+            ⚠️ chaque frame doit comporter le même nombre de calques, nommés de la même manière (masquer au lieu de supprimer)
 
         à nouveau, sur la gauche, dupliquer le frame puis le modifier (2e étape de disparition)
         et ainsi de suite jusqu’à la disparition complète du logo
