@@ -5,16 +5,15 @@
 &nbsp;
 
 # Brief
-    1.  Installer le plugin LotieFiles dans Figma
+
+    1.  Installation du plugin LotieFiles dans Figma
 
         https://lottiefiles.com/plugins/figma
 
-    1.  Préparation du fichier vectoriel
+    2.  Importation du logo dans Figma
 
         importer votre logo dans Figma
         grouper ou séparer les formes de manière cohérente à l'aide des calques (par type de forme, par couleur, pas emplacement)
-
-    2.  Importation du logo dans Figma
 
     3.  Animation du logo dans Figma
 
