@@ -11,10 +11,10 @@
 
         Néanmoins, malgré ces contraintes, la typographie peut agir sur différents paramètres:
 
-        – la texture du mot
-        — la graphie du mot
-        – l’articulation du mot
-        – la composition du mot
+            – la texture du mot
+            — la graphie du mot
+            – l’articulation du mot
+            – la composition du mot
 
         Ces paramètres peuvent être combinés à volonté.
         Plus on forme de nouvelles combinaisons, plus on est en mesure de faire produire une proposition précise.
