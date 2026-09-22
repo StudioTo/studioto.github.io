@@ -6,8 +6,8 @@
 
 # Brief
 
-        Animer un logo de sorte à ce qu’il apparaisse
- 
+    ⚫️  Animer un logo de sorte à ce qu’il apparaisse
+    
     1.  Installation du plugin LotieFiles dans Figma
 
         https://lottiefiles.com/plugins/figma
