@@ -56,6 +56,8 @@
             action:     navigate to
             animation:  smart animate
 
+            ⚠️ attention à bien faire démarrer le flow à la frame vide (étape 1)
+
         cliquer sur le bouton play pour prévisualiser l’animation
 
 
