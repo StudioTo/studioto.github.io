@@ -5,6 +5,8 @@
 &nbsp;
 
 # Brief
+        Créer un specimen pour une police de caractère attribuée
+
     1.  Préparation du document
 
         créer un fichier InDesign
