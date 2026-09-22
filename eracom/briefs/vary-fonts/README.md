@@ -67,13 +67,13 @@
 
             1 catégorie = 1 ligne
 
-    3.  Recherche d’informations complémentaires 🎁
+<!-- 3.  Recherche d’informations complémentaires 🎁
 
-        Designer
-        Fonderie
-        Phrase d’explication du concept de la police
-        Classification historique
-        Classification anatomique
+    Designer
+    Fonderie
+    Phrase d’explication du concept de la police
+    Classification historique
+    Classification anatomique -->
 
 
 # Ressources
