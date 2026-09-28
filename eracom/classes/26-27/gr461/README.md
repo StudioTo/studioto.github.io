@@ -35,6 +35,7 @@
 # 28.9.2026
 
 [📄 1.4. Lettre: ex. variations](../../../briefs/vary-fonts/)  
+[🎥 1.4. Lettre: ex. variations](https://kdrive.t-o.studio/app/share/105447/dceb99f5-3aaf-4ccb-b88d-0f298e5cc65d)
 
 # 05.10.2026
 
