@@ -32,14 +32,14 @@
             ✓ Format de caractères de base (famille, casse)  
             ✓ Retrait et espacement  
 
-        c.  Grille horizontale: colonnes
+        c.  Grille verticale: colonnes
 
             ✓ Marges et colonnes  
             ✓ Étendue de colonnes  
             ✓ Habillage  
             ✓ Options de notes de bas de page du document  
 
-        d.  Grille verticale: lignes
+        d.  Grille horizontale: lignes
 
             ✓ Grille de ligne de base  
             ✓ Alignement sur la grille (style)  
