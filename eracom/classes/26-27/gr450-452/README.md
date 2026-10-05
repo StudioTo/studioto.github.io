@@ -46,10 +46,10 @@ Remake 1 page (images from Moma) -->
 
 # 05.10.2026
 
-e. Éléments graphiques
+e. Éléments graphiques  
 f. Images
 
-+ Vérification du fichier
+\+ Vérification du fichier
 
 # 12.10.2026 🏖️
 
