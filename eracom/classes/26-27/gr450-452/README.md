@@ -20,7 +20,7 @@ Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more
 # 24.08.2026
 
 [📄 Brief Remake Journal](../../../briefs/remake-layout/)  
-[🎥 Importation du texte](https://kdrive.t-o.studio/app/share/105447/3da71e7d-ce17-4c98-9be2-c1119d0928c0)  
+[🎥 a. Importation du texte](https://kdrive.t-o.studio/app/share/105447/3da71e7d-ce17-4c98-9be2-c1119d0928c0)  
 
 <!-- Fin du documentaire + distrib journeaux -->
 
@@ -32,30 +32,30 @@ Remake 1 page (images from Moma) -->
 
 # 07.09.2026
 
-[🎥 Styles de paragraphes et de caractères](https://kdrive.t-o.studio/app/share/105447/03d6af24-521e-464d-b27c-a3293e306963)  
+[🎥 b. Styles de paragraphes & caractères](https://kdrive.t-o.studio/app/share/105447/03d6af24-521e-464d-b27c-a3293e306963)  
 
 # 14.09.2026
 
-[🎥 Grille verticale: colonnes](https://kdrive.t-o.studio/app/share/105447/31e89ef0-7dfc-45b7-94ab-1d3aec32e53f)  
+[🎥 c. Grille verticale: colonnes](https://kdrive.t-o.studio/app/share/105447/31e89ef0-7dfc-45b7-94ab-1d3aec32e53f)  
 
 # 21.09.2026 🏖️
 
 # 28.09.2026
 
-[🎥 Grille horizontale: lignes](https://kdrive.t-o.studio/app/share/105447/bd6e4956-8b30-49bb-b671-e8f6172f9ed4)  
+[🎥 d. Grille horizontale: lignes](https://kdrive.t-o.studio/app/share/105447/bd6e4956-8b30-49bb-b671-e8f6172f9ed4)  
 
 # 05.10.2026
 
-🎥 Éléments graphiques
+e. Éléments graphiques
+f. Images
+
++ Vérification du fichier
 
 # 12.10.2026 🏖️
 
 # 19.10.2026 🏖️
 
-# 26.10.2026 
-
-<!-- Rendu page
-Remake publicité -->
+# 26.10.2026 ⚠️ (rendu noté page journal)
 
 # 02.11.2026 
 
