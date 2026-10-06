@@ -55,10 +55,13 @@
 # Ressources
 
 ✉️ Listes de clients  
+  
 📎 [Texture du mot](../../../set-word-texture/)  
 📎 [Graphie du mot](../../../set-word-case/)  
 📎 [Articulation du mot](../../../set-word-articulation/)  
 📎 [Composition du mot](../../../set-word-composition/)  
+  
+📖 Robert Bringhurst, *Principes Élémentaires De La Typographie, Une Histoire Des Styles*, Éditions B42, 2023
 
 # Objectifs
 
