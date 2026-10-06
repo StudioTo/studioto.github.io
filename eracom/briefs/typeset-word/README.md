@@ -56,13 +56,13 @@
 
 ✉️ Liste des clients  
   
-(pour la recherche)
+(pour la recherche)  
 1️⃣ [Texture du mot](../../../set-word-texture/)  
 2️⃣ [Graphie du mot](../../../set-word-case/)  
 3️⃣ [Articulation du mot](../../../set-word-articulation/)  
 4️⃣ [Composition du mot](../../../set-word-composition/)  
 
-(pour le développement du concept)
+(pour le développement du concept)  
 📎 [Sémiotique](../../../see-signs/)    
 📖 Robert Bringhurst, *Principes Élémentaires De La Typographie, Une Histoire Des Styles*, Éditions B42, 2023
 
