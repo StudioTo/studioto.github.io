@@ -64,7 +64,7 @@
 
 ✅ Connaître les paramètres typographiques qui concerne l’image du mot (C1)   
 ✅ Produire des variations sur la base des paramètres de l’image du mot (C3)  
-✅ Utiliser les commandes de mise en forme de paragraphe et de caractère dans InDesign (C3) 
+✅ Utiliser les commandes de mise en forme de paragraphe et de caractère dans InDesign (C3)  
 ✅ Analyser des variations de mise en forme et sélectionner la meilleure parmis celles-ci (C4)  
 
 # Évaluation
