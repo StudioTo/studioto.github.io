@@ -38,7 +38,7 @@
 
 # 06.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
-2\. Mot: logotype
+[📄 2. Mot: animation d’un logo](../../../briefs/animate-logo/) 
 
 # 13.10.2026 🏖️
 
@@ -46,7 +46,11 @@
 
 # 27.10.2026 
 
+⬆️
+
 # 03.11.2026 
+
+⬆️
 
 # 10.11.2026 ⚠️ (rendu noté ex. 2)
 

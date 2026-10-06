@@ -38,7 +38,7 @@
 
 # 06.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
-2\. Mot: choisir une police pour un logo  
+[📄 2. Mot: logotype](../../../briefs/typeset-word/)  
 <!-- 📖 Robert Bringhurst, *The Elements of Typographic Style* (pour une fonte) -->
 
 # 13.10.2026 🏖️
