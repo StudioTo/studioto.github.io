@@ -41,7 +41,7 @@
         b.  Développement: définir le concept et affiner la proposition
 
             b.1. choisir la meilleure mise en forme provenant des recherches
-            b.2. mettre par écrit, en une phrase, le concept: les raisons pour lesquelles cette mise en forme est la meilleure (axes sémantiques, typologies)
+            b.2. mettre par écrit, en quelques phrases, le concept: les raisons pour lesquelles cette mise en forme est la meilleure (axes sémantiques, typologies)
             b.3. sur la base du concept défini, réaliser min. 10 nouveaux essais pour vérifier que la proposition est bel et bien la meilleure mise en forme de ce concept
 
         c.  Production: vérifier que tout est en ordre
@@ -60,7 +60,8 @@
 📎 [Graphie du mot](../../../set-word-case/)  
 📎 [Articulation du mot](../../../set-word-articulation/)  
 📎 [Composition du mot](../../../set-word-composition/)  
-  
+
+📎 [Sémiotique](../../../see-signs/)    
 📖 Robert Bringhurst, *Principes Élémentaires De La Typographie, Une Histoire Des Styles*, Éditions B42, 2023
 
 # Objectifs
