@@ -1,11 +1,11 @@
-# Remake data
+# Remake lettering
 
 &nbsp;
 &nbsp;
 &nbsp;
 
 # Brief
-    1.  Créer un fichier Illustrator
+    1.  Créer un fichier Glyphs
 
         mode: impression
         nombre de pages: 1
@@ -14,7 +14,7 @@
         marges: 10 mm
         fonds-perdus: 3 mm
 
-    2.  Vectoriser une illustration (monochrome), un pictogramme, un plan, un schéma
+    2.  Recomposer un lettering provenant du journal imposé
 
 
 
