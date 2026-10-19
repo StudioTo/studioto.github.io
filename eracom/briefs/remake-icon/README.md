@@ -1,11 +1,13 @@
-# Remake logotype
+# Remake icon
 
 &nbsp;
 &nbsp;
 &nbsp;
 
 # Brief
-    1.  Créer un fichier Glyphs
+    choisir une représentation dans le journal, la traduire en vecteurs, puis créer 2 autres échelles de cette même représentation sur l'échelle d'iconicité de Moles
+
+    1.  Créer un fichier Illustrator
 
         mode: impression
         nombre de pages: 1
@@ -14,7 +16,7 @@
         marges: 10 mm
         fonds-perdus: 3 mm
 
-    2.  Recomposer un logotype provenant du journal imposé
+    2.  Vectoriser une illustration (monochrome), un pictogramme, un plan, un schéma
 
 
 
