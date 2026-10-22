@@ -38,16 +38,16 @@
 |:---:|
 | Ralph E. Wileman, *Échelle d’iconicité* |
 
-1. Signe pictural (concret)
-1.1. Photographie
-1.2. Illustration
-2. Signe graphique (concret-abstrait)
-2.1. Icône basée sur la silhouette
-2.2. Icône basée sur les propriétés
-2.3. Icône arbitraire
-2. Signe verbal (abstrait)
-3.1. Description
-3.2. Nom
+1. Signe pictural (concret)  
+1.1. Photographie  
+1.2. Illustration  
+2. Signe graphique (concret-abstrait)  
+2.1. Icône basée sur la silhouette  
+2.2. Icône basée sur les propriétés  
+2.3. Icône arbitraire  
+2. Signe verbal (abstrait)  
+3.1. Description  
+3.2. Nom  
 
 # Échelle d’iconicité de Moles {#moles-iconicite}
 
@@ -55,21 +55,23 @@
 |:---:|
 | Abraham Moles, *Échelle d’iconicité* |
 
-|![](links/iconicite_moles.jpg)|
+|![](links/iconicite_moles_2.jpg)|
 |:---:|
 | Abraham Moles, *Échelle d’iconicité* |
 
-1. Photographie
-2. Illustration
-3. Dessin / Schéma
-4. Pictogramme
-5. Diagramme
-6. Idéogramme
-7. Mot-Image
-8. Onomatopée
-9. Mot arbitraire
-10. Symbole abstrait
-11. Symbole tacite
+1. Objet
+--------------------
+2. Photographie
+3. Illustration
+4. Dessin / Schéma
+5. Pictogramme
+6. Diagramme
+7. Idéogramme
+8. Mot-Image
+9. Onomatopée
+10. Mot arbitraire
+11. Symbole abstrait
+12. Symbole tacite
 
 
 # Isotype de Neurath {#isotype}
