@@ -1,4 +1,4 @@
-# ⚫️ Iconicité
+# 🚸 Iconicité
 
 - [Figuration-Abstraction](#figuration-abstraction)
 - [Mot-Image](#mot-image)
@@ -14,17 +14,17 @@
 
 # Figuration-Abstraction {#figuration-abstraction}
 
-|![](links/1-Language_v2.gif)|
+|![](links/pablo-picasso-etude-taureau.jpg)|
 |:---:|
 | Pablo Picasso, *Étude de taureau*, 1945-1946 |
 
-|![](links/1-Language_v210.jpg)|
+|![](links/theo-van-doesburg-vache.png)|
 |:---:|
 | Theo Van Doesburg, *La vache*, 1918 |
 
 # Mot-Image {#mot-image}
 
-|![](links/1-Language_v2116.jpg)|
+|![](links/mots_images_magritte.jpg)|
 |:---:|
 | René Magritte, *Les mots et les images* |
 
@@ -34,20 +34,20 @@
 |:---:|
 | Ralph E. Wileman, *Échelle d’iconicité* |
 
-|![](links/1-Language_v2116.jpg)|
+|![](links/iconicite_ralph_e_wileman.gif)|
 |:---:|
 | Ralph E. Wileman, *Échelle d’iconicité* |
 
 1. Signe pictural (concret)
-    1.1. Photographie
-    1.2. Illustration
+1.1. Photographie
+1.2. Illustration
 2. Signe graphique (concret-abstrait)
-    2.1. Icône basée sur la silhouette
-    2.2. Icône basée sur les propriétés
-    2.3. Icône arbitraire
+2.1. Icône basée sur la silhouette
+2.2. Icône basée sur les propriétés
+2.3. Icône arbitraire
 2. Signe verbal (abstrait)
-    3.1. Description
-    3.2. Nom
+3.1. Description
+3.2. Nom
 
 # Échelle d’iconicité de Moles {#moles-iconicite}
 
@@ -55,9 +55,22 @@
 |:---:|
 | Abraham Moles, *Échelle d’iconicité* |
 
-|![](links/1-Language_v2116.jpg)|
+|![](links/iconicite_moles.jpg)|
 |:---:|
 | Abraham Moles, *Échelle d’iconicité* |
+
+1. Photographie
+2. Illustration
+3. Dessin / Schéma
+4. Pictogramme
+5. Diagramme
+6. Idéogramme
+7. Mot-Image
+8. Onomatopée
+9. Mot arbitraire
+10. Symbole abstrait
+11. Symbole tacite
+
 
 # Isotype de Neurath {#isotype}
 
