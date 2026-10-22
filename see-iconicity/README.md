@@ -45,14 +45,14 @@
 |![](links/Echelle-Iconicite/Wileman/iconicite_ralph_e_wileman_2.jpg)|
 | Ralph E. Wileman, *Échelle d’iconicité* dans *Visual Communication*, 1993 |
 
-1. Signe pictural (concret)  
+1. **Signe pictural (concret) ** 
 1.1. Photographie  
 1.2. Illustration  
-2. Signe graphique (concret-abstrait)  
+2. **Signe graphique (concret-abstrait) ** 
 2.1. Icône basée sur la silhouette  
 2.2. Icône basée sur les propriétés  
 2.3. Icône arbitraire  
-2. Signe verbal (abstrait)  
+2. **Signe verbal (abstrait) ** 
 3.1. Description  
 3.2. Nom  
 
@@ -60,8 +60,7 @@
 |:---:|
 | Abraham Moles, *Échelle d’iconicité*, 1971 dans *Les Images démaquillées* de Claude Cossette, 1983 |
 
-1. Objet  
-— — — — — — — — —
+1. **Objet**  
 2. Photographie
 3. Illustration
 4. Dessin / Schéma
