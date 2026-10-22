@@ -9,62 +9,53 @@
     ●   Reconstruire une représentation graphique en tracés vectoriels
 
     1.  Choisir une représentation graphique dans le journal
+
         - pas de glyphes (lettres, chiffres, punctuation, etc.)
         - pas une photographie
 
     2.  Échelle d’iconicité de Moles
+
         - identifer le niveau d'iconicité de la représentation de référence
         - choisir un niveau plus haut que le niveau de référence (pas forcément +1)
         - choisir un niveau plus bas que le niveau de référence (pas forcément -1)
 
-    3.  Traduire la représentation de référence en vecteurs, puis développer les deux autres niveaux
+    3.  Réaliser des esquisses de traduction graphique de la représentation au niveau supérieur et au niveau inférieur
 
-        logiciel: Glyphs, InDesign, Illustrator
+        technique: crayon sur papier
+        format de page: libre
+        mode: noir/blanc
+        
+        ⚠️ 30 esquisses minimum par niveau (supérieur et inférieur, pas pour le niveau de référence)
+
+    4.  Traduire la représentation de référence en vecteurs, puis développer les deux autres niveaux
+
+        technique: Glyphs, InDesign, Illustrator
         format de page: carré
         mode: noir/blanc
         construction: formes pleines uniquement (pas de dégradé, pas d'effet)
         périphérique: souris/trackpad uniquement (pas de tablettre, pas de stylus)
 
+        ⚠️ Archiver tous les essais, garder les tracés et contours éditables
 
-    3.  Vérifier le fichier:
+    5.  Finaliser les tracés pour la production / la distribution
 
+        - une seule forme, un seul fond, pas de contour
 
-
-<!-- importer les textes par copier-coller
-nettoyer les textes importés (retours, microtypographie)
-créer et appliquer des styles de paragraphes et de caractères
-activer les polices les plus semblables
-adapter les styles
-configurer les colonnes
-configurer la grille de ligne de base
-créer et positionner des blocs textes
-trouver des oeuvres dans la collection du MoMA pour remplacer les images
-créer les éléments graphiques (filets) -->
-
-# Regex
-
-    :;!?
-
-    rechercher:     (?<=\w)((\s|~S)*?)([?!;:])
-    remplacer:      ~<$3
-
-    «»
-
-    rechercher:     (\«)(\s)(.+?)( )(\»)
-    remplacer:      $1~<$3~<$5
 
 # Ressources
 
 ✉️ Gazette de Lausanne (pdf)  
-📎 [Collection du MoMA (images)](https://www.moma.org/collection/works/?classifications=any&date_begin=Pre-1850&date_end=2026&include_uncataloged_works=false&on_view=false&q=swimming+pool&recent_acquisitions=false&with_images=true)  
+📎 [Pathfinder](https://www.youtube.com/watch?v=QQhsnG6eGvg)  
+📎 [Plume]()  
 📎 [Checklists](../../../check-export/)  
+
 
 # Objectifs
 
-✅ Reconnaître les polices de caractères  
-✅ Connaître les règles de la composition typographique  
-✅ Comprendre la grille de mise en page d’une publication donnée  
-✅ Produire une mise en page dans InDesign selon les règles de l'art (grille, styles, microtypographie)   
+✅ Connaître les différents niveaux d’iconicité (C1)  
+✅ Connaître les standards du dessin vectoriel (C1)  
+✅ Utiliser les outils plume, formes primitites et pathfinder (C3)  
+✅ Produire 3 niveaux de représentations graphiques différents d’un même objet (C3)  
 
 # Évaluation
 
