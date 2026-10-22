@@ -79,8 +79,8 @@
 
 ### Sources
 
-- Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich: Hans-Rudolf Lutz Verlag, 1980  
+<!-- - Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich: Hans-Rudolf Lutz Verlag, 1980  
 - Wileman
 - Abraham Moles, *Les sciences de l’imprécis: Échelles d’iconicité*, Paris: Seuil, 1990   
-- Adrian Frutiger, *Type Sign Symbol*, Zurich: ABC Verlag, 1980  
+- Adrian Frutiger, *Type Sign Symbol*, Zurich: ABC Verlag, 1980   -->
 
