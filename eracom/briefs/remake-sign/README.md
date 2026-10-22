@@ -15,9 +15,11 @@
 
     2.  Échelle d’iconicité
 
-        - identifer le niveau d'iconicité de la représentation de référence
+        - identifer le niveau d’iconicité de la représentation de référence
         - choisir un niveau plus haut que le niveau de référence (pas forcément +1)
         - choisir un niveau plus bas que le niveau de référence (pas forcément -1)
+
+        ⚠️ Entre 1.2 — 1.4 de l’échelle de Wileman
 
     3.  Réaliser des esquisses de traduction graphique d’un niveau supérieur et d’un niveau inférieur
 
@@ -46,6 +48,7 @@
 # Ressources
 
 ✉️ Gazette de Lausanne (pdf)  
+📎 [Échelle d’iconicité](../../../see-iconicity)  
 <!-- 📎 [Pathfinder](https://www.youtube.com/watch?v=QQhsnG6eGvg)  
 📎 [Plume]()  
 📎 [Checklists](../../../check-export/)   -->
