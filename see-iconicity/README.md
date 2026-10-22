@@ -2,9 +2,9 @@
 
 - [Figuration-Abstraction](#figuration-abstraction)
 - [Mot-Image](#mot-image)
+- [Isotype](#isotype)
 - [Échelle d’iconicité de Wileman](#wileman-iconicite)
 <!-- - [Échelle d’iconicité de Moles](#wileman-iconicite) -->
-- [Isotype](#isotype)
 
 &nbsp;
 
@@ -26,11 +26,21 @@
 
 |![](links/Mot-Image/mots_images_magritte.jpg)|
 |:---:|
-| René Magritte, *Les mots et les images* |
+| René Magritte, *Les mots et les images*, 1929 |
+
+# Isotype {#isotype}
+
+|![](links/Isotype/Isotypes.jpg)|
+|:---:|
+| Otto Neurath, Marie Neurath, Gerd Arntz, *Isotype (en anglais : International System Of TYpographic Picture Education, litt. « Système international d'éducation par les images typographiques »)*, 1925 |
+
+|![](links/Isotype/Isotypes_animals.jpg)|
+|:---:|
+| Otto Neurath, Marie Neurath, Gerd Arntz, *How Long Do Animals Live?*, 1939 |
 
 # Échelle d’iconicité {#wileman-iconicite}
 
-|![](links/Isotypes/Isotypes.jpg)|
+|![](links/Echelle-Iconicite/Wileman/iconicite_ralph_e_wileman.gif)|
 |:---:|
 | Ralph E. Wileman, *Échelle d’iconicité* |
 
@@ -70,16 +80,9 @@
 12. Symbole tacite -->
 
 
-# Isotype de Neurath {#isotype}
+<!-- ### Sources
 
-|![](links/1-Language_v2116.jpg)|
-|:---:|
-| *Isotype (en anglais : International System Of TYpographic Picture Education, litt. « Système international d'éducation par les images typographiques »)*, Otto Neurath, Marie Neurath, Gerd Arntz, 1925 |
-
-
-### Sources
-
-<!-- - Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich: Hans-Rudolf Lutz Verlag, 1980  
+- Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich: Hans-Rudolf Lutz Verlag, 1980  
 - Wileman
 - Abraham Moles, *Les sciences de l’imprécis: Échelles d’iconicité*, Paris: Seuil, 1990   
 - Adrian Frutiger, *Type Sign Symbol*, Zurich: ABC Verlag, 1980   -->
