@@ -59,8 +59,8 @@
 |:---:|
 | Abraham Moles, *Échelle d’iconicité*, 1971 dans *Les Images démaquillées* de Claude Cossette, 1983 |
 
-1. Objet
-———
+1. Objet  
+— — — — — — — — —
 2. Photographie
 3. Illustration
 4. Dessin / Schéma
