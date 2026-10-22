@@ -3,7 +3,7 @@
 - [Figuration-Abstraction](#figuration-abstraction)
 - [Mot-Image](#mot-image)
 - [Échelle d’iconicité de Wileman](#wileman-iconicite)
-- [Échelle d’iconicité de Moles](#wileman-iconicite)
+<!-- - [Échelle d’iconicité de Moles](#wileman-iconicite) -->
 - [Isotype](#isotype)
 
 &nbsp;
@@ -49,7 +49,7 @@
 3.1. Description  
 3.2. Nom  
 
-# Échelle d’iconicité de Moles {#moles-iconicite}
+<!-- # Échelle d’iconicité de Moles {#moles-iconicite}
 
 |![](links/1-Language_v2116.jpg)|
 |:---:|
@@ -71,7 +71,7 @@
 9. Onomatopée
 10. Mot arbitraire
 11. Symbole abstrait
-12. Symbole tacite
+12. Symbole tacite -->
 
 
 # Isotype de Neurath {#isotype}
