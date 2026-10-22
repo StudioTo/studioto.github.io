@@ -42,7 +42,7 @@
 
 |![](links/Echelle-Iconicite/Wileman/iconicite_ralph_e_wileman.gif)|
 |:---:|
-| Ralph E. Wileman, *Échelle d’iconicité* |
+| Ralph E. Wileman, *Échelle d’iconicité* dans *Visual Communication*, 1993 |
 
 1. Signe pictural (concret)  
 1.1. Photographie  
