@@ -55,6 +55,10 @@
 3.1. Description  
 3.2. Nom  
 
+|![](links/Echelle-Iconicite/Moles/iconicite_moles_2)|
+|:---:|
+| Abraham Moles, *Échelle d’iconicité*, 1971 dans *Les Images démaquillées* de Claude Cossette, 1983 |
+
 <!-- # Échelle d’iconicité de Moles {#moles-iconicite}
 
 |![](links/1-Language_v2116.jpg)|
