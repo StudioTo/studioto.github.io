@@ -4,7 +4,7 @@
 - [Mot-Image](#mot-image)
 - [Échelle d’iconicité de Wileman](#wileman-iconicite)
 <!-- - [Échelle d’iconicité de Moles](#wileman-iconicite) -->
-<!-- - [Isotype](#isotype) -->
+- [Isotype](#isotype)
 
 &nbsp;
 
@@ -28,9 +28,9 @@
 |:---:|
 | René Magritte, *Les mots et les images* |
 
-# Échelle d’iconicité de Wileman {#wileman-iconicite}
+# Échelle d’iconicité {#wileman-iconicite}
 
-|![](links/Echelle-Iconicite/Wileman/iconicite_ralph_e_wileman.gif)|
+|![](links/Isotypes/Isotypes.jpg)|
 |:---:|
 | Ralph E. Wileman, *Échelle d’iconicité* |
 
@@ -70,11 +70,11 @@
 12. Symbole tacite -->
 
 
-<!-- # Isotype de Neurath {#isotype}
+# Isotype de Neurath {#isotype}
 
 |![](links/1-Language_v2116.jpg)|
 |:---:|
-| *Isotype (en anglais : International System Of TYpographic Picture Education, litt. « Système international d'éducation par les images typographiques »)*, Otto Neurath, Marie Neurath, Gerd Arntz, 1925 | -->
+| *Isotype (en anglais : International System Of TYpographic Picture Education, litt. « Système international d'éducation par les images typographiques »)*, Otto Neurath, Marie Neurath, Gerd Arntz, 1925 |
 
 
 ### Sources
