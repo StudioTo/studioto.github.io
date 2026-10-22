@@ -1,23 +1,29 @@
-# Remake icon
+# Remake figure
 
 &nbsp;
 &nbsp;
 &nbsp;
 
 # Brief
-    choisir une représentation dans le journal, la traduire en vecteurs, puis créer 2 autres échelles de cette même représentation sur l'échelle d'iconicité de Moles
 
-    1.  Créer un fichier Illustrator
+    ●   Reconstruire une représentation graphique en tracés vectoriels
 
-        mode: impression
-        nombre de pages: 1
-        affichage des pages: simple
-        format de page: Broadsheet (410 × 580 mm)
-        marges: 10 mm
-        fonds-perdus: 3 mm
+    1.  Choisir une représentation graphique dans le journal
+        - pas de glyphes (lettres, chiffres, punctuation, etc.)
+        - pas une photographie
 
-    2.  Vectoriser une illustration (monochrome), un pictogramme, un plan, un schéma
+    2.  Échelle d’iconicité de Moles
+        - identifer le niveau d'iconicité de la représentation de référence
+        - choisir un niveau plus haut que le niveau de référence (pas forcément +1)
+        - choisir un niveau plus bas que le niveau de référence (pas forcément -1)
 
+    3.  Traduire la représentation de référence en vecteurs, puis développer les deux autres niveaux
+
+        logiciel: Glyphs, InDesign, Illustrator
+        format de page: carré
+        mode: noir/blanc
+        construction: formes pleines uniquement (pas de dégradé, pas d'effet)
+        périphérique: souris/trackpad uniquement (pas de tablettre, pas de stylus)
 
 
     3.  Vérifier le fichier:
