@@ -14,27 +14,23 @@
 
 # Figuration-Abstraction {#figuration-abstraction}
 
-|![](links/pablo-picasso-etude-taureau.jpg)|
+|![](links/Figuration-Abstraction/pablo-picasso-etude-taureau.jpg)|
 |:---:|
 | Pablo Picasso, *Étude de taureau*, 1945-1946 |
 
-|![](links/theo-van-doesburg-vache.png)|
+|![](links/Figuration-Abstraction/theo-van-doesburg-vache.png)|
 |:---:|
 | Theo Van Doesburg, *La vache*, 1918 |
 
 # Mot-Image {#mot-image}
 
-|![](links/mots_images_magritte.jpg)|
+|![](links/Mot-Image/mots_images_magritte.jpg)|
 |:---:|
 | René Magritte, *Les mots et les images* |
 
 # Échelle d’iconicité de Wileman {#wileman-iconicite}
 
-|![](links/1-Language_v2116.jpg)|
-|:---:|
-| Ralph E. Wileman, *Échelle d’iconicité* |
-
-|![](links/iconicite_ralph_e_wileman.gif)|
+|![](links/Echelle-Iconicite/Wileman/iconicite_ralph_e_wileman.gif)|
 |:---:|
 | Ralph E. Wileman, *Échelle d’iconicité* |
 
