@@ -3,7 +3,7 @@
 - [Figuration-Abstraction](#figuration-abstraction)
 - [Mot-Image](#mot-image)
 - [Isotype](#isotype)
-- [Échelle d’iconicité de Wileman](#wileman-iconicite)
+- [Échelle d’iconicité](#wileman-iconicite)
 <!-- - [Échelle d’iconicité de Moles](#wileman-iconicite) -->
 
 &nbsp;
