@@ -8,9 +8,9 @@
 
 &nbsp;
 
-|![](links/2-Semiotique-v2_1.gif)|
+|![](links/Ecriture/Evolution_Alphabet.jpg)|
 |:---:|
-| Evolution du A |
+| Hans-Rudolf Lutz, Évolution de l'écriture dans *Ausbildung in typografischer Gestaltung*, 1980  |
 
 # Figuration-Abstraction {#figuration-abstraction}
 
