@@ -38,6 +38,17 @@
 |:---:|
 | Ralph E. Wileman, *Échelle d’iconicité* |
 
+1. Signe pictural (concret)
+    1.1. Photographie
+    1.2. Illustration
+2. Signe graphique (concret-abstrait)
+    2.1. Icône basée sur la silhouette
+    2.2. Icône basée sur les propriétés
+    2.3. Icône arbitraire
+2. Signe verbal (abstrait)
+    3.1. Description
+    3.2. Nom
+
 # Échelle d’iconicité de Moles {#moles-iconicite}
 
 |![](links/1-Language_v2116.jpg)|
