@@ -1,4 +1,4 @@
-# Remake figure
+# Remake sign
 
 &nbsp;
 &nbsp;
@@ -6,28 +6,28 @@
 
 # Brief
 
-    ●   Reconstruire une représentation graphique en tracés vectoriels
+    ●   Reconstruire un signe graphique en tracés vectoriels
 
-    1.  Choisir une représentation graphique dans le journal
+    1.  Choisir un signe graphique dans le journal
 
         - pas de glyphes (lettres, chiffres, punctuation, etc.)
         - pas une photographie
 
-    2.  Échelle d’iconicité de Moles
+    2.  Échelle d’iconicité
 
         - identifer le niveau d'iconicité de la représentation de référence
         - choisir un niveau plus haut que le niveau de référence (pas forcément +1)
         - choisir un niveau plus bas que le niveau de référence (pas forcément -1)
 
-    3.  Réaliser des esquisses de traduction graphique de la représentation au niveau supérieur et au niveau inférieur
+    3.  Réaliser des esquisses de traduction graphique d’un niveau supérieur et d’un niveau inférieur
 
         technique: crayon sur papier
         format de page: libre
         mode: noir/blanc
         
-        ⚠️ 30 esquisses minimum par niveau (supérieur et inférieur, pas pour le niveau de référence)
+        ⚠️ 30 esquisses minimum par niveau (30 + 30 = 60)
 
-    4.  Traduire la représentation de référence en vecteurs, puis développer les deux autres niveaux
+    4.  Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
 
         technique: Glyphs, InDesign, Illustrator
         format de page: carré
@@ -39,15 +39,16 @@
 
     5.  Finaliser les tracés pour la production / la distribution
 
+        - fusionner les tracés
         - une seule forme, un seul fond, pas de contour
 
 
 # Ressources
 
 ✉️ Gazette de Lausanne (pdf)  
-📎 [Pathfinder](https://www.youtube.com/watch?v=QQhsnG6eGvg)  
+<!-- 📎 [Pathfinder](https://www.youtube.com/watch?v=QQhsnG6eGvg)  
 📎 [Plume]()  
-📎 [Checklists](../../../check-export/)  
+📎 [Checklists](../../../check-export/)   -->
 
 
 # Objectifs
