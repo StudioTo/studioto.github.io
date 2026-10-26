@@ -27,7 +27,7 @@
         pour le client qui vous a été attribué, créer une marque verbale en suivant le processus suivant:
 
         ⚠️  la marque verbale doit contenir le nom du client uniquement (et non l’information qui est entre parenthèses)
-            cette information vous sert définir quel type de connotation vous devez donner à la marque (voir page «Texture du mot»)
+            cette information vous sert à définir quel type de connotation vous devez donner à la marque (voir page «Texture du mot»)
 
         ⚠️  garder tous vos essais, ne rien supprimer
 
