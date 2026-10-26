@@ -58,16 +58,24 @@ Remake 1 page (images from Moma) -->
 # 26.10.2026 ⚠️ (rendu noté layout)
 
 [📄 Brief Remake Sign](../../../briefs/remake-sign/) 
+a) Échelle d’iconicité  
+b) Réaliser des esquisses de traduction graphique du niveau supérieur et du niveau inférieur  
 
 # 02.11.2026 
 
-
+c) Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
 
 # 09.11.2026
 
+c) Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
+
 # 16.11.2026
 
+c) Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
+
 # 23.11.2026
+
+d) Finaliser les tracés pour la production / la distribution
 
 # 30.11.2026  ⚠️ (rendu noté signe)
 
