@@ -13,36 +13,38 @@
         - pas de glyphes (lettres, chiffres, punctuation, etc.)
         - pas une photographie
 
-    2.  Échelle d’iconicité
+    2.  Reconstruire un signe graphique en tracés vectoriels et développer 2 variantes avec une iconicité différente
 
-        - identifer le niveau d’iconicité du signe de référence
-        - choisir un niveau plus élevé que le niveau de référence (pas forcément +1)
-        - choisir un niveau moins élevé que le niveau de référence (pas forcément -1)
+        a.  Échelle d’iconicité
 
-        ⚠️ Entre 1.2 — 1.4 de l’échelle de Wileman
+            - identifer le niveau d’iconicité du signe de référence
+            - choisir un niveau plus élevé que le niveau de référence (pas forcément +1)
+            - choisir un niveau moins élevé que le niveau de référence (pas forcément -1)
 
-    3.  Réaliser des esquisses de traduction graphique du niveau supérieur et du niveau inférieur
+            ⚠️ Entre 1.2 — 1.4 de l’échelle de Wileman
 
-        technique: crayon sur papier
-        format de page: libre
-        mode: noir/blanc
-        
-        ⚠️ 30 esquisses minimum par niveau (30 + 30 = 60)
+        b.  Réaliser des esquisses de traduction graphique du niveau supérieur et du niveau inférieur
 
-    4.  Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
+            technique: crayon sur papier
+            format de page: libre
+            mode: noir/blanc
+            
+            ⚠️ 30 esquisses minimum par niveau (30 + 30 = 60)
 
-        technique: Glyphs ou InDesign ou Illustrator
-        ratio de page: carré
-        mode: noir/blanc
-        construction: formes pleines uniquement (pas de dégradé, pas d'effet)
-        périphérique: souris/trackpad uniquement (pas de tablettre, pas de stylus)
+        c.  Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
 
-        ⚠️ Archiver tous les essais, garder les tracés et contours éditables
+            technique: Glyphs ou InDesign ou Illustrator
+            ratio de page: carré
+            mode: noir/blanc
+            construction: formes pleines uniquement (pas de dégradé, pas d'effet)
+            périphérique: souris/trackpad uniquement (pas de tablettre, pas de stylus)
 
-    5.  Finaliser les tracés pour la production / la distribution
+            ⚠️ Archiver tous les essais, garder les tracés et contours éditables
 
-        - fusionner les tracés
-        - une seule forme, un seul fond, pas de contour
+        d.  Finaliser les tracés pour la production / la distribution
+
+            - fusionner les tracés
+            - une seule forme, un seul fond, pas de contour
 
 
 # Ressources
