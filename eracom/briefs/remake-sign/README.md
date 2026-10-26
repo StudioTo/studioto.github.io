@@ -15,13 +15,13 @@
 
     2.  Échelle d’iconicité
 
-        - identifer le niveau d’iconicité de la représentation de référence
-        - choisir un niveau plus haut que le niveau de référence (pas forcément +1)
-        - choisir un niveau plus bas que le niveau de référence (pas forcément -1)
+        - identifer le niveau d’iconicité du signe de référence
+        - choisir un niveau plus élevé que le niveau de référence (pas forcément +1)
+        - choisir un niveau moins élevé que le niveau de référence (pas forcément -1)
 
         ⚠️ Entre 1.2 — 1.4 de l’échelle de Wileman
 
-    3.  Réaliser des esquisses de traduction graphique d’un niveau supérieur et d’un niveau inférieur
+    3.  Réaliser des esquisses de traduction graphique du niveau supérieur et du niveau inférieur
 
         technique: crayon sur papier
         format de page: libre
@@ -31,8 +31,8 @@
 
     4.  Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
 
-        technique: Glyphs, InDesign, Illustrator
-        format de page: carré
+        technique: Glyphs ou InDesign ou Illustrator
+        ratio de page: carré
         mode: noir/blanc
         construction: formes pleines uniquement (pas de dégradé, pas d'effet)
         périphérique: souris/trackpad uniquement (pas de tablettre, pas de stylus)

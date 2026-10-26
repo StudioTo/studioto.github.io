@@ -19,7 +19,7 @@ Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more
 
 # 24.08.2026
 
-[📄 Brief Remake Journal](../../../briefs/remake-layout/)  
+[📄 Brief Remake Layout](../../../briefs/remake-layout/)  
 [🎥 a) Importation du texte](https://kdrive.t-o.studio/app/share/105447/3da71e7d-ce17-4c98-9be2-c1119d0928c0)  
 
 <!-- Fin du documentaire + distrib journeaux -->
@@ -55,7 +55,9 @@ Remake 1 page (images from Moma) -->
 
 # 19.10.2026 🏖️
 
-# 26.10.2026 ⚠️ (rendu noté page journal)
+# 26.10.2026 ⚠️ (rendu noté layout)
+
+[📄 Brief Remake Sign](../../../briefs/remake-sign/) 
 
 # 02.11.2026 
 
@@ -65,7 +67,7 @@ Remake 1 page (images from Moma) -->
 
 # 23.11.2026
 
-# 30.11.2026
+# 30.11.2026  ⚠️ (rendu noté signe)
 
 <!-- Rendu publicité
 Remake logo -->
