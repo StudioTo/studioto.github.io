@@ -387,7 +387,8 @@
           const input = cell.querySelector('input');
           const level = cell.querySelector('.level');
           const sub = {
-            name: cell.dataset.export || '',
+            // nom dans l'export = titre affiché dans la 1re cellule de la ligne
+            name: (cell.closest('tr').querySelector('.sub-label')?.textContent || '').trim().toLowerCase(),
             input,
             level,
             ticks: cell.querySelectorAll('.ticks span'),
