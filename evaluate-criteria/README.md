@@ -80,7 +80,7 @@
       position: relative;
       flex: 1;
       min-width: 120px;
-      height: 34px;
+      height: 20px;
     }
     .markdown-body .slider-wrap .line {
       position: absolute;
@@ -113,19 +113,6 @@
       height: 6px;
       border-radius: 50%;
       background: #d0d7de;
-    }
-    .markdown-body .slider-wrap .ticks span::after {
-      content: attr(data-n);
-      position: absolute;
-      top: 10px;
-      left: 0;
-      transform: translateX(-50%);
-      font-size: 10px;
-      color: #8c959f;
-    }
-    .markdown-body .slider-wrap .ticks span.on::after {
-      color: #1f2328;
-      font-weight: 700;
     }
     .markdown-body .slider-wrap input[type="range"] {
       -webkit-appearance: none;
@@ -329,17 +316,21 @@
       // ============================================================
       // TEXTES & VALEURS — à modifier ici (communs aux deux tableaux)
       // ============================================================
-      const LEVELS = [            // 1 → 6 pts
-        'Insuffisant',
-        'Passable',
-        'Satisfaisant',
-        'Bien',
-        'Très bien',
-        'Excellent'
+      // Échelle en 7 points → note sur 6
+      // label = texte affiché, grade = note correspondante
+      // (Suffisant partout = 4 ; Excellent partout = 6 ; Manqué partout = 1)
+      const LEVELS = [
+        { label: 'Manqué',           grade: 1 },
+        { label: 'Très insuffisant', grade: 2 },
+        { label: 'Insuffisant',      grade: 3 },
+        { label: 'Suffisant',        grade: 4 },
+        { label: 'Bien',             grade: 4 + 2 / 3 },
+        { label: 'Très bien',        grade: 5 + 1 / 3 },
+        { label: 'Excellent',        grade: 6 }
       ];
       const PASS_MARK     = 4;          // à partir de cette note : vert, en dessous : rouge
       const ROUND_TO      = 0.05;       // arrondi de la note finale
-      const EMPTY_VALUE   = 1;          // valeur comptée pour un champ vide (point le plus bas)
+      const EMPTY_VALUE   = 1;          // point compté pour un champ vide (le plus bas → note 1)
       const EMPTY_LEVEL   = '—';        // affiché tant qu'un sous-critère n'est pas évalué
       const EMPTY_AVG     = '–';        // moyenne d'un critère sans évaluation
       const CLEAR_TOOLTIP = 'Cliquer pour effacer';
@@ -373,6 +364,8 @@
         });
         noteCell.rowSpan = allRows.length;
         const totalSubs = groups.reduce((n, g) => n + g.subs.length, 0);
+        // Position du curseur vide (non touché) : au milieu de l'échelle
+        const MIDDLE = Math.ceil(LEVELS.length / 2);
         function buildSlider(cell) {
           const ticks = LEVELS.map((_, n) => `<span data-n="${n + 1}"></span>`).join('');
           cell.innerHTML = `
@@ -380,7 +373,7 @@
               <div class="slider-wrap">
                 <div class="line"></div>
                 <div class="ticks">${ticks}</div>
-                <input type="range" min="1" max="${LEVELS.length}" step="1" value="1" class="unset">
+                <input type="range" min="1" max="${LEVELS.length}" step="1" value="${MIDDLE}" class="unset">
               </div>
               <button type="button" class="level empty" title="${CLEAR_TOOLTIP}">${EMPTY_LEVEL}</button>
             </div>`;
@@ -402,7 +395,7 @@
           input.addEventListener('input', mark);
           level.addEventListener('click', () => {
             sub.set = false;
-            input.value = 1;
+            input.value = MIDDLE;
             input.classList.add('unset');
             recalc();
           });
@@ -417,7 +410,9 @@
             });
             // Un champ vide compte comme EMPTY_VALUE (le point le plus bas)
             const scores = vals.map(v => (v === null ? EMPTY_VALUE : v));
-            const avg = scores.length ? scores.reduce((a, b) => a + b, 0) / scores.length : null;
+            // Conversion points → note, puis moyenne des notes
+            const grades = scores.map(p => LEVELS[p - 1].grade);
+            const avg = grades.length ? grades.reduce((a, b) => a + b, 0) / grades.length : null;
             return { g, vals, scores, avg };
           });
           const avgs = crits.map(x => x.avg).filter(v => v !== null);
@@ -431,7 +426,7 @@
             if (g.avgEl) g.avgEl.textContent = avg === null ? EMPTY_AVG : avg.toFixed(1);
             g.subs.forEach((s, k) => {
               const v = vals[k];
-              s.level.textContent = v === null ? EMPTY_LEVEL : `${v} · ${LEVELS[v - 1]}`;
+              s.level.textContent = v === null ? EMPTY_LEVEL : LEVELS[v - 1].label;
               s.level.classList.toggle('empty', v === null);
               s.ticks.forEach((t, n) => t.classList.toggle('on', v !== null && n + 1 === v));
             });
