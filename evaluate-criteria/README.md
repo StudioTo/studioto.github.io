@@ -217,8 +217,8 @@
     </thead>
     <tbody>
       <tr>
-        <td class="sub-label">Compréhension</td>
-        <td class="question">Est-ce que le brief a été compris?</td>
+        <td class="sub-label">Justesse</td>
+        <td class="question">Est-ce que les réponses sont justes?</td>
         <td class="rating" data-export="contexte"></td>
         <td class="note-cell">
           <div class="note-meta progress"></div>
@@ -228,7 +228,7 @@
       </tr>
       <tr>
         <td class="sub-label">Complétude</td>
-        <td class="question">Est-ce que toutes les demandes ont été respectées?</td>
+        <td class="question">Est-ce que toutes les questions ont été traitées?</td>
         <td class="rating" data-export="hiérarchie"></td>
       </tr>
       <tr>
@@ -271,11 +271,11 @@
       </tr>
       <tr>
         <td class="sub-label">Pertinence</td>
-        <td class="question">Le langage graphique est-il pertinent par rapport au contexte et à l’audience?</td>
+        <td class="question">Le langage graphique est-il pertinent par rapport au public?</td>
         <td class="rating" data-export="contexte"></td>
       </tr>
       <tr>
-        <td class="sub-label">Emphase</td>
+        <td class="sub-label">Hiérarchisation</td>
         <td class="question">L'information est-elle hiérarchisée de manière adéquate?</td>
         <td class="rating" data-export="hiérarchie"></td>
       </tr>
@@ -300,7 +300,7 @@
       </tr>
       <tr>
         <td class="sub-label">Recherche</td>
-        <td class="question">Collection de références, d'essais, itérations</td>
+        <td class="question">Collection de références, d'essais, mise en relation, itérations</td>
         <td class="rating" data-export="recherche"></td>
       </tr>
       <!-- TECHNIQUE -->
@@ -339,6 +339,7 @@
       ];
       const PASS_MARK     = 4;          // à partir de cette note : vert, en dessous : rouge
       const ROUND_TO      = 0.05;       // arrondi de la note finale
+      const EMPTY_VALUE   = 1;          // valeur comptée pour un champ vide (point le plus bas)
       const EMPTY_LEVEL   = '—';        // affiché tant qu'un sous-critère n'est pas évalué
       const EMPTY_AVG     = '–';        // moyenne d'un critère sans évaluation
       const CLEAR_TOOLTIP = 'Cliquer pour effacer';
@@ -413,9 +414,10 @@
               if (s.set) { rated++; return parseInt(s.input.value, 10); }
               return null;
             });
-            const filled = vals.filter(v => v !== null);
-            const avg = filled.length ? filled.reduce((a, b) => a + b, 0) / filled.length : null;
-            return { g, vals, avg };
+            // Un champ vide compte comme EMPTY_VALUE (le point le plus bas)
+            const scores = vals.map(v => (v === null ? EMPTY_VALUE : v));
+            const avg = scores.length ? scores.reduce((a, b) => a + b, 0) / scores.length : null;
+            return { g, vals, scores, avg };
           });
           const avgs = crits.map(x => x.avg).filter(v => v !== null);
           let final = avgs.length ? avgs.reduce((a, b) => a + b, 0) / avgs.length : 0;
@@ -448,8 +450,8 @@
             parts = crits.map(({ g, avg }) => `${g.name}: ${avg === null ? EMPTY_AVG : avg.toFixed(1)}`);
           } else {
             // Exercice : les notes de chaque ligne
-            const { g, vals } = crits[0];
-            parts = g.subs.map((s, k) => `${s.name}: ${vals[k] === null ? EMPTY_AVG : vals[k]}`);
+            const { g, scores } = crits[0];
+            parts = g.subs.map((s, k) => `${s.name}: ${scores[k]}`);
           }
           const text = `${final.toFixed(2)} = ${parts.join(' / ')}`;
           try {
