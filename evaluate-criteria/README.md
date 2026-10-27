@@ -80,7 +80,7 @@
       position: relative;
       flex: 1;
       min-width: 120px;
-      height: 20px;
+      height: 34px;
     }
     .markdown-body .slider-wrap .line {
       position: absolute;
@@ -113,6 +113,19 @@
       height: 6px;
       border-radius: 50%;
       background: #d0d7de;
+    }
+    .markdown-body .slider-wrap .ticks span::after {
+      content: attr(data-n);
+      position: absolute;
+      top: 10px;
+      left: 0;
+      transform: translateX(-50%);
+      font-size: 10px;
+      color: #8c959f;
+    }
+    .markdown-body .slider-wrap .ticks span.on::after {
+      color: #1f2328;
+      font-weight: 700;
     }
     .markdown-body .slider-wrap input[type="range"] {
       -webkit-appearance: none;
@@ -364,8 +377,6 @@
         });
         noteCell.rowSpan = allRows.length;
         const totalSubs = groups.reduce((n, g) => n + g.subs.length, 0);
-        // Position du curseur vide (non touché) : au milieu de l'échelle
-        const MIDDLE = Math.ceil(LEVELS.length / 2);
         function buildSlider(cell) {
           const ticks = LEVELS.map((_, n) => `<span data-n="${n + 1}"></span>`).join('');
           cell.innerHTML = `
@@ -373,7 +384,7 @@
               <div class="slider-wrap">
                 <div class="line"></div>
                 <div class="ticks">${ticks}</div>
-                <input type="range" min="1" max="${LEVELS.length}" step="1" value="${MIDDLE}" class="unset">
+                <input type="range" min="1" max="${LEVELS.length}" step="1" value="1" class="unset">
               </div>
               <button type="button" class="level empty" title="${CLEAR_TOOLTIP}">${EMPTY_LEVEL}</button>
             </div>`;
@@ -395,7 +406,7 @@
           input.addEventListener('input', mark);
           level.addEventListener('click', () => {
             sub.set = false;
-            input.value = MIDDLE;
+            input.value = 1;
             input.classList.add('unset');
             recalc();
           });
@@ -426,13 +437,12 @@
             if (g.avgEl) g.avgEl.textContent = avg === null ? EMPTY_AVG : avg.toFixed(1);
             g.subs.forEach((s, k) => {
               const v = vals[k];
-              s.level.textContent = v === null ? EMPTY_LEVEL : LEVELS[v - 1].label;
+              s.level.textContent = v === null ? EMPTY_LEVEL : `${v} · ${LEVELS[v - 1].label}`;
               s.level.classList.toggle('empty', v === null);
               s.ticks.forEach((t, n) => t.classList.toggle('on', v !== null && n + 1 === v));
             });
           });
-          // Rien de touché : afficher 0.00 (sinon la note minimale serait 1)
-          finalEl.textContent = rated === 0 ? (0).toFixed(2) : final.toFixed(2);
+          finalEl.textContent = final.toFixed(2);
           progressEl.textContent = `${rated}/${totalSubs}`;
           noteCell.classList.remove('note-good', 'note-bad');
           if (rated > 0) {
