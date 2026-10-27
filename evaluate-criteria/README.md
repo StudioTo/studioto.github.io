@@ -281,7 +281,7 @@
       </tr>
       <tr>
         <td class="sub-label">Impact</td>
-        <td class="question">Le langage graphique est-il original</td>
+        <td class="question">Le langage graphique est-il </td>
         <td class="rating" data-export="impact"></td>
       </tr>
       <!-- PROCESSUS -->
