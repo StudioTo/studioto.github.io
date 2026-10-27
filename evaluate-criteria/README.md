@@ -431,7 +431,8 @@
               s.ticks.forEach((t, n) => t.classList.toggle('on', v !== null && n + 1 === v));
             });
           });
-          finalEl.textContent = final.toFixed(2);
+          // Rien de touché : afficher 0.00 (sinon la note minimale serait 1)
+          finalEl.textContent = rated === 0 ? (0).toFixed(2) : final.toFixed(2);
           progressEl.textContent = `${rated}/${totalSubs}`;
           noteCell.classList.remove('note-good', 'note-bad');
           if (rated > 0) {
