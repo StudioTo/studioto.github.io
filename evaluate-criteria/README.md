@@ -1,7 +1,13 @@
-# 📶 Critères de notation
+# 📶 Critères d’évaluation
 
 
 ### &nbsp;
+
+
+### Exercice
+
+
+### Projet
 
 
 <div class="markdown-body">
