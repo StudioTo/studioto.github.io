@@ -8,16 +8,16 @@
 
     ●   Animer un logo de sorte à ce qu’il apparaisse
 
-    1.  Installation du plugin LotieFiles dans Figma
+    1.  Préparation des tracés dans Illustrator
 
-        https://lottiefiles.com/plugins/figma
+        ouvrir le fichier eps du logo dans Illustrator
+        grouper ou dégrouper les formes en fonction du type d’animation envisagé
+        renommer le groupe principal avec le nom du logo et chaque sous-calque du logo de manière descriptive
+        (cela vous aidera à vous y retrouver lorsque vous allez muliplier les frames)
 
     2.  Importation du logo dans Figma
 
-        ouvrir le fichier eps du logo dans Illustrator
-        copier les tracés vectoriels > coller dans figma
-        renommer le calque avec le nom du logo et chaque sous-calque du logo de manière descriptive
-        (cela vous aidera à vous y retrouver lorsque vous allez muliplier les frames)
+        copier les tracés vectoriels dans Illustrator > coller dans figma
 
     3.  Création du frame de l’animation
 
@@ -46,7 +46,8 @@
             - couleur de fond et/ou de contour
             - effets
             - […]
-            ⚠️ chaque frame doit comporter le même nombre de calques, nommés de la même manière (masquer au lieu de supprimer)
+
+            ⚠️ chaque frame doit comporter le même groupe «logo», avec le même nombre de calques, nommés de la même manière et dans le même ordre
 
         à nouveau, sur la gauche, dupliquer le frame puis le modifier (2e étape de disparition)
         et ainsi de suite jusqu’à la disparition complète du logo
@@ -61,6 +62,13 @@
             ⚠️ attention à bien faire démarrer le flow à la frame vide (étape 1)
 
         cliquer sur le bouton play pour prévisualiser l’animation
+
+    5.  Export de l’animation au format lotie
+
+        Installer du plugin LotieFiles dans Figma
+        https://lottiefiles.com/plugins/figma
+
+        Exporter
 
 
 # Ressources
