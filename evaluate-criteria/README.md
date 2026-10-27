@@ -6,11 +6,6 @@
 
 # Exercice
 
-
-# Projet
-
-  
-
 <div class="markdown-body">
   <style>
     .markdown-body table {
@@ -28,34 +23,46 @@
       background: #f6f8fa;
     }
     .markdown-body th { text-align: left; }
-    .markdown-body #eval-table { table-layout: fixed; }
-    .markdown-body #eval-table th:last-child { text-align: center; }
-    /* Criterion title rows */
-    .markdown-body #eval-table .crit-row td { background: #eaeef2; }
-    .markdown-body #eval-table .crit-title { font-weight: 700; }
-    .markdown-body #eval-table .crit-avg {
-      float: right;
+    .markdown-body .eval-table { table-layout: fixed; }
+    .markdown-body .eval-table th:last-child { text-align: center; }
+    /* Lignes de critère */
+    .markdown-body .eval-table .crit-row td {
+      position: relative;
+      background: #eaeef2;
+      text-align: center;
+    }
+    .markdown-body .eval-table .crit-title { font-weight: 700; }
+    .markdown-body .eval-table .crit-avg {
+      position: absolute;
+      right: 13px;
+      top: 50%;
+      transform: translateY(-50%);
       font-weight: 700;
       font-variant-numeric: tabular-nums;
     }
-    .markdown-body #eval-table .sub-label { font-weight: 600; }
-    .markdown-body #eval-table .question { color: #57606a; }
-    /* Grade cell */
-    .markdown-body #note-cell { text-align: center; vertical-align: middle; }
-    .markdown-body #note-cell.note-good { background: #dafbe1; }
-    .markdown-body #note-cell.note-bad  { background: #ffebe9; }
-    .markdown-body #note-cell .note-meta {
+    .markdown-body .eval-table .sub-label { font-weight: 600; }
+    .markdown-body .eval-table .question { color: #57606a; }
+    /* Case note */
+    .markdown-body .eval-table .crit-row td.note-cell {
+      position: static;
+      text-align: center;
+      vertical-align: middle;
+      background: #ffffff;
+    }
+    .markdown-body .eval-table .crit-row td.note-cell.note-good { background: #dafbe1; }
+    .markdown-body .eval-table .crit-row td.note-cell.note-bad  { background: #ffebe9; }
+    .markdown-body .note-cell .note-meta {
       margin-top: 8px;
       font-size: 12px;
       color: #57606a;
     }
-    .markdown-body #note-cell .note-final {
+    .markdown-body .note-cell .note-final {
       font-size: 50px;
       font-weight: 700;
       line-height: 1;
       font-variant-numeric: tabular-nums;
     }
-    .markdown-body #note-cell button {
+    .markdown-body .note-cell button {
       background: none;
       border: none;
       padding: 0;
@@ -63,8 +70,8 @@
       color: #57606a;
       cursor: pointer;
     }
-    /* Rating: slider + level label */
-    .markdown-body .rating {
+    /* Évaluation : slider + niveau */
+    .markdown-body .rating-inner {
       display: flex;
       align-items: center;
       gap: 12px;
@@ -178,7 +185,22 @@
     }
     .markdown-body .level.empty { color: #8c959f; cursor: default; }
   </style>
-  <table id="eval-table">
+  <!--
+    ============================================================
+    TABLEAUX — textes à modifier directement ici
+    - Ligne de critère : <tr class="crit-row" data-export="…">
+        • texte du titre dans <span class="crit-title">
+        • data-export = nom utilisé dans l'export
+    - Ligne de sous-critère :
+        • 1re cellule = titre
+        • 2e cellule = question
+        • data-export (3e cellule) = nom utilisé dans l'export
+    Pour ajouter / retirer un sous-critère : copier / supprimer une ligne.
+    La case Note doit rester dans la première ligne de critère.
+    ============================================================
+  -->
+  <!-- ======================= TABLEAU EXERCICE ======================= -->
+  <table class="eval-table">
     <colgroup>
       <col style="width:20%">
       <col>
@@ -187,174 +209,309 @@
     </colgroup>
     <thead>
       <tr>
-        <th>Criterion</th>
+        <th>Critère</th>
         <th>Question</th>
-        <th>Rating</th>
+        <th>Évaluation</th>
         <th>Note</th>
       </tr>
     </thead>
-    <tbody id="eval-body"></tbody>
+    <tbody>
+      <!-- DESIGN -->
+      <tr class="crit-row" data-export="design">
+        <td colspan="3"><span class="crit-title">Design</span></td>
+        <td class="note-cell">
+          <div class="note-meta progress"></div>
+          <div class="note-final"><span class="final">0.00</span></div>
+          <div class="note-meta"><button class="save-btn" type="button"></button></div>
+        </td>
+      </tr>
+      <tr>
+        <td class="sub-label">Pertinence contextuelle</td>
+        <td class="question">La solution graphique est-elle pertinente par rapport au contexte donné ?</td>
+        <td class="rating" data-export="contexte"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Hiérarchie</td>
+        <td class="question">La hiérarchie est-elle claire, le message principal ressort-il ?</td>
+        <td class="rating" data-export="hiérarchie"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Impact</td>
+        <td class="question">Le travail capte-t-il l’attention et marque-t-il durablement ?</td>
+        <td class="rating" data-export="impact"></td>
+      </tr>
+      <!-- PROCESSUS -->
+      <tr class="crit-row" data-export="processus">
+        <td colspan="3"><span class="crit-title">Processus</span></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Intentions claires</td>
+        <td class="question">Les intentions sont-elles clairement définies et argumentées ?</td>
+        <td class="rating" data-export="intentions"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Organisation</td>
+        <td class="question">Le temps, le matériel et les délais sont-ils bien gérés ?</td>
+        <td class="rating" data-export="organisation"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Recherche</td>
+        <td class="question">La recherche est-elle variée, itérative et menée avec un regard critique ?</td>
+        <td class="rating" data-export="recherche"></td>
+      </tr>
+      <!-- TECHNIQUE -->
+      <tr class="crit-row" data-export="technique">
+        <td colspan="3"><span class="crit-title">Technique</span></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Précision</td>
+        <td class="question">L’exécution est-elle précise et soignée ?</td>
+        <td class="rating" data-export="précision"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Production</td>
+        <td class="question">La production finale est-elle aboutie et bien réalisée ?</td>
+        <td class="rating" data-export="production"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Systématisation</td>
+        <td class="question">Les règles (grille, typographie, couleurs) sont-elles appliquées de manière cohérente ?</td>
+        <td class="rating" data-export="systématisation"></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+# Projet
+
+<div class="markdown-body">
+  <!-- ======================= TABLEAU PROJET ======================= -->
+  <table class="eval-table">
+    <colgroup>
+      <col style="width:20%">
+      <col>
+      <col style="width:32%">
+      <col style="width:16%">
+    </colgroup>
+    <thead>
+      <tr>
+        <th>Critère</th>
+        <th>Question</th>
+        <th>Évaluation</th>
+        <th>Note</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- DESIGN -->
+      <tr class="crit-row" data-export="design">
+        <td colspan="3"><span class="crit-title">Design</span></td>
+        <td class="note-cell">
+          <div class="note-meta progress"></div>
+          <div class="note-final"><span class="final">0.00</span></div>
+          <div class="note-meta"><button class="save-btn" type="button"></button></div>
+        </td>
+      </tr>
+      <tr>
+        <td class="sub-label">Pertinence contextuelle</td>
+        <td class="question">La solution graphique est-elle pertinente par rapport au contexte donné ?</td>
+        <td class="rating" data-export="contexte"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Hiérarchie</td>
+        <td class="question">La hiérarchie est-elle claire, le message principal ressort-il ?</td>
+        <td class="rating" data-export="hiérarchie"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Impact</td>
+        <td class="question">Le travail capte-t-il l’attention et marque-t-il durablement ?</td>
+        <td class="rating" data-export="impact"></td>
+      </tr>
+      <!-- PROCESSUS -->
+      <tr class="crit-row" data-export="processus">
+        <td colspan="3"><span class="crit-title">Processus</span></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Intentions claires</td>
+        <td class="question">Les intentions sont-elles clairement définies et argumentées ?</td>
+        <td class="rating" data-export="intentions"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Organisation</td>
+        <td class="question">Le temps, le matériel et les délais sont-ils bien gérés ?</td>
+        <td class="rating" data-export="organisation"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Recherche</td>
+        <td class="question">La recherche est-elle variée, itérative et menée avec un regard critique ?</td>
+        <td class="rating" data-export="recherche"></td>
+      </tr>
+      <!-- TECHNIQUE -->
+      <tr class="crit-row" data-export="technique">
+        <td colspan="3"><span class="crit-title">Technique</span></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Précision</td>
+        <td class="question">L’exécution est-elle précise et soignée ?</td>
+        <td class="rating" data-export="précision"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Production</td>
+        <td class="question">La production finale est-elle aboutie et bien réalisée ?</td>
+        <td class="rating" data-export="production"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Systématisation</td>
+        <td class="question">Les règles (grille, typographie, couleurs) sont-elles appliquées de manière cohérente ?</td>
+        <td class="rating" data-export="systématisation"></td>
+      </tr>
+    </tbody>
   </table>
   <script>
     (function () {
-      const LEVELS = ['Inadequate', 'Pass', 'Satisfactory', 'Good', 'Very good', 'Excellent'];
-      const CRITERIA = [
-        {
-          key: 'design', title: 'Design', short: 'design',
-          subs: [
-            { key: 'context',  short: 'context',  label: 'Context-relevant solution', q: 'Is the graphic solution relevant to the given context?' },
-            { key: 'emphasis', short: 'emphasis', label: 'Emphasis',                  q: 'Is the hierarchy clear, does the key message stand out?' },
-            { key: 'impact',   short: 'impact',   label: 'Impact',                    q: 'Does the work catch attention and leave a lasting impression?' }
-          ]
-        },
-        {
-          key: 'process', title: 'Process', short: 'process',
-          subs: [
-            { key: 'intentions',   short: 'intentions',   label: 'Clear intentions', q: 'Are the intentions clearly defined and argued?' },
-            { key: 'organization', short: 'organization', label: 'Organization',     q: 'Are time, material and deadlines well managed?' },
-            { key: 'research',     short: 'research',     label: 'Research',         q: 'Is the research broad, iterative and critically assessed?' }
-          ]
-        },
-        {
-          key: 'technicals', title: 'Technicals', short: 'technicals',
-          subs: [
-            { key: 'precision',       short: 'precision',       label: 'Precision',       q: 'Is the execution precise and clean?' },
-            { key: 'production',      short: 'production',      label: 'Production',      q: 'Is the final production well crafted and finished?' },
-            { key: 'systematization', short: 'systematization', label: 'Systematization', q: 'Are the rules (grid, typography, colours) applied consistently?' }
-          ]
-        }
+      // ============================================================
+      // TEXTES & VALEURS — à modifier ici (communs aux deux tableaux)
+      // ============================================================
+      const LEVELS = [            // 1 → 6 pts
+        'Insuffisant',
+        'Passable',
+        'Satisfaisant',
+        'Bien',
+        'Très bien',
+        'Excellent'
       ];
-      const body = document.getElementById('eval-body');
-      const totalRows = CRITERIA.reduce((n, c) => n + 1 + c.subs.length, 0);
-      const totalSubs = CRITERIA.reduce((n, c) => n + c.subs.length, 0);
-      const id = (p, c, s) => `${p}-${c.key}-${s.key}`;
-      // Build rows
-      let html = '';
-      CRITERIA.forEach((c, ci) => {
-        html += `<tr class="crit-row"><td colspan="3"><span class="crit-title">${c.title}</span><span class="crit-avg" id="avg-${c.key}">–</span></td>`;
-        if (ci === 0) {
-          html += `<td id="note-cell" rowspan="${totalRows}">
-            <div class="note-meta" id="progress">0/${totalSubs}</div>
-            <div class="note-final"><span id="final">0.00</span></div>
-            <div class="note-meta"><button id="save-btn" type="button">export</button></div>
-          </td>`;
-        }
-        html += '</tr>';
-        c.subs.forEach(s => {
-          const ticks = LEVELS.map((_, n) => `<span data-n="${n + 1}"></span>`).join('');
-          html += `<tr>
-            <td class="sub-label">${s.label}</td>
-            <td class="question">${s.q}</td>
-            <td>
-              <div class="rating">
-                <div class="slider-wrap">
-                  <div class="line"></div>
-                  <div class="ticks" id="${id('tk', c, s)}">${ticks}</div>
-                  <input type="range" min="1" max="6" step="1" value="1" class="unset" data-set="0" id="${id('r', c, s)}" aria-label="${s.label}">
-                </div>
-                <button type="button" class="level empty" id="${id('lvl', c, s)}" data-for="${id('r', c, s)}" title="Click to clear">—</button>
-              </div>
-            </td>
-          </tr>`;
-        });
-      });
-      body.innerHTML = html;
-      // Slider behaviour: magnetized to 1–6 by step="1", unset until touched
-      body.querySelectorAll('input[type="range"]').forEach(i => {
-        const mark = () => {
-          if (i.dataset.set !== '1') {
-            i.dataset.set = '1';
-            i.classList.remove('unset');
+      const PASS_MARK     = 4;          // à partir de cette note : vert, en dessous : rouge
+      const ROUND_TO      = 0.05;       // arrondi de la note finale
+      const EMPTY_LEVEL   = '—';        // affiché tant qu'un sous-critère n'est pas évalué
+      const EMPTY_AVG     = '–';        // moyenne d'un critère sans évaluation
+      const CLEAR_TOOLTIP = 'Cliquer pour effacer';
+      const EXPORT_LABEL  = 'exporter';
+      const COPIED_LABEL  = 'copié';
+      // ============================================================
+      document.querySelectorAll('.eval-table').forEach(initTable);
+      function initTable(table) {
+        const body       = table.tBodies[0];
+        const noteCell   = table.querySelector('.note-cell');
+        const finalEl    = table.querySelector('.final');
+        const progressEl = table.querySelector('.progress');
+        const saveBtn    = table.querySelector('.save-btn');
+        saveBtn.textContent = EXPORT_LABEL;
+        // Lecture de la structure du tableau
+        const groups = [];
+        const allRows = Array.from(body.rows);
+        allRows.forEach(tr => {
+          if (tr.classList.contains('crit-row')) {
+            const avgEl = document.createElement('span');
+            avgEl.className = 'crit-avg';
+            tr.cells[0].appendChild(avgEl);
+            groups.push({ name: tr.dataset.export, avgEl, subs: [] });
+          } else {
+            const cell = tr.querySelector('td.rating');
+            if (cell && groups.length) groups[groups.length - 1].subs.push(buildSlider(cell));
           }
-          recalc();
-        };
-        i.addEventListener('pointerdown', mark);
-        i.addEventListener('input', mark);
-      });
-      // Clicking the level label clears the rating
-      body.querySelectorAll('.level').forEach(b => {
-        b.addEventListener('click', () => {
-          const i = document.getElementById(b.dataset.for);
-          i.dataset.set = '0';
-          i.value = 1;
-          i.classList.add('unset');
-          recalc();
         });
-      });
-      function readScores() {
-        let rated = 0;
-        const crits = CRITERIA.map(c => {
-          const subs = c.subs.map(s => {
-            const i = document.getElementById(id('r', c, s));
-            if (i.dataset.set === '1') { rated++; return parseInt(i.value, 10); }
-            return null;
+        noteCell.rowSpan = allRows.length;
+        const totalSubs = groups.reduce((n, g) => n + g.subs.length, 0);
+        function buildSlider(cell) {
+          const ticks = LEVELS.map((_, n) => `<span data-n="${n + 1}"></span>`).join('');
+          cell.innerHTML = `
+            <div class="rating-inner">
+              <div class="slider-wrap">
+                <div class="line"></div>
+                <div class="ticks">${ticks}</div>
+                <input type="range" min="1" max="${LEVELS.length}" step="1" value="1" class="unset">
+              </div>
+              <button type="button" class="level empty" title="${CLEAR_TOOLTIP}">${EMPTY_LEVEL}</button>
+            </div>`;
+          const input = cell.querySelector('input');
+          const level = cell.querySelector('.level');
+          const sub = {
+            name: cell.dataset.export,
+            input,
+            level,
+            ticks: cell.querySelectorAll('.ticks span'),
+            set: false
+          };
+          const mark = () => {
+            if (!sub.set) { sub.set = true; input.classList.remove('unset'); }
+            recalc();
+          };
+          input.addEventListener('pointerdown', mark);
+          input.addEventListener('input', mark);
+          level.addEventListener('click', () => {
+            sub.set = false;
+            input.value = 1;
+            input.classList.add('unset');
+            recalc();
           });
-          const vals = subs.filter(v => v !== null);
-          const avg = vals.length ? vals.reduce((a, b) => a + b, 0) / vals.length : null;
-          return { c, subs, avg };
-        });
-        const avgs = crits.map(x => x.avg).filter(v => v !== null);
-        let final = avgs.length ? avgs.reduce((a, b) => a + b, 0) / avgs.length : 0;
-        // round to nearest 0.05
-        final = Math.round(final / 0.05) * 0.05;
-        return { crits, final, rated };
-      }
-      function recalc() {
-        const { crits, final, rated } = readScores();
-        crits.forEach(({ c, subs, avg }) => {
-          document.getElementById(`avg-${c.key}`).textContent = avg === null ? '–' : avg.toFixed(1);
-          c.subs.forEach((s, k) => {
-            const v = subs[k];
-            const btn = document.getElementById(id('lvl', c, s));
-            btn.textContent = v === null ? '—' : `${v} · ${LEVELS[v - 1]}`;
-            btn.classList.toggle('empty', v === null);
-            document.querySelectorAll(`#${id('tk', c, s)} span`).forEach((t, n) => {
-              t.classList.toggle('on', v !== null && n + 1 === v);
+          return sub;
+        }
+        function readScores() {
+          let rated = 0;
+          const crits = groups.map(g => {
+            const vals = g.subs.map(s => {
+              if (s.set) { rated++; return parseInt(s.input.value, 10); }
+              return null;
+            });
+            const filled = vals.filter(v => v !== null);
+            const avg = filled.length ? filled.reduce((a, b) => a + b, 0) / filled.length : null;
+            return { g, vals, avg };
+          });
+          const avgs = crits.map(x => x.avg).filter(v => v !== null);
+          let final = avgs.length ? avgs.reduce((a, b) => a + b, 0) / avgs.length : 0;
+          final = Math.round(final / ROUND_TO) * ROUND_TO;
+          return { crits, final, rated };
+        }
+        function recalc() {
+          const { crits, final, rated } = readScores();
+          crits.forEach(({ g, vals, avg }) => {
+            g.avgEl.textContent = avg === null ? EMPTY_AVG : avg.toFixed(1);
+            g.subs.forEach((s, k) => {
+              const v = vals[k];
+              s.level.textContent = v === null ? EMPTY_LEVEL : `${v} · ${LEVELS[v - 1]}`;
+              s.level.classList.toggle('empty', v === null);
+              s.ticks.forEach((t, n) => t.classList.toggle('on', v !== null && n + 1 === v));
             });
           });
-        });
-        document.getElementById('final').textContent = final.toFixed(2);
-        document.getElementById('progress').textContent = `${rated}/${totalSubs}`;
-        const noteCell = document.getElementById('note-cell');
-        noteCell.classList.remove('note-good', 'note-bad');
-        if (rated === totalSubs) {
-          noteCell.classList.add(final >= 4 ? 'note-good' : 'note-bad');
+          finalEl.textContent = final.toFixed(2);
+          progressEl.textContent = `${rated}/${totalSubs}`;
+          noteCell.classList.remove('note-good', 'note-bad');
+          if (rated > 0) {
+            noteCell.classList.add(final >= PASS_MARK ? 'note-good' : 'note-bad');
+          }
         }
-      }
-      async function copyScoresToClipboard() {
-        const { crits, final } = readScores();
-        const fmt = v => (v === null ? '–' : String(v));
-        const parts = crits.map(({ c, subs, avg }) =>
-          `${c.short}: ${avg === null ? '–' : avg.toFixed(1)} (${c.subs.map((s, k) => `${s.short} ${fmt(subs[k])}`).join(' / ')})`
-        );
-        const text = `${final.toFixed(2)} = ${parts.join(' · ')}`;
-        try {
-          await navigator.clipboard.writeText(text);
-        } catch (e) {
-          // Fallback for older browsers
-          const ta = document.createElement('textarea');
-          ta.value = text;
-          document.body.appendChild(ta);
-          ta.select();
-          document.execCommand('copy');
-          document.body.removeChild(ta);
+        async function copyScoresToClipboard() {
+          const { crits, final } = readScores();
+          const fmt = v => (v === null ? EMPTY_AVG : String(v));
+          const parts = crits.map(({ g, vals, avg }) =>
+            `${g.name}: ${avg === null ? EMPTY_AVG : avg.toFixed(1)} (${g.subs.map((s, k) => `${s.name} ${fmt(vals[k])}`).join(' / ')})`
+          );
+          const text = `${final.toFixed(2)} = ${parts.join(' · ')}`;
+          try {
+            await navigator.clipboard.writeText(text);
+          } catch (e) {
+            // Solution de repli pour anciens navigateurs
+            const ta = document.createElement('textarea');
+            ta.value = text;
+            document.body.appendChild(ta);
+            ta.select();
+            document.execCommand('copy');
+            document.body.removeChild(ta);
+          }
+          saveBtn.textContent = COPIED_LABEL;
+          setTimeout(() => (saveBtn.textContent = EXPORT_LABEL), 900);
         }
-        const btn = document.getElementById('save-btn');
-        const prev = btn.textContent;
-        btn.textContent = 'copied';
-        setTimeout(() => (btn.textContent = prev), 900);
+        saveBtn.addEventListener('click', copyScoresToClipboard);
+        recalc();
       }
-      document.getElementById('save-btn').addEventListener('click', copyScoresToClipboard);
-      recalc();
     })();
   </script>
 </div>
 
-### &nbsp;
+<!-- ### &nbsp;
 
 |![](links/0-Eval_process.jpg) |
 |:---:|
-| Processus: organisation, développement, production | 
+| Processus: organisation, développement, production |  -->
 
 
 <!-- # Exercice technique  
