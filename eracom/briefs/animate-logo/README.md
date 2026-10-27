@@ -17,7 +17,7 @@
         ouvrir le fichier eps du logo dans Illustrator
         copier les tracés vectoriels > coller dans figma
         renommer le calque avec le nom du logo et chaque sous-calque du logo de manière descriptive
-        (cela vous aidera à vous y retrouver lorsque vous allez muliplier les calques)
+        (cela vous aidera à vous y retrouver lorsque vous allez muliplier les frames)
 
     3.  Création du frame de l’animation
 
