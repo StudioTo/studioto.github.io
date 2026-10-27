@@ -43,14 +43,14 @@
     .markdown-body .eval-table .sub-label { font-weight: 600; }
     .markdown-body .eval-table .question { color: #57606a; }
     /* Case note */
-    .markdown-body .eval-table .crit-row td.note-cell {
+    .markdown-body .eval-table td.note-cell {
       position: static;
       text-align: center;
       vertical-align: middle;
       background: #ffffff;
     }
-    .markdown-body .eval-table .crit-row td.note-cell.note-good { background: #dafbe1; }
-    .markdown-body .eval-table .crit-row td.note-cell.note-bad  { background: #ffebe9; }
+    .markdown-body .eval-table td.note-cell.note-good { background: #dafbe1; }
+    .markdown-body .eval-table td.note-cell.note-bad  { background: #ffebe9; }
     .markdown-body .note-cell .note-meta {
       margin-top: 8px;
       font-size: 12px;
@@ -216,9 +216,10 @@
       </tr>
     </thead>
     <tbody>
-      <!-- JUSTESSE -->
-      <tr class="crit-row" data-export="design">
-        <td colspan="3"><span class="crit-title">Justesse</span></td>
+      <tr>
+        <td class="sub-label">Compréhension</td>
+        <td class="question">Est-ce que le brief a été compris?</td>
+        <td class="rating" data-export="contexte"></td>
         <td class="note-cell">
           <div class="note-meta progress"></div>
           <div class="note-final"><span class="final">0.00</span></div>
@@ -226,57 +227,14 @@
         </td>
       </tr>
       <tr>
-        <td class="sub-label">Pertinence contextuelle</td>
-        <td class="question"></td>
-        <td class="rating" data-export="contexte"></td>
-      </tr>
-      <tr>
-        <td class="sub-label">Hiérarchie</td>
-        <td class="question"></td>
+        <td class="sub-label">Complétude</td>
+        <td class="question">Est-ce que toutes les demandes ont été respectées?</td>
         <td class="rating" data-export="hiérarchie"></td>
       </tr>
       <tr>
-        <td class="sub-label">Impact</td>
-        <td class="question"></td>
-        <td class="rating" data-export="impact"></td>
-      </tr>
-      <!-- COMPLETUDE -->
-      <tr class="crit-row" data-export="processus">
-        <td colspan="3"><span class="crit-title">Complétude</span></td>
-      </tr>
-      <tr>
-        <td class="sub-label">Intentions claires</td>
-        <td class="question"></td>
-        <td class="rating" data-export="intentions"></td>
-      </tr>
-      <tr>
-        <td class="sub-label">Organisation</td>
-        <td class="question"></td>
-        <td class="rating" data-export="organisation"></td>
-      </tr>
-      <tr>
-        <td class="sub-label">Recherche</td>
-        <td class="question"></td>
-        <td class="rating" data-export="recherche"></td>
-      </tr>
-      <!-- PRECISION -->
-      <tr class="crit-row" data-export="technique">
-        <td colspan="3"><span class="crit-title">Précision</span></td>
-      </tr>
-      <tr>
         <td class="sub-label">Précision</td>
-        <td class="question"></td>
-        <td class="rating" data-export="précision"></td>
-      </tr>
-      <tr>
-        <td class="sub-label">Production</td>
-        <td class="question"></td>
-        <td class="rating" data-export="production"></td>
-      </tr>
-      <tr>
-        <td class="sub-label">Systématisation</td>
-        <td class="question"></td>
-        <td class="rating" data-export="systématisation"></td>
+        <td class="question">Est-ce que le rendu est précis?</td>
+        <td class="rating" data-export="impact"></td>
       </tr>
     </tbody>
   </table>
@@ -395,8 +353,11 @@
         const progressEl = table.querySelector('.progress');
         const saveBtn    = table.querySelector('.save-btn');
         saveBtn.textContent = EXPORT_LABEL;
+        // Tableau avec domaines (Projet) ou sans (Exercice)
+        const hasDomains = !!body.querySelector('tr.crit-row');
         // Lecture de la structure du tableau
         const groups = [];
+        if (!hasDomains) groups.push({ name: null, avgEl: null, subs: [] });
         const allRows = Array.from(body.rows);
         allRows.forEach(tr => {
           if (tr.classList.contains('crit-row')) {
@@ -425,7 +386,7 @@
           const input = cell.querySelector('input');
           const level = cell.querySelector('.level');
           const sub = {
-            name: cell.dataset.export,
+            name: cell.dataset.export || '',
             input,
             level,
             ticks: cell.querySelectorAll('.ticks span'),
@@ -464,7 +425,7 @@
         function recalc() {
           const { crits, final, rated } = readScores();
           crits.forEach(({ g, vals, avg }) => {
-            g.avgEl.textContent = avg === null ? EMPTY_AVG : avg.toFixed(1);
+            if (g.avgEl) g.avgEl.textContent = avg === null ? EMPTY_AVG : avg.toFixed(1);
             g.subs.forEach((s, k) => {
               const v = vals[k];
               s.level.textContent = v === null ? EMPTY_LEVEL : `${v} · ${LEVELS[v - 1]}`;
@@ -481,11 +442,16 @@
         }
         async function copyScoresToClipboard() {
           const { crits, final } = readScores();
-          const fmt = v => (v === null ? EMPTY_AVG : String(v));
-          const parts = crits.map(({ g, vals, avg }) =>
-            `${g.name}: ${avg === null ? EMPTY_AVG : avg.toFixed(1)} (${g.subs.map((s, k) => `${s.name} ${fmt(vals[k])}`).join(' / ')})`
-          );
-          const text = `${final.toFixed(2)} = ${parts.join(' · ')}`;
+          let parts;
+          if (hasDomains) {
+            // Projet : uniquement les notes des domaines
+            parts = crits.map(({ g, avg }) => `${g.name}: ${avg === null ? EMPTY_AVG : avg.toFixed(1)}`);
+          } else {
+            // Exercice : les notes de chaque ligne
+            const { g, vals } = crits[0];
+            parts = g.subs.map((s, k) => `${s.name}: ${vals[k] === null ? EMPTY_AVG : vals[k]}`);
+          }
+          const text = `${final.toFixed(2)} = ${parts.join(' / ')}`;
           try {
             await navigator.clipboard.writeText(text);
           } catch (e) {
