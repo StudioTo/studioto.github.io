@@ -210,15 +210,15 @@
     <thead>
       <tr>
         <th>Critère</th>
-        <th>Question</th>
+        <th>Indicateur</th>
         <th>Évaluation</th>
         <th>Note</th>
       </tr>
     </thead>
     <tbody>
-      <!-- DESIGN -->
+      <!-- JUSTESSE -->
       <tr class="crit-row" data-export="design">
-        <td colspan="3"><span class="crit-title">Design</span></td>
+        <td colspan="3"><span class="crit-title">Justesse</span></td>
         <td class="note-cell">
           <div class="note-meta progress"></div>
           <div class="note-final"><span class="final">0.00</span></div>
@@ -227,55 +227,55 @@
       </tr>
       <tr>
         <td class="sub-label">Pertinence contextuelle</td>
-        <td class="question">La solution graphique est-elle pertinente par rapport au contexte donné ?</td>
+        <td class="question"></td>
         <td class="rating" data-export="contexte"></td>
       </tr>
       <tr>
         <td class="sub-label">Hiérarchie</td>
-        <td class="question">La hiérarchie est-elle claire, le message principal ressort-il ?</td>
+        <td class="question"></td>
         <td class="rating" data-export="hiérarchie"></td>
       </tr>
       <tr>
         <td class="sub-label">Impact</td>
-        <td class="question">Le travail capte-t-il l’attention et marque-t-il durablement ?</td>
+        <td class="question"></td>
         <td class="rating" data-export="impact"></td>
       </tr>
-      <!-- PROCESSUS -->
+      <!-- COMPLETUDE -->
       <tr class="crit-row" data-export="processus">
-        <td colspan="3"><span class="crit-title">Processus</span></td>
+        <td colspan="3"><span class="crit-title">Complétude</span></td>
       </tr>
       <tr>
         <td class="sub-label">Intentions claires</td>
-        <td class="question">Les intentions sont-elles clairement définies et argumentées ?</td>
+        <td class="question"></td>
         <td class="rating" data-export="intentions"></td>
       </tr>
       <tr>
         <td class="sub-label">Organisation</td>
-        <td class="question">Le temps, le matériel et les délais sont-ils bien gérés ?</td>
+        <td class="question"></td>
         <td class="rating" data-export="organisation"></td>
       </tr>
       <tr>
         <td class="sub-label">Recherche</td>
-        <td class="question">La recherche est-elle variée, itérative et menée avec un regard critique ?</td>
+        <td class="question"></td>
         <td class="rating" data-export="recherche"></td>
       </tr>
-      <!-- TECHNIQUE -->
+      <!-- PRECISION -->
       <tr class="crit-row" data-export="technique">
-        <td colspan="3"><span class="crit-title">Technique</span></td>
+        <td colspan="3"><span class="crit-title">Précision</span></td>
       </tr>
       <tr>
         <td class="sub-label">Précision</td>
-        <td class="question">L’exécution est-elle précise et soignée ?</td>
+        <td class="question"></td>
         <td class="rating" data-export="précision"></td>
       </tr>
       <tr>
         <td class="sub-label">Production</td>
-        <td class="question">La production finale est-elle aboutie et bien réalisée ?</td>
+        <td class="question"></td>
         <td class="rating" data-export="production"></td>
       </tr>
       <tr>
         <td class="sub-label">Systématisation</td>
-        <td class="question">Les règles (grille, typographie, couleurs) sont-elles appliquées de manière cohérente ?</td>
+        <td class="question"></td>
         <td class="rating" data-export="systématisation"></td>
       </tr>
     </tbody>
@@ -296,7 +296,7 @@
     <thead>
       <tr>
         <th>Critère</th>
-        <th>Question</th>
+        <th>Indicateur</th>
         <th>Évaluation</th>
         <th>Note</th>
       </tr>
@@ -312,18 +312,18 @@
         </td>
       </tr>
       <tr>
-        <td class="sub-label">Pertinence contextuelle</td>
-        <td class="question">La solution graphique est-elle pertinente par rapport au contexte donné ?</td>
+        <td class="sub-label">Pertinence</td>
+        <td class="question">Le langage graphique est-il pertinent par rapport au contexte et à l’audience?</td>
         <td class="rating" data-export="contexte"></td>
       </tr>
       <tr>
-        <td class="sub-label">Hiérarchie</td>
-        <td class="question">La hiérarchie est-elle claire, le message principal ressort-il ?</td>
+        <td class="sub-label">Emphase</td>
+        <td class="question">L'information est-elle hiérarchisée de manière adéquate?</td>
         <td class="rating" data-export="hiérarchie"></td>
       </tr>
       <tr>
         <td class="sub-label">Impact</td>
-        <td class="question">Le travail capte-t-il l’attention et marque-t-il durablement ?</td>
+        <td class="question">Le langage graphique est-il original</td>
         <td class="rating" data-export="impact"></td>
       </tr>
       <!-- PROCESSUS -->
@@ -331,18 +331,18 @@
         <td colspan="3"><span class="crit-title">Processus</span></td>
       </tr>
       <tr>
-        <td class="sub-label">Intentions claires</td>
-        <td class="question">Les intentions sont-elles clairement définies et argumentées ?</td>
+        <td class="sub-label">Intentions</td>
+        <td class="question">Le concept est-il clairment défini et bien défendu?</td>
         <td class="rating" data-export="intentions"></td>
       </tr>
       <tr>
         <td class="sub-label">Organisation</td>
-        <td class="question">Le temps, le matériel et les délais sont-ils bien gérés ?</td>
+        <td class="question">Autonomie, demande d'aide, présentation</td>
         <td class="rating" data-export="organisation"></td>
       </tr>
       <tr>
         <td class="sub-label">Recherche</td>
-        <td class="question">La recherche est-elle variée, itérative et menée avec un regard critique ?</td>
+        <td class="question">Collection de références, d'essais, itérations</td>
         <td class="rating" data-export="recherche"></td>
       </tr>
       <!-- TECHNIQUE -->
@@ -351,17 +351,17 @@
       </tr>
       <tr>
         <td class="sub-label">Précision</td>
-        <td class="question">L’exécution est-elle précise et soignée ?</td>
+        <td class="question">Est-ce que les objets sont alignés, la microtypo est réglée?</td>
         <td class="rating" data-export="précision"></td>
       </tr>
       <tr>
         <td class="sub-label">Production</td>
-        <td class="question">La production finale est-elle aboutie et bien réalisée ?</td>
+        <td class="question">fichier et styles sont bien nommés, liens fonctionnels, preflight au vert</td>
         <td class="rating" data-export="production"></td>
       </tr>
       <tr>
         <td class="sub-label">Systématisation</td>
-        <td class="question">Les règles (grille, typographie, couleurs) sont-elles appliquées de manière cohérente ?</td>
+        <td class="question">Est-ce que la grille, les styles et ?? sont cohérents?</td>
         <td class="rating" data-export="systématisation"></td>
       </tr>
     </tbody>
