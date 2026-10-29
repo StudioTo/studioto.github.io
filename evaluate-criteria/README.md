@@ -205,7 +205,7 @@
     <tbody>
       <tr>
         <td class="sub-label">Justesse</td>
-        <td class="question">Est-ce que les réponses sont justes?</td>
+        <td class="question">Est-ce que les solutions sont justes?</td>
         <td class="rating" data-export="contexte"></td>
         <td class="note-cell">
           <div class="note-meta progress"></div>
@@ -215,7 +215,7 @@
       </tr>
       <tr>
         <td class="sub-label">Complétude</td>
-        <td class="question">Est-ce que toutes les questions ont été traitées?</td>
+        <td class="question">Est-ce que toutes les demandes ont été traitées?</td>
         <td class="rating" data-export="hiérarchie"></td>
       </tr>
       <tr>
