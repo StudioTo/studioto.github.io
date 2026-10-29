@@ -425,7 +425,9 @@
         function recalc() {
           const { crits, final, rated } = readScores();
           crits.forEach(({ g, vals, avg }) => {
-            if (g.avgEl) g.avgEl.textContent = avg === null ? EMPTY_AVG : avg.toFixed(1);
+            // Rien de touché dans ce domaine : pas de chiffre
+            const touched = vals.some(v => v !== null);
+            if (g.avgEl) g.avgEl.textContent = !touched ? '' : (avg === null ? EMPTY_AVG : avg.toFixed(1));
             g.subs.forEach((s, k) => {
               const v = vals[k];
               s.level.textContent = v === null ? EMPTY_LEVEL : LEVELS[v - 1].label;
