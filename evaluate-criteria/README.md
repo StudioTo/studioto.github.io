@@ -258,12 +258,12 @@
       </tr>
       <tr>
         <td class="sub-label">Organisation</td>
-        <td class="question">Est-ce que la personne a su faire preuve d'autonomie et demander de l’aide en cas de besoin?</td>
+        <td class="question">La personne a su faire preuve d'autonomie et demander de l’aide en cas de besoin?</td>
         <td class="rating" data-export="organisation"></td>
       </tr>
       <tr>
         <td class="sub-label">Recherche</td>
-        <td class="question">Est-ce que les recherches ont été menées de manière itérative et documentée?</td>
+        <td class="question">Les recherches ont été menées de manière itérative et documentée?</td>
         <td class="rating" data-export="recherche"></td>
       </tr>
       <tr>
@@ -296,17 +296,17 @@
       </tr>
       <tr>
         <td class="sub-label">Systématisation</td>
-        <td class="question">Est-ce que la grille, les gabarits, les styles de texte et d’objets sont cohérents?</td>
+        <td class="question">La grille, les gabarits, les styles de texte et d’objets sont cohérents?</td>
         <td class="rating" data-export="systématisation"></td>
       </tr>
       <tr>
         <td class="sub-label">Précision</td>
-        <td class="question">Est-ce que les objets et les blocs texte sont alignés, les règles de microtypographie sont appliquée?</td>
+        <td class="question">Les objets et les blocs texte sont alignés, les règles de microtypographie sont appliquée?</td>
         <td class="rating" data-export="précision"></td>
       </tr>
       <tr>
         <td class="sub-label">Production</td>
-        <td class="question">Est-ce que les nomenclatures, les liens et les références sont fonctionnels?</td>
+        <td class="question">Les nomenclatures, les liens et les références sont fonctionnels?</td>
         <td class="rating" data-export="production"></td>
       </tr>
     </tbody>
