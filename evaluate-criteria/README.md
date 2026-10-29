@@ -336,6 +336,7 @@
       const CLEAR_TOOLTIP = 'Cliquer pour effacer';
       const EXPORT_LABEL  = 'exporter';
       const COPIED_LABEL  = 'copié';
+      const MIDDLE        = Math.ceil(LEVELS.length / 2);  // position du curseur vide (non touché)
       // ============================================================
       document.querySelectorAll('.eval-table').forEach(initTable);
       function initTable(table) {
@@ -364,8 +365,6 @@
         });
         noteCell.rowSpan = allRows.length;
         const totalSubs = groups.reduce((n, g) => n + g.subs.length, 0);
-        // Position du curseur vide (non touché) : au milieu de l'échelle
-        const MIDDLE = Math.ceil(LEVELS.length / 2);
         function buildSlider(cell) {
           const ticks = LEVELS.map((_, n) => `<span data-n="${n + 1}"></span>`).join('');
           cell.innerHTML = `
