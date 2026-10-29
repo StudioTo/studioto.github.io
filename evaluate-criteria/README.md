@@ -364,6 +364,8 @@
         });
         noteCell.rowSpan = allRows.length;
         const totalSubs = groups.reduce((n, g) => n + g.subs.length, 0);
+        // Position du curseur vide (non touché) : au milieu de l'échelle
+        const MIDDLE = Math.ceil(LEVELS.length / 2);
         function buildSlider(cell) {
           const ticks = LEVELS.map((_, n) => `<span data-n="${n + 1}"></span>`).join('');
           cell.innerHTML = `
@@ -371,7 +373,7 @@
               <div class="slider-wrap">
                 <div class="line"></div>
                 <div class="ticks">${ticks}</div>
-                <input type="range" min="1" max="${LEVELS.length}" step="1" value="1" class="unset">
+                <input type="range" min="1" max="${LEVELS.length}" step="1" value="${MIDDLE}" class="unset">
               </div>
               <button type="button" class="level empty" title="${CLEAR_TOOLTIP}">${EMPTY_LEVEL}</button>
             </div>`;
@@ -393,7 +395,7 @@
           input.addEventListener('input', mark);
           level.addEventListener('click', () => {
             sub.set = false;
-            input.value = 1;
+            input.value = MIDDLE;
             input.classList.add('unset');
             recalc();
           });
