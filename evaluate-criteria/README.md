@@ -257,19 +257,19 @@
         </td>
       </tr>
       <tr>
-        <td class="sub-label">Intentions</td>
-        <td class="question">Le concept est-il clairment défini et bien défendu?</td>
-        <td class="rating" data-export="intentions"></td>
-      </tr>
-      <tr>
         <td class="sub-label">Organisation</td>
-        <td class="question">Autonomie, demande d'aide, présentation</td>
+        <td class="question">Est-ce que la personne a su faire preuve d'autonomie et demander de l’aide en cas de besoin?</td>
         <td class="rating" data-export="organisation"></td>
       </tr>
       <tr>
         <td class="sub-label">Recherche</td>
-        <td class="question">Collection de références, d'essais, mise en relation, itérations</td>
+        <td class="question">Est-ce que les recherches ont été menées de manière itérative et documentée?</td>
         <td class="rating" data-export="recherche"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Intentions</td>
+        <td class="question">Le concept est-il clairement défini et bien défendu?</td>
+        <td class="rating" data-export="intentions"></td>
       </tr>
       <!-- DESIGN -->
       <tr class="crit-row" data-export="design">
@@ -277,12 +277,12 @@
       </tr>
       <tr>
         <td class="sub-label">Pertinence</td>
-        <td class="question">Le langage graphique est-il pertinent par rapport au public?</td>
+        <td class="question">Le langage graphique est-il pertinent par rapport à l’audience?</td>
         <td class="rating" data-export="contexte"></td>
       </tr>
       <tr>
         <td class="sub-label">Hiérarchisation</td>
-        <td class="question">L'information est-elle hiérarchisée de manière adéquate?</td>
+        <td class="question">L'information est-elle accentuée proportionnelement à son importance?</td>
         <td class="rating" data-export="hiérarchie"></td>
       </tr>
       <tr>
@@ -295,19 +295,19 @@
         <td colspan="3"><span class="crit-title">Technique</span></td>
       </tr>
       <tr>
+        <td class="sub-label">Systématisation</td>
+        <td class="question">Est-ce que la grille, les gabarits, les styles de texte et d’objets sont cohérents?</td>
+        <td class="rating" data-export="systématisation"></td>
+      </tr>
+      <tr>
         <td class="sub-label">Précision</td>
-        <td class="question">Est-ce que les objets sont alignés, la microtypo est réglée?</td>
+        <td class="question">Est-ce que les objets et les blocs texte sont alignés, les règles de microtypographie sont appliquée?</td>
         <td class="rating" data-export="précision"></td>
       </tr>
       <tr>
         <td class="sub-label">Production</td>
-        <td class="question">fichier et styles sont bien nommés, liens fonctionnels, preflight au vert</td>
+        <td class="question">Est-ce que les nomenclatures, les liens et les références sont fonctionnels?</td>
         <td class="rating" data-export="production"></td>
-      </tr>
-      <tr>
-        <td class="sub-label">Systématisation</td>
-        <td class="question">Est-ce que la grille, les styles et ?? sont cohérents?</td>
-        <td class="rating" data-export="systématisation"></td>
       </tr>
     </tbody>
   </table>
