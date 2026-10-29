@@ -114,19 +114,6 @@
       border-radius: 50%;
       background: #d0d7de;
     }
-    .markdown-body .slider-wrap .ticks span::after {
-      content: attr(data-n);
-      position: absolute;
-      top: 10px;
-      left: 0;
-      transform: translateX(-50%);
-      font-size: 10px;
-      color: #8c959f;
-    }
-    .markdown-body .slider-wrap .ticks span.on::after {
-      color: #1f2328;
-      font-weight: 700;
-    }
     .markdown-body .slider-wrap input[type="range"] {
       -webkit-appearance: none;
       appearance: none;
@@ -442,7 +429,7 @@
               s.ticks.forEach((t, n) => t.classList.toggle('on', v !== null && n + 1 === v));
             });
           });
-          finalEl.textContent = final.toFixed(2);
+          finalEl.textContent = rated === 0 ? (0).toFixed(2) : final.toFixed(2);
           progressEl.textContent = `${rated}/${totalSubs}`;
           noteCell.classList.remove('note-good', 'note-bad');
           if (rated > 0) {
