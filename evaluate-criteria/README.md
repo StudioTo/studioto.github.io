@@ -205,7 +205,7 @@
     <tbody>
       <tr>
         <td class="sub-label">Complétude</td>
-        <td class="question">Est-ce que toutes les demandes ont été traitées?</td>
+        <td class="question">Est-ce que toutes les demandes sont traitées?</td>
         <td class="rating" data-export="hiérarchie"></td>
         <td class="note-cell">
           <div class="note-meta progress"></div>
@@ -258,12 +258,12 @@
       </tr>
       <tr>
         <td class="sub-label">Organisation</td>
-        <td class="question">La personne a su faire preuve d'autonomie et demander de l’aide en cas de besoin?</td>
+        <td class="question">La gestion du projet démontre-elle autonomie et lucidité?</td>
         <td class="rating" data-export="organisation"></td>
       </tr>
       <tr>
         <td class="sub-label">Recherche</td>
-        <td class="question">Les recherches ont été menées de manière itérative et documentée?</td>
+        <td class="question">Les recherches ont-elles été menées de manière itérative et documentée?</td>
         <td class="rating" data-export="recherche"></td>
       </tr>
       <tr>
@@ -296,17 +296,17 @@
       </tr>
       <tr>
         <td class="sub-label">Systématisation</td>
-        <td class="question">La grille, les gabarits, les styles de texte et d’objets sont cohérents?</td>
+        <td class="question">La grille, les gabarits, les styles de texte et d’objets sont-ils cohérents?</td>
         <td class="rating" data-export="systématisation"></td>
       </tr>
       <tr>
         <td class="sub-label">Précision</td>
-        <td class="question">Les objets et les blocs texte sont alignés, les règles de microtypographie sont appliquée?</td>
+        <td class="question">Les objets et les blocs texte sont alignés, les règles de microtypographie sont-ils appliquée?</td>
         <td class="rating" data-export="précision"></td>
       </tr>
       <tr>
         <td class="sub-label">Production</td>
-        <td class="question">Les nomenclatures, les liens et les références sont fonctionnels?</td>
+        <td class="question">Les nomenclatures, les liens et les références sont-ils fonctionnels?</td>
         <td class="rating" data-export="production"></td>
       </tr>
     </tbody>
