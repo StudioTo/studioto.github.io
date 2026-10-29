@@ -425,7 +425,7 @@
             if (g.avgEl) g.avgEl.textContent = avg === null ? EMPTY_AVG : avg.toFixed(1);
             g.subs.forEach((s, k) => {
               const v = vals[k];
-              s.level.textContent = v === null ? EMPTY_LEVEL : `${v} · ${LEVELS[v - 1].label}`;
+              s.level.textContent = v === null ? EMPTY_LEVEL : LEVELS[v - 1].label;
               s.level.classList.toggle('empty', v === null);
               s.ticks.forEach((t, n) => t.classList.toggle('on', v !== null && n + 1 === v));
             });
