@@ -204,9 +204,9 @@
     </thead>
     <tbody>
       <tr>
-        <td class="sub-label">Justesse</td>
-        <td class="question">Est-ce que les réponses sont justes?</td>
-        <td class="rating" data-export="contexte"></td>
+        <td class="sub-label">Complétude</td>
+        <td class="question">Est-ce que toutes les questions ont été traitées?</td>
+        <td class="rating" data-export="hiérarchie"></td>
         <td class="note-cell">
           <div class="note-meta progress"></div>
           <div class="note-final"><span class="final">0.00</span></div>
@@ -214,9 +214,9 @@
         </td>
       </tr>
       <tr>
-        <td class="sub-label">Complétude</td>
-        <td class="question">Est-ce que toutes les questions ont été traitées?</td>
-        <td class="rating" data-export="hiérarchie"></td>
+        <td class="sub-label">Justesse</td>
+        <td class="question">Est-ce que les réponses sont justes?</td>
+        <td class="rating" data-export="contexte"></td>
       </tr>
       <tr>
         <td class="sub-label">Précision</td>
@@ -247,33 +247,14 @@
       </tr>
     </thead>
     <tbody>
-      <!-- DESIGN -->
-      <tr class="crit-row" data-export="design">
-        <td colspan="3"><span class="crit-title">Design</span></td>
+      <!-- PROCESSUS -->
+      <tr class="crit-row" data-export="processus">
+        <td colspan="3"><span class="crit-title">Processus</span></td>
         <td class="note-cell">
           <div class="note-meta progress"></div>
           <div class="note-final"><span class="final">0.00</span></div>
           <div class="note-meta"><button class="save-btn" type="button"></button></div>
         </td>
-      </tr>
-      <tr>
-        <td class="sub-label">Pertinence</td>
-        <td class="question">Le langage graphique est-il pertinent par rapport au public?</td>
-        <td class="rating" data-export="contexte"></td>
-      </tr>
-      <tr>
-        <td class="sub-label">Hiérarchisation</td>
-        <td class="question">L'information est-elle hiérarchisée de manière adéquate?</td>
-        <td class="rating" data-export="hiérarchie"></td>
-      </tr>
-      <tr>
-        <td class="sub-label">Impact</td>
-        <td class="question">Le langage graphique est-il </td>
-        <td class="rating" data-export="impact"></td>
-      </tr>
-      <!-- PROCESSUS -->
-      <tr class="crit-row" data-export="processus">
-        <td colspan="3"><span class="crit-title">Processus</span></td>
       </tr>
       <tr>
         <td class="sub-label">Intentions</td>
@@ -289,6 +270,25 @@
         <td class="sub-label">Recherche</td>
         <td class="question">Collection de références, d'essais, mise en relation, itérations</td>
         <td class="rating" data-export="recherche"></td>
+      </tr>
+      <!-- DESIGN -->
+      <tr class="crit-row" data-export="design">
+        <td colspan="3"><span class="crit-title">Design</span></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Pertinence</td>
+        <td class="question">Le langage graphique est-il pertinent par rapport au public?</td>
+        <td class="rating" data-export="contexte"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Hiérarchisation</td>
+        <td class="question">L'information est-elle hiérarchisée de manière adéquate?</td>
+        <td class="rating" data-export="hiérarchie"></td>
+      </tr>
+      <tr>
+        <td class="sub-label">Impact</td>
+        <td class="question">Le langage graphique est-il </td>
+        <td class="rating" data-export="impact"></td>
       </tr>
       <!-- TECHNIQUE -->
       <tr class="crit-row" data-export="technique">
