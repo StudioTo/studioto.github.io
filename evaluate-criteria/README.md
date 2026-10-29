@@ -287,7 +287,7 @@
       </tr>
       <tr>
         <td class="sub-label">Impact</td>
-        <td class="question">Le langage graphique est-il </td>
+        <td class="question">Le traitement graphique a-t’il un impact sur l’attention du récepteur?</td>
         <td class="rating" data-export="impact"></td>
       </tr>
       <!-- TECHNIQUE -->
