@@ -205,7 +205,7 @@
     <tbody>
       <tr>
         <td class="sub-label">Justesse</td>
-        <td class="question">Est-ce que les solutions sont justes?</td>
+        <td class="question">Est-ce que les réponses sont justes?</td>
         <td class="rating" data-export="contexte"></td>
         <td class="note-cell">
           <div class="note-meta progress"></div>
@@ -215,7 +215,7 @@
       </tr>
       <tr>
         <td class="sub-label">Complétude</td>
-        <td class="question">Est-ce que toutes les demandes ont été traitées?</td>
+        <td class="question">Est-ce que toutes les questions ont été traitées?</td>
         <td class="rating" data-export="hiérarchie"></td>
       </tr>
       <tr>
@@ -316,18 +316,19 @@
       // ============================================================
       // TEXTES & VALEURS — à modifier ici (communs aux deux tableaux)
       // ============================================================
-      // Échelle en 7 points → note sur 6
+      // Échelle en 7 points → note sur 6, pas régulier de 2/3
       // label = texte affiché, grade = note correspondante
-      // (Suffisant partout = 4 ; Excellent partout = 6 ; Manqué partout = 1)
+      // (un niveau au-dessus de Suffisant compense un niveau en dessous)
       const LEVELS = [
-        { label: 'Manqué',           grade: 1 },
-        { label: 'Très insuffisant', grade: 2 },
-        { label: 'Insuffisant',      grade: 3 },
+        { label: 'Manqué',           grade: 2 },
+        { label: 'Très insuffisant', grade: 2 + 2 / 3 },
+        { label: 'Insuffisant',      grade: 3 + 1 / 3 },
         { label: 'Suffisant',        grade: 4 },
         { label: 'Bien',             grade: 4 + 2 / 3 },
         { label: 'Très bien',        grade: 5 + 1 / 3 },
         { label: 'Excellent',        grade: 6 }
       ];
+      const ALL_MISSED    = 1;          // note finale si tous les sous-critères sont sur Manqué
       const PASS_MARK     = 4;          // à partir de cette note : vert, en dessous : rouge
       const ROUND_TO      = 0.05;       // arrondi de la note finale
       const EMPTY_VALUE   = 1;          // point compté pour un champ vide (le plus bas → note 1)
@@ -417,6 +418,8 @@
           const avgs = crits.map(x => x.avg).filter(v => v !== null);
           let final = avgs.length ? avgs.reduce((a, b) => a + b, 0) / avgs.length : 0;
           final = Math.round(final / ROUND_TO) * ROUND_TO;
+          // Malus : tout sur Manqué → note finale = ALL_MISSED
+          if (crits.every(x => x.scores.every(p => p === 1))) final = ALL_MISSED;
           return { crits, final, rated };
         }
         function recalc() {
