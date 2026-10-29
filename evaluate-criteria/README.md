@@ -80,7 +80,7 @@
       position: relative;
       flex: 1;
       min-width: 120px;
-      height: 34px;
+      height: 20px;
     }
     .markdown-body .slider-wrap .line {
       position: absolute;
