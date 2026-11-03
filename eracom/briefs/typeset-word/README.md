@@ -50,7 +50,18 @@
             c.2. vérifier que tout est en ordre: police, alignement, fonds, contours
             c.3. exporter la mise en forme finale au format PDF
 
+    2.  Format
+        
+            mode: impression
+            nombre de pages: —
+            affichage des pages: simple (vis-à-vis décoché)
+            format de page: A4 (297 × 210 mm)
+            orientation: horizontal
+            marges: 0 mm
+            fonds-perdus: 3 mm
 
+        ⚠️  un seul test par page
+        ⚠️  séparer chaque catérogie de test par une page titre (a, texture, graphie, articulation, composition, b, c)
 
 # Ressources
 
