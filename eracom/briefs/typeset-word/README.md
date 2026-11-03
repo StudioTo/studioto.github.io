@@ -62,6 +62,7 @@
 
         ⚠️  un seul test par page
         ⚠️  séparer chaque catérogie de test par une page titre (a, texture, graphie, articulation, composition, b, c)
+        ⚠️  garder tous les tests
 
 # Ressources
 
