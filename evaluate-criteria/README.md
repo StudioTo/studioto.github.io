@@ -337,6 +337,7 @@
       const CLEAR_TOOLTIP = 'Cliquer pour effacer';
       const EXPORT_LABEL  = 'exporter';
       const COPIED_LABEL  = 'copié';
+      const PTS_SUFFIX    = 'pts';      // ajouté après chaque valeur dans l'export
       const MIDDLE        = Math.ceil(LEVELS.length / 2);  // position du curseur vide (non touché)
       // ============================================================
       document.querySelectorAll('.eval-table').forEach(initTable);
@@ -447,11 +448,11 @@
           let parts;
           if (hasDomains) {
             // Projet : uniquement les notes des domaines
-            parts = crits.map(({ g, avg }) => `${g.name}: ${avg === null ? EMPTY_AVG : avg.toFixed(1)}`);
+            parts = crits.map(({ g, avg }) => `${g.name}: ${avg === null ? EMPTY_AVG : avg.toFixed(1) + PTS_SUFFIX}`);
           } else {
             // Exercice : les notes de chaque ligne
             const { g, scores } = crits[0];
-            parts = g.subs.map((s, k) => `${s.name}: ${scores[k]}`);
+            parts = g.subs.map((s, k) => `${s.name}: ${scores[k]}${PTS_SUFFIX}`);
           }
           const text = `${final.toFixed(2)} = ${parts.join(' / ')}`;
           try {

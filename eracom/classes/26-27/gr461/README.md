@@ -54,20 +54,20 @@
 
 # 09.11.2026
 
-# 16.11.2026 ⚠️ (rendu noté ex. 2)
+# 16.11.2026 
+
+# 23.11.2026 ⚠️ (rendu noté ex. 2)
 
 3\. Ligne: appliquer correctement les règles de composition typographiques  
 <!-- 📖 *Guide du typographe romand* (pour les guillemets) -->
 
-# 23.11.2026
-
 # 30.11.2026
 
-# 07.12.2026 ⚠️ (rendu noté ex. 3)
+# 07.12.2026 
+
+# 14.12.2026 ⚠️ (rendu noté ex. 3)
 
 4\. Colonne: optimiser la lisibilité de textes dans différents formats
-
-# 14.12.2026
 
 # 21.12.2026
 
