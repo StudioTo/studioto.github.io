@@ -337,7 +337,7 @@
       const CLEAR_TOOLTIP = 'Cliquer pour effacer';
       const EXPORT_LABEL  = 'exporter';
       const COPIED_LABEL  = 'copié';
-      const PTS_SUFFIX    = 'pts';      // ajouté après chaque valeur dans l'export
+      const PTS_SUFFIX    = 'pts';      // ajouté après chaque valeur (export + titres de domaine)
       const MIDDLE        = Math.ceil(LEVELS.length / 2);  // position du curseur vide (non touché)
       // ============================================================
       document.querySelectorAll('.eval-table').forEach(initTable);
@@ -428,7 +428,7 @@
           crits.forEach(({ g, vals, avg }) => {
             // Rien de touché dans ce domaine : pas de chiffre
             const touched = vals.some(v => v !== null);
-            if (g.avgEl) g.avgEl.textContent = !touched ? '' : (avg === null ? EMPTY_AVG : avg.toFixed(1));
+            if (g.avgEl) g.avgEl.textContent = !touched ? '' : (avg === null ? EMPTY_AVG : avg.toFixed(1) + PTS_SUFFIX);
             g.subs.forEach((s, k) => {
               const v = vals[k];
               s.level.textContent = v === null ? EMPTY_LEVEL : LEVELS[v - 1].label;
