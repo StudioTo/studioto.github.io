@@ -54,7 +54,7 @@
 
 # 10.11.2026 ⚠️ (rendu noté ex. 2)
 
-3\. Ligne: affiche
+[📄 3. Ligne: adaptation d’un poster](../../../briefs/adapt-poster/) 
 
 # 17.11.2026
 
