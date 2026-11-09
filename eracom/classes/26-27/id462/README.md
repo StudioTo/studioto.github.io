@@ -64,7 +64,7 @@
 
 # 08.12.2026 ⚠️ (rendu noté ex. 3)
 
-4\. Colonne: générique de filma
+4\. Colonne: générique de film
 
 # 15.12.2026
 
