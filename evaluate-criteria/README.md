@@ -205,7 +205,7 @@
     <tbody>
       <tr>
         <td class="sub-label">Complétude</td>
-        <td class="question">Est-ce que toutes les points du brief sont traitées?</td>
+        <td class="question">Est-ce que les demandes du brief sont traitées (partiellement, entièrement, au-delà)?</td>
         <td class="rating" data-export="hiérarchie"></td>
         <td class="note-cell">
           <div class="note-meta progress"></div>
@@ -215,12 +215,12 @@
       </tr>
       <tr>
         <td class="sub-label">Justesse</td>
-        <td class="question">Est-ce que les solutions graphiques respectent les normes de la profession?</td>
+        <td class="question">Est-ce que les contraintes du brief sont respectées (contenu, format, outils)?</td>
         <td class="rating" data-export="contexte"></td>
       </tr>
       <tr>
         <td class="sub-label">Précision</td>
-        <td class="question">Est-ce que le rendu est précis et systématique?</td>
+        <td class="question">Est-ce que le rendu est précis et systématique (styles, alignements, microtypo)?</td>
         <td class="rating" data-export="impact"></td>
       </tr>
     </tbody>
