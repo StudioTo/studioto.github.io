@@ -17,7 +17,7 @@
 
         logiciel: Figma
         orientation: portrait
-        format: 90 ✕ 128 cm
+        format: 900 ✕ 1280 px
 
         — textes: outil bloc texte
         – letterings: outils dessin vectoriel
