@@ -58,6 +58,8 @@
 
 # 23.11.2026 ⚠️ (rendu noté ex. 2)
 
+📖 Il faut prendre votre exemplaire du *Guide du typographe romand*
+
 3\. Ligne: appliquer correctement les règles de composition typographiques  
 <!-- 📖 *Guide du typographe romand* (pour les guillemets) -->
 
