@@ -205,7 +205,7 @@
     <tbody>
       <tr>
         <td class="sub-label">Complétude</td>
-        <td class="question">Est-ce que toutes les demandes sont traitées?</td>
+        <td class="question">Est-ce que toutes les points du brief sont traitées?</td>
         <td class="rating" data-export="hiérarchie"></td>
         <td class="note-cell">
           <div class="note-meta progress"></div>
@@ -215,7 +215,7 @@
       </tr>
       <tr>
         <td class="sub-label">Justesse</td>
-        <td class="question">Est-ce que les solutions apportées sont justes?</td>
+        <td class="question">Est-ce que les solutions graphiques respectent les normes de la profession?</td>
         <td class="rating" data-export="contexte"></td>
       </tr>
       <tr>
@@ -337,7 +337,8 @@
       const CLEAR_TOOLTIP = 'Cliquer pour effacer';
       const EXPORT_LABEL  = 'exporter';
       const COPIED_LABEL  = 'copié';
-      const PTS_SUFFIX    = 'pts';      // ajouté après chaque valeur (export + titres de domaine)
+      const NAME_LENGTH   = 4;          // nb de lettres des noms dans l'export (comp, just, proc…)
+      const PTS_SUFFIX    = 'p';        // ajouté après chaque valeur (export + titres de domaine)
       const MIDDLE        = Math.ceil(LEVELS.length / 2);  // position du curseur vide (non touché)
       // ============================================================
       document.querySelectorAll('.eval-table').forEach(initTable);
@@ -448,11 +449,11 @@
           let parts;
           if (hasDomains) {
             // Projet : uniquement les notes des domaines
-            parts = crits.map(({ g, avg }) => `${g.name}: ${avg === null ? EMPTY_AVG : avg.toFixed(1) + PTS_SUFFIX}`);
+            parts = crits.map(({ g, avg }) => `${g.name.slice(0, NAME_LENGTH)}: ${avg === null ? EMPTY_AVG : avg.toFixed(1) + PTS_SUFFIX}`);
           } else {
             // Exercice : les notes de chaque ligne
             const { g, scores } = crits[0];
-            parts = g.subs.map((s, k) => `${s.name}: ${scores[k]}${PTS_SUFFIX}`);
+            parts = g.subs.map((s, k) => `${s.name.slice(0, NAME_LENGTH)}: ${scores[k]}${PTS_SUFFIX}`);
           }
           const text = `${final.toFixed(2)} = ${parts.join(' / ')}`;
           try {
