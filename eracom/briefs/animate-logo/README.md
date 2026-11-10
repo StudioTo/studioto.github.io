@@ -88,4 +88,4 @@
 
 # Évaluation
 
-📶 [Auto-évaluation](../../../evaluate-criteria/)
+📶 [Auto-évaluatio (grille exercice)](../../../evaluate-criteria/)
