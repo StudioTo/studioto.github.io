@@ -5,7 +5,7 @@
 
 # Matériel
 
-|![](links/Tech_materiel.jpg) |
+|![](https://studioto.github.io/media/use-material/links/Tech_materiel.jpg) |
 |:---:|
 | Matériel pour le cours de typographie |
 

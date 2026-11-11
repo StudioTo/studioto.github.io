@@ -42,7 +42,7 @@ Les espaces sont des intervalles typographiques de différentes sortes (fine, in
 
 # &nbsp;  
 
-|![](links/3-Terminologie30.jpg) |
+|![](https://studioto.github.io/media/index-definitions/links/3-Terminologie30.jpg) |
 |:---:|
 | Formats digitaux de police de caractères |
 
@@ -76,7 +76,7 @@ Une licence propriétaire est un contrat qui accorde à l’utilisateur.rice le 
 
 # &nbsp;  
 
-|![](links/3-Terminologie34.jpg) |
+|![](https://studioto.github.io/media/index-definitions/links/3-Terminologie34.jpg) |
 |:---:|
 | License libre vs propriétaire |
 
@@ -94,7 +94,7 @@ La micro-typographie concerne le soin apporté aux détails du contenu texte : g
 
 <!-- # &nbsp;  
 
-|![](links/3-Terminologie35.gif) |
+|![](https://studioto.github.io/media/index-definitions/links/3-Terminologie35.gif) |
 |:---:|
 | Micro vs Macro typographie | -->
 
@@ -120,7 +120,7 @@ Un revival moderne, en revanche, désigne une fonte contemporaine créée à par
 
 # &nbsp;  
 
-|![](links/3-Terminologie31.gif) |
+|![](https://studioto.github.io/media/index-definitions/links/3-Terminologie31.gif) |
 |:---:|
 | Caractères en plomb → Revival classique vs Revival moderne |
 
@@ -142,7 +142,7 @@ Une typothèque est une collection organisée de polices de caractères. Elle pe
 
 # &nbsp;  
 
-|![](links/3-Terminologie_resized.gif) |
+|![](https://studioto.github.io/media/index-definitions/links/3-Terminologie_resized.gif) |
 |:---:|
 | Typothèque |
 

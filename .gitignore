@@ -1,0 +1,24 @@
+# Les médias vivent dans le dépôt "media", jamais ici
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.webp
+*.avif
+*.svg
+*.mp4
+*.webm
+*.mov
+*.pdf
+*.JPG
+*.JPEG
+*.PNG
+*.GIF
+
+# Exceptions (fichiers à garder dans le site), décommenter si besoin :
+# !favicon.png
+
+# Fichiers système
+.DS_Store
+_site/
+.jekyll-cache/

@@ -2,7 +2,7 @@
   Guidelines pour débuter la construction d’une fonte
 ### &nbsp;
 
-|![](links/Typo_Construction_00.jpg) |
+|![](https://studioto.github.io/media/type-construct/links/Typo_Construction_00.jpg) |
 |:---:|
 | Ductus[^1]: mode d'emploi pour dessiner un caractère spécifique(ordre, direction et nombre de segments)           |
 
@@ -20,55 +20,55 @@ Voici une correspondance entre les règles mentionnées par Irene Wellington ci-
 6. une bonne hauteur (de x) moyenne est de […]  
    → les proportions sont constantes à travers les caractères d'une même police (hauteur de x, ascendante, descendante, etc.)
 
-|![](links/Typo_Construction_1_rotation.gif) |
+|![](https://studioto.github.io/media/type-construct/links/Typo_Construction_1_rotation.gif) |
 |:---:|
 | La rotation est autorisée: réalisabe à la plume (cohérent)           |
 
-|![](links/Typo_Construction_2_symetrie.gif) |
+|![](https://studioto.github.io/media/type-construct/links/Typo_Construction_2_symetrie.gif) |
 |:---:|
 | La symétrie est interdite: impossible à réaliser à la plume (et donc incohérent)             |
 
 # 🪵 Fûts
 
-|![](links/Typo_Construction_3_futs.gif) |
+|![](https://studioto.github.io/media/type-construct/links/Typo_Construction_3_futs.gif) |
 |:---:|
 | La fûts ont la même largeur à travers les caractères d'une même fonte            |
 
 # ⚽️ Courbes
 
-|![](links/Typo_Construction_4_courbes.gif) |
+|![](https://studioto.github.io/media/type-construct/links/Typo_Construction_4_courbes.gif) |
 |:---:|
 | La répartition de la graisse entre les pleins et les déliés est systématique à travers les caractères           |
 
 # 📐 Proportions
 
-|![](links/Typo_Construction_5_proportions.gif) |
+|![](https://studioto.github.io/media/type-construct/links/Typo_Construction_5_proportions.gif) |
 |:---:|
 | Les proportions sont constantes à travers les caractères d'une même police (hauteur de x, ascendante, descendante, etc.)           |
 
 # 🔡 Minuscules
 
-|![](links/Typo_Construction_6_n.gif) |
+|![](https://studioto.github.io/media/type-construct/links/Typo_Construction_6_n.gif) |
 |:---:|
 | n → h, m, r, u          |
 
-|![](links/Typo_Construction_7_bdpq.gif) |
+|![](https://studioto.github.io/media/type-construct/links/Typo_Construction_7_bdpq.gif) |
 |:---:|
 | h + o → b, d, p, q, g           |
 
-|![](links/Typo_Construction_8_tjf.gif) |
+|![](https://studioto.github.io/media/type-construct/links/Typo_Construction_8_tjf.gif) |
 |:---:|
 | i, u → j, f, t            |
 
-|![](links/Typo_Construction_9_aces.gif) |
+|![](https://studioto.github.io/media/type-construct/links/Typo_Construction_9_aces.gif) |
 |:---:|
 | a, c, e, s           |
 
-|![](links/Typo_Construction_10_vwy.gif) |
+|![](https://studioto.github.io/media/type-construct/links/Typo_Construction_10_vwy.gif) |
 |:---:|
 | v → w, y            |
 
-|![](links/Typo_Construction_11_kx.gif) |
+|![](https://studioto.github.io/media/type-construct/links/Typo_Construction_11_kx.gif) |
 |:---:|
 | v → x, k           |
 

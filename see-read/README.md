@@ -8,39 +8,39 @@
 
 # Textuel vs Pictural {#textuel-vs-pictural}  
 
-|![](links/2-Semiotique5.gif) |
+|![](https://studioto.github.io/media/see-read/links/2-Semiotique5.gif) |
 |:---:|
 | Deux niveaux d'information: textuel (lisibilité) et pictural (impact visuel) |
 
 # Lisibilité des caractères {#lisibilite}  
 
-|![](links/1-Language_v2133.gif)|
+|![](https://studioto.github.io/media/see-read/links/1-Language_v2133.gif)|
 |:---:|
 | L'importance de l'accentuation de la moitié supérieure de la lettre |
 
-|![](links/1-Language_def_up2.gif)|
+|![](https://studioto.github.io/media/see-read/links/1-Language_def_up2.gif)|
 |:---:|
 | L'œil du lecteur adulte ne déchiffrant pas les mots lettre par lettre, mais enregistrant leurs contours |
 
-|![](links/1-Language_v2137.gif)|
+|![](https://studioto.github.io/media/see-read/links/1-Language_v2137.gif)|
 |:---:|
 | Que l'on modifie la longueur des lignes, le corps aussi bien que la forme du caractère typographique, la longueur des saccades et leur fréquence changent |
 
 # Lisibilité vs Impact visuel {#lisibilite-vs-impact}
 
-|![](links/1-Language_v2161.gif)|
+|![](https://studioto.github.io/media/see-read/links/1-Language_v2161.gif)|
 |:---:|
 | Les variables de lisibilité peuvent être opposée à celles de l'impact graphique |
 
-|![](links/1-Language_v2168.jpg)|
+|![](https://studioto.github.io/media/see-read/links/1-Language_v2168.jpg)|
 |:---:|
 | Le logo d'IBM constitue un bon exemple de compromis |
 
-|![](links/1-Language_v2169.jpg)|
+|![](https://studioto.github.io/media/see-read/links/1-Language_v2169.jpg)|
 |:---:|
 | Extrême lisibilité |
 
-|![](links/1-Language_v2170.jpg)|
+|![](https://studioto.github.io/media/see-read/links/1-Language_v2170.jpg)|
 |:---:|
 | Extrême impact |
 

@@ -8,13 +8,13 @@ La composition du mot se réfère à l’organisation globale de ses lettres dan
 
 # Direction  
 
-|![](links/0-Mot35.gif) |
+|![](https://studioto.github.io/media/set-word-composition/links/0-Mot35.gif) |
 |:---:|
 | En typographie occidentale, le sens de lecture se fait de gauche à droite et de haut en bas, mais il existe d'autres systèmes  |
 
 # Inter-lettrage  
 
-|![](links/0-Mot43.gif) |
+|![](https://studioto.github.io/media/set-word-composition/links/0-Mot43.gif) |
 |:---:|
 | L’ajustement de l’espacement des lettres doit trouver un équilibre entre lisibilité et impact graphique |
 

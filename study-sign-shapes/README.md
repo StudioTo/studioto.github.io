@@ -13,11 +13,11 @@
 
 # Typologie   
 
-|![](links/1-Formes2.jpg) |
+|![](https://studioto.github.io/media/study-sign-shapes/links/1-Formes2.jpg) |
 |:---:|
 | Squelette - Graisse - Enveloppe | 
 
-|![](links/1-Formes3.gif) |
+|![](https://studioto.github.io/media/study-sign-shapes/links/1-Formes3.gif) |
 |:---:|
 | Squelette - Graisse - Enveloppe | 
 
@@ -27,7 +27,7 @@
 |:---:|:---:|:---:|
 |  Translation |  Expansion  |  Construction  |
 |:---:|:---:|:---:|
-| ![](links/1-2-Formes4.jpg) | ![](links/1-2-Formes5.jpg) | ![](links/1-2-Formes6.jpg) |
+| ![](https://studioto.github.io/media/study-sign-shapes/links/1-2-Formes4.jpg) | ![](https://studioto.github.io/media/study-sign-shapes/links/1-2-Formes5.jpg) | ![](https://studioto.github.io/media/study-sign-shapes/links/1-2-Formes6.jpg) |
 |:---:|:---:|:---:|
 |  Humaniste  |  Rationnel  |  Construit  |
 |:---:|:---:|:---:|
@@ -35,13 +35,13 @@
 
 | Dynamique           | Statique           | Géométrique           |
 |:---:|:---:|:---:|
-| ![](links/1-3-Formes.jpg) | ![](links/1-3-Formes2.jpg) | ![](links/1-3-Formes3.jpg) |
+| ![](https://studioto.github.io/media/study-sign-shapes/links/1-3-Formes.jpg) | ![](https://studioto.github.io/media/study-sign-shapes/links/1-3-Formes2.jpg) | ![](https://studioto.github.io/media/study-sign-shapes/links/1-3-Formes3.jpg) |
 |:---:|:---:|:---:|
 | Axe oblique           | Axe vertical           | Modulaire           |
 
 # Graisse {#graisse}
 
-| ![](links/Typo_Parameters_08.jpg) | ![](links/Typo_Parameters_09.jpg) |
+| ![](https://studioto.github.io/media/study-sign-shapes/links/Typo_Parameters_08.jpg) | ![](https://studioto.github.io/media/study-sign-shapes/links/Typo_Parameters_09.jpg) |
 |:---:|:---:|
 | Contrasté           | Linéaire           |
 
@@ -49,35 +49,35 @@
 
 ## Terminaisons {#terminaisons}
 
-| ![](links/Typo_Parameters_10.jpg) | ![](links/Typo_Parameters_11.jpg) |
+| ![](https://studioto.github.io/media/study-sign-shapes/links/Typo_Parameters_10.jpg) | ![](https://studioto.github.io/media/study-sign-shapes/links/Typo_Parameters_11.jpg) |
 |:---:|:---:|
 | Avec (empattements)           | Sans (empattements)           |
 
-| ![](links/Typo_Parameters_21.jpg) |
+| ![](https://studioto.github.io/media/study-sign-shapes/links/Typo_Parameters_21.jpg) |
 |:---:|
 | Variation de la forme des empattements (sans, rectangulaire, triangulaire, transitionnel, intersection)           |
 
 ## Sorties {#sorties}
 
-| ![](links/1-Formes25.jpg) |
+| ![](https://studioto.github.io/media/study-sign-shapes/links/1-Formes25.jpg) |
 |:---:|
 | Sorties ouvertes          |
-| ![](links/1-Formes26.jpg) |
+| ![](https://studioto.github.io/media/study-sign-shapes/links/1-Formes26.jpg) |
 |:---:|
 | Sorties semi-fermées           |
-| ![](links/1-Formes27.jpg) |
+| ![](https://studioto.github.io/media/study-sign-shapes/links/1-Formes27.jpg) |
 |:---:|
 | Sorties fermées           |
 
 ## Fûts {#futs}
 
-| ![](links/Typo_Parameters_18.jpg) | ![](links/Typo_Parameters_19.jpg) | ![](links/Typo_Parameters_20.jpg) |
+| ![](https://studioto.github.io/media/study-sign-shapes/links/Typo_Parameters_18.jpg) | ![](https://studioto.github.io/media/study-sign-shapes/links/Typo_Parameters_19.jpg) | ![](https://studioto.github.io/media/study-sign-shapes/links/Typo_Parameters_20.jpg) |
 |:---:|:---:|:---:|
 | Concaves           | Rectilignes           | Convexes           |
 
 ## Ornements {#ornements}
 
-| ![](links/Typo_Parameters_22.jpg) |
+| ![](https://studioto.github.io/media/study-sign-shapes/links/Typo_Parameters_22.jpg) |
 |:---:|
 | Variation de l'effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |
 

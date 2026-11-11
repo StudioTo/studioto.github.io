@@ -2,7 +2,7 @@
 
 &nbsp;
 
-|![](links/0-Eval2.gif) |
+|![](https://studioto.github.io/media/evaluate-rules/links/0-Eval2.gif) |
 |:---:|
 | Tenir la ligne[^1] | 
 

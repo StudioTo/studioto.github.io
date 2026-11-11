@@ -2,7 +2,7 @@
   Dessin vectoriel
 ### &nbsp;
 
-|![](links/Typo_Vectors_Drawing_1.jpg) |
+|![](https://studioto.github.io/media/type-vectorize/links/Typo_Vectors_Drawing_1.jpg) |
 |:---:|
 | Frutiger[^1]           |
 
@@ -28,49 +28,49 @@ Dessin vectoriel
 
 ### Vues
 
-|![](links/View.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/View.gif) |
 |:---:|
 | Characterset (fenêtre), plan de travail (onglet)           |
 
 ### Terminologie
 
-|![](links/Terminology.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Terminology.gif) |
 |:---:|
 | Segment, point d'ancrage, point de contrôle           |
 
 ### Segments
 
-|![](links/Segments.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Segments.gif) |
 |:---:|
 | Droites, courbes           |
 
 ### Points d'ancrage
 
-|![](links/Anchor_Point.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Anchor_Point.gif) |
 |:---:|
 | Les points qui sont sur le segment: angle (bleu), courbe (vert), ouvert (trait)          |
 
 ### Points de contrôle
 
-|![](links/Control_Point.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Control_Point.gif) |
 |:---:|
 | Les points qui sont en dehors du segment (gris)           |
 
 ### Plans
 
-|![](links/Grounds.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Grounds.gif) |
 |:---:|
 | 1er plan, 2eme plan           |
 
 ### Calques (sauvegardes)
 
-|![](links/Layers.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Layers.gif) |
 |:---:|
 | Icône "+"           |
 
 ### Letterbox
 
-|![](links/Letterbox.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Letterbox.gif) |
 |:---:|
 | Largeur, espace à gauche, espace à droite           |
 
@@ -78,31 +78,31 @@ Dessin vectoriel
 
 ### Formes primitives
 
-|![](links/Primitives.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Primitives.gif) |
 |:---:|
 | Carré, Cercle           |
 
 ### Plume
 
-|![](links/Pen_Tool.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Pen_Tool.gif) |
 |:---:|
 | Clic = segment droit, Clic + Drag = segment courbe           |
 
 ### Règle
 
-|![](links/Ruler.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Ruler.gif) |
 |:---:|
 | Ctl + Opt + Cmd + Drag           |
 
 ### Fusion
 
-|![](links/Remove_Overlap.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Remove_Overlap.gif) |
 |:---:|
 | Tracé > Supprimer le chevauchement           |
 
 ### Déplacement d'un point sur un segment
 
-|![](links/Point_Displacement.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Point_Displacement.gif) |
 |:---:|
 | Alt + Drag sur un point           |
 
@@ -110,37 +110,37 @@ Dessin vectoriel
 
 ### 1er Point
 
-|![](links/First_Point.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/First_Point.gif) |
 |:---:|
 | Tracé > Corriger le sens des tracés: le premier point doit toujours être en bas à gauche           |
 
 ### Sens des tracés
 
-|![](links/Path_Direction.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Path_Direction.gif) |
 |:---:|
 | Tracé > Corriger le sens des tracés: forme (sens inverse des aiguilles), contreforme (sens des aiguilles)           |
 
 ### Triangle magique
 
-|![](links/Magic_Triangle.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Magic_Triangle.gif) |
 |:---:|
 | Les points de contrôle doivent être contenus dans le triangle qui contient le segment            |
 
 ### Points aux extrémités
 
-|![](links/Extremums.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Extremums.gif) |
 |:---:|
 | Tracé > Ajouter les extrêmes           |
 
 ### Contrôles horizontaux ou verticaux
 
-|![](links/BCPs.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/BCPs.gif) |
 |:---:|
 | Les points de contrôle doivent être alignés horizontalement ou verticalement           |
 
 ### Points superflus
 
-|![](links/Less_Points.gif) |
+|![](https://studioto.github.io/media/type-vectorize/links/Less_Points.gif) |
 |:---:|
 | Tracé > Nettoyer les tracés: utiliser le moins de points possible           |
 

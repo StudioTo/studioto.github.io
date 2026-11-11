@@ -4,15 +4,15 @@ En animation, le nombre d’images construit le temps, l’ampleur des changemen
   
 ### &nbsp;
 
-|![](links/Animation1.gif) |
+|![](https://studioto.github.io/media/symbolize-animation/links/Animation1.gif) |
 |:---:|
 | Animation 1 |
 
-|![](links/Animation8.gif) |
+|![](https://studioto.github.io/media/symbolize-animation/links/Animation8.gif) |
 |:---:|
 | Animation 2 |
 
-|![](links/Animation17.gif) |
+|![](https://studioto.github.io/media/symbolize-animation/links/Animation17.gif) |
 |:---:|
 | Animation 3 |
 

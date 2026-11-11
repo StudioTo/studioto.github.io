@@ -2,7 +2,7 @@
 
 &nbsp;
 
-|![](links/Eracom_Typo_Teaser_Manual.gif) |
+|![](https://studioto.github.io/media/evaluate-program/links/Eracom_Typo_Teaser_Manual.gif) |
 |:---:|
 | Aperçu des exercices réalisés en typographie |
 
@@ -58,6 +58,5 @@ Apprendre à dessiner des caractères commence par la capacité à les déconstr
 
 <!-- # Prendre du plaisir	
 
-|![](links/Eval44.gif) |
 |:---:|
 | Il faut produire une idée pour pouvoir l'évaluer | -->

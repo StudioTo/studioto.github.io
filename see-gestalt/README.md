@@ -4,61 +4,61 @@ La Gestalt (ou psychologie de la forme) étudie les conditions de la perception 
 
 # Similarité
 
-|![](links/4-Gestalt2.gif)|
+|![](https://studioto.github.io/media/see-gestalt/links/4-Gestalt2.gif)|
 |:---:|
 | Les éléments similaires sont perçus comme appartenant au même groupe. |
 
-|![](links/4-Gestalt-logo1.jpg)|
+|![](https://studioto.github.io/media/see-gestalt/links/4-Gestalt-logo1.jpg)|
 |:---:|
 | NBC |
 
 # Proximité
 
-|![](links/4-Gestalt13.gif)|
+|![](https://studioto.github.io/media/see-gestalt/links/4-Gestalt13.gif)|
 |:---:|
 | Les éléments proches les uns des autres sont perçus comme liés. |
 
-|![](links/4-Gestalt-logo2.jpg)|
+|![](https://studioto.github.io/media/see-gestalt/links/4-Gestalt-logo2.jpg)|
 |:---:|
 | Adidas |
 
 # Continuité
 
-|![](links/4-Gestalt19.gif)|
+|![](https://studioto.github.io/media/see-gestalt/links/4-Gestalt19.gif)|
 |:---:|
 | L’œil est guidé en priorité par les trajectoires continues. |
 
-|![](links/4-Gestalt-logo3.jpg)|
+|![](https://studioto.github.io/media/see-gestalt/links/4-Gestalt-logo3.jpg)|
 |:---:|
 | Amazon |
 
 # Prégnance
 
-|![](links/4-Gestalt7.gif)|
+|![](https://studioto.github.io/media/see-gestalt/links/4-Gestalt7.gif)|
 |:---:|
 | La perception privilégie la forme la plus simple, stable et organisée. |
 
-|![](links/4-Gestalt-logo4.jpg)|
+|![](https://studioto.github.io/media/see-gestalt/links/4-Gestalt-logo4.jpg)|
 |:---:|
 | Nike |
 
 # Clôture
 
-|![](links/4-Gestalt30.gif)|
+|![](https://studioto.github.io/media/see-gestalt/links/4-Gestalt30.gif)|
 |:---:|
 | Les formes absentes sont complétées par le cerveau. |
 
-|![](links/4-Gestalt-logo5.jpg)|
+|![](https://studioto.github.io/media/see-gestalt/links/4-Gestalt-logo5.jpg)|
 |:---:|
 | USA Network |
 
 # Figure-Fond
 
-|![](links/4-Gestalt35.gif)|
+|![](https://studioto.github.io/media/see-gestalt/links/4-Gestalt35.gif)|
 |:---:|
 | La perception distingue spontanément une forme principale de son arrière-plan. |
 
-|![](links/4-Gestalt-logo6.jpg)|
+|![](https://studioto.github.io/media/see-gestalt/links/4-Gestalt-logo6.jpg)|
 |:---:|
 | FedEx |
 

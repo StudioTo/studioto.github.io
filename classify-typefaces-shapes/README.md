@@ -11,17 +11,17 @@
 
 # Tableau {#tableau}
 
-|![](links/Era_Typ_Class_01.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/links/Era_Typ_Class_01.jpg) |
 |:---:|
 | Classification anatomique | 
 
-|![](links/1-2-Formes3.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/links/1-2-Formes3.jpg) |
 |:---:|
 | Classification ramifiée basée sur l'anatomie des caractères | 
 
 # Squelette - Graisse - Enveloppe {#squelette-graisse-enveloppe}
 
-|![](links/1-Anatomique.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/links/1-Anatomique.gif) |
 |:---:|
 | Squelette - Graisse - Enveloppe           |
 
@@ -46,7 +46,7 @@ Squelette
 
 ## Squelette Dynamique {#squelette-dynamique}
 
-|![](links/Typo_Classification_1_dynamique.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/links/Typo_Classification_1_dynamique.gif) |
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
@@ -55,7 +55,7 @@ Vocabulaire sémiotique:
 
 ## Squelette Statique {#squelette-statique}
 
-|![](links/Typo_Classification_2_statique.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/links/Typo_Classification_2_statique.gif) |
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
@@ -64,7 +64,7 @@ Vocabulaire sémiotique:
 
 ## Squelette Géométrique {#squelette-geometrique}
 
-|![](links/Typo_Classification_3_geometrique.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/links/Typo_Classification_3_geometrique.gif) |
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
@@ -73,7 +73,7 @@ Vocabulaire sémiotique:
 
 # Combinaisons {#combinaisons}
 
-|![](links/Pair_Fonts.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/links/Pair_Fonts.gif) |
 |:---:|
 | Combiner des fontes avec la classification formelle[^3]           |
 
@@ -93,15 +93,15 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 - les character-sets
 - etc.
 
-|![](links/Typo_Classification_13b1.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/links/Typo_Classification_13b1.gif) |
 |:---:|
 | Différents principes \| Même principe           |
 
-|![](links/Typo_Classification_13b2.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/links/Typo_Classification_13b2.gif) |
 |:---:|
 | Même principe  \| Différents contrastes & terminaisons           |
 
-|![](links/Typo_Classification_13b3.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/links/Typo_Classification_13b3.gif) |
 |:---:|
 | Différents principes \| Différents contrastes & terminaisons           |
 
