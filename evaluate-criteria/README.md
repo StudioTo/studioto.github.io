@@ -479,31 +479,31 @@
 
 <!-- ### &nbsp;
 
-|![](https://studioto.github.io/media/evaluate-criteria/0-Eval_process.jpg) |
+|![](https://studioto.github.io/media/evaluate-criteria/0-eval_process.jpg) |
 |:---:|
 | Processus: organisation, développement, production |  -->
 
 
 <!-- # Exercice technique  
 
-|![](https://studioto.github.io/media/evaluate-criteria/Eval28.gif) |
+|![](https://studioto.github.io/media/evaluate-criteria/eval28.gif) |
 |:---:|
 | Juste ou faux |  -->
 
 <!-- ## 6 pts Organisation (gestion)  
 
-|![](https://studioto.github.io/media/evaluate-criteria/Eval29.gif) |
+|![](https://studioto.github.io/media/evaluate-criteria/eval29.gif) |
 |:---:|
 | Autonomie, compréhension du brief, gestion du temps et du matériel | 
 
 ## 6 pts Développement (quantité)  
 
-|![](https://studioto.github.io/media/evaluate-criteria/Eval34.gif) |
+|![](https://studioto.github.io/media/evaluate-criteria/eval34.gif) |
 |:---:|
 | Recherche, itérations, variété, regard critique | 
 
 ## 6 pts Production (qualité)  
 
-|![](https://studioto.github.io/media/evaluate-criteria/Eval_prod4.gif) |
+|![](https://studioto.github.io/media/evaluate-criteria/eval_prod4.gif) |
 |:---:|
 | Synthèse, impact graphique, propreté technique |  -->

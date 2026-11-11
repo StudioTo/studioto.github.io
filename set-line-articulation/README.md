@@ -4,7 +4,7 @@ L’articulation de la ligne concerne la manière de mettre en relief certains m
   
 &nbsp;
 
-|![](https://studioto.github.io/media/set-line-articulation/0-Ligne2.gif) |
+|![](https://studioto.github.io/media/set-line-articulation/0-ligne2.gif) |
 |:---:|
 | Différents moyens de mettre en évidence |
 

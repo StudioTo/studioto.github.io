@@ -11,31 +11,31 @@ Explorer un maximum de variations, en modulant un paramètre visuel à la fois. 
 
 # Forme  
 
-|![](https://studioto.github.io/media/process-variations/Forme_Contre_Forme.gif) |
+|![](https://studioto.github.io/media/process-variations/forme_contre_forme.gif) |
 |:---:|
 | Le blanc (contreforme) participe autant à l’équilibre que les signes imprimés (formes). |
 
 # Orientation  
 
-|![](https://studioto.github.io/media/process-variations/Variations2.gif) |
+|![](https://studioto.github.io/media/process-variations/variations2.gif) |
 |:---:|
 | L’orientation agit sur la lisibilité et peut évoquer le mouvement, la stabilité ou l’instabilité d’une composition. |
 
 # Position  
 
-|![](https://studioto.github.io/media/process-variations/Variations10.gif) |
+|![](https://studioto.github.io/media/process-variations/variations10.gif) |
 |:---:|
 | La position influence la hiérarchie visuelle et l’équilibre spatial d’une composition. |
 
 # Dimension  
 
-|![](https://studioto.github.io/media/process-variations/Variations18.gif) |
+|![](https://studioto.github.io/media/process-variations/variations18.gif) |
 |:---:|
 | La dimension modifie le rapport d’échelle et l’importance perçue des éléments. |
 
 # Rythme  
 
-|![](https://studioto.github.io/media/process-variations/Variations27.gif) |
+|![](https://studioto.github.io/media/process-variations/variations27.gif) |
 |:---:|
 | Le rythme, déterminé par les espacements, agit sur la cadence de lecture et la perception de la densité visuelle. |
 

@@ -30,15 +30,9 @@
 
 # 1. Document
 
-|![](links/1-Historique0.jpg) |
-|:---:|
-| Espace de travail typo | 
 
 - Espace de travail typo + liens + etc.
 
-|![](links/1-Historique0.jpg) |
-|:---:|
-| Classification historique | 
 
 - Format
 - CMJN + mm vs RVB + px
@@ -50,9 +44,6 @@
 
 # 3. Import
 
-|![](links/1-Historique0.jpg) |
-|:---:|
-| Classification historique | 
 
 - copier-coller texte, coller dans le style
 - copier-coller vecteurs depuis AI
@@ -71,13 +62,7 @@
 - repères
 - grille de ligne de base
 
-|![](links/1-Historique0.jpg) |
-|:---:|
-| Classification historique | 
 
-|![](links/1-Historique0.jpg) |
-|:---:|
-| Fenêtres | 
 
 | Commande | Raccourcis |
 |:---:|:---:|
@@ -92,33 +77,18 @@
 - style de caractères
 - rechercher-remplacer (micro)
 
-|![](links/1-Historique0.jpg) |
-|:---:|
-| Classification historique | 
 
 # 5. Image
 
-|![](links/1-Historique0.jpg) |
-|:---:|
-| Classification historique | 
 
 # 6. Nuance
 
-|![](links/1-Historique0.jpg) |
-|:---:|
-| Classification historique | 
 
 # 7. Vérification
 
-|![](links/1-Historique0.jpg) |
-|:---:|
-| Classification historique | 
 
 # 8. Export
 
-|![](links/1-Historique0.jpg) |
-|:---:|
-| Classification historique | 
 
 ```
 ✓ Le format du document est correct

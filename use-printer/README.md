@@ -11,19 +11,19 @@
 
 # Menu
 
-|![](https://studioto.github.io/media/use-printer/0_start_menu.jpeg) |
+|![](https://studioto.github.io/media/use-printer/0_start_menu.jpg) |
 |:---:|
 | Scanner sur une imprimante | 
 
 # Copie: Photocopier
 
-|![](https://studioto.github.io/media/use-printer/5_copy.jpeg) |
+|![](https://studioto.github.io/media/use-printer/5_copy.jpg) |
 |:---:|
 | Copie > Paramètres > Départ | 
 
 # Relâcher: Imprimer
 
-|![](https://studioto.github.io/media/use-printer/2_print.jpeg) |
+|![](https://studioto.github.io/media/use-printer/2_print.jpg) |
 |:---:|
 | Sélectionner les travaux / Régler l'option recto-verso / Imprimer | 
 
@@ -33,6 +33,6 @@
 |:---:|
 | Scanner vers son eMail | 
 
-|![](https://studioto.github.io/media/use-printer/4_scan_to_OneDrive.gif) |
+|![](https://studioto.github.io/media/use-printer/4_scan_to_onedrive.gif) |
 |:---:|
 | Scanner vers son OneDrive | 

@@ -13,37 +13,37 @@ La macro-typographie désigne l’organisation globale d’un texte dans l’esp
 
 # Mirroir de page {#mirroir-de-page}  
 
-|![](https://studioto.github.io/media/set-macro-typo/0-Colonne2.gif) |
+|![](https://studioto.github.io/media/set-macro-typo/0-colonne2.gif) |
 |:---:|
 | Le miroir de page désigne la surface occupée par le texte et les images sur une page, en opposition aux marges |
 
 # Zone de texte {#zone-de-texte}  
 
-|![](https://studioto.github.io/media/set-macro-typo/0-Colonne6.gif) |
+|![](https://studioto.github.io/media/set-macro-typo/0-colonne6.gif) |
 |:---:|
 | La zone de texte correspond à l’espace rectangulaire dans lequel le contenu typographique est composé |
 
 # Marges {#marges}  
 
-|![](https://studioto.github.io/media/set-macro-typo/0-Colonne13.gif) |
+|![](https://studioto.github.io/media/set-macro-typo/0-colonne13.gif) |
 |:---:|
 | Les marges sont les espaces vides qui encadrent la zone de texte et définissent son équilibre visuel |
 
 # Gris de texte {#gris-de-texte}  
 
-|![](https://studioto.github.io/media/set-macro-typo/0-Colonne20.gif) |
+|![](https://studioto.github.io/media/set-macro-typo/0-colonne20.gif) |
 |:---:|
 | Le gris de texte est l’impression visuelle produite par la densité, la taille et l’interlignage des caractères sur la page |
 
 # Division verticale {#division-verticale}  
 
-|![](https://studioto.github.io/media/set-macro-typo/0-Colonne29.gif) |
+|![](https://studioto.github.io/media/set-macro-typo/0-colonne29.gif) |
 |:---:|
 | La division verticale organise la page en colonnes ou modules pour structurer la lecture et la hiérarchie |
 
 # Grille de ligne de base {#grille-de-ligne-de-base}  
 
-|![](https://studioto.github.io/media/set-macro-typo/0-Colonne33.gif) |
+|![](https://studioto.github.io/media/set-macro-typo/0-colonne33.gif) |
 |:---:|
 | La grille de ligne de base aligne les lignes de texte sur une structure invisible commune pour assurer la régularité typographique |
 

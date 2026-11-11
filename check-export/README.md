@@ -3,7 +3,7 @@
 ### &nbsp;
 
 
-|![](https://studioto.github.io/media/check-export/Checklists.jpg) |
+|![](https://studioto.github.io/media/check-export/checklists.jpg) |
 |:---:|
 | Vérification[^1]           |
 

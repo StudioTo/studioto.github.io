@@ -6,7 +6,7 @@ L’articulation du mot concerne la manière dont les lettres interagissent à l
   
 &nbsp;
 
-|![](https://studioto.github.io/media/set-word-articulation/0-Mot63.gif) |
+|![](https://studioto.github.io/media/set-word-articulation/0-mot63.gif) |
 |:---:|
 | L'articulation des lettres permet de renforcer le propos |
 

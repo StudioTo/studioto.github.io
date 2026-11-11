@@ -534,7 +534,7 @@ La grilles de pixels finalement est remplacée par des tracés vectoriels, qui p
 |:------------------------------------------:|:------------------------------------------:|
 | Conception assistée par ordinateurs (CAD)                                        | Courbes de Bézier (vecteurs), d'abord utilisées pour l'aérodynamisme des voitures                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_172.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_172_Image_0002.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_172.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_172_image_0002.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Fonte bitmap                                        | Fonte vectorielle                                        |
 

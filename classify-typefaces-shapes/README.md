@@ -11,17 +11,17 @@
 
 # Tableau {#tableau}
 
-|![](https://studioto.github.io/media/classify-typefaces-shapes/Era_Typ_Class_01.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/era_typ_class_01.jpg) |
 |:---:|
 | Classification anatomique | 
 
-|![](https://studioto.github.io/media/classify-typefaces-shapes/1-2-Formes3.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/1-2-formes3.jpg) |
 |:---:|
 | Classification ramifiée basée sur l'anatomie des caractères | 
 
 # Squelette - Graisse - Enveloppe {#squelette-graisse-enveloppe}
 
-|![](https://studioto.github.io/media/classify-typefaces-shapes/1-Anatomique.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/1-anatomique.gif) |
 |:---:|
 | Squelette - Graisse - Enveloppe           |
 
@@ -46,7 +46,7 @@ Squelette
 
 ## Squelette Dynamique {#squelette-dynamique}
 
-|![](https://studioto.github.io/media/classify-typefaces-shapes/Typo_Classification_1_dynamique.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/typo_classification_1_dynamique.gif) |
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
@@ -55,7 +55,7 @@ Vocabulaire sémiotique:
 
 ## Squelette Statique {#squelette-statique}
 
-|![](https://studioto.github.io/media/classify-typefaces-shapes/Typo_Classification_2_statique.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/typo_classification_2_statique.gif) |
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
@@ -64,7 +64,7 @@ Vocabulaire sémiotique:
 
 ## Squelette Géométrique {#squelette-geometrique}
 
-|![](https://studioto.github.io/media/classify-typefaces-shapes/Typo_Classification_3_geometrique.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/typo_classification_3_geometrique.gif) |
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
@@ -73,7 +73,7 @@ Vocabulaire sémiotique:
 
 # Combinaisons {#combinaisons}
 
-|![](https://studioto.github.io/media/classify-typefaces-shapes/Pair_Fonts.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/pair_fonts.gif) |
 |:---:|
 | Combiner des fontes avec la classification formelle[^3]           |
 
@@ -93,15 +93,15 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 - les character-sets
 - etc.
 
-|![](https://studioto.github.io/media/classify-typefaces-shapes/Typo_Classification_13b1.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/typo_classification_13b1.gif) |
 |:---:|
 | Différents principes \| Même principe           |
 
-|![](https://studioto.github.io/media/classify-typefaces-shapes/Typo_Classification_13b2.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/typo_classification_13b2.gif) |
 |:---:|
 | Même principe  \| Différents contrastes & terminaisons           |
 
-|![](https://studioto.github.io/media/classify-typefaces-shapes/Typo_Classification_13b3.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-shapes/typo_classification_13b3.gif) |
 |:---:|
 | Différents principes \| Différents contrastes & terminaisons           |
 

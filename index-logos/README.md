@@ -5,7 +5,7 @@
 
 # Next
 
-|![](https://studioto.github.io/media/index-logos/2-Logos.gif) |
+|![](https://studioto.github.io/media/index-logos/2-logos.gif) |
 |:---:|
 | Paul Rand, 1986 |
 

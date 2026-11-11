@@ -2,7 +2,7 @@
 
 &nbsp;
 
-|![](https://studioto.github.io/media/eracom/briefs/introduce-typography/links/Evolution_Metier.gif) |
+|![](https://studioto.github.io/media/eracom/briefs/introduce-typography/links/evolution_metier.gif) |
 |:---:|
 | L’évolution du métier[^1][^2]  |
 

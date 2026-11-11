@@ -5,6 +5,6 @@
 
 # Munich Olympic Games
 
-|![](https://studioto.github.io/media/index-pictos/1-Language_v277.jpg)|
+|![](https://studioto.github.io/media/index-pictos/1-language_v277.jpg)|
 |:---:|
 | Otl Aicher, 1972 |

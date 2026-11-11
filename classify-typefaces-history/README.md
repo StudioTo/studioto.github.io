@@ -24,25 +24,25 @@
 
 # Tableau
 
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique0.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique0.jpg) |
 |:---:|
 | Classification historique | 
 
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique.gif) |
 |:---:|
 | Classification linéaire basée sur l'histoire des caractères | 
 
-<!-- |![](https://studioto.github.io/media/classify-typefaces-history/2-Historique_up.jpg) |
+<!-- |![](https://studioto.github.io/media/classify-typefaces-history/2-historique_up.jpg) |
 |:---:|
 | L'outil utilisé pour écrire définit certains aspects de la forme des signes |  -->
 
 # Timeline
 
-|![](https://studioto.github.io/media/classify-typefaces-history/1-2-Formes.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-2-formes.jpg) |
 |:---:|
 | Evolution de l'enveloppe des caractères | 
 
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique9.gif) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique9.gif) |
 |:---:|
 | Evolution des formes de l'écriture | 
 
@@ -58,19 +58,19 @@
 
 | Grec lapidaire | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique9.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique9.jpg) |
 |:---:|
 | Ve siècle av. J.-C. | 
 
 | Romain lapidaire | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique10.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique10.jpg) |
 |:---:|
 | IIe siècle av. J.-C. | 
 
 | Capitale monumentalis romaine | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique11.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique11.jpg) |
 |:---:|
 | Ie siècle av. J.-C. |  
 
@@ -86,85 +86,85 @@
 
 | Capitale rustika | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique12.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique12.jpg) |
 |:---:|
 | Ier — Ve siècle | 
 
 | Majuscule romaine cursive | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique13.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique13.jpg) |
 |:---:|
 | Ier — IIIe siècle | 
 
 | Onciale romaine | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique14.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique14.jpg) |
 |:---:|
 | IIIe — IXe siècle | 
 
 | Minuscule romaine cursive | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique15.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique15.jpg) |
 |:---:|
 | IIIe — VIIe siècle | 
 
 | Semi-onciale romaine | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique16.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique16.jpg) |
 |:---:|
 | IIIe — VIIe siècle | 
 
 | Capitale quadrata | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique17.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique17.jpg) |
 |:---:|
 | IVe — Ve siècle | 
 
 | Semi-onciale anglo-saxone | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique18.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique18.jpg) |
 |:---:|
 | VIIe — XIIe siècle | 
 
 | Semi-cursive romaine | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique19.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique19.jpg) |
 |:---:|
 | VIIe — IXe siècle | 
 
 | Minuscule lombarde | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique20.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique20.jpg) |
 |:---:|
 | VIIe — IXe siècle | 
 
 | Minuscule mérovingienne | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique21.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique21.jpg) |
 |:---:|
 | VIIe — VIIIe siècle | 
 
 | Minuscule wisigothique | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique22.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique22.jpg) |
 |:---:|
 | VIIIe — XIe siècle | 
 
 | Minuscule carolingienne | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique23.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique23.jpg) |
 |:---:|
 | VIIIe — XIe siècle | 
 
 | Minuscule bénéventaine | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique24.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique24.jpg) |
 |:---:|
 | IXe — XIIIe siècle | 
 
 | Minuscule carolingienne tardive | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique25.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique25.jpg) |
 |:---:|
 | XIe — XIIe siècle | 
 
@@ -174,37 +174,37 @@
 
 | Minuscule gothique primitive | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique26.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique26.jpg) |
 |:---:|
 | XIIe — XIIIe siècle | 
 
 | Minuscule gothique | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique27.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique27.jpg) |
 |:---:|
 | XIIIe — XVe siècle | 
 
 | Minuscule cursive (bâtarde) | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique28.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique28.jpg) |
 |:---:|
 | XIIIe — XVe siècle | 
 
 | Rotunda | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique29.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique29.jpg) |
 |:---:|
 | XIIIe — XVe siècle | 
 
 | Textura | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique30.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique30.jpg) |
 |:---:|
 | XIVe — XVe siècle | 
 
 | Gothique primitive (Italie) | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique31.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique31.jpg) |
 |:---:|
 | XIVe siècle | 
 
@@ -220,7 +220,7 @@
 
 | Minuscule humaniste | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique32.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique32.jpg) |
 |:---:|
 | XVe — XVIe siècle | 
 
@@ -228,19 +228,19 @@
 
 | Humaniste cursive (italique) | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique33.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique33.jpg) |
 |:---:|
 | XVe — XVIe siècle | 
 
 | Schwabacher | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique34.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique34.jpg) |
 |:---:|
 | XVIe siècle | 
 
 | Fraktur (Allemagne) | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique35.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique35.jpg) |
 |:---:|
 | XVIe — XVIIe siècle | 
 
@@ -250,13 +250,13 @@
 
 | Écriture de chancellerie / Main courante (Allemagne) | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique36.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique36.jpg) |
 |:---:|
 | XVIe siècle | 
 
 | Garamond | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique37.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique37.jpg) |
 |:---:|
 | 1531 | 
 
@@ -266,7 +266,7 @@
 
 | Snell Main Ronde | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/2-Historique_v2_up2.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/2-historique_v2_up2.jpg) |
 |:---:|
 | 1712 | 
 
@@ -280,19 +280,19 @@
 
 | Caslon | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique38.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique38.jpg) |
 |:---:|
 | 1725 | 
 
 | Baskerville | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique39.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique39.jpg) |
 |:---:|
 | Milieu du XVIIIe siècle | 
 
 | Fournier | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique40.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique40.jpg) |
 |:---:|
 | Milieu du XVIIIe siècle | 
 
@@ -306,25 +306,25 @@
 
 | Didot | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique41.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique41.jpg) |
 |:---:|
 | Milieu du XVIIIe siècle | 
 
 | Bodoni | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique42.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique42.jpg) |
 |:---:|
 | 1788 (1818) | 
 
 | Walbaum | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique43.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique43.jpg) |
 |:---:|
 | 1803 | 
 
 | Caslon égyptienne (première sans-sérif) | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique44.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique44.jpg) |
 |:---:|
 | 1816 | 
 
@@ -336,7 +336,7 @@
 
 | Italienne | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique45.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique45.jpg) |
 |:---:|
 | 1821 | 
 
@@ -352,7 +352,7 @@
 
 | Clarendon | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique46.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique46.jpg) |
 |:---:|
 | 1844 | 
 
@@ -368,7 +368,7 @@
 
 | Akzidenz Grotesk | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique47.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique47.jpg) |
 |:---:|
 | 1898 | 
 
@@ -382,7 +382,7 @@
 
 | Gill | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique48.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique48.jpg) |
 |:---:|
 | 1927 | 
 
@@ -396,13 +396,13 @@
 
 | Futura | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique49.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique49.jpg) |
 |:---:|
 | 1927 | 
 
 | Times New Roman | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique50.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique50.jpg) |
 |:---:|
 | 1931 | 
 
@@ -416,31 +416,31 @@
 
 | Folio | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique51.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique51.jpg) |
 |:---:|
 | 1954 | 
 
 | Univers | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique52.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique52.jpg) |
 |:---:|
 | 1957 | 
 
 | Helvetica | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique53.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique53.jpg) |
 |:---:|
 | 1958 | 
 
 | OCR-B | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique54.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique54.jpg) |
 |:---:|
 | 1963 | 
 
 | Frutiger | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique55.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique55.jpg) |
 |:---:|
 | 1970 | 
 
@@ -452,7 +452,7 @@
 
 | Rotis | 
 |:---:|
-|![](https://studioto.github.io/media/classify-typefaces-history/1-Historique56.jpg) |
+|![](https://studioto.github.io/media/classify-typefaces-history/1-historique56.jpg) |
 |:---:|
 | 1988 |
 

@@ -4,7 +4,7 @@ L’articulation de la lecture désigne la manière dont le texte est structuré
   
 &nbsp;
 
-|![](https://studioto.github.io/media/set-column-articulation/0-Colonne79.gif) |
+|![](https://studioto.github.io/media/set-column-articulation/0-colonne79.gif) |
 |:---:|
 | Texte brut → Texte structuré |
 

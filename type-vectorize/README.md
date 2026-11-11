@@ -2,7 +2,7 @@
   Dessin vectoriel
 ### &nbsp;
 
-|![](https://studioto.github.io/media/type-vectorize/Typo_Vectors_Drawing_1.jpg) |
+|![](https://studioto.github.io/media/type-vectorize/typo_vectors_drawing_1.jpg) |
 |:---:|
 | Frutiger[^1]           |
 
@@ -28,49 +28,49 @@ Dessin vectoriel
 
 ### Vues
 
-|![](https://studioto.github.io/media/type-vectorize/View.gif) |
+|![](https://studioto.github.io/media/type-vectorize/view.gif) |
 |:---:|
 | Characterset (fenêtre), plan de travail (onglet)           |
 
 ### Terminologie
 
-|![](https://studioto.github.io/media/type-vectorize/Terminology.gif) |
+|![](https://studioto.github.io/media/type-vectorize/terminology.gif) |
 |:---:|
 | Segment, point d'ancrage, point de contrôle           |
 
 ### Segments
 
-|![](https://studioto.github.io/media/type-vectorize/Segments.gif) |
+|![](https://studioto.github.io/media/type-vectorize/segments.gif) |
 |:---:|
 | Droites, courbes           |
 
 ### Points d'ancrage
 
-|![](https://studioto.github.io/media/type-vectorize/Anchor_Point.gif) |
+|![](https://studioto.github.io/media/type-vectorize/anchor_point.gif) |
 |:---:|
 | Les points qui sont sur le segment: angle (bleu), courbe (vert), ouvert (trait)          |
 
 ### Points de contrôle
 
-|![](https://studioto.github.io/media/type-vectorize/Control_Point.gif) |
+|![](https://studioto.github.io/media/type-vectorize/control_point.gif) |
 |:---:|
 | Les points qui sont en dehors du segment (gris)           |
 
 ### Plans
 
-|![](https://studioto.github.io/media/type-vectorize/Grounds.gif) |
+|![](https://studioto.github.io/media/type-vectorize/grounds.gif) |
 |:---:|
 | 1er plan, 2eme plan           |
 
 ### Calques (sauvegardes)
 
-|![](https://studioto.github.io/media/type-vectorize/Layers.gif) |
+|![](https://studioto.github.io/media/type-vectorize/layers.gif) |
 |:---:|
 | Icône "+"           |
 
 ### Letterbox
 
-|![](https://studioto.github.io/media/type-vectorize/Letterbox.gif) |
+|![](https://studioto.github.io/media/type-vectorize/letterbox.gif) |
 |:---:|
 | Largeur, espace à gauche, espace à droite           |
 
@@ -78,31 +78,31 @@ Dessin vectoriel
 
 ### Formes primitives
 
-|![](https://studioto.github.io/media/type-vectorize/Primitives.gif) |
+|![](https://studioto.github.io/media/type-vectorize/primitives.gif) |
 |:---:|
 | Carré, Cercle           |
 
 ### Plume
 
-|![](https://studioto.github.io/media/type-vectorize/Pen_Tool.gif) |
+|![](https://studioto.github.io/media/type-vectorize/pen_tool.gif) |
 |:---:|
 | Clic = segment droit, Clic + Drag = segment courbe           |
 
 ### Règle
 
-|![](https://studioto.github.io/media/type-vectorize/Ruler.gif) |
+|![](https://studioto.github.io/media/type-vectorize/ruler.gif) |
 |:---:|
 | Ctl + Opt + Cmd + Drag           |
 
 ### Fusion
 
-|![](https://studioto.github.io/media/type-vectorize/Remove_Overlap.gif) |
+|![](https://studioto.github.io/media/type-vectorize/remove_overlap.gif) |
 |:---:|
 | Tracé > Supprimer le chevauchement           |
 
 ### Déplacement d'un point sur un segment
 
-|![](https://studioto.github.io/media/type-vectorize/Point_Displacement.gif) |
+|![](https://studioto.github.io/media/type-vectorize/point_displacement.gif) |
 |:---:|
 | Alt + Drag sur un point           |
 
@@ -110,37 +110,37 @@ Dessin vectoriel
 
 ### 1er Point
 
-|![](https://studioto.github.io/media/type-vectorize/First_Point.gif) |
+|![](https://studioto.github.io/media/type-vectorize/first_point.gif) |
 |:---:|
 | Tracé > Corriger le sens des tracés: le premier point doit toujours être en bas à gauche           |
 
 ### Sens des tracés
 
-|![](https://studioto.github.io/media/type-vectorize/Path_Direction.gif) |
+|![](https://studioto.github.io/media/type-vectorize/path_direction.gif) |
 |:---:|
 | Tracé > Corriger le sens des tracés: forme (sens inverse des aiguilles), contreforme (sens des aiguilles)           |
 
 ### Triangle magique
 
-|![](https://studioto.github.io/media/type-vectorize/Magic_Triangle.gif) |
+|![](https://studioto.github.io/media/type-vectorize/magic_triangle.gif) |
 |:---:|
 | Les points de contrôle doivent être contenus dans le triangle qui contient le segment            |
 
 ### Points aux extrémités
 
-|![](https://studioto.github.io/media/type-vectorize/Extremums.gif) |
+|![](https://studioto.github.io/media/type-vectorize/extremums.gif) |
 |:---:|
 | Tracé > Ajouter les extrêmes           |
 
 ### Contrôles horizontaux ou verticaux
 
-|![](https://studioto.github.io/media/type-vectorize/BCPs.gif) |
+|![](https://studioto.github.io/media/type-vectorize/bcps.gif) |
 |:---:|
 | Les points de contrôle doivent être alignés horizontalement ou verticalement           |
 
 ### Points superflus
 
-|![](https://studioto.github.io/media/type-vectorize/Less_Points.gif) |
+|![](https://studioto.github.io/media/type-vectorize/less_points.gif) |
 |:---:|
 | Tracé > Nettoyer les tracés: utiliser le moins de points possible           |
 
@@ -148,54 +148,30 @@ Dessin vectoriel
 
 ### Systématiser les proportions
 
-|![](links/Contraste.gif) |
-|:---:|
-| Fûts, overshoot, etc           |
 
 ### Systématiser le spacing
 
-|![](links/Contraste.gif) |
-|:---:|
-| =o, =o+10           |
 
 # 📦 Export
 
 ### Créer le dossier Adobe Fonts dans Application Support
 
-|![](links/abc.gif) |
-|:---:|
-| ~/Library/Application Support/Adobe/Fonts            |
 
 ### Générer les fonctionnalités OpenType
 
-|![](links/Contraste.gif) |
-|:---:|
-| Fichier > Informations de la police > Fonctionnalités > Générer + Compiler             |
 
 ### Créer le dossier d'export Adobe Fonts
 
-|![](links/Contraste.gif) |
-|:---:|
-| ~/Library/Application Support/Adobe/Fonts            |
 
 ### Exporter
 
-|![](links/Contraste.gif) |
-|:---:|
-| Fichier > Exporter > PostScriptCFF, .otf, supprimer le chevauchement, autohint, destination: dossier Adobe            |
 
 # 🔍 Test
 
 ### Choississez votre fonte dans le menu déroulant de InDesign
 
-|![](links/Contraste.gif) |
-|:---:|
-| ~/Library/Application Support/Adobe/Fonts            |
 
 # 🐞 Debug des erreurs communes
 
 ### Autohinting
 
-|![](links/Contraste.gif) |
-|:---:|
-| Aller vérifier la lettre mentionnée dans la fenêtre d'erreur (corriger les tracés)            |

@@ -8,13 +8,13 @@ La texture du mot fait référence aux formes de lettre choisies pour véhiculer
 
 <!-- # Technique  
 
-|![](https://studioto.github.io/media/set-word-texture/0-Mot2.gif) |
+|![](https://studioto.github.io/media/set-word-texture/0-mot2.gif) |
 |:---:|
 | Chaque technique a ses contraintes |
 
 # Connotation   -->
 
-|![](https://studioto.github.io/media/set-word-texture/0-Mot15.gif) |
+|![](https://studioto.github.io/media/set-word-texture/0-mot15.gif) |
 |:---:|
 | Chaque caractère produit un effet différent |
 

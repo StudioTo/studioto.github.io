@@ -4,11 +4,11 @@ La composition de la ligne se réfère à l'espacement vertical et horizontal en
   
 &nbsp;
 
-|![](https://studioto.github.io/media/set-line-composition/0-Ligne12.gif) |
+|![](https://studioto.github.io/media/set-line-composition/0-ligne12.gif) |
 |:---:|
 | Inter-lignage | 
 
-|![](https://studioto.github.io/media/set-line-composition/0-Ligne20.gif) |
+|![](https://studioto.github.io/media/set-line-composition/0-ligne20.gif) |
 |:---:|
 | Fluidité |
 

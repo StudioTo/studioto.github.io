@@ -2,7 +2,7 @@
 
 &nbsp;
 
-|![](https://studioto.github.io/media/evaluate-program/Eracom_Typo_Teaser_Manual.gif) |
+|![](https://studioto.github.io/media/evaluate-program/eracom_typo_teaser_manual.gif) |
 |:---:|
 | Aperçu des exercices réalisés en typographie |
 

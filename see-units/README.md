@@ -9,37 +9,37 @@
 
 # Le champ de la typographie  
 
-|![](https://studioto.github.io/media/see-units/1-Language_v217.gif)|
+|![](https://studioto.github.io/media/see-units/1-language_v217.gif)|
 |:---:|
 | La langue est notre principal moyen de communication: la typographie la rend lisible par des formes visuelles (images: Alva Noto) |
 
 # Les unités typographiques  
 
-|![](https://studioto.github.io/media/see-units/1-Language_v252.gif)|
+|![](https://studioto.github.io/media/see-units/1-language_v252.gif)|
 |:---:|
 | Le message prend sa forme écrite grâce aux différentes unités de base de la typographie qui se combine pour former un ensemble cohérent |
 
 # 1. Le caractère {#le-caractere}  
 
-|![](https://studioto.github.io/media/see-units/1-Language_v272.gif)|
+|![](https://studioto.github.io/media/see-units/1-language_v272.gif)|
 |:---:|
 | Les signes sont les particules élémentaires du langage écrit |
 
 # 2. Le mot {#le-mot}  
 
-|![](https://studioto.github.io/media/see-units/1-Language_v279.gif)|
+|![](https://studioto.github.io/media/see-units/1-language_v279.gif)|
 |:---:|
 | Le mot est une combinaison de signes (lettres) |
 
 # 3. La ligne {#la-ligne}  
 
-|![](https://studioto.github.io/media/see-units/1-Language_v285.gif)|
+|![](https://studioto.github.io/media/see-units/1-language_v285.gif)|
 |:---:|
 | La ligne est constituée d'une séquence de mots séparés par des espaces |
 
 # 4. La colonne {#la-colonne}  
 
-|![](https://studioto.github.io/media/see-units/1-Language-typo-unit-column.gif)|
+|![](https://studioto.github.io/media/see-units/1-language-typo-unit-column.gif)|
 |:---:|
 | La colonne est composée de lignes et introduit la dimension de la lecture continue (images: Jonas Voegeli) |
 

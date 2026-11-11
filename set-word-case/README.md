@@ -8,13 +8,13 @@ La graphie désigne la manière dont un mot est écrit. Les mots sont des combin
 
 # Casse  
 
-|![](https://studioto.github.io/media/set-word-case/0-Mot25.gif) |
+|![](https://studioto.github.io/media/set-word-case/0-mot25.gif) |
 |:---:|
 | L’usage des majuscules et des minuscules permet de hiérarchiser les mots, de marquer leur importance ou de donner une tonalité particulière au texte. |
 
 # Ponctuation  
 
-|![](https://studioto.github.io/media/set-word-case/0-Mot51.gif) |
+|![](https://studioto.github.io/media/set-word-case/0-mot51.gif) |
 |:---:|
 | La ponctuation ne sert pas seulement à structurer et rythmer la lecture : elle permet aussi de nuancer le sens et de transmettre des émotions. |
 

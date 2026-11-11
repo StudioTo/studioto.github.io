@@ -7,7 +7,7 @@
 
 # Arp, Hans
 
-|![](https://studioto.github.io/media/index-designers/Annuaire_Arp_Hans.gif) |
+|![](https://studioto.github.io/media/index-designers/annuaire_arp_hans.gif) |
 |:---:|
 | Hans Arp (1886-1966)           |
 
@@ -21,7 +21,7 @@
 
 # Bill, Max
 
-|![](https://studioto.github.io/media/index-designers/Annuaire_Bill_Max.gif) |
+|![](https://studioto.github.io/media/index-designers/annuaire_bill_max.gif) |
 |:---:|
 | Max Bill (1908-1994)           |
 
