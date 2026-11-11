@@ -4,7 +4,7 @@ La mise en forme de la ligne se réfère à l’organisation globale des mots da
   
 ### &nbsp;
 
-|![](https://studioto.github.io/media/set-line-layout/links/0-Ligne27.gif) |
+|![](https://studioto.github.io/media/set-line-layout/0-Ligne27.gif) |
 |:---:|
 | Mise en forme |
 

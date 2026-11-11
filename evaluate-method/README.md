@@ -2,7 +2,7 @@
 
 &nbsp;
 
-|![](https://studioto.github.io/media/evaluate-method/links/Eval44.gif) |
+|![](https://studioto.github.io/media/evaluate-method/Eval44.gif) |
 |:---:|
 | Chercher de tous les côtés |
 
@@ -32,6 +32,6 @@ La collaboration enrichit le processus créatif : recueillir des avis, partager 
 
 <!-- # Prendre du plaisir  
 
-|![](https://studioto.github.io/media/evaluate-method/links/Eval44.gif) |
+|![](https://studioto.github.io/media/evaluate-method/Eval44.gif) |
 |:---:|
 | Il faut produire une idée pour pouvoir l'évaluer | -->

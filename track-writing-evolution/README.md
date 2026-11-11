@@ -40,21 +40,21 @@ Les traces peintes dans les grottes préhistoriques représentaient probablement
 # -38'800: Pictographes
 Un pictographe est un dessin ou une image qui représente un objet, un être ou une scène de manière simplifiée et stylisée (sens littéral, boeuf = boeuf).
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_002.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_002.jpg)|
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
 # -22'000: Pictogrammes
 Un pictogramme est un symbole graphique qui transmet une signification par sa ressemblance visuelle avec un objet physique (sens figuré, maison = famille).
   
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_004_alt.jpg)                                  |
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_004_alt.jpg)                                  |
 |:----------------------------------------------------------------------------:|
 | Parc National Chiribiquete, Colombie                           |
 
 # -15'000 Idéogrammes
 Un idéogramme ou idéographie est un symbole qui représente une idée ou un concept indépendamment de toute langue particulière (sens figuré sans lien avec le dessin, homme + animaux = chasse).
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_005.jpg)                                  |
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_005.jpg)                                  |
 |:----------------------------------------------------------------------------:|
 | Comté de Forsyth, Géorgie, États-Unis                                          |
 
@@ -65,22 +65,22 @@ Le système d'écriture logographique utilise une combinaison de d'idéogrammes 
 # -3300: Cunéiformes
 L’écriture cunéiforme (Mésopotamie) utilise des symboles de plus en plus géométriques et abstraits.
   
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_006.jpg)                                               |
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_006.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Tablette administrative cunéiforme, Mésopotamie (Syrie)                                     |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_007.jpg)                                               |
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_007.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Évolution des idéogrammes en formes abstraites         |
 
 # -3200: Hiéroglyphes
 L’écriture égyptienne utilise des symboles encore figuratifs.
   
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_008.jpg)                                               |
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_008.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Plaque d'ivoire de Ménès, Égypte                                      |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_009.jpg)                                               |
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_009.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Les hiéroglyphes étaient utilisés de trois manières: en tant qu'idéogrammes qui représentent un mot désignant un objet représenté visuellement par le hiéroglyphe, en tant que phonogrammes désignant des sons, ou en tant que déterminatifs qui fournissent des indices sur le sens sans écrire directement les sons.                                     |
 
@@ -92,56 +92,56 @@ Les alphabets sémitiques sont des systèmes d’écriture qui utilisent princip
 
 # -1900: Sinaïtique
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_010.jpg)                                               |
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_010.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Inscriptions dans la pierre, Wadi el-Hol, Vallée sur la route de Farshut, Égypte        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_011.jpg)                                               |
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_011.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Un des plus anciens exemples d'écriture alphabétique phonétique découverts à ce jour         |
 
 # -1600: Canaanite
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_012.jpg)                                               |
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_012.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Frise avec inscription punique (canaanite)       |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_013.jpg)                                               |
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_013.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Alphabet canaanite         |
 
 # -1200: Phénicien
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_014.jpg)                                               |
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_014.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Inscriptions dans la pierre, Nora, Sardaigne         |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_015.jpg)                                               |
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_015.jpg)                                               |
 |:-----------------------------------------------------------------------------------------:|
 | Alphabet phénicien         |
 
 # -1100: Alpabet occidental moderne
 L’alphabet grec introduit un système complet: chaque symbole représente un son, y compris les voyelles, ce qui permet une transcription plus précise de la langue parlée.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_016.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_016.jpg)|
 |:------------------------------------------:|
 | «Alphabet» vient des deux premières lettres grecques, «alpha» (a) et «bêta» (b)             |
 
 # -1100: Antiquité Grecque
 Les Grecs libèrent l’écriture des contraintes de la représentation. 
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_028.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_028.jpg)|
 |:------------------------------------------:|
 | Gortyna, Grèce                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_029.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_029.jpg)|
 |:------------------------------------------:|
 | Écriture boustrophédon: « comme le bœuf tourne en labourant le champ »                                      |
 
 # -800: Etrusques
 Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout en conservant des éléments de l’art et de l’architecture grecs.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v3_001.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v3_002.png)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v3_001.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v3_002.png)|
 |:------------------------------------------:|:------------------------------------------:|
 | Cippus Perusinus, près de Pérouse, Italie                                        | Évolution du grec au latin                                        |
 
@@ -151,19 +151,19 @@ Les inscriptions romaines sont gravées (ductus = mode d’emploi) au ciseau sur
 # 🗂️ Incises
 À mesure que l'Empire Romain est devenu la puissance dominante, il a synthétisé les influences étrusques pour créer une culture unique. La capitale monumentale romaine incarne ainsi l'autorié de l'empire et témoigne du développement architectural et urbain de Rome.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v2_017.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v2_017.jpg)|
 |:------------------------------------------:|
 | Généalogie de l'alphabet latin             |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_031.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_031.jpg)|
 |:------------------------------------------:|
 | Forum, Rome                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_032.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_032.jpg)|
 |:------------------------------------------:|
 | Capitales monumentales                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_033.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_033.jpg)|
 |:------------------------------------------:|
 | Les inscriptions romaines sont gravées (ductus = mode d’emploi) au ciseau sur la pierre.                                       |
 
@@ -173,28 +173,28 @@ Les formes des lettres évoluent: on passe de lettres ciselées dans la pierre �
 # 🗂️ Onciales
   Le script oncial était officiellement utilisé dans l'empire pour la copie de textes littéraires, religieux et bibliques sur sur parchemin.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_039.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_043.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_039.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_043.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Scribe romain                                        | Les formes des lettres évoluent: on passe de lettres ciselées dans la pierre à des lettres tracées à la plume de roseau (calame).                                        |
   
 # 476: Chute de l’Empire Romain
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_044.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_044.jpg)|
 |:------------------------------------------:|
 | Destruction de Rome                                        |
   
 # 476 – 780: Moyen-Âge
 # Écritures nationales
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_052_bis.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_052_bis.jpg)|
 |:------------------------------------------:|
 | Dès que l’Empire cesse de faire régner l’ordre, chaque tempérament national crée son propre alphabet                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_055.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_047.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_055.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_047.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Moine copiste dans un scriptorium                                        | Simplification des formes des lettres permettant une écriture plus rapide et fluide, adaptée aux besoins croissants de la correspondance et des documents administratifs au cours du Moyen Âge                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_048.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_048.jpg)|
 |:------------------------------------------:|
 | Par souci d’efficacité, les majuscules se transforment en minuscules qui sont plus rapides à tracer                                        |
   
@@ -202,18 +202,18 @@ Les formes des lettres évoluent: on passe de lettres ciselées dans la pierre �
 # Minuscule carolingienne
   Standardisation de l’écriture visant améliorer la communication à travers l’Empire franc (lettres bien formées + espaces entre les mots = grande lisibilité).
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_052.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_053.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_052.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_053.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Charlemagne qui réforme l'écriture et la grammaire                                        | Ductus de la minuscule carolingienne                                         |
 
 # 1202: Chiffres latins
   Les chiffres latins proviennent des chiffres indiens (Brahmi), qui ont transité par la civilisation arabe avant d’être adoptés en Europe et d’évoluer en leur forme actuelle.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_080.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_082.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_080.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_082.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Chiffres romains en usage jusqu'à lors                                        | Livre du Calcul, Leonardo Fibonacci                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_081.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_081.jpg)|
 |:------------------------------------------:|
 | Généalogie des chiffres latins                                        |
 
@@ -221,11 +221,11 @@ Les formes des lettres évoluent: on passe de lettres ciselées dans la pierre �
 # 🗂️ Fractures
 La minuscule carolingienne devient plus étroite (plus de lettres sur une ligne), les arrondis des lettres commencent à se briser (calligraphie « fracturée »).
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_057.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_057.jpg)|
 |:------------------------------------------:|
 | Cathédrale de Wells, Angleterre                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_059.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_059.jpg)|
 |:------------------------------------------:|
 | Ductus gothique                                        |
 
@@ -233,7 +233,7 @@ La minuscule carolingienne devient plus étroite (plus de lettres sur une ligne)
 # 🗂️ Cursives
 L’écriture de chancellerie trouve son origine dans la calligraphie à plume large utilisée par la chancellerie italienne pour les relations commerciales pendant la Renaissance. Cette écriture devait être calligraphiée rapidement, d’où son appelation «cursive» (qui court).
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v4_001.png)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v4_001.png)|
 |:------------------------------------------:|
 | Écriture de Chancellerie anglaise, Lettre de Henri V, 1418                                         |
   
@@ -241,34 +241,34 @@ L’écriture de chancellerie trouve son origine dans la calligraphie à plume l
 # 🛠️ Caractères mobiles
 L’invention de l’imprimerie par Gutenberg marque le début de la Renaissance en révolutionnant la manière dont le savoir est partagé et conservé en Europe.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_068.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_068.jpg)|
 |:------------------------------------------:|
 | Un « tireur » retire une feuille imprimée de la presse. À sa droite, le «batteur» encre la forme. À l’arrière-plan, des compositeurs composent les caractères.                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_064.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_067.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_064.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_067.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Gravure sur bois (monobloc)                                        | Caractères mobiles (lettres individuelles)                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_065.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_066.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_065.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_066.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Biblia Pauperum (impression bois)                                        | La Bible de Gutenberg (caractères mobiles)                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_069.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_069.jpg)|
 |:------------------------------------------:|
 | Le graveur sculpte un poinçon à l’envers (acier). Le poinçon est utilisé pour frapper une matrice (cuivre). La matrice est utilisée pour fondre des caractères (alliage de plomb etc.)                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_071.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_070.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_071.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_070.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Sélection des caractères dans la casse                                        | Justification des lignes dans le composteur                                        |
   
 # 1450 – 1600: Renaissance
 La Renaissance ravive l’intérêt porté à la littérature classique et met en lumière la minuscule carolingienne (modèle de « l’antiqua »).
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_076.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_076.jpg)|
 |:------------------------------------------:|
 | Renaissance à Venise                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v3_004.png)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v3_004.png)|
 |:------------------------------------------:|
 | Minuscules humanistes: retour aux formes arrondies                                        |
 
@@ -276,14 +276,14 @@ La Renaissance ravive l’intérêt porté à la littérature classique et met e
 # 🗂️ Humanes
 À Venise, Aldo Manuce cherche à reproduire la plus belle graphie possible avec des caractères en métal.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_077.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_078.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_077.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_078.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Minuscules Humanistes calligraphiées                                        | Minuscules Humanistes imprimées                                        |
 
 # 1500: L’italique
 Apparition de l’italique, inspirée de l’écriture utilisée par la chancellerie italienne.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_084.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_085.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_084.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_085.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Cursive humaniste calligraphiée                                        | Italique humaniste imprimée                                        |
 
@@ -291,7 +291,7 @@ Apparition de l’italique, inspirée de l’écriture utilisée par la chancell
 # 🗂️ Garaldes
 Successeur des Vénitiens, Claude Garamond affine le dessin des lettres en privilégiant des formes plus raffinées et élancées.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_087.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_087.jpg)|
 |:------------------------------------------:|
 | Garamond imprimé                                        |
   
@@ -299,15 +299,15 @@ Successeur des Vénitiens, Claude Garamond affine le dessin des lettres en privi
 # 🗂️ Réales
 L’esprit des lumières et du roi (réale > rex > roi): la rationalisation du dessin.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_089.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_089.jpg)|
 |:------------------------------------------:|
 | Louis XIV à Versailles                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_090.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_090.jpg)|
 |:------------------------------------------:|
 | Le Romain du Roi est un alphabet conçu sur une grilles avant d’être gravé                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_091.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_091.jpg)|
 |:------------------------------------------:|
 | Baskerville imprimé                                        |
   
@@ -315,18 +315,18 @@ L’esprit des lumières et du roi (réale > rex > roi): la rationalisation du d
 # 🗂️ Didones
 Premier empire français: les techniques d’impression deviennet plus précises, le dessin des lettres devient donc encore plus fin.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_093.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_093.jpg)|
 |:------------------------------------------:|
 | Le couronnement de Napoléon Bonaparte                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_094.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_094.jpg)|
 |:------------------------------------------:|
 | Didone utilisée pour imprimer le code civil                                        |
   
 # 1760 – 1914: Révolution Industrielle
 Grâce à des innovations technologiques, on passe d'une économie agraire et artisanale à une économie industrielle (mécanisation de la production, travail dans les usines). 
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v3_005.png)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v3_005.png)|
 |:------------------------------------------:|
 | Rupture entre le travail de la terre et le travail à l'usine                                        |
 
@@ -334,19 +334,19 @@ Grâce à des innovations technologiques, on passe d'une économie agraire et ar
 # 🗂️ Expressives
 Pendant les premiers siècles de l'imprimerie, les caractères d'affichage n'existaient généralement pas. L’apparition du format affiche et la généralisation de la signalétique ont favorisé l'apparition de nouvelles formes de lettres (désormais réalisables grâce aux nouvelles techniques d'impression).
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_112.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_112.jpg)|
 |:------------------------------------------:|
 | Mise en exergue avec des grands corps                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_115.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_114.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_115.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_114.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Caractères mobiles en bois (posters)                                        | Contraste inversé (Italiennes)                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_113.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_113.jpg)|
 |:------------------------------------------:|
 | Fat Faces                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_117.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_117.jpg)|
 |:------------------------------------------:|
 | Rounded                                        |
 
@@ -354,11 +354,11 @@ Pendant les premiers siècles de l'imprimerie, les caractères d'affichage n'exi
 # 🗂️ Mécanes
 Les slabs-sérifs (mécanes) deviennent populaires suite à la campagne d'égypte de Napoléon. De plus, les empattement rectangulaires réagissent bien à la technique d'impression de l'époque.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v3_003.png)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v3_003.png)|
 |:------------------------------------------:|
 | Presse rotative                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_102.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_102.jpg)|
 |:------------------------------------------:|
 | Titres de journaux                                        |
 
@@ -366,11 +366,11 @@ Les slabs-sérifs (mécanes) deviennent populaires suite à la campagne d'égypt
 # 🗂️ Monospaces
 Sur une machine à écrire, chaque lettre occupe la même largeur (chasse fixe) afin de simplifier le mécanisme.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_106.png)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_107.png)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_106.png)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_107.png)|
 |:------------------------------------------:|:------------------------------------------:|
 | La boule à écrire, Rasmus Malling-Hansen                                        | La machine à écrire Sholes et Glidden                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_108.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_108.jpg)|
 |:------------------------------------------:|
 | Texte tapé à la machine à écrire                                       |
 
@@ -378,15 +378,15 @@ Sur une machine à écrire, chaque lettre occupe la même largeur (chasse fixe) 
 # 🗂️ Grotesques
 Le terme « grotesque » viendrait de l'italien « grottesco », qui signifie « appartenant à la grotte » en raison de leur aspect géométrique simple puisque dénué de sérifs. Il résulte d'une comparaison négative avec les caractères à empattement de l'époque, considérés comme plus nobles. Dans un premier temps, les premières sans-sérifs sont principalement utilisées pour de la publicité.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_124.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_124.jpg)|
 |:------------------------------------------:|
 | Premier caractère caractères sans-sérif, fonderie Caslon de Salisbury Square à Londres                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_125.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_125.jpg)|
 |:------------------------------------------:|
 | Première apparition du terme «sans-serif», livre de spécimens de Vincent Figgins                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_127.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_127.jpg)|
 |:------------------------------------------:|
 | Affiche publicitaire pour un saut en parachute dans les jardins de la Rotunda, Dublin                                        |
 
@@ -394,18 +394,18 @@ Le terme « grotesque » viendrait de l'italien « grottesco », qui signifie «
 # 🛠️ Composition à chaud
 L'inventeur américain Ottmar Mergenthaler, parfois appelé « le second Gutenberg », se lasse des efforts nécessaires à la composition manuelle et cherche à mettre au point une méthode de composition mécanique. Il invente la machine Linotype qui permet de fondre des alliages métalliques pour créer des lignes de type en un seul bloc, permettant une impression rapide et efficace en utilisant un système de composition automatisé.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_099.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_099.jpg)|
 |:------------------------------------------:|
 | Machines Linotype                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_101.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_101.jpg)|
 |:------------------------------------------:|
 | Ligne moulée, vue d’en haut, vue de côté                                        |
 
 # 1914 – 1945: Modernisme
 Suite aux guerres mondiales, le modernisme cherche à rompre avec les traditions passées et à explorer de nouvelles formes d’expression, notamment à travers l’abstraction, l’expérimentation et la remise en question des conventions établies.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_121.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_121.jpg)|
 |:------------------------------------------:|
 | L'école du Bauhaus a révolutionné les pratiques artistiques en promouvant une approche fonctionnelle et esthétique du design                                        |
 
@@ -413,15 +413,15 @@ Suite aux guerres mondiales, le modernisme cherche à rompre avec les traditions
 # 🗂️ Humanistes
 Capitales romaines + Minuscules carolingiennes
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_137.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_137.jpg)|
 |:------------------------------------------:|
 | Police corporate d’Edward Johnston pour les transports publics londoniens                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_136.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_136.jpg)|
 |:------------------------------------------:|
 | Station Hammersmith, Londres                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_138.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_138.jpg)|
 |:------------------------------------------:|
 | La librairie Douglas Cleverdon avec les lettres peintes par Eric Gill à Bristol (première apparition de la Gill Sans)                                        |
 
@@ -429,11 +429,11 @@ Capitales romaines + Minuscules carolingiennes
 # 🗂️ Géométriques
 Construction modulaire avec des formes primaires (carré, rond, triangle)
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_129.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_130.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_129.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_130.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Projet d'habitation Neue Frankfurt                                        | Première esquisses de la Futura pour la signalétique                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_131.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_131.jpg)|
 |:------------------------------------------:|
 | Futura                                        |
 
@@ -444,11 +444,11 @@ Le postmodernisme est un mouvement artistique caractérisé par un scepticisme e
 # 🛠️ Composition à froid (photo-composition)
 La photo-composition repose sur la photographie de caractères et leur projection sur un support photo-sensible. Les variantes ultérieures des machines à photocomposer comporte des écrans à tube cathodique pour afficher les caractères déjà numérisés.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_151.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_152.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_151.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_152.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Opérateur d'une machine de photo-composition                                        | La Graphic Page 1000 est un outil de mise en page typographique qui utilise un format standardisé de 1000 points                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_153.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_153.jpg)|
 |:------------------------------------------:|
 | Les caractères sont stockés sur des disques pour pouvoir être exposés sur des supports photographiques                                        |
 
@@ -456,31 +456,31 @@ La photo-composition repose sur la photographie de caractères et leur projectio
 # 🗂️ Néo-Grotesques
 Le style international incarne la volonté de représenter l’information de manière objective et systématique (grid Systems, couleurs unies, neutralité). Chaque élément du design doit avoir une fonction précise et servir le message. Le dessin des grotesques évolue: uniformisation de la graisse, simplification des formes.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_145.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_145.jpg)|
 |:------------------------------------------:|
 | Helvetica, Max Miedinger et Eduard Hoffmann pour la fonderie Haas                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_154.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_154.jpg)|
 |:------------------------------------------:|
 | Univers, Adrian Frutiger (les polices comportent de plus en plus de fontes)                                         |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_147.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_147.jpg)|
 |:------------------------------------------:|
 | Aéroport Charles de Gaulle                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_148.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_148.jpg)|
 |:------------------------------------------:|
 | Adrian Frutiger, tests de lisibilité pour l'aéroport Charles de Gaulle à Paris                                      |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_141.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_141.jpg)|
 |:------------------------------------------:|
 | Métro de New York avant la nouvelle signalétique                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_142.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_142.jpg)|
 |:------------------------------------------:|
 | George Salomon envoie une proposition spontanée à l’autorité des transports de NY                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_143.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_143.jpg)|
 |:------------------------------------------:|
 | Massimo Vignelli a conçu la signalisation emblématique du métro de New York                                        |
 
@@ -490,11 +490,11 @@ Le style international incarne la volonté de représenter l’information de ma
 # 🛠️ Caractères assemblés numériquement (typographie digitale)
 Le Digiset étant une opération entièrement digitale, elle a permis aux dessinateurs de caractères de partager leur travail sur des disquettes, mais aussi d'y revenir à tout moment pour y apporter des modifications.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_166.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_166.jpg)|
 |:------------------------------------------:|
 | Rudolf Hell invente la première machine à composer (Digiset) qui fonctionne en répartissant les points sombres d'une forme sur une grille préexistante                                    |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_167.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_167.jpg)|
 |:------------------------------------------:|
 | Digi-Grotesk, première fonte digitale                                        |
 
@@ -502,15 +502,15 @@ Le Digiset étant une opération entièrement digitale, elle a permis aux dessin
 # 🔧 OCR (Optical Character Recognition)
 La technologie de reconnaissance optique des caractères permet d'identifier les caractères imprimés et de les reproduire / enregistrer sous forme d'informations numériques.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v3_006.png)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v3_006.png)|
 |:------------------------------------------:|
 | Le service postal américain introduit la reconnaissance optique de caractères pour trier le courrier                                       |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v3_007.png)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v3_007.png)|
 |:------------------------------------------:|
 | Les lettres sont automatiquement triées par destination                                       |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v3_009.png)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history-v3_008.png)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v3_009.png)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history-v3_008.png)|
 |:------------------------------------------:|:------------------------------------------:|
 | Reconnaissance de la lettre par décomposition en modules simples                                        | Traduction de la forme dans une grille matricielle                                       |
 
@@ -518,11 +518,11 @@ La technologie de reconnaissance optique des caractères permet d'identifier les
 # 🔧 Bitmap
 Le système matriciel utilise une combinaison de pixels pour créer des caractères individuels. Bien que des fichiers distincts pour chaque taille et résolution soit nécessaires (coûteux en mémoire à l'époque), les bitmaps ont grandement facilité l'utilisation et le transfert des fontes.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_168.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_168.jpg)|
 |:------------------------------------------:|
 | Fonte bitmap (grille de pixels)                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_169.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_169.jpg)|
 |:------------------------------------------:|
 | Sélection de fontes bitmap                                        |
 
@@ -530,19 +530,19 @@ Le système matriciel utilise une combinaison de pixels pour créer des caractè
 # 🔧 Postscript
 La grilles de pixels finalement est remplacée par des tracés vectoriels, qui permettent aux concepteurs de mettre à l'échelle n'importe quel symbole sans perte de qualité.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_170.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_171.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_170.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_171.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Conception assistée par ordinateurs (CAD)                                        | Courbes de Bézier (vecteurs), d'abord utilisées pour l'aérodynamisme des voitures                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_172.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_172_Image_0002.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_172.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_172_Image_0002.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Fonte bitmap                                        | Fonte vectorielle                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_173.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_173.jpg)|
 |:------------------------------------------:|
 | Variations créées à partir d’un seul tracé vectoriel                                        |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_174.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_174.jpg)|
 |:------------------------------------------:|
 | PostScript (PS): deux fichiers (un pour l’écran et un pour l’impression). TrueType (TT): un seul fichier qui fait à la fois office de fichier d’écran et d’impression.                                        |
 
@@ -551,7 +551,7 @@ La grilles de pixels finalement est remplacée par des tracés vectoriels, qui p
 # 🛠️ Dingbats & Pi Fonts (symboles à la place des lettres)
 Historiquement en typographie, un *dingbat* est un ornement (souvent utilisé pour délimiter des espaces ou créer des contours). Au débuts de la typographie digitale, la technologie de l’époque ne permettait pas de stocker des symboles en plus des lettres dans un même fichier fonte. Par conséquent, les fontes *Dingbats* (symboles) ou les fontes *Pi* (symboles mathématiques) étaient des fichiers fontes entièrement dédiés aux symboles. Les symboles étaient stockés dans les emplacements normalement dédiés aux lettres.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_159.jpg)|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_157.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_159.jpg)|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_157.jpg)|
 |:------------------------------------------:|:------------------------------------------:|
 | Poème composé avec des dingbats (contours, sections), Hill’s Manual                                        | Zapf Dingbats de Hermann Zapf                                        |
 
@@ -560,7 +560,7 @@ Historiquement en typographie, un *dingbat* est un ornement (souvent utilisé po
 # 🛠️ Superfamille (variations stylistiques sur le même squelette)
 Famille hybrides qui comprennent notamment des fontes avec et sans empatements, de même que des fontes linéaires et contrastées, toutes basées sur le même squelette.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_161.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_161.jpg)|
 |:------------------------------------------:|
 | Rotis, Otl Aicher                                        |
 
@@ -568,7 +568,7 @@ Famille hybrides qui comprennent notamment des fontes avec et sans empatements, 
 # 🔧 Opentype
 Le format OpenType est un format de police de caractères unifié qui combine les technologies TrueType (Apple) et Type 1 PostScript (Adobe), offrant une large compatibilité multiplateforme et la prise en charge de fonctionnalités typographiques telles que les substitutions ou la gestion de différents systèmes d’écriture.
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_175.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_175.jpg)|
 |:------------------------------------------:|
 | En raison de sa flexibilité, l’openType s’impose comme le format de référence sur les plates-formes informatiques                                        |
 
@@ -576,17 +576,17 @@ Le format OpenType est un format de police de caractères unifié qui combine le
 # 🔧 OpenType Variable Fonts
 Les polices variables contiennent plusieurs masters dans un fichier unique et permettent d’interpoler entre ces masters le long de différents axes
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_176.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_176.jpg)|
 |:------------------------------------------:|
 | Les polices Multiple Masters (ancêtre des variables modernes)                                         |
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_177.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_177.jpg)|
 |:------------------------------------------:|
 | Les polices variables contemporaines permettent une gamme de variation plus large et sont adoptées comme standard par l'industrie | 
 
 # Les formes du futur?
 
-|![](https://studioto.github.io/media/track-writing-evolution/links/overview-writing-history_178.jpg)|
+|![](https://studioto.github.io/media/track-writing-evolution/overview-writing-history_178.jpg)|
 |:------------------------------------------:|
 | Adrian Frutiger, Quelles seront les formes de demain?                                        |
 

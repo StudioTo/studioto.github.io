@@ -11,13 +11,13 @@ Le choix du caractère typographique fixe le ton du message. Il s’agit d’art
 
 # Morphologie  
 
-|![](https://studioto.github.io/media/process-typeface/links/2-Semiotique16.gif) |
+|![](https://studioto.github.io/media/process-typeface/2-Semiotique16.gif) |
 |:---:|
 | La morphologie des lettres se manifeste par des variations de style : italique (incliné), gras (épais), light (fin), etc. |
 
 # Connotation  
 
-|![](https://studioto.github.io/media/process-typeface/links/0-Mot15.gif) |
+|![](https://studioto.github.io/media/process-typeface/0-Mot15.gif) |
 |:---:|
 | Différentes formes de lettres sont associées à différentes valeurs culturelles: une linéale suggère la neutralité, une sérif classique évoque la tradition, une didone peut connoter le luxe, une script exprime la spontanéité, une gothique rappelle l’histoire médiévale, une géométrique suggère la modernité |
 
@@ -44,13 +44,13 @@ Le choix du caractère typographique fixe le ton du message. Il s’agit d’art
 
 # Gris de texte  
 
-|![](https://studioto.github.io/media/process-typeface/links/0-Colonne20.gif) |
+|![](https://studioto.github.io/media/process-typeface/0-Colonne20.gif) |
 |:---:|
 | Le gris de texte correspond à la densité visuelle produite par un bloc de texte. Un gris homogène favorise la lisibilité, tandis qu’un contraste marqué peut être utilisé à des fins expressives. |
 
 # Contrastes 
 
-|![](https://studioto.github.io/media/process-typeface/links/Contraste_Caracteres.gif) |
+|![](https://studioto.github.io/media/process-typeface/Contraste_Caracteres.gif) |
 |:---:|
 | Les contrastes créent la tension et l’harmonie essentielles à l'impact graphique et à la lisibilité d’une composition. Combinés avec discernement, ils renforcent mutuellement leur effet, tandis qu’une absence de contraste engendre la monotonie. |
 

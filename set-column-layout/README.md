@@ -4,7 +4,7 @@ La mise en page consiste à organiser la zone de lecture (les colonnes) dans le 
   
 &nbsp;
 
-|![](https://studioto.github.io/media/set-column-layout/links/0-Colonne93.gif) |
+|![](https://studioto.github.io/media/set-column-layout/0-Colonne93.gif) |
 |:---:|
 | Zone de texte + Folio + Section |
 

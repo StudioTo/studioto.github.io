@@ -48,7 +48,7 @@ Adapter les solutions aux contextes et contraintes spécifiques.
 
 <!-- # Exercice technique  
 
-|![](https://studioto.github.io/media/evaluate-objectives/links/Eval28.gif) |
+|![](https://studioto.github.io/media/evaluate-objectives/Eval28.gif) |
 |:---:|
 | Juste ou faux |  -->
 

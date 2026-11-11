@@ -2,7 +2,7 @@
   Dessin vectoriel
 ### &nbsp;
 
-|![](https://studioto.github.io/media/type-vectorize/links/Typo_Vectors_Drawing_1.jpg) |
+|![](https://studioto.github.io/media/type-vectorize/Typo_Vectors_Drawing_1.jpg) |
 |:---:|
 | Frutiger[^1]           |
 
@@ -28,49 +28,49 @@ Dessin vectoriel
 
 ### Vues
 
-|![](https://studioto.github.io/media/type-vectorize/links/View.gif) |
+|![](https://studioto.github.io/media/type-vectorize/View.gif) |
 |:---:|
 | Characterset (fenêtre), plan de travail (onglet)           |
 
 ### Terminologie
 
-|![](https://studioto.github.io/media/type-vectorize/links/Terminology.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Terminology.gif) |
 |:---:|
 | Segment, point d'ancrage, point de contrôle           |
 
 ### Segments
 
-|![](https://studioto.github.io/media/type-vectorize/links/Segments.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Segments.gif) |
 |:---:|
 | Droites, courbes           |
 
 ### Points d'ancrage
 
-|![](https://studioto.github.io/media/type-vectorize/links/Anchor_Point.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Anchor_Point.gif) |
 |:---:|
 | Les points qui sont sur le segment: angle (bleu), courbe (vert), ouvert (trait)          |
 
 ### Points de contrôle
 
-|![](https://studioto.github.io/media/type-vectorize/links/Control_Point.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Control_Point.gif) |
 |:---:|
 | Les points qui sont en dehors du segment (gris)           |
 
 ### Plans
 
-|![](https://studioto.github.io/media/type-vectorize/links/Grounds.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Grounds.gif) |
 |:---:|
 | 1er plan, 2eme plan           |
 
 ### Calques (sauvegardes)
 
-|![](https://studioto.github.io/media/type-vectorize/links/Layers.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Layers.gif) |
 |:---:|
 | Icône "+"           |
 
 ### Letterbox
 
-|![](https://studioto.github.io/media/type-vectorize/links/Letterbox.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Letterbox.gif) |
 |:---:|
 | Largeur, espace à gauche, espace à droite           |
 
@@ -78,31 +78,31 @@ Dessin vectoriel
 
 ### Formes primitives
 
-|![](https://studioto.github.io/media/type-vectorize/links/Primitives.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Primitives.gif) |
 |:---:|
 | Carré, Cercle           |
 
 ### Plume
 
-|![](https://studioto.github.io/media/type-vectorize/links/Pen_Tool.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Pen_Tool.gif) |
 |:---:|
 | Clic = segment droit, Clic + Drag = segment courbe           |
 
 ### Règle
 
-|![](https://studioto.github.io/media/type-vectorize/links/Ruler.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Ruler.gif) |
 |:---:|
 | Ctl + Opt + Cmd + Drag           |
 
 ### Fusion
 
-|![](https://studioto.github.io/media/type-vectorize/links/Remove_Overlap.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Remove_Overlap.gif) |
 |:---:|
 | Tracé > Supprimer le chevauchement           |
 
 ### Déplacement d'un point sur un segment
 
-|![](https://studioto.github.io/media/type-vectorize/links/Point_Displacement.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Point_Displacement.gif) |
 |:---:|
 | Alt + Drag sur un point           |
 
@@ -110,37 +110,37 @@ Dessin vectoriel
 
 ### 1er Point
 
-|![](https://studioto.github.io/media/type-vectorize/links/First_Point.gif) |
+|![](https://studioto.github.io/media/type-vectorize/First_Point.gif) |
 |:---:|
 | Tracé > Corriger le sens des tracés: le premier point doit toujours être en bas à gauche           |
 
 ### Sens des tracés
 
-|![](https://studioto.github.io/media/type-vectorize/links/Path_Direction.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Path_Direction.gif) |
 |:---:|
 | Tracé > Corriger le sens des tracés: forme (sens inverse des aiguilles), contreforme (sens des aiguilles)           |
 
 ### Triangle magique
 
-|![](https://studioto.github.io/media/type-vectorize/links/Magic_Triangle.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Magic_Triangle.gif) |
 |:---:|
 | Les points de contrôle doivent être contenus dans le triangle qui contient le segment            |
 
 ### Points aux extrémités
 
-|![](https://studioto.github.io/media/type-vectorize/links/Extremums.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Extremums.gif) |
 |:---:|
 | Tracé > Ajouter les extrêmes           |
 
 ### Contrôles horizontaux ou verticaux
 
-|![](https://studioto.github.io/media/type-vectorize/links/BCPs.gif) |
+|![](https://studioto.github.io/media/type-vectorize/BCPs.gif) |
 |:---:|
 | Les points de contrôle doivent être alignés horizontalement ou verticalement           |
 
 ### Points superflus
 
-|![](https://studioto.github.io/media/type-vectorize/links/Less_Points.gif) |
+|![](https://studioto.github.io/media/type-vectorize/Less_Points.gif) |
 |:---:|
 | Tracé > Nettoyer les tracés: utiliser le moins de points possible           |
 

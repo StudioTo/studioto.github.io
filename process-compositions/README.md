@@ -10,7 +10,7 @@ La mise en forme consiste à sélectionner une ou plusieurs variations en foncti
   
 &nbsp;
 
-|![](https://studioto.github.io/media/process-compositions/links/Variations33.gif) |
+|![](https://studioto.github.io/media/process-compositions/Variations33.gif) |
 |:---:|
 | Orientation, position, dimension, rythme,… |
 

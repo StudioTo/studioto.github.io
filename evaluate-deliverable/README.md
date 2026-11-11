@@ -8,7 +8,7 @@
 
 # Analogue & Digital
 
-|![](https://studioto.github.io/media/evaluate-deliverable/links/Eval2.gif) |
+|![](https://studioto.github.io/media/evaluate-deliverable/Eval2.gif) |
 |:---:|
 | Au début du cours = Au mur + Sur Teams[^1] | 
 
@@ -37,13 +37,13 @@
 
 # Nomenclature
 
-|![](https://studioto.github.io/media/evaluate-deliverable/links/Eval7.gif) |
+|![](https://studioto.github.io/media/evaluate-deliverable/Eval7.gif) |
 |:---:|
 | GRXXX_Nom_Prénom_Exercice |
 
 # À éviter
 
-|![](https://studioto.github.io/media/evaluate-deliverable/links/Eval19.gif) |
+|![](https://studioto.github.io/media/evaluate-deliverable/Eval19.gif) |
 |:---:|
 | Mauvaise orientation, manque de netteté ou de contraste | 
 

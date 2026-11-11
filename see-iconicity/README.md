@@ -8,41 +8,41 @@
 
 &nbsp;
 
-|![](https://studioto.github.io/media/see-iconicity/links/Ecriture/Evolution_Alphabet.jpg)|
+|![](https://studioto.github.io/media/see-iconicity/Ecriture/Evolution_Alphabet.jpg)|
 |:---:|
 | Hans-Rudolf Lutz, Évolution de l'écriture dans *Ausbildung in typografischer Gestaltung*, 1980  |
 
 # Figuration-Abstraction {#figuration-abstraction}
 
-|![](https://studioto.github.io/media/see-iconicity/links/Figuration-Abstraction/pablo-picasso-etude-taureau.jpg)|
+|![](https://studioto.github.io/media/see-iconicity/Figuration-Abstraction/pablo-picasso-etude-taureau.jpg)|
 |:---:|
 | Pablo Picasso, *Étude de taureau*, 1945-1946 |
 
-|![](https://studioto.github.io/media/see-iconicity/links/Figuration-Abstraction/theo-van-doesburg-vache.png)|
+|![](https://studioto.github.io/media/see-iconicity/Figuration-Abstraction/theo-van-doesburg-vache.png)|
 |:---:|
 | Theo Van Doesburg, *La vache*, 1918 |
 
 # Mot-Image {#mot-image}
 
-|![](https://studioto.github.io/media/see-iconicity/links/Mot-Image/mots_images_magritte.jpg)|
+|![](https://studioto.github.io/media/see-iconicity/Mot-Image/mots_images_magritte.jpg)|
 |:---:|
 | René Magritte, *Les mots et les images*, 1929 |
 
 # Isotype {#isotype}
 
-|![](https://studioto.github.io/media/see-iconicity/links/Isotype/Isotypes.jpg)|
+|![](https://studioto.github.io/media/see-iconicity/Isotype/Isotypes.jpg)|
 |:---:|
 | Otto Neurath, Marie Neurath, Gerd Arntz, *Isotype (en anglais : International System Of TYpographic Picture Education, litt. « Système international d'éducation par les images typographiques »)*, 1925 |
 
-|![](https://studioto.github.io/media/see-iconicity/links/Isotype/Isotypes_animals.jpg)|
+|![](https://studioto.github.io/media/see-iconicity/Isotype/Isotypes_animals.jpg)|
 |:---:|
 | Otto Neurath, Marie Neurath, Gerd Arntz, *How Long Do Animals Live?*, 1939 |
 
 # Échelle d’iconicité {#wileman-iconicite}
 
-|![](https://studioto.github.io/media/see-iconicity/links/Echelle-Iconicite/Wileman/iconicite_ralph_e_wileman.gif)|
+|![](https://studioto.github.io/media/see-iconicity/Echelle-Iconicite/Wileman/iconicite_ralph_e_wileman.gif)|
 |:---:|
-|![](https://studioto.github.io/media/see-iconicity/links/Echelle-Iconicite/Wileman/iconicite_ralph_e_wileman_2.jpg)|
+|![](https://studioto.github.io/media/see-iconicity/Echelle-Iconicite/Wileman/iconicite_ralph_e_wileman_2.jpg)|
 | Ralph E. Wileman, *Échelle d’iconicité* dans *Visual Communication*, 1993 |
 
 1. **Signe pictural (concret)**  
@@ -56,7 +56,7 @@
 3.1. Description  
 3.2. Nom  
 
-|![](https://studioto.github.io/media/see-iconicity/links/Echelle-Iconicite/Moles/iconicite_moles_2.jpg)|
+|![](https://studioto.github.io/media/see-iconicity/Echelle-Iconicite/Moles/iconicite_moles_2.jpg)|
 |:---:|
 | Abraham Moles, *Échelle d’iconicité*, 1971 dans *Les Images démaquillées* de Claude Cossette, 1983 |
 

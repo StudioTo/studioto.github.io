@@ -10,7 +10,7 @@ https://e-daylight.jp/fonts
 # Design Reviewed
 https://designreviewed.com/type-specimens
 
-|![](https://studioto.github.io/media/index-specimens/links/Typo_Specimens.gif) |
+|![](https://studioto.github.io/media/index-specimens/Typo_Specimens.gif) |
 |:---:|
 | Sélection de specimens |  
 

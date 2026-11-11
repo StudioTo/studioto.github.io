@@ -14,43 +14,43 @@
 
 # Processus
 
-|![](https://studioto.github.io/media/process-constraints/links/Processus.jpg) |
+|![](https://studioto.github.io/media/process-constraints/Processus.jpg) |
 |:---:|
 | Organisation, Ton + Variations (1re vague), Compositions (2e vague), Production |
 
 # Sujet
 
-|![](https://studioto.github.io/media/process-constraints/links/1-Language_v217.gif) |
+|![](https://studioto.github.io/media/process-constraints/1-Language_v217.gif) |
 |:---:|
 | Le signe, le mot, la phrase, la colonne |
 
 # Contenu
 
-|![](https://studioto.github.io/media/process-constraints/links/1-Language_v252.gif) |
+|![](https://studioto.github.io/media/process-constraints/1-Language_v252.gif) |
 |:---:|
 | Échelle typographique: signe, mot, phrase, colonne |
 
 # Public 
 
-|![](https://studioto.github.io/media/process-constraints/links/1-Language_v2161.gif) |
+|![](https://studioto.github.io/media/process-constraints/1-Language_v2161.gif) |
 |:---:|
 | Les variables de lisibilité peuvent être opposée à celles de l’impact graphique |
 
 # Langue 
 
-|![](https://studioto.github.io/media/process-constraints/links/1-Language_v2120.gif) |
+|![](https://studioto.github.io/media/process-constraints/1-Language_v2120.gif) |
 |:---:|
 | Chaque langue possède ses codes typographiques propres |
 
 # Format  
 
-|![](https://studioto.github.io/media/process-constraints/links/Format1.gif) |
+|![](https://studioto.github.io/media/process-constraints/Format1.gif) |
 |:---:|
 | Le format, l'orientation et les marges conditionnent les possibités de design |
 
 # Technique  
 
-|![](https://studioto.github.io/media/process-constraints/links/0-Mot2.gif) |
+|![](https://studioto.github.io/media/process-constraints/0-Mot2.gif) |
 |:---:|
 | Chaque technique a ses contraintes (notamment la plus corps qu'il est possible d'imprimer) |
 
