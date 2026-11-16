@@ -79,7 +79,7 @@ DATA.groups.forEach(g => {
     g.subs.forEach(s => {
         html += '<h3>' + esc(s.name) + '<span class="gm-count">' + s.n + '</span></h3><div class="gm-grid">';
         byGroup[s.id].forEach(([cp, en, fr, , , type, enal, ch]) => {
-            const tip = title(en) + (fr ? "\nFR : " + fr : "") + (enal ? "\nEN : " + enal : "") + (ch ? "\nCH : " + ch : "");
+            const tip = title(en) + (ch ? "\nCH : " + ch : "") + (fr ? "\nFR : " + fr : "") + (enal ? "\nEN : " + enal : "");
             html += '<div class="gm-cell" id="' + uplus(cp) + '" data-cp="' + cp + '" title="' + esc(tip) + '">'
                  + '<div class="gm-code">' + uplus(cp) + '</div>'
                  + '<div class="gm-glyph">' + glyphHTML(cp, type) + '</div>'
@@ -173,9 +173,9 @@ function render() {
     results.innerHTML = list.length
         ? list.map((x, i) => {
             const [cp, en, fr, , , type, enal, ch] = x.it;
-            const sub = (fr ? '<small>FR : ' + esc(fr) + '</small>' : '')
-                      + (enal ? '<small>EN : ' + esc(enal) + '</small>' : '')
-                      + (ch ? '<small>CH : ' + esc(ch) + '</small>' : '');
+            const sub = (ch ? '<small>CH : ' + esc(ch) + '</small>' : '')
+                      + (fr ? '<small>FR : ' + esc(fr) + '</small>' : '')
+                      + (enal ? '<small>EN : ' + esc(enal) + '</small>' : '');
             return '<div class="gm-res' + (i === active ? ' active' : '') + '" data-i="' + i + '">'
                  + '<div class="gm-g">' + glyphHTML(cp, type) + '</div>'
                  + '<div class="gm-t">' + esc(title(en)) + sub + '</div>'
