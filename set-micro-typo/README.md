@@ -125,12 +125,6 @@ Chicago Manual of Style
 
 # Chiffres {#chiffres}  
 
-## Les types de chiffres {#les-types-de-chiffres}
-
-|![](https://studioto.github.io/media/set-micro-typo/1-micro-typo38.gif) |
-|:---:|
-| Les chiffres peuvent varier en forme (proportionnels, tabulaires, elzéviriens) selon leur contexte typographique: texte courant, tableau ou encore affichages en grande taille. | 
-
 ## Les fractions {#les-fractions}
 
 |![](https://studioto.github.io/media/set-micro-typo/1-micro-typo44.gif) |
@@ -200,6 +194,12 @@ Chicago Manual of Style
 |![](https://studioto.github.io/media/set-micro-typo/1-micro-typo79.gif) |
 |:---:|
 | Les ligatures sont des combinaisons de lettres (fi, fl, etc.) créées pour améliorer la lisibilité et l’esthétique du texte. | 
+
+## Les types de chiffres {#les-types-de-chiffres}
+
+|![](https://studioto.github.io/media/set-micro-typo/1-micro-typo38.gif) |
+|:---:|
+| Les chiffres peuvent varier en forme (proportionnels, tabulaires, elzéviriens) selon leur contexte typographique: texte courant, tableau ou encore affichages en grande taille. | 
 
 ## Formes sensibles à la casse (case) {#formes-sensibles-a-la-casse-case}  
 
