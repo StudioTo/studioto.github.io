@@ -2,7 +2,7 @@
 
 La micro-typographie concerne le soin apporté aux détails fins du contenu texte.
 
-⌨️ Caractères
+# ⌨️ Caractères
 
 - [Langue](#langue)
   - [Les guillemets](#les-guillemets)
@@ -26,7 +26,7 @@ La micro-typographie concerne le soin apporté aux détails fins du contenu text
   - [Copyright](#copyright)
   - [Flèches](#fleches)
 
-🖱️ Glyphes
+# 🖱️ Glyphes
 
 - [Substitutions](#substitutions)
   - [Ligatures](#ligatures)
