@@ -1,4 +1,4 @@
-# Glyphmap
+# 🔡 Table des caractères
 
 Cliquer sur un glyphe pour le copier dans le presse-papier. Rechercher en français ou en anglais, par code (U+2019) ou en collant le caractère.
 
@@ -14,7 +14,7 @@ Cliquer sur un glyphe pour le copier dans le presse-papier. Rechercher en franç
 #gm .gm-res { display: flex; align-items: center; gap: 12px; padding: 6px 12px; cursor: pointer; border-bottom: 1px solid #eaecef; }
 #gm .gm-res:last-child { border-bottom: 0; }
 #gm .gm-res.active { background: var(--gm-blue); color: #fff; }
-#gm .gm-res.active small, #gm .gm-res.active .gm-u { color: rgba(255, 255, 255, .8); }
+#gm .gm-res.active, #gm .gm-res.active * { color: #fff !important; }
 #gm .gm-res .gm-g { flex: 0 0 44px; text-align: center; font-size: 26px; line-height: 1.2; }
 #gm .gm-res .gm-t { font-size: 14px; line-height: 1.35; }
 #gm .gm-res .gm-t small { display: block; color: var(--gm-muted); font-size: 12px; }
@@ -24,11 +24,11 @@ Cliquer sur un glyphe pour le copier dans le presse-papier. Rechercher en franç
 #gm-nav a { margin-right: 12px; white-space: nowrap; }
 #gm h3 .gm-count { display: inline-block; margin-left: 6px; padding: 0 6px; font-size: 12px; font-weight: 600; line-height: 18px; color: var(--gm-text); background: rgba(27, 31, 35, .08); border-radius: 2em; vertical-align: middle; }
 #gm .gm-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 8px; margin-bottom: 16px; }
-#gm .gm-cell { height: 138px; box-sizing: border-box; padding: 8px 6px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; background: #fff; border: 1px solid var(--gm-border); border-radius: 6px; cursor: pointer; user-select: none; -webkit-user-select: none; transition: background-color .15s ease, border-color .15s ease; }
+#gm .gm-cell { position: relative; height: 152px; box-sizing: border-box; padding: 8px 6px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; background: #fff; border: 1px solid var(--gm-border); border-radius: 6px; cursor: pointer; user-select: none; -webkit-user-select: none; transition: background-color .15s ease, border-color .15s ease; }
 #gm .gm-cell:hover { background: var(--gm-hover); border-color: #d1d5da; }
 #gm .gm-code { font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 11px; line-height: 1; color: var(--gm-muted); }
-#gm .gm-glyph { font-size: 60px; line-height: 1; color: var(--gm-text); white-space: pre; }
-#gm .gm-name { width: 100%; min-height: 2.5em; font-size: 11px; line-height: 1.25; text-align: center; color: var(--gm-muted); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+#gm .gm-glyph { position: absolute; left: 0; right: 0; top: calc(50% - 6px); transform: translateY(-50%); text-align: center; pointer-events: none; font-size: 60px; line-height: 1; color: var(--gm-text); white-space: pre; }
+#gm .gm-name { width: 100%; font-size: 11px; line-height: 1.25; text-align: center; color: var(--gm-muted); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
 #gm .gm-sp { display: inline-block; height: 1em; background: rgba(3, 102, 214, .15); vertical-align: middle; }
 #gm .gm-zw { font-size: 12px; font-weight: 600; color: var(--gm-muted); border: 1px dashed #d1d5da; border-radius: 6px; padding: 3px 6px; }
 #gm .gm-cell.flash { background: #dcffe4; border-color: #34d058; }

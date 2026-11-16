@@ -127,7 +127,7 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 ## [📗 Logos](/index-logos)
 ## [📙 Pictogrammes](/index-pictos)
 ## [📓 Bibliographie](/index-books)
-## [🔡 Characters Map](/index-glyphs)
+## [🔡 Table des caractères](/index-glyphs)
 
 &nbsp;
 &nbsp;
