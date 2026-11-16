@@ -12,7 +12,6 @@ La micro-typographie concerne le soin apporté aux détails fins du contenu text
 - [Césures](#cesures)
 - [Parenthèses](#parentheses)
 - [Chiffres](#chiffres)
-  - [Les types de chiffres](#les-types-de-chiffres)
   - [Les fractions](#les-fractions)
   - [Les opérations](#les-operations)
   - [Les nombres](#les-nombres)
@@ -24,8 +23,10 @@ La micro-typographie concerne le soin apporté aux détails fins du contenu text
   - [Devises](#devises)
   - [Copyright](#copyright)
   - [Flèches](#fleches)
+
 - [Substitutions](#substitutions)
   - [Ligatures](#ligatures)
+  - [Les types de chiffres](#les-types-de-chiffres)
   - [Formes sensibles à la casse](#formes-sensibles-a-la-casse-case)
   - [Stylistic set](#stylistic-set)
 
