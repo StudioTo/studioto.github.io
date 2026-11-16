@@ -62,8 +62,8 @@
 #gm .gm-cell.target { border-color: var(--gm-blue); box-shadow: 0 0 0 3px rgba(3, 102, 214, .3); }
 #gm-tip { display: none; position: fixed; z-index: 25; max-width: 360px; padding: 8px 12px; background: #fff; border: 1px solid var(--gm-border); border-radius: 6px; box-shadow: 0 8px 24px rgba(149, 157, 165, .2); pointer-events: none; font-size: 14px; line-height: 1.35; color: var(--gm-text); }
 #gm-tip.open { display: block; }
-#gm-tip small { display: block; color: var(--gm-muted); font-size: 12px; }
-#gm-tip .gm-u { display: block; margin-top: 4px; font-size: 12px; color: var(--gm-muted); font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; }
+#gm-tip, #gm-tip div { font-size: 13px; line-height: 1.4; color: var(--gm-muted); }
+#gm-tip .gm-gap { height: 8px; }
 #gm-toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%) translateY(10px); background: #24292e; color: #fff; font-size: 14px; padding: 8px 14px; border-radius: 6px; opacity: 0; pointer-events: none; transition: opacity .15s ease, transform .15s ease; z-index: 30; white-space: nowrap; }
 #gm-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 #gm-toast b { font-size: 20px; font-weight: normal; vertical-align: middle; }
@@ -132,7 +132,11 @@ DATA.items.forEach(it => itemOf[it[0]] = it);
 let tipCell = null;
 function showTip(cell) {
     const it = itemOf[+cell.dataset.cp];
-    tip.innerHTML = esc(title(it[1])) + namesHTML(it) + '<span class="gm-u">' + uplus(it[0]) + '</span>';
+    const [cp, en, fr, , , , enal, ch] = it;
+    const line = (tag, txt) => '<div>' + tag + ' : ' + esc(txt) + '</div>';
+    const langs = (ch ? line("CH", ch) : "") + (fr ? line("FR", fr) : "") + (enal ? line("EN", enal) : "");
+    tip.innerHTML = '<div>' + uplus(cp) + '</div><div>' + esc(title(en)) + '</div>'
+                  + (langs ? '<div class="gm-gap"></div>' + langs : "");
     tip.classList.add("open");
     const r = cell.getBoundingClientRect(), t = tip.getBoundingClientRect();
     let left = Math.min(Math.max(8, r.left + r.width / 2 - t.width / 2), window.innerWidth - t.width - 8);
