@@ -60,6 +60,10 @@
 #gm .gm-zw { font-size: 12px; font-weight: 600; color: var(--gm-muted); border: 1px dashed #d1d5da; border-radius: 6px; padding: 3px 6px; }
 #gm .gm-cell.flash { background: #dcffe4; border-color: #34d058; }
 #gm .gm-cell.target { border-color: var(--gm-blue); box-shadow: 0 0 0 3px rgba(3, 102, 214, .3); }
+#gm-tip { display: none; position: fixed; z-index: 25; max-width: 360px; padding: 8px 12px; background: #fff; border: 1px solid var(--gm-border); border-radius: 6px; box-shadow: 0 8px 24px rgba(149, 157, 165, .2); pointer-events: none; font-size: 14px; line-height: 1.35; color: var(--gm-text); }
+#gm-tip.open { display: block; }
+#gm-tip small { display: block; color: var(--gm-muted); font-size: 12px; }
+#gm-tip .gm-u { display: block; margin-top: 4px; font-size: 12px; color: var(--gm-muted); font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; }
 #gm-toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%) translateY(10px); background: #24292e; color: #fff; font-size: 14px; padding: 8px 14px; border-radius: 6px; opacity: 0; pointer-events: none; transition: opacity .15s ease, transform .15s ease; z-index: 30; white-space: nowrap; }
 #gm-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 #gm-toast b { font-size: 20px; font-weight: normal; vertical-align: middle; }
@@ -73,6 +77,7 @@
 </div>
 <div id="gm-main"></div>
 <div id="gm-toast"></div>
+<div id="gm-tip"></div>
 </div>
 <script>
 (function () {
@@ -96,6 +101,12 @@ function glyphHTML(cp, type) {
     if (type === "c") return "◌" + ch;
     return esc(ch);
 }
+function namesHTML(it) {
+    const [, , fr, , , , enal, ch] = it;
+    return (ch ? '<small>CH : ' + esc(ch) + '</small>' : '')
+         + (fr ? '<small>FR : ' + esc(fr) + '</small>' : '')
+         + (enal ? '<small>EN : ' + esc(enal) + '</small>' : '');
+}
 // ---------- Construction ----------
 const byGroup = {}, typeOf = {};
 DATA.items.forEach(it => { (byGroup[it[4]] = byGroup[it[4]] || []).push(it); typeOf[it[0]] = it[5]; });
@@ -105,8 +116,7 @@ DATA.groups.forEach(g => {
     g.subs.forEach(s => {
         html += '<h3 id="' + s.a + '">' + esc(s.name) + '<span class="gm-count">' + s.n + '</span></h3><div class="gm-grid">';
         byGroup[s.id].forEach(([cp, en, fr, , , type, enal, ch]) => {
-            const tip = title(en) + (ch ? "\nCH : " + ch : "") + (fr ? "\nFR : " + fr : "") + (enal ? "\nEN : " + enal : "");
-            html += '<div class="gm-cell" id="' + uplus(cp) + '" data-cp="' + cp + '" title="' + esc(tip) + '">'
+            html += '<div class="gm-cell" id="' + uplus(cp) + '" data-cp="' + cp + '">'
                  + '<div class="gm-code">' + uplus(cp) + '</div>'
                  + '<div class="gm-glyph">' + glyphHTML(cp, type) + '</div>'
                  + '<div class="gm-name">' + esc(title(en)) + '</div></div>';
@@ -116,6 +126,28 @@ DATA.groups.forEach(g => {
 });
 $("gm-main").innerHTML = html;
 const barHeight = () => $("gm-bar").offsetHeight;
+// ---------- Survol : tous les noms ----------
+const tip = $("gm-tip"), itemOf = {};
+DATA.items.forEach(it => itemOf[it[0]] = it);
+let tipCell = null;
+function showTip(cell) {
+    const it = itemOf[+cell.dataset.cp];
+    tip.innerHTML = esc(title(it[1])) + namesHTML(it) + '<span class="gm-u">' + uplus(it[0]) + '</span>';
+    tip.classList.add("open");
+    const r = cell.getBoundingClientRect(), t = tip.getBoundingClientRect();
+    let left = Math.min(Math.max(8, r.left + r.width / 2 - t.width / 2), window.innerWidth - t.width - 8);
+    let top = r.bottom + 6;
+    if (top + t.height > window.innerHeight - 8) top = r.top - t.height - 6;
+    tip.style.left = left + "px"; tip.style.top = top + "px";
+    tipCell = cell;
+}
+function hideTip() { tip.classList.remove("open"); tipCell = null; }
+$("gm-main").addEventListener("mouseover", e => {
+    const cell = e.target.closest(".gm-cell");
+    if (cell && cell !== tipCell) showTip(cell);
+});
+$("gm-main").addEventListener("mouseleave", hideTip);
+window.addEventListener("scroll", hideTip, { passive: true });
 // ---------- Copier au clic ----------
 const toast = $("gm-toast");
 let toastTimer;
@@ -191,9 +223,7 @@ function render() {
     results.innerHTML = list.length
         ? list.map((x, i) => {
             const [cp, en, fr, , , type, enal, ch] = x.it;
-            const sub = (ch ? '<small>CH : ' + esc(ch) + '</small>' : '')
-                      + (fr ? '<small>FR : ' + esc(fr) + '</small>' : '')
-                      + (enal ? '<small>EN : ' + esc(enal) + '</small>' : '');
+            const sub = namesHTML(x.it);
             return '<div class="gm-res' + (i === active ? ' active' : '') + '" data-i="' + i + '">'
                  + '<div class="gm-g">' + glyphHTML(cp, type) + '</div>'
                  + '<div class="gm-t">' + esc(title(en)) + sub + '</div>'
