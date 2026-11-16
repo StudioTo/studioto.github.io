@@ -2,6 +2,8 @@
 
 La micro-typographie concerne le soin apporté aux détails fins du contenu texte.
 
+⌨️ Caractères
+
 - [Langue](#langue)
   - [Les guillemets](#les-guillemets)
 - [Ponctuation](#ponctuation)
@@ -24,11 +26,13 @@ La micro-typographie concerne le soin apporté aux détails fins du contenu text
   - [Copyright](#copyright)
   - [Flèches](#fleches)
 
+🖱️ Glyphes
+
 - [Substitutions](#substitutions)
   - [Ligatures](#ligatures)
   - [Les types de chiffres](#les-types-de-chiffres)
   - [Formes sensibles à la casse](#formes-sensibles-a-la-casse-case)
-  - [Stylistic set](#stylistic-set)
+  - [Style stylistique](#stylistic-set)
 
 &nbsp;
 
@@ -208,7 +212,7 @@ Chicago Manual of Style
 |:---:|
 | Certaines glyphes changent de forme selon qu’elles apparaissent en majuscules ou en minuscules, comme les parenthèses ou certains chiffres. | 
 
-## Stylistic set (ss00) {#stylistic-set}  
+## Style stylistique (ss00) {#stylistic-set}  
 
 |![](https://studioto.github.io/media/set-micro-typo/1-micro-typo83.gif) |
 |:---:|
