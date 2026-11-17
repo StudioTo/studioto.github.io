@@ -20,7 +20,7 @@
 
 📖 Guide du Typographe Romand
 
-🕹️ [Microtypo Quiz](../../../quiz-microtypo/)   
+🕹️ [Microtypo Quiz](../../../quiz-caracters/)   
 📓 [Table des caractères](../../../index-glyphs/)   
 
 
