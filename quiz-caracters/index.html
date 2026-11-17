@@ -240,7 +240,7 @@
 
 <div class="topbar">
     <div class="title pill"><span class="serif">MicroTypo</span></div>
-    <div class="losange" aria-hidden="true"><span>C</span></div>
+    <div class="losange" aria-hidden="true"><span>1</span></div>
 </div>
 
 <!-- écran 1 : nom -->
@@ -621,7 +621,7 @@ function renderFinal() {
 }
 
 // ---------- le nom en couleurs, qui suit la souris comme un pinceau ----------
-let paintReady = false, lastPt = null;
+let paintReady = false, lastPt = null, lastT = 0, speed = 0, carry = 0;
 function nameColors() {
     const n = [...state.name];
     let c = state.colors && state.colors.length === n.length ? state.colors : null;
@@ -666,11 +666,18 @@ function startPaint() {
             const { ctx, fs } = paintCtx(), r = box.getBoundingClientRect();
             const mm = ctx.measureText("x");
             const pt = { x: e.clientX - r.left - box.clientLeft, y: e.clientY - r.top - box.clientTop + mm.actualBoundingBoxAscent / 2 };
-            // trait continu : on remplit l'espace depuis la dernière position
-            const from = lastPt || pt, d = Math.hypot(pt.x - from.x, pt.y - from.y), step = Math.max(2, fs / 12);
-            for (let t = step; t <= d; t += step) stamp(ctx, from.x + (pt.x - from.x) * t / d, from.y + (pt.y - from.y) * t / d);
-            stamp(ctx, pt.x, pt.y);
-            lastPt = pt;
+            if (!lastPt) { stamp(ctx, pt.x, pt.y); lastPt = pt; lastT = e.timeStamp; speed = 0; carry = 0; return; }
+            // vitesse de la souris (px/ms, lissée) → écart entre les noms :
+            // lent = trace dense, rapide = noms espacés
+            const d = Math.hypot(pt.x - lastPt.x, pt.y - lastPt.y);
+            const dt = Math.max(1, e.timeStamp - lastT);
+            speed = speed * 0.7 + (d / dt) * 0.3;
+            const gap = fs * Math.min(1.5, Math.max(0.04, speed * 0.15));
+            // noms posés à intervalles réguliers le long du trajet
+            let s = gap - carry;
+            for (; s <= d; s += gap) stamp(ctx, lastPt.x + (pt.x - lastPt.x) * s / d, lastPt.y + (pt.y - lastPt.y) * s / d);
+            carry = d - (s - gap);   // distance parcourue depuis le dernier nom posé
+            lastPt = pt; lastT = e.timeStamp;
         });
         box.addEventListener("pointerleave", () => { lastPt = null; });
         // clic : efface le dessin et repart du nom en couleurs
