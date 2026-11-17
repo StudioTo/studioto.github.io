@@ -18,7 +18,7 @@
 
 # Ressources
 
-📖 Guide du Typographe Romand
+📖 Guide du Typographe Romand  
 📎 [Microtypographie](../../../set-micro-typo/)  
 📎 [Table des caractères](../../../index-glyphs/)   
 
