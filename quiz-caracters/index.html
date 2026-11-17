@@ -445,7 +445,10 @@ function renderQuestion() {
 }
 
 let resumeAt = 0;
-const scoreHTML = () => 'Score<span class="thin"></span>:<br>' + solved.size + " / " + N + (solved.size > 1 ? " points" : " point");
+// Note suisse : 1 + 5 × points / total, arrondie au dixième
+const grade = () => (Math.round((1 + 5 * solved.size / N) * 10) / 10).toFixed(1);
+const scoreHTML = () => 'Score<span class="thin"></span>:<br>' + solved.size + " / " + N + (solved.size > 1 ? " points" : " point")
+    + '<br>Note<span class="thin"></span>:<br>' + String(grade()).replace(".", ",") + " / 6";
 
 function renderMenu() {
     state.current = N;
