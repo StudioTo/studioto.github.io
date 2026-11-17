@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MicroTypo Quiz</title>
+<style>
+    html, body { height: 100%; }
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Times, serif;
+        transition: background-color .1s ease;
+        text-align: center;
+        overflow: hidden;
+    }
+    body.flash-correct { background-color: rgb(0, 255, 0); }
+    body.flash-wrong { background-color: rgb(255, 0, 0); }
+
+    .stage {
+        position: absolute;
+        inset: 30px 30px 60px 30px;
+    }
+    .field {
+        box-sizing: border-box;
+        display: block;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0 40px;
+        text-align: center;
+        font-family: Times, serif;
+        font-size: 150px;
+        line-height: 1.2;
+        color: black;
+        border: 2px solid lightgrey;
+        border-radius: 47.5px; /* concentrique aux boutons ronds : 25,5 + 20 d’écart + 2 de trait */
+        background: transparent;
+        resize: none;
+        outline: none;
+        white-space: pre;
+        overflow: auto;
+    }
+    .field[readonly] { color: grey; }
+
+    .pill {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 27px;
+        line-height: 35px;
+        border: 0;
+        padding: 8px 14px;
+        box-sizing: border-box;
+        min-height: 51px;
+        color: white;
+        border-radius: 4px;
+        background-color: darkgrey;
+    }
+    button.pill:hover, .round:hover { cursor: pointer; background-color: black; }
+
+    div.title {
+        position: absolute;
+        top: 52px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 2;
+        pointer-events: none;
+    }
+
+    /* rangée de boutons */
+    .controls {
+        position: absolute;
+        bottom: 82px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        z-index: 2;
+    }
+    .round {
+        width: 51px;
+        height: 51px;
+        border-radius: 50%;
+        border: none;
+        background: darkgrey;
+        color: white;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 27px;
+        line-height: 51px;
+        text-align: center;
+        padding: 0;
+        text-decoration: none;
+        display: inline-block;
+    }
+    .round span { display: inline-block; }
+    /* flèches dessinées : centrées exactement, quelle que soit la police du système */
+    .round .arrow { display: block; width: 26px; height: 16px; margin: 0 auto; }
+    .round .arrow path { fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: butt; stroke-linejoin: miter; }
+    div.title .serif { font-family: Times, serif; font-style: italic; font-size: 1.15em; line-height: 1; } /* compense la hauteur d’x plus petite du Times */
+    /* couleurs des boutons */
+    #hint-toggle { background: rgb(255, 204, 0); }
+    #progress { background: rgb(0, 102, 255); }
+    div.title { background: black; }
+    #hint-toggle:hover, #progress:hover { background: rgb(60, 60, 60); }
+    #name-screen .controls { bottom: 22px; } /* 20 px du trait du cadre, comme les autres boutons */
+    .round:disabled { opacity: .35; cursor: default; background: darkgrey; }
+    #hint-toggle, #back { position: absolute; left: 52px; bottom: 82px; z-index: 2; }
+    #progress { position: absolute; right: 52px; bottom: 82px; z-index: 2; }
+    .hint-text {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        bottom: 143px; /* 82 + 51 + 10 */
+        z-index: 3;
+        background: darkgrey;
+        color: white;
+        padding: 8px 14px;
+        line-height: 35px;
+        box-sizing: border-box;
+        min-height: 51px;
+        border-radius: 4px;
+        text-align: center;
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 27px;
+        display: none;
+        max-width: calc(100% - 240px);
+    }
+    .hint-text.visible { display: block; }
+    .hint-text { white-space: pre-line; font-family: Times, serif; font-size: 31.05px; } /* même taille que le titre en Times */
+
+    /* barre de navigation : un point par question */
+    .dots {
+        position: absolute;
+        left: 30px;
+        right: 30px;
+        bottom: 21px;
+        display: flex;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: var(--gap, 5px);
+        height: 18px;
+        z-index: 2;
+    }
+    .dot {
+        flex: none;
+        width: var(--d, 14px);
+        height: var(--d, 14px);
+        font-size: var(--d, 14px);
+        padding: 0;
+        border-radius: 50%;
+        border: max(1px, .14em) solid transparent;
+        background: lightgrey;
+        cursor: pointer;
+        box-sizing: border-box;
+        position: relative;
+    }
+    .dot.missed { background: transparent; border-color: darkgrey; }
+    .dot.solved { background: transparent; border-color: darkgrey; }
+    .dot.solved::after {
+        content: "";
+        position: absolute;
+        inset: 18%;
+        border-radius: 50%;
+        background: darkgrey;
+    }
+    .dot.current { outline: max(1px, .14em) solid black; outline-offset: max(1px, .07em); }
+    .dot:hover { border-color: black; }
+    .dots.locked { pointer-events: none; } /* visibles mais pas cliquables pendant la saisie du nom */
+
+    /* écran de fin */
+    .end-text {
+        position: absolute;
+        inset: 30px 30px 60px 30px;
+        border: 2px solid lightgrey;
+        border-radius: 47.5px; /* concentrique aux boutons ronds : 25,5 + 20 d’écart + 2 de trait */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    .end-text p { font-family: Times, serif; font-size: 60px; margin: 0; line-height: 1.2; }
+    .end-text .player-name { font-size: 110px; margin-bottom: 30px; }
+    #menu-score, #final-score { white-space: pre-line; }
+    .end-buttons { margin-top: 40px; display: flex; gap: 10px; justify-content: center; }
+
+
+    [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+
+<div class="title pill"><span class="serif">MicroTypo</span></div>
+
+<!-- écran 1 : nom -->
+<form id="name-screen" class="stage" hidden autocomplete="off">
+    <input id="name-input" class="field" type="text" placeholder="Prénom Nom" required>
+    <div class="controls"><button class="pill" type="submit">Start</button></div>
+</form>
+
+<!-- écran 2 : question -->
+<form id="question-screen" class="stage" hidden autocomplete="off">
+    <textarea id="answer" class="field" spellcheck="false" autocorrect="off" autocapitalize="off" wrap="off"></textarea>
+</form>
+
+<!-- écran 3 : score en cours (bouton %) -->
+<div id="menu-screen" class="end-text" hidden>
+    <p id="menu-score"></p>
+    <div class="end-buttons">
+        <button id="finish" class="pill" type="button">Terminer</button>
+    </div>
+</div>
+
+<!-- écran 4 : résultat final, sans aucun bouton -->
+<div id="final-screen" class="end-text" hidden>
+    <p id="final-name" class="player-name"></p>
+    <p id="final-score"></p>
+    <p id="final-date"></p>
+</div>
+
+<div id="quiz-ui" hidden>
+    <button type="button" class="round" id="hint-toggle" title="Indice"><span>⁉</span></button>
+    <button type="button" class="round" id="back" title="Retour au quiz"><svg class="arrow" viewBox="0 0 26 16" aria-hidden="true"><path d="M25 8H2M9 1.5L2 8L9 14.5"/></svg></button>
+    <div class="hint-text" id="hint-text"></div>
+    <div class="controls" id="question-controls">
+        <button type="button" class="round" id="prev" title="Question précédente"><svg class="arrow" viewBox="0 0 26 16" aria-hidden="true"><path d="M25 8H2M9 1.5L2 8L9 14.5"/></svg></button>
+        <button type="button" class="pill" id="check">Check</button>
+        <button type="button" class="round" id="next" title="Question suivante"><svg class="arrow" viewBox="0 0 26 16" aria-hidden="true"><path d="M1 8H24M17 1.5L24 8L17 14.5"/></svg></button>
+    </div>
+    <button type="button" class="round" id="progress" title="Score"><span>ℹ</span></button>
+    <nav class="dots" id="dots"></nav>
+</div>
+
+<script>
+(function () {
+"use strict";
+
+// [texte à corriger, indice, sel, empreinte de la réponse]
+// Les réponses ne sont pas dans ce fichier : seule une empreinte SHA-256 doublée l'est.
+const QUESTIONS = [["Jean-jacques Rousseau","Majuscules: noms propres","0863d8ee6fc4","f202867e9fa662a75e23824f292ae32c"],["La Confédération Helvétique","Majuscules: pays","6066e7cd0961","04425ac26a646b0d4db03b5aee61d494"],["les gaulois","Majuscules: peuples","4661d320d55a","e50f6261885f6176a7fdba61d4e4a3a0"],["Brot-dessus","Majuscules: noms géographiques composés","bc0319c39409","9ba4c131dc3ba493bec42b732eae28d1"],["Chalet-À-Gobet","Majuscules: noms géographiques composés","6e6eed8059b9","47a368adf41aea2d36a87632f6eafba5"],["Mer rouge","Majuscules: noms géographiques avec adjectif","a3a9c31970ea","fba273aa7605b95f3c689fa7cf09b831"],["Rue du Marché","Majuscules: adresses","43a975b84593","f9ea6751ff239348086588d2fa7b7c86"],["L’hôtel de ville","Majuscules: bâtiments","44c977d03846","de9fc2040820ca337a998f1e643b9288"],["madame, monsieur","Majuscules: adresse","825883164042","2502ac8ecd065c95d994c5f15c10ef0b"],["Madame la directrice","Majuscules: titres","49cdcc3e82e2","6860bb6f8829fc1b5270c733fcf87b3b"],["De Gaulle","Majuscules: particules","fd985db8e030","e3ba29c6bb7d7a048f27d9c7f7566b68"],["Charles le téméraire","Majuscules: surnom","488556686154","1d322a32a4b2c65ce12f6f257f41278c"],["le code civil suisse","Majuscules: documents","d0b215075112","6ebb878818ba70c2efeedf6dd141795e"],["Le songe d’une nuit d'été","Majuscules: titres d’oeuvre","b93d095c3baf","7c418e3ce2e4f9a689456824e9fede93"],["Émile, EMILE","Majuscules: majuscules accentuées","80b1eabcc59e","86bc73572644be2b544d69af36390731"],["L’avion a décollé à 4 h 04, avec 2 heures de retard","Nombres en toutes lettres: durée","ec72f6172276","5f3bbf0e8f50a025e27d72481f873aee"],["La page 65 de cet ouvrage, qui en compte 200…","Nombres en toutes lettres: quantité","29bfda6c6af0","2acfaa52780b73d64c3ba172b41deb66"],["soixante kilomètres, cent kilogrammes, 37,2 degrés","Nombres en chiffres arabes: distances, poids, températures","96a8715528a2","9aab29b75cb180d86cbe065c62578f9e"],["dix-sept h 26 min 14 sec","Nombres en chiffres arabes: heures","cf58d833b5c8","3e0c498a503392cc8a9b26f347de2e67"],["temps record: 03 h 26 ′ 39 sec","Nombres en chiffres arabes: temps sportif","0149c274f6b3","d275f13975e6696a3060a34ed879da6d"],["minuit 15","Nombres en chiffres arabes: heures, exception","3dba4904df3e","4a4c87710ce9c6e56af38e16ba9b9d69"],["CHF deux-mille","Nombres en chiffres arabes: sommes","a941fada3fe4","cd8d522565d6ed83118ddd20f21003a0"],["CHF 5 000 000","Nombres en chiffres arabes: sommes, exception","df53819d508c","8069836af7d509142d4002162c482f43"],["2.45 mètres","Nombres en chiffres arabes: fractions","180a55d74b87","c312382eca512a9c9e571eec0b14c5fc"],["3 pour-cent de la population","Nombres en chiffres arabes: pourcentages","9287f82ba305","6e3eb3b8b6cd0ea26be67f833df0614e"],["62250 habitants","Nombres en chiffres arabes: nombres de plus de quatre chiffres","89b908cb7fdd","7fbcda073e893e5bac661e60de62ff8a"],["VD 171 777","Nombres en chiffres arabes: nombres de plus de quatre chiffres, exception","0c8ab142a42d","e239ef5bdc97f31a90b280d81d6d08ed"],["29 avenue de France, Lausanne","Nombres en chiffres arabes: adresses","3ef44a43da1e","aa4d01c5fe8083c72e4a175144d0479b"],["18e siècle","Nombres en chiffres romains: siècles","c6ce44e485f1","b1e578aa2d17445f32b1fe617abf8f93"],["Elisabeth 2","Nombres en chiffres romains: souverains","51ba8e7f263e","050da9e5283313a770eeb360468539e0"],["catégorie 9","Abréviations: retranchement des lettres finales","1a91d33a0fef","3e515a1cdd71a6bb58d9044906d1c7c5"],["Madame","Abréviations: retranchement des lettres médianes","b2c4a7d795a9","d7edf10b6f27279a5ecc69eff7c260b2"],["Monsieur","Abréviations: retranchement de toutes les lettres sauf l’initiale","6d839fd751e7","de59b1ce084c30bcff55e9ffcc942a13"],["hello(at)gmail.com","Abréviations: signes spéciaux","8b54c6fb6b53","5ab87c54353636471d88aa4c82dad331"],["38 degrés","Abréviations: signes spéciaux","92121f4e18cd","c52e2d82c8044a2190db349bf3dc89ee"],["section 4","Abréviations: signes spéciaux","e41217c4c4d3","bc21dad396ab127a0ab2e8b73f643f72"],["Dolce et Gabbana","Abréviations: signes spéciaux","3096e1f989fb","fcfbf22ad6a4cf54c32e9faf513a3a82"],["p. 12, pp. 12-19","Abréviations: pluriels","a52ad859974c","c2a3560a791c5172200253d8e5b5f573"],["Il pleut .Il vente","Ponctuation et signes: espaces avant et après les signes de ponctuation","c908b75fdeae","07a6c0aeb869d2f54a7f124facd0105a"],["Lundi ,mardi","Ponctuation et signes: espaces avant et après les signes de ponctuation","034290a9a57e","0117bb39854cae5e38239bae9412ead1"],["Il rit; elle pleure","Ponctuation et signes: espaces avant et après les signes de ponctuation","8af522987ade","5f4a77fda621394cf8826fa6b7fc8da3"],["Note: urgent","Ponctuation et signes: espaces avant et après les signes de ponctuation","7682beb6aa91","5564eeed804c0119e93dd49e12f23d7d"],["Vraiment?","Ponctuation et signes: espaces avant et après les signes de ponctuation","3b87ab1f808d","d9b7b7790cce619147cb4048c936717a"],["Bravo!","Ponctuation et signes: espaces avant et après les signes de ponctuation","7e81a48c3b41","aa4606554b7ef6f3a1b01bbf5ed31470"],["Et puis … rien","Ponctuation et signes: espaces avant et après les signes de ponctuation","96d816fb4c6f","06d140e956bccbcb96d9f1e9c0b23e08"],["Le repas –très long– fut servi","Ponctuation et signes: espaces avant et après les signes de ponctuation","74fcc9c22d8a","e7d87fe402a8548f8dbaa7edd6baab21"],["Il dit «oui »","Ponctuation et signes: espaces avant et après les signes de ponctuation","42a680626bad","5f9e749188a69d41b6900bb1dcb9c5ed"],["Elle dit « non»","Ponctuation et signes: espaces avant et après les signes de ponctuation","a4428c1a09fc","8a0aaefcec6000abfb18285d60b2ad2e"],["Lausanne ( VD)","Ponctuation et signes: espaces avant et après les signes de ponctuation","a1497bc19ce4","22f93b723cb15bcbfb22b7f0dbc819c9"],["Sion (VS )","Ponctuation et signes: espaces avant et après les signes de ponctuation","6f9851eb709f","23ac693ac9d58292f6c9915bd4f7a7be"],["Il écrit [ sic] ceci","Ponctuation et signes: espaces avant et après les signes de ponctuation","9850cb48e0f6","d61f4a1830112bde5bdce14fa7fd52c0"],["Elle lit [sic ] cela","Ponctuation et signes: espaces avant et après les signes de ponctuation","fa09eee803ab","c20a009aac8b5a611fa77e06dd53f925"],["Le Vél’d’Hiv’","Ponctuation et signes: espaces avant et après les signes de ponctuation","3bbff1c0237c","382390cac42b775d592e5edd88ac3e5e"],["Saint - Gall","Ponctuation et signes: espaces avant et après les signes de ponctuation","34835200c6a9","3395fef7c0c9726fbb6c13280e94b34f"],["art. 12 §3","Ponctuation et signes: espaces avant et après les signes de ponctuation","8a3d03c01831","0ff786b16fe968371412d3725ba01a5c"],["Voir la note *","Ponctuation et signes: espaces avant et après les signes de ponctuation","876e2127ea73","c50e754e7e7a9a056ae07913bff8dcc4"],["80 km / h","Ponctuation et signes: espaces avant et après les signes de ponctuation","d69a477bc4b4","b7d1daf4954db8de7c20c1b82725892a"],["Rousseau †1778","Ponctuation et signes: espaces avant et après les signes de ponctuation","0ca6162e0661","7033ca1ccd7ff65dfcf886ab64dcf03d"],["Dupont&Fils","Ponctuation et signes: espaces avant et après les signes de ponctuation","ea8d09f5a2da","b100ca974cd8234d091f10b7afed41b6"],["hello @ google.com","Ponctuation et signes: espaces avant et après les signes de ponctuation","424b0beab663","2fb804bfb445717257f3809dd7a980e9"],["porte–plume","Ponctuation et signes: espaces avant et après les signes de ponctuation","a12084ca520e","0a9f1e9a5a3ce780bb2d3f4942843f3e"],["Saint – Maurice","Ponctuation et signes: espaces avant et après les signes de ponctuation","09bc86dd406b","0abf9f900795fb1ea9a65dd555c31114"],["La route - très raide - montait","Ponctuation et signes: espaces avant et après les signes de ponctuation","e01f8a646b0b","494a1d86e87be556837b8ac104b36323"],["-Je pars demain.","Ponctuation et signes: espaces avant et après les signes de ponctuation","bed33edc64af","168299e184d721996437cf986ebdfde0"],["CHF 25.-","Ponctuation et signes: espaces avant et après les signes de ponctuation","16ad368b8bc8","9f0d11a51cb080eb4d29598faaee89b0"],["provis-\nion","Coupure et séparation en fin de ligne: coupure syllabique","4878a9328e40","74b4d585faf20ea88e678935ad3fe88a"],["extraor-\ndinaire","Coupure et séparation en fin de ligne: coupure étymologique","b961842b4b0f","2c765737ef77a92ab7522e4b928e035e"],["Andy War-\nhol","Coupure et séparation en fin de ligne: coupure des noms propres","dcf6837f4047","f06c9ab1ccf57d1710760452d293b2a3"],["l’I-\ntalie","Coupure et séparation en fin de ligne: mauvaises coupures de mots","177e2d630f76","d69d6a9365fcb56bc49dc490543dfbe8"],["dé-\njà","Coupure et séparation en fin de ligne: mauvaises coupures de mots","8526a5ec8c4e","b024869c5fb5515b749c3bd306344855"],["d’-\navance","Coupure et séparation en fin de ligne: mauvaises coupures de mots","c156fed519e2","09d4e7ad35ba06b401167a3a83d88191"],["le 1er\njanvier","Coupure et séparation en fin de ligne: mauvaises séparations de mots","87cda06458e5","cbf53b5382a169b09b59c6d6b5a39112"],["M.\nDupont","Coupure et séparation en fin de ligne: mauvaises séparations de mots","0e1afbf942d0","1d4f309659fe71b3e6bf92df4def1736"],["CE\nRN","Coupure et séparation en fin de ligne: mauvaises séparations de mots","5eee6289bcb0","2cffec87ea3f470048241d0cb542bfda"],["enfin\n!…","Coupure et séparation en fin de ligne: mauvaises séparations de mots","5cd549a00484","6d488bb952c80acbd53f0ebd8b42fda5"],["Le mot \"oui\" est court.","Langues: français, guillemets","a559963efdb1","f1d11aedd17afb71d1370fb345ce7dfa"],["Attention: danger; partez, vite! Pourquoi?","Langues: français, ponctuation","3e812bef0433","3c1529b25eaad805fc16c2858df2148c"],["Le mot \"non\" est court.","Langues: français suisse, guillemets","1c1794f4da12","a01876bd21c9d049618eda46bc007448"],["Note: urgent; venez, vite! Quand?","Langues: français suisse, ponctuation","53f4600df908","156f5542728ba3f9a3997fbeb343a8c7"],["Das Wort \"ja\" ist kurz.","Langues: allemand, guillemets","537d4a0f510a","465dfc6246d2c01c3b4c3243bc90de5d"],["Achtung : Gefahr ; geht, schnell ! Warum ?","Langues: allemand, ponctuation","a2bef2e72757","5e78312a0e2f4b22ecb77251a6293632"],["The word \"yes\" is short.","Langues: anglais, guillemets","d6e0ab8860ed","ab17d34ae367eeb27e98f5fe1b004a4b"],["Warning : danger ; go, quickly ! Why ?","Langues: anglais, ponctuation","2913e85f7a88","c4bf21b3ff50a3083e68e96907839517"],["La parola \"sì\" è breve.","Langues: italien, guillemets","f4daa5b85d44","fbc53b369f499cbbbbf709a38a39321e"],["Attenzione : pericolo ; andate, presto ! Perché ?","Langues: italien, ponctuation","94a8210c7deb","1b776ff8176040b03dcab9a4a3cee6f8"]];
+
+const STORE = "microtypo-quiz";
+const $ = id => document.getElementById(id);
+const N = QUESTIONS.length;
+
+// ---------- état ----------
+let state = { name: "", answers: {}, visited: {}, current: 0, finished: 0 };
+const solved = new Set();
+
+function save() {
+    try { localStorage.setItem(STORE, JSON.stringify(state)); } catch (e) {}
+}
+function load() {
+    try {
+        const s = JSON.parse(localStorage.getItem(STORE) || "{}");
+        if (s && typeof s === "object") {
+            state.name = typeof s.name === "string" ? s.name : "";
+            state.answers = s.answers && typeof s.answers === "object" ? s.answers : {};
+            state.visited = s.visited && typeof s.visited === "object" ? s.visited : {};
+            state.current = Number.isInteger(s.current) ? Math.max(0, Math.min(s.current, N)) : 0;
+            state.finished = Number.isFinite(s.finished) ? s.finished : 0;
+        }
+    } catch (e) {}
+}
+
+// ---------- vérification ----------
+// Même normalisation que lors de la génération : NFC, espace fine = espace fine insécable,
+// retours à la ligne Windows, lignes vides finales.
+function normalize(t) {
+    return t.normalize("NFC").replace(/ /g, " ").replace(/\r\n?/g, "\n").replace(/\n+$/, "");
+}
+async function sha256(text) {
+    const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
+    return Array.from(new Uint8Array(buf), b => b.toString(16).padStart(2, "0")).join("");
+}
+async function isCorrect(i, text) {
+    const [, , salt, check] = QUESTIONS[i];
+    const proof = await sha256(salt + "|" + normalize(text));
+    return (await sha256(proof)).slice(0, 32) === check;
+}
+// Le score est recalculé à chaque chargement : une réponse n'est comptée
+// que si elle redonne l'empreinte. Modifier le stockage ne sert à rien sans les bonnes réponses.
+async function verifyAll() {
+    solved.clear();
+    const clean = {};
+    for (let i = 0; i < N; i++) {
+        const salt = QUESTIONS[i][2];
+        const t = state.answers[salt];
+        if (typeof t === "string" && await isCorrect(i, t)) { solved.add(i); clean[salt] = t; }
+    }
+    state.answers = clean;
+    save();
+}
+
+// ---------- affichage ----------
+const field = $("answer");
+let fitSize = 150;
+
+function fit() {
+    const box = field.getBoundingClientRect();
+    const lines = field.value.split("\n");
+    const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
+    ctx.font = "100px Times, serif";
+    const widest = Math.max(1, ...lines.map(l => ctx.measureText(l).width));
+    const byWidth = (box.width - 100) / widest * 100;
+    const byHeight = (box.height - 200) / (lines.length * 1.2); // place pour le titre et les boutons
+    fitSize = Math.max(20, Math.min(150, byWidth, byHeight));
+    field.style.fontSize = fitSize + "px";
+    centerOnXHeight(lines.length);
+}
+
+// Centre verticalement le bloc de texte sur la hauteur d'x (et non sur les capitales) :
+// le milieu de la hauteur d'x, entre la première et la dernière ligne, tombe au milieu du cadre.
+function centerOnXHeight(n) {
+    const ctx = fit.ctx;
+    ctx.font = fitSize + "px Times, serif";
+    const m = ctx.measureText("x");
+    const xh = m.actualBoundingBoxAscent;
+    const asc = m.fontBoundingBoxAscent, desc = m.fontBoundingBoxDescent;
+    const L = fitSize * 1.2;
+    const baseline1 = (L - (asc + desc)) / 2 + asc;          // ligne de base de la 1re ligne
+    const xMiddle = baseline1 + (n - 1) * L / 2 - xh / 2;     // milieu de la hauteur d'x du bloc
+    field.style.paddingTop = Math.max(0, field.clientHeight / 2 - xMiddle) + "px";
+}
+
+// Centre optiquement les glyphes des boutons ronds (flèches, ⁉, ℹ) sur leur dessin réel.
+function centerRoundGlyphs() {
+    const ctx = document.createElement("canvas").getContext("2d");
+    document.querySelectorAll(".round span").forEach(span => {
+        const cs = getComputedStyle(span.parentElement);
+        ctx.font = cs.fontSize + " " + cs.fontFamily;
+        const m = ctx.measureText(span.textContent);
+        const ref = ctx.measureText("H");
+        const H = parseFloat(cs.lineHeight);
+        const baseline = (H - (ref.fontBoundingBoxAscent + ref.fontBoundingBoxDescent)) / 2 + ref.fontBoundingBoxAscent;
+        const glyphMiddle = baseline - (m.actualBoundingBoxAscent - m.actualBoundingBoxDescent) / 2;
+        span.style.transform = "translateY(" + (H / 2 - glyphMiddle).toFixed(2) + "px)";
+    });
+}
+
+function renderDots() {
+    const dots = $("dots");
+    dots.innerHTML = "";
+    QUESTIONS.forEach((q, i) => {
+        const b = document.createElement("button");
+        b.type = "button";
+        b.className = "dot";
+        if (solved.has(i)) b.classList.add("solved");
+        else if (state.visited[q[2]]) b.classList.add("missed");
+        if (i === state.current && view === "question") b.classList.add("current");
+        b.title = (i + 1) + ". " + q[1] + (solved.has(i) ? " (réussie)" : "");
+        b.addEventListener("click", () => goTo(i));
+        dots.appendChild(b);
+    });
+    sizeDots();
+}
+
+// Une seule ligne : 14 px au maximum, plus petits s'il y a beaucoup de questions.
+function sizeDots() {
+    const dots = $("dots");
+    const w = dots.getBoundingClientRect().width;
+    if (!w) return;
+    const d = Math.max(2, Math.min(14, w / (N * 1.36)));
+    dots.style.setProperty("--d", d + "px");
+    dots.style.setProperty("--gap", d * 0.36 + "px");
+}
+
+let view = "name";
+function show(v) {
+    view = v;
+    $("name-screen").hidden = v !== "name";
+    $("question-screen").hidden = v !== "question";
+    $("menu-screen").hidden = v !== "menu";
+    $("final-screen").hidden = v !== "final";
+    $("quiz-ui").hidden = v === "final";
+    $("progress").hidden = v === "name";
+    $("dots").classList.toggle("locked", v === "name");
+    $("question-controls").hidden = v !== "question";
+    $("hint-toggle").hidden = v !== "question";
+    $("back").hidden = v !== "menu";
+    $("hint-text").classList.remove("visible");
+}
+
+function renderQuestion() {
+    const i = state.current;
+    const [faux, hint] = QUESTIONS[i];
+    const done = solved.has(i);
+    field.value = done ? state.answers[QUESTIONS[i][2]] : faux;
+    field.readOnly = done;
+    $("check").hidden = done;
+    $("hint-text").textContent = hint.replace(/:\s*/, ":\n"); // retour à la ligne après le deux-points
+    $("prev").disabled = i === 0;
+    show("question");
+    renderDots();
+    fit();
+    if (!done) { field.focus(); field.setSelectionRange(0, 0); }
+}
+
+let resumeAt = 0;
+const scoreText = () => "Score\u202f:\n" + solved.size + " / " + N + (solved.size > 1 ? " points" : " point");
+
+function renderMenu() {
+    state.current = N;
+    save();
+    $("menu-score").textContent = scoreText();
+    show("menu");
+    renderDots();
+}
+
+function renderFinal() {
+    const d = new Date(state.finished), p = n => String(n).padStart(2, "0");
+    $("final-name").textContent = state.name;
+    $("final-score").textContent = scoreText();
+    $("final-date").innerHTML = d.getFullYear() + "." + p(d.getMonth() + 1) + "." + p(d.getDate())
+        + "<br>" + p(d.getHours()) + ":" + p(d.getMinutes());
+    show("final");
+}
+
+function goTo(i) {
+    if (view === "question" && state.current < N) {
+        state.visited[QUESTIONS[state.current][2]] = 1;
+        resumeAt = state.current; // pour revenir au jeu depuis l'écran du score
+    }
+    state.current = i;
+    save();
+    if (state.finished) return renderFinal();
+    if (i >= N) renderMenu(); else renderQuestion();
+}
+
+function flash(kind) {
+    document.body.classList.add("flash-" + kind);
+    setTimeout(() => document.body.classList.remove("flash-" + kind), 100);
+}
+
+let busy = false;
+async function check() {
+    const i = state.current;
+    if (busy || i >= N || solved.has(i)) return;
+    busy = true;
+    const text = field.value;
+    if (await isCorrect(i, text)) {
+        state.answers[QUESTIONS[i][2]] = normalize(text);
+        solved.add(i);
+        flash("correct");
+        save();
+        // question suivante non réussie, sinon écran de fin
+        let next = -1;
+        for (let k = 1; k <= N; k++) { const j = (i + k) % N; if (!solved.has(j)) { next = j; break; } }
+        setTimeout(() => { busy = false; goTo(next === -1 ? N : next); }, 150);
+    } else {
+        state.visited[QUESTIONS[i][2]] = 1;
+        save();
+        flash("wrong");
+        renderDots();
+        busy = false;
+    }
+}
+
+// ---------- événements ----------
+$("name-screen").addEventListener("submit", e => {
+    e.preventDefault();
+    const name = $("name-input").value.trim();
+    if (!name) return;
+    state.name = name;
+    save();
+    goTo(state.current >= N ? 0 : state.current);
+});
+$("question-screen").addEventListener("submit", e => { e.preventDefault(); check(); });
+$("check").addEventListener("click", check);
+$("prev").addEventListener("click", () => goTo(Math.max(0, state.current - 1)));
+$("next").addEventListener("click", () => goTo(state.current + 1));
+$("progress").addEventListener("click", () => goTo(view === "menu" ? resumeAt : N));
+$("back").addEventListener("click", () => goTo(resumeAt));
+$("hint-toggle").addEventListener("click", () => $("hint-text").classList.toggle("visible"));
+
+field.addEventListener("keydown", e => {
+    if (e.key !== "Enter") return;
+    // Entrée valide, sauf pour les exercices sur plusieurs lignes où elle ajoute une ligne.
+    // Cmd/Ctrl + Entrée valide toujours.
+    const multiline = QUESTIONS[state.current][0].includes("\n");
+    if (!multiline || e.metaKey || e.ctrlKey) { e.preventDefault(); check(); }
+});
+field.addEventListener("input", () => {
+    // ne fait que rétrécir pendant la saisie, pour éviter que le texte saute
+    const before = fitSize; fit();
+    if (fitSize > before) { fitSize = before; field.style.fontSize = before + "px"; }
+});
+window.addEventListener("resize", () => { if (view === "question") fit(); sizeDots(); });
+
+$("finish").addEventListener("click", () => {
+    state.finished = Date.now();
+    save();
+    renderFinal();
+});
+
+// ---------- démarrage ----------
+(async function start() {
+    if (document.fonts) document.fonts.ready.then(centerRoundGlyphs); else centerRoundGlyphs();
+    load();
+    await verifyAll();
+    if (!state.name) { show("name"); renderDots(); $("name-input").focus(); return; }
+    if (state.finished) { renderFinal(); return; }
+    goTo(state.current);
+})();
+})();
+</script>
+</body>
+</html>
