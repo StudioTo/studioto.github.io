@@ -190,6 +190,7 @@
     }
     .end-text p { font-family: Times, serif; font-size: 60px; margin: 0; line-height: 1.2; }
     .end-text .player-name { margin-bottom: 0; }
+    .end-text p.ref { font-size: 20px; color: darkgrey; margin-top: 30px; font-family: Helvetica, Arial, sans-serif; letter-spacing: .05em; }
     .thin { display: inline-block; width: 0.16em; } /* espace fine insécable */
     .end-buttons { margin-top: 40px; display: flex; gap: 10px; justify-content: center; }
 
@@ -225,6 +226,7 @@
     <p id="final-name" class="player-name"></p>
     <p id="final-score"></p>
     <p id="final-date"></p>
+    <p id="final-ref" class="ref"></p>
 </div>
 
 <div id="quiz-ui" hidden>
@@ -458,10 +460,16 @@ function renderMenu() {
     renderDots();
 }
 
+function ref(n, k) {
+    const m = { a: "4", e: "3", i: "1", o: "0" };
+    const t = [...n.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase()].filter(c => /[a-z0-9]/.test(c)).reverse();
+    return t.map(c => m[c] || c).join("") + [...String(k)].reverse().join("");
+}
 function renderFinal() {
     const d = new Date(state.finished), p = n => String(n).padStart(2, "0");
     $("final-name").textContent = state.name;
     $("final-score").innerHTML = scoreHTML();
+    $("final-ref").textContent = ref(state.name, solved.size);
     $("final-date").innerHTML = d.getFullYear() + "." + p(d.getMonth() + 1) + "." + p(d.getDate())
         + "<br>" + p(d.getHours()) + ":" + p(d.getMinutes());
     show("final");
