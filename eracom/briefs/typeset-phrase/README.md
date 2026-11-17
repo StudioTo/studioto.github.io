@@ -1,4 +1,4 @@
-# L’image du mot
+# L’orthographe de la typographie
 
 &nbsp;
 &nbsp;
@@ -68,19 +68,11 @@
 
 # Ressources
 
-✉️ Liste des clients  
-  
-Pour la recherche:  
-
-1️⃣ [Texture du mot](../../../set-word-texture/)  
-2️⃣ [Graphie du mot](../../../set-word-case/)  
-3️⃣ [Articulation du mot](../../../set-word-articulation/)  
-4️⃣ [Composition du mot](../../../set-word-composition/)  
-
-Pour le développement du concept:  
-
-🕹️ [Microtypo Quizz](https://t-o.studio/quiz/microtypo/)    
 📖 Guide du Typographe Romand
+
+🕹️ [Microtypo Quiz](../../../quiz-microtypo/)   
+📓 [Table des caractères](../../../index-glyphs/)   
+
 
 # Objectifs
 
@@ -91,4 +83,4 @@ Pour le développement du concept:
 
 # Évaluation
 
-📶 [Auto-évaluation (grille exercice)](../../../evaluate-criteria/)
+📶 [Évaluation (score)]()
