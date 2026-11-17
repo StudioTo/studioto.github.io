@@ -179,8 +179,8 @@
         justify-content: center;
     }
     .end-text p { font-family: Times, serif; font-size: 60px; margin: 0; line-height: 1.2; }
-    .end-text .player-name { font-size: 110px; margin-bottom: 30px; }
-    #menu-score, #final-score { white-space: pre-line; }
+    .end-text .player-name { margin-bottom: 0; }
+    .thin { display: inline-block; width: 0.16em; } /* espace fine insécable */
     .end-buttons { margin-top: 40px; display: flex; gap: 10px; justify-content: center; }
 
 
@@ -308,17 +308,47 @@ function fit() {
     centerOnXHeight(lines.length);
 }
 
+// Champ du nom : taille adaptée à la largeur du cadre (texte saisi ou « Prénom Nom »)
+function fitName() {
+    const inp = $("name-input");
+    const box = inp.getBoundingClientRect();
+    if (!box.width) return;
+    const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
+    ctx.font = "100px Times, serif";
+    const w = Math.max(1, ctx.measureText(inp.value || inp.placeholder).width);
+    const size = Math.max(20, Math.min(150, (box.width - 100) / w * 100, (box.height - 200) / 1.2));
+    inp.style.fontSize = size + "px";
+}
+
 // Centre verticalement le bloc de texte sur la hauteur d'x (et non sur les capitales) :
 // le milieu de la hauteur d'x, entre la première et la dernière ligne, tombe au milieu du cadre.
 function centerOnXHeight(n) {
     const ctx = fit.ctx;
     ctx.font = fitSize + "px Times, serif";
-    const m = ctx.measureText("x");
-    const xh = m.actualBoundingBoxAscent;
-    const asc = m.fontBoundingBoxAscent, desc = m.fontBoundingBoxDescent;
-    const L = fitSize * 1.2;
-    const baseline1 = (L - (asc + desc)) / 2 + asc;          // ligne de base de la 1re ligne
-    const xMiddle = baseline1 + (n - 1) * L / 2 - xh / 2;     // milieu de la hauteur d'x du bloc
+    const xh = ctx.measureText("x").actualBoundingBoxAscent;
+    // Les lignes de base sont mesurées sur une copie invisible du texte, avec la même mise en forme.
+    // Ainsi, si un caractère absent du Times (espace fine, etc.) est dessiné avec une police de secours
+    // qui agrandit la ligne, le centrage en tient compte et le texte ne descend plus.
+    const lines = field.value.split("\n");
+    const mirror = centerOnXHeight.mirror || (centerOnXHeight.mirror = Object.assign(document.createElement("div"), {
+        style: "position:absolute;left:-99999px;top:0;visibility:hidden;white-space:pre;font-family:Times,serif;line-height:1.2;padding:0;margin:0;border:0"
+    }));
+    if (!mirror.parentNode) document.body.appendChild(mirror);
+    mirror.style.fontSize = fitSize + "px";
+    mirror.innerHTML = "";
+    const marks = lines.map(line => {
+        const row = document.createElement("div");
+        const mark = document.createElement("span");
+        mark.style.cssText = "display:inline-block;width:0;height:0;vertical-align:baseline";
+        row.appendChild(mark);
+        row.appendChild(document.createTextNode(line || "\u200b"));
+        mirror.appendChild(row);
+        return mark;
+    });
+    const top = mirror.getBoundingClientRect().top;
+    const first = marks[0].getBoundingClientRect().top - top;
+    const last = marks[marks.length - 1].getBoundingClientRect().top - top;
+    const xMiddle = (first + last) / 2 - xh / 2;             // milieu de la hauteur d'x du bloc
     field.style.paddingTop = Math.max(0, field.clientHeight / 2 - xMiddle) + "px";
 }
 
@@ -368,12 +398,13 @@ let view = "name";
 function show(v) {
     view = v;
     $("name-screen").hidden = v !== "name";
+    if (v === "name") requestAnimationFrame(fitName);
     $("question-screen").hidden = v !== "question";
     $("menu-screen").hidden = v !== "menu";
     $("final-screen").hidden = v !== "final";
-    $("quiz-ui").hidden = v === "final";
-    $("progress").hidden = v === "name";
-    $("dots").classList.toggle("locked", v === "name");
+    $("quiz-ui").hidden = false;
+    $("progress").hidden = v === "name" || v === "final";
+    $("dots").classList.toggle("locked", v === "name" || v === "final");
     $("question-controls").hidden = v !== "question";
     $("hint-toggle").hidden = v !== "question";
     $("back").hidden = v !== "menu";
@@ -396,12 +427,12 @@ function renderQuestion() {
 }
 
 let resumeAt = 0;
-const scoreText = () => "Score\u202f:\n" + solved.size + " / " + N + (solved.size > 1 ? " points" : " point");
+const scoreHTML = () => 'Score<span class="thin"></span>:<br>' + solved.size + " / " + N + (solved.size > 1 ? " points" : " point");
 
 function renderMenu() {
     state.current = N;
     save();
-    $("menu-score").textContent = scoreText();
+    $("menu-score").innerHTML = scoreHTML();
     show("menu");
     renderDots();
 }
@@ -409,10 +440,11 @@ function renderMenu() {
 function renderFinal() {
     const d = new Date(state.finished), p = n => String(n).padStart(2, "0");
     $("final-name").textContent = state.name;
-    $("final-score").textContent = scoreText();
+    $("final-score").innerHTML = scoreHTML();
     $("final-date").innerHTML = d.getFullYear() + "." + p(d.getMonth() + 1) + "." + p(d.getDate())
         + "<br>" + p(d.getHours()) + ":" + p(d.getMinutes());
     show("final");
+    renderDots();
 }
 
 function goTo(i) {
@@ -484,7 +516,8 @@ field.addEventListener("input", () => {
     const before = fitSize; fit();
     if (fitSize > before) { fitSize = before; field.style.fontSize = before + "px"; }
 });
-window.addEventListener("resize", () => { if (view === "question") fit(); sizeDots(); });
+window.addEventListener("resize", () => { if (view === "question") fit(); if (view === "name") fitName(); sizeDots(); });
+$("name-input").addEventListener("input", fitName);
 
 $("finish").addEventListener("click", () => {
     state.finished = Date.now();
