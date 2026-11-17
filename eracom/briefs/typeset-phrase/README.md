@@ -6,9 +6,9 @@
 
 # Brief
 
-    ●   Compléter le quiz de microtypo en  se basant sur le Guide du Typographe Romand 
+    ●   Appliquer les règles de microtypographie
 
-    1.  Compléter le quiz de microtypo en  se basant sur le Guide du Typographe Romand 
+    1.  Compléter le quiz de microtypo en se basant sur le Guide du Typographe Romand 
 
         ⚠️  individuel
         ⚠️  individuel
@@ -26,10 +26,11 @@
 
 # Objectifs
 
-✅ Connaître les paramètres typographiques qui concerne l’image du mot (C1)   
-✅ Produire des variations sur la base des paramètres de l’image du mot (C3)  
-✅ Utiliser les commandes de mise en forme de paragraphe et de caractère dans InDesign (C3)  
-✅ Analyser des variations de mise en forme et sélectionner la meilleure parmis celles-ci (C4)  
+✅ Connaître les règles de base de la microtypographie (C1)    
+✅ Utiliser un guide de référence pour trouver des règles spécifiques (C3) 
+✅ Utiliser les raccourcis clavier des principaux signes typographique (C3) 
+✅ Utiliser une table de caratères pour trouver des caractères spéciaux (C3) 
+✅ Appliquer les règles de microtypographie (C3)  
 
 # Évaluation
 
