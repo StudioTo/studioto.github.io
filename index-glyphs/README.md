@@ -199,7 +199,7 @@ const index = DATA.items.map(it => ({
     en: norm(it[1]),
     fr: norm(it[2]),
     toks: new Set(norm(it[1] + " " + it[2] + " " + it[3] + " " + it[6] + " " + it[7]).split(" ")),
-    names: (it[2] + "," + it[6]).split(",").map(norm).filter(Boolean),
+    names: (it[2] + "," + it[6] + "," + it[7]).split(",").map(norm).filter(Boolean),   // noms FR, EN et du Guide romand
     seqs: (it[8] || "").split(" ").filter(Boolean),
     hay: norm(it[1] + " " + it[2] + " " + it[3] + " " + it[6] + " " + it[7] + " " + hex(it[0]))
 }));
