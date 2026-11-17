@@ -14,7 +14,17 @@
         text-align: center;
         overflow: hidden;
     }
-    body.flash-correct { background-color: rgb(0, 255, 0); }
+    body.flash-correct { background-color: rgb(111, 238, 77); }
+    body.flash-correct .field, body.flash-wrong .field { border-color: white; }
+    body.flash-correct .pill:not(.title), body.flash-wrong .pill:not(.title),
+    body.flash-correct .round:not(#hint-toggle):not(#progress), body.flash-wrong .round:not(#hint-toggle):not(#progress) { background: white !important; color: black; }
+    body.flash-correct .hint-text, body.flash-wrong .hint-text { background: white; color: black; }
+    /* sur le vert, les boutons colorés deviennent aussi blancs */
+    body.flash-correct div.title, body.flash-correct #hint-toggle, body.flash-correct #progress { background: white !important; color: black; }
+    body.flash-correct .dot, body.flash-wrong .dot { background: white; border-color: white; }
+    body.flash-correct .dot.missed, body.flash-wrong .dot.missed,
+    body.flash-correct .dot.solved, body.flash-wrong .dot.solved { background: transparent; border-color: white; }
+    body.flash-correct .dot.solved::after, body.flash-wrong .dot.solved::after { background: white; }
     body.flash-wrong { background-color: rgb(255, 0, 0); }
 
     .stage {
@@ -322,6 +332,7 @@ function fitName() {
 
 // Centre verticalement le bloc de texte sur la hauteur d'x (et non sur les capitales) :
 // le milieu de la hauteur d'x, entre la première et la dernière ligne, tombe au milieu du cadre.
+let baselineY = 0, lockBaseline = null;
 function centerOnXHeight(n) {
     const ctx = fit.ctx;
     ctx.font = fitSize + "px Times, serif";
@@ -349,7 +360,14 @@ function centerOnXHeight(n) {
     const first = marks[0].getBoundingClientRect().top - top;
     const last = marks[marks.length - 1].getBoundingClientRect().top - top;
     const xMiddle = (first + last) / 2 - xh / 2;             // milieu de la hauteur d'x du bloc
-    field.style.paddingTop = Math.max(0, field.clientHeight / 2 - xMiddle) + "px";
+    if (lockBaseline !== null) {
+        // pendant la saisie : la 1re ligne de base reste exactement où elle était
+        field.style.paddingTop = Math.max(0, lockBaseline - first) + "px";
+        return;
+    }
+    const pad = Math.max(0, field.clientHeight / 2 - xMiddle);
+    field.style.paddingTop = pad + "px";
+    baselineY = pad + first;
 }
 
 // Centre optiquement les glyphes des boutons ronds (flèches, ⁉, ℹ) sur leur dessin réel.
@@ -513,8 +531,12 @@ field.addEventListener("keydown", e => {
 });
 field.addEventListener("input", () => {
     // ne fait que rétrécir pendant la saisie, pour éviter que le texte saute
-    const before = fitSize; fit();
-    if (fitSize > before) { fitSize = before; field.style.fontSize = before + "px"; }
+    // ne fait que rétrécir pendant la saisie, et garde la ligne de base à la même hauteur
+    const before = fitSize;
+    lockBaseline = baselineY;
+    fit();
+    if (fitSize > before) { fitSize = before; field.style.fontSize = before + "px"; centerOnXHeight(field.value.split("\n").length); }
+    lockBaseline = null;
 });
 window.addEventListener("resize", () => { if (view === "question") fit(); if (view === "name") fitName(); sizeDots(); });
 $("name-input").addEventListener("input", fitName);
