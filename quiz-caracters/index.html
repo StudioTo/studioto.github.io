@@ -246,7 +246,7 @@
 <!-- écran 1 : nom -->
 <form id="name-screen" class="stage" hidden autocomplete="off" novalidate>
     <div id="choice" class="field choice">
-        <button type="button" class="pill" id="go-new">Nouveau</button>
+        <button type="button" class="pill" id="go-new">Commencer</button>
         <button type="button" class="pill" id="go-resume">Reprendre</button>
     </div>
     <input id="name-input" class="field" type="text" placeholder="Prénom Nom" hidden>
@@ -265,7 +265,7 @@
 <div id="menu-screen" class="end-text" hidden>
     <p id="menu-score"></p>
     <div class="end-buttons">
-        <button id="save" class="pill" type="button">Sauver</button>
+        <button id="save" class="pill" type="button">Sauvegarder</button>
         <button id="finish" class="pill" type="button">Terminer</button>
     </div>
     <p id="save-code" class="ref" hidden></p>
@@ -290,7 +290,7 @@
         <button type="button" class="pill" id="check">Check</button>
         <button type="button" class="round" id="next" title="Question suivante"><svg class="arrow" viewBox="0 0 26 16" aria-hidden="true"><path d="M1 8H24M17 1.5L24 8L17 14.5"/></svg></button>
     </div>
-    <button type="button" class="round" id="quit" title="Sauver ou terminer"><svg class="cross" viewBox="0 0 16 16" aria-hidden="true"><path d="M2 2L14 14M14 2L2 14"/></svg></button>
+    <button type="button" class="round" id="quit" title="Sauvegarder ou terminer"><svg class="cross" viewBox="0 0 16 16" aria-hidden="true"><path d="M2 2L14 14M14 2L2 14"/></svg></button>
     <button type="button" class="round" id="progress" title="Score"><span>ℹ</span></button>
     <nav class="dots" id="dots"></nav>
 </div>
@@ -566,13 +566,14 @@ function fitEnd() {
     box.style.setProperty("--fs", Math.max(12, 60 * k) + "px");
 }
 
-let menuMode = "info";   // "info" : score seul (ℹ) · "exit" : Sauver / Terminer (×)
+let menuMode = "info";   // "info" (ℹ) : score et note seuls · "exit" (×) : Sauvegarder / Terminer seuls
 function renderMenu() {
     state.current = N;
     save();
     $("menu-score").innerHTML = scoreHTML();
+    $("menu-score").hidden = menuMode === "exit";   // × : pas de score ni de note
     $("save-code").hidden = true;
-    document.querySelector("#menu-screen .end-buttons").hidden = menuMode !== "exit";
+    document.querySelector("#menu-screen .end-buttons").hidden = menuMode !== "exit";   // ℹ : pas de boutons
     show("menu");
     renderDots();
     fitEnd();
@@ -769,7 +770,7 @@ $("save").addEventListener("click", async () => {
     try {
         await navigator.clipboard.writeText(code);
         $("save").textContent = "Copié";
-        setTimeout(() => { $("save").textContent = "Sauver"; }, 2000);
+        setTimeout(() => { $("save").textContent = "Sauvegarder"; }, 2000);
     } catch (e) {}
 });
 $("question-screen").addEventListener("submit", e => { e.preventDefault(); check(); });
