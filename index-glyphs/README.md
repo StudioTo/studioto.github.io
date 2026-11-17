@@ -64,6 +64,7 @@
 #gm-tip.open { display: block; }
 #gm-tip, #gm-tip div { font-size: 13px; line-height: 1.4; color: var(--gm-muted); }
 #gm-tip .gm-gap { height: 8px; }
+#gm-tip kbd { display: inline-block; min-width: 1.4em; padding: 0 5px; font: inherit; line-height: 1.5; text-align: center; color: var(--gm-text); background: #fafbfc; border: 1px solid #d1d5da; border-bottom-width: 2px; border-radius: 4px; }
 #gm-toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%) translateY(10px); background: #24292e; color: #fff; font-size: 14px; padding: 8px 14px; border-radius: 6px; opacity: 0; pointer-events: none; transition: opacity .15s ease, transform .15s ease; z-index: 30; white-space: nowrap; }
 #gm-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
 #gm-toast b { font-size: 20px; font-weight: normal; vertical-align: middle; }
@@ -135,7 +136,7 @@ function showTip(cell) {
     const [cp, en, fr, , , , enal, ch] = it;
     const line = (tag, txt) => '<div>' + tag + ' : ' + esc(txt) + '</div>';
     const langs = (ch ? line("CH", ch) : "") + (fr ? line("FR", fr) : "") + (enal ? line("EN", enal) : "");
-    const mac = it[9] ? '<div>Mac : ' + esc(it[9]) + '</div>' : "";
+    const mac = it[9] ? '<div>Mac : ' + keysHTML(it[9]) + '</div>' : "";
     tip.innerHTML = '<div>' + uplus(cp) + '</div>' + mac + '<div>' + esc(title(en)) + '</div>'
                   + (langs ? '<div class="gm-gap"></div>' + langs : "");
     tip.classList.add("open");
@@ -145,6 +146,13 @@ function showTip(cell) {
     if (top + t.height > window.innerHeight - 8) top = r.top - t.height - 6;
     tip.style.left = left + "px"; tip.style.top = top + "px";
     tipCell = cell;
+}
+// Raccourci en touches dessinées : « ⌥ , » → [⌥ option] + [,]
+const KEYNAMES = {"⌥": "⌥ option", "⇧": "⇧ maj", "espace": "espace"};
+function keysHTML(txt) {
+    return txt.split(/\s+ou\s+/).map(alt => alt.split(/,\s+puis\s+/).map(step =>
+        step.trim().split(/\s+/).map(k => '<kbd>' + esc(KEYNAMES[k] || k) + '</kbd>').join(" + ")
+    ).join(" puis ")).join(" ou ");
 }
 function hideTip() { tip.classList.remove("open"); tipCell = null; }
 $("gm-main").addEventListener("mouseover", e => {
