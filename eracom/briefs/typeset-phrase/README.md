@@ -26,10 +26,10 @@
 
 # Objectifs
 
-✅ Connaître les règles de base de la microtypographie (C1)    
-✅ Utiliser un guide de référence pour trouver des règles spécifiques (C3) 
-✅ Utiliser les raccourcis clavier des principaux signes typographique (C3) 
-✅ Utiliser une table de caratères pour trouver des caractères spéciaux (C3) 
+✅ Connaître les règles de base de la microtypographie (C1)  
+✅ Utiliser un guide de référence pour trouver des règles spécifiques (C3)  
+✅ Utiliser les raccourcis clavier des principaux signes typographique (C3)  
+✅ Utiliser une table de caratères pour trouver des caractères spéciaux (C3)  
 ✅ Appliquer les règles de microtypographie (C3)  
 
 # Évaluation
