@@ -1,0 +1,27 @@
+<!-- Liens : couleur aléatoire au survol, différente à chaque fois -->
+<script>
+  (function () {
+    var lastHue = Math.random() * 360;
+
+    function randomColor() {
+      // nouvelle teinte, au moins 60° de l'ancienne pour que le changement se voie
+      lastHue = (lastHue + 60 + Math.random() * 240) % 360;
+      return "hsl(" + Math.round(lastHue) + ", 85%, 45%)";
+    }
+
+    function on(e) {
+      var a = e.target.closest && e.target.closest("a");
+      if (a && !a.contains(e.relatedTarget)) a.style.color = randomColor();
+    }
+
+    function off(e) {
+      var a = e.target.closest && e.target.closest("a");
+      if (a && !a.contains(e.relatedTarget)) a.style.color = "";
+    }
+
+    document.addEventListener("mouseover", on);
+    document.addEventListener("mouseout", off);
+    document.addEventListener("focusin", on);   // clavier (Tab)
+    document.addEventListener("focusout", off);
+  })();
+</script>

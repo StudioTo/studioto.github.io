@@ -40,3 +40,28 @@ tt,
 .markdown-body tt {
   font-family: var(--font-mono);
 }
+
+/* ---------- Liens ----------
+   noir par défaut, sans soulignement, à toutes les tailles et dans tous les niveaux de titre ;
+   la couleur aléatoire au survol est appliquée par _includes/head-custom.html */
+a,
+a:visited,
+a:active,
+.markdown-body a,
+.markdown-body a:visited,
+.markdown-body h1 a,
+.markdown-body h2 a,
+.markdown-body h3 a,
+.markdown-body h4 a,
+.markdown-body h5 a,
+.markdown-body h6 a {
+  color: #000;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus,
+.markdown-body a:hover,
+.markdown-body a:focus {
+  text-decoration: none;
+}
