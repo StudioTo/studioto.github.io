@@ -33,13 +33,9 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Articulation](/word-articulation) | #unités typographiques, #mot | 📶 |
 | [Composition](/word-composition) | #unités typographiques, #mot | ↔️ |
 | [Orthographe typographique (micro)](/micro-typography) | #unités typographiques, #ligne | 🖍️ |
-| [Composition](/line-composition) | #unités typographiques, #ligne | ↔️ |
-| [Articulation](/line-articulation) | #unités typographiques, #ligne | 📶 |
-| [Mise en forme](/line-layout) | #unités typographiques, #ligne | ⏹️ |
+| [Ligne](/line) | #unités typographiques, #ligne | ↔️ |
 | [Lisibilité (macro)](/macro-typography) | #unités typographiques, #colonne | 🔎 |
-| [Composition](/column-composition) | #unités typographiques, #colonne | ↔️ |
-| [Articulation](/column-articulation) | #unités typographiques, #colonne | 📶 |
-| [Mise en page](/page-layout) | #unités typographiques, #colonne | ⏹️ |
+| [Colonne](/column) | #unités typographiques, #colonne | ↔️ |
 | [Formes en mouvement](/moving-shapes) | #animation | 📽️ |
 | [Construction des caractères](/character-construction) | #glyphes | ✏️ |
 | [Numérisation de croquis](/sketch-digitization) | #glyphes | 📸 |
@@ -65,7 +61,7 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Objectifs](/objectives) | #cours | *️⃣ |
 | [Méthode](/method) | #cours | 🔁 |
 | [Programme](/program) | #cours | 🔡 |
-| [Évaluation](/evaluation) | #cours | 📶 |
+| [Évaluation](/evaluation) | #cours, #outil | 📶 |
 | [Rendus](/submission) | #cours | ⬇️ |
 | [Règles](/rules) | #cours | 🧑‍🧑‍🧒‍🧒 |
 

@@ -1,51 +1,46 @@
 ---
-title: "Composition"
+title: "Colonne"
 toc: true
-permalink: /column-composition/
+permalink: /column/
 redirect_from:
+  - /column-composition/
   - /set-column-composition/
+  - /column-articulation/
+  - /set-column-articulation/
+  - /page-layout/
+  - /set-column-layout/
 ---
 
-# Composition
+# Colonne
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
-- [Introduction](#introduction)
-- [Mots / Ligne](#mots-ligne)
-- [Inter-ligne](#inter-ligne)
-- [Division en colonnes](#division-en-colonnes)
-- [Alignement](#alignement)
-- [Drapeau](#drapeau)
+- [Composition](#composition)
+- [Articulation](#articulation)
+- [Mise en page](#mise-en-page)
 - [Sources](#sources)
 
 <!-- /toc -->
 
-## Introduction
+## Composition
 
 La composition des colonnes concerne l’organisation du texte en largeur et en hauteur au sein de la zone de texte.
 
-- [Mots / Ligne](#mots-ligne)
-- [Inter-ligne](#inter-ligne)
-- [Division en colonnes](#division-en-colonnes)
-- [Alignement](#alignement)
-- [Drapeau](#drapeau)
-
   
-&nbsp;
 
-## Mots / Ligne {#mots-ligne}  
+### Mots / Ligne {#mots-ligne}  
 
 |![](https://studioto.github.io/media/column-composition/0-colonne41.gif) |
 |:---:|
 | Le nombre de mots par ligne influence directement la lisibilité du texte (optimum 8-12) |
 
-## Inter-ligne {#inter-ligne}
+### Inter-ligne {#inter-ligne}
 
 |![](https://studioto.github.io/media/column-composition/0-colonne47.gif) |
 |:---:|
 | Un corps plus grand demande moins d’interlignage, alors qu’un corps plus petit nécessite plus d’espace entre les lignes |
 
-## Division en colonnes {#division-en-colonnes}
+### Division en colonnes {#division-en-colonnes}
 
 |![](https://studioto.github.io/media/column-composition/0-colonne55.gif) |
 |:---:|
@@ -55,18 +50,35 @@ La composition des colonnes concerne l’organisation du texte en largeur et en 
 |:---:|
 | L’enjeu principal de la justification est d’éviter l’apparition de lézardes dans le gris typographique |
 
-## Alignement {#alignement}
+### Alignement {#alignement}
 
 |![](https://studioto.github.io/media/column-composition/0-colonne69.gif) |
 |:---:|
 | Le texte peut être aligné à gauche, à droite, centré ou justifié, selon l’effet recherché |
 
-## Drapeau {#drapeau}
+### Drapeau {#drapeau}
 
 |![](https://studioto.github.io/media/column-composition/0-colonne73.gif) |
 |:---:|
 | Le drapeau désigne l’ajustement du bord irrégulier du texte non justifié par un travail d’espacement, de césure et de retour à la ligne |
 
+## Articulation
+
+L’articulation de la lecture désigne la manière dont le texte est structuré pour guider l’œil du lecteur. Hiérarchies visuelles, alinéas, retours à la ligne et espacements permettent de distinguer les niveaux d’importance et de faciliter la compréhension.
+  
+
+|![](https://studioto.github.io/media/column-articulation/0-colonne79.gif) |
+|:---:|
+| Texte brut → Texte structuré |
+
+## Mise en page
+
+La mise en page consiste à organiser la zone de lecture (les colonnes) dans le format global, en tenant compte des marges, du folio et des mentions de section. Elle définit la structure de navigation et assure une lecture claire et hiérarchisée.
+  
+
+|![](https://studioto.github.io/media/page-layout/0-colonne93.gif) |
+|:---:|
+| Zone de texte + Folio + Section |
 
 ## Sources
 
