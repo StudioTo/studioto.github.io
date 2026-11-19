@@ -8,39 +8,140 @@ redirect_from:
 
 # Histoire de la typographie
 
-🗂️ **Classification Historique**
+<!-- frise de navigation : une pastille par catégorie de la classification historique (titres marqués *) -->
+<nav id="th-timeline" aria-label="Classification historique">
+  <span class="th-label"></span>
+  <span class="th-track"><span class="th-line"></span><span class="th-thumb"></span></span>
+</nav>
 
-- [Incises](#%EF%B8%8F-incises)
-- [Onciales](#%EF%B8%8F-onciales)
-- [Cursives](#%EF%B8%8F-cursives)
-- [Fractures](#%EF%B8%8F-fractures)
-- [Humanes](#%EF%B8%8F-humanes)
-- [Garaldes](#%EF%B8%8F-garaldes)
-- [Réales](#%EF%B8%8F-réales)
-- [Didones](#%EF%B8%8F-didones)
-- [Mécanes](#%EF%B8%8F-mécanes)
-- [Monospaces](#%EF%B8%8F-monospaces)
-- [Expressives](#%EF%B8%8F-expressives)
-- [Grotesques](#%EF%B8%8F-grotesques)
-- [Humanistes](#%EF%B8%8F-humanistes)
-- [Géométriques](#%EF%B8%8F-géométriques)
-- [Néo-Grotesques](#%EF%B8%8F-néo-grotesques)
-- [Non-Latines](#%EF%B8%8F-non-latines)
-- [Hybrides](#%EF%B8%8F-hybrides)
+<style>
+#th-timeline {
+  position: sticky;
+  top: var(--sticky-h, 119px);
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  height: 60px;
+  margin: 0 0 24px;
+  background: #fff;
+  border-bottom: var(--line);
+}
+#th-timeline .th-label {
+  flex: none;
+  width: 160px;
+  font-size: 16px;
+  line-height: 24px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+#th-timeline .th-track {
+  position: relative;
+  flex: 1;
+  height: 20px;
+  margin: 0 7px;               /* la pastille du bout reste dans la barre */
+}
+#th-timeline .th-line {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 10px;
+  height: 1px;
+  background: #d0d7de;
+}
+#th-timeline .th-dot {
+  position: absolute;
+  top: 0;
+  width: 20px;
+  height: 20px;
+  margin-left: -10px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+}
+#th-timeline .th-dot::before {
+  content: "";
+  position: absolute;
+  left: 7px;
+  top: 7px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #d0d7de;
+}
+#th-timeline .th-dot.passed::before {
+  background: #1f2328;
+}
+#th-timeline .th-thumb {
+  position: absolute;
+  top: 3px;
+  width: 14px;
+  height: 14px;
+  margin-left: -7px;
+  border-radius: 50%;
+  background: #1f2328;
+  pointer-events: none;
+}
+.th-notes p {
+  font-size: 16px;
+  line-height: 24px;
+}
+</style>
 
-<!-- 🛠️ **Avancées technologiques**
+<script>
+(function () {
+  function setup() {
+    var nav = document.getElementById("th-timeline");
+    if (!nav) return;
+    var track = nav.querySelector(".th-track"), thumb = nav.querySelector(".th-thumb"), label = nav.querySelector(".th-label");
+    var heads = Array.prototype.slice.call(document.querySelectorAll(".markdown-body h2"));
+    // catégories : titres terminés par une seule *
+    var cats = heads.filter(function (h) { return /[^*]\*$/.test(h.textContent.trim()); });
+    if (!cats.length) return;
+    var name = function (h) { return h.textContent.trim().replace(/\s*\*+$/, ""); };
+    var last = Math.max(cats.length - 1, 1);
 
-- [Invention de l’alphabet](#-1100-alpabet-occidental-moderne)
-- [Invention des chiffres latins](#1202-chiffres-latins)
-- [Invention de l’italique](#1500-litalique)
-- [Invention des caractères mobiles](#1450-gutenberg)
-- [Invention de la machine à écrire](#1829-machine-à-écrire)
-- [Invention de la composition à chaud](#1880-automatisation)
-- [Invention de la photo-composition](#1950-développements-daprès-guerre)
-- [Invention de la typographie digitale](#1968--aujourdhui-typographie-digitale) -->
+    // les titres arrivent sous l'en-tête et sous la frise
+    heads.forEach(function (h) { h.style.scrollMarginTop = "calc(var(--sticky-h, 119px) + 60px)"; });
 
-&nbsp;
+    var dots = cats.map(function (h, i) {
+      var b = document.createElement("button");
+      b.type = "button";
+      b.className = "th-dot";
+      b.style.left = (i / last * 100) + "%";
+      b.title = name(h);
+      b.setAttribute("aria-label", name(h));
+      b.addEventListener("click", function () { h.scrollIntoView({ behavior: "smooth" }); });
+      track.insertBefore(b, thumb);
+      return b;
+    });
 
+    function update() {
+      var top = (parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sticky-h"), 10) || 0) + 60;
+      var y = top + 1;
+      var pos = 0, k = -1;
+      for (var i = 0; i < cats.length; i++) {
+        if (cats[i].getBoundingClientRect().top <= y) k = i;
+      }
+      if (k >= 0 && k < cats.length - 1) {
+        var a = cats[k].getBoundingClientRect().top, b = cats[k + 1].getBoundingClientRect().top;
+        pos = k + Math.min(1, Math.max(0, (y - a) / (b - a)));
+      } else {
+        pos = Math.max(k, 0);
+      }
+      thumb.style.left = (pos / last * 100) + "%";
+      dots.forEach(function (d, i) { d.classList.toggle("passed", i <= k); });
+      label.textContent = k >= 0 ? name(cats[k]) : "Classification";
+    }
+    window.addEventListener("scroll", update, { passive: true });
+    window.addEventListener("resize", update);
+    update();
+  }
+  if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", setup); else setup();
+})();
+</script>
 
 ## -64'000 : Représentations symboliques
 Les traces peintes dans les grottes préhistoriques représentaient probablement des idées, des concepts spirituels, ou des symboles culturels, mais il n’y avait pas de grammaire ou de structure linguistique systématique derrière ces images. Elles servaient plutôt à des fins rituelles, artistiques ou symboliques.
@@ -154,9 +255,9 @@ Les Étrusques ont joué un rôle essentiel dans le développement de Rome, tout
 | Cippus Perusinus, près de Pérouse, Italie                                        | Évolution du grec au latin                                        |
 
 ## -753 : Antiquité Romaine
-## 🛠️ Gravure sur pierre
+## Gravure sur pierre \*\*
 Les inscriptions romaines sont gravées (ductus = mode d’emploi) au ciseau sur la pierre.
-## 🗂️ Incises
+## Incises \* {#incises}
 À mesure que l’Empire Romain est devenu la puissance dominante, il a synthétisé les influences étrusques pour créer une culture unique. La capitale monumentale romaine incarne ainsi l’autorié de l’empire et témoigne du développement architectural et urbain de Rome.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history-v2_017.jpg)|
@@ -176,9 +277,9 @@ Les inscriptions romaines sont gravées (ductus = mode d’emploi) au ciseau sur
 | Les inscriptions romaines sont gravées (ductus = mode d’emploi) au ciseau sur la pierre.                                       |
 
 ## 0 – 476 : Empire Romain
-## 🛠️ Calligraphie à la plume
+## Calligraphie à la plume \*\*
 Les formes des lettres évoluent : on passe de lettres ciselées dans la pierre à des lettres tracées à la plume de roseau (calame).
-## 🗂️ Onciales
+## Onciales \* {#onciales}
   Le script oncial était officiellement utilisé dans l’empire pour la copie de textes littéraires, religieux et bibliques sur sur parchemin.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_039.jpg)|![](https://studioto.github.io/media/typography-history/overview-writing-history_043.jpg)|
@@ -226,7 +327,7 @@ Les formes des lettres évoluent : on passe de lettres ciselées dans la pierr
 | Généalogie des chiffres latins                                        |
 
 ## 1200 – 1450 : Gothique
-## 🗂️ Fractures
+## Fractures \* {#fractures}
 La minuscule carolingienne devient plus étroite (plus de lettres sur une ligne), les arrondis des lettres commencent à se briser (calligraphie « fracturée »).
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_057.jpg)|
@@ -238,7 +339,7 @@ La minuscule carolingienne devient plus étroite (plus de lettres sur une ligne)
 | Ductus gothique                                        |
 
 ## 1350 – 1420 : Écriture de Chancellerie
-## 🗂️ Cursives
+## Cursives \* {#cursives}
 L’écriture de chancellerie trouve son origine dans la calligraphie à plume large utilisée par la chancellerie italienne pour les relations commerciales pendant la Renaissance. Cette écriture devait être calligraphiée rapidement, d’où son appelation « cursive » (qui court).
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history-v4_001.png)|
@@ -246,7 +347,7 @@ L’écriture de chancellerie trouve son origine dans la calligraphie à plume l
 | Écriture de Chancellerie anglaise, Lettre de Henri V, 1418                                         |
   
 ## 1450 : Gutenberg
-## 🛠️ Caractères mobiles
+## Caractères mobiles \*\*
 L’invention de l’imprimerie par Gutenberg marque le début de la Renaissance en révolutionnant la manière dont le savoir est partagé et conservé en Europe.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_068.jpg)|
@@ -281,7 +382,7 @@ La Renaissance ravive l’intérêt porté à la littérature classique et met e
 | Minuscules humanistes : retour aux formes arrondies                                        |
 
 ## 1495 : Imprimeurs italiens
-## 🗂️ Humanes
+## Humanes \* {#humanes}
 À Venise, Aldo Manuce cherche à reproduire la plus belle graphie possible avec des caractères en métal.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_077.jpg)|![](https://studioto.github.io/media/typography-history/overview-writing-history_078.jpg)|
@@ -296,7 +397,7 @@ Apparition de l’italique, inspirée de l’écriture utilisée par la chancell
 | Cursive humaniste calligraphiée                                        | Italique humaniste imprimée                                        |
 
 ## 1540 : Imprimeurs Français
-## 🗂️ Garaldes
+## Garaldes \* {#garaldes}
 Successeur des Vénitiens, Claude Garamond affine le dessin des lettres en privilégiant des formes plus raffinées et élancées.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_087.jpg)|
@@ -304,7 +405,7 @@ Successeur des Vénitiens, Claude Garamond affine le dessin des lettres en privi
 | Garamond imprimé                                        |
   
 ## 1600 – 1660 : Baroque
-## 🗂️ Réales
+## Réales \* {#reales}
 L’esprit des lumières et du roi (réale > rex > roi) : la rationalisation du dessin.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_089.jpg)|
@@ -320,7 +421,7 @@ L’esprit des lumières et du roi (réale > rex > roi) : la rationalisation d
 | Baskerville imprimé                                        |
   
 ## 1660 – 1715 : Néo-Classicisme
-## 🗂️ Didones
+## Didones \* {#didones}
 Premier empire français : les techniques d’impression deviennet plus précises, le dessin des lettres devient donc encore plus fin.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_093.jpg)|
@@ -339,7 +440,7 @@ Grâce à des innovations technologiques, on passe d’une économie agraire et 
 | Rupture entre le travail de la terre et le travail à l’usine                                        |
 
 ## 1808 : Affiches
-## 🗂️ Expressives
+## Expressives \* {#expressives}
 Pendant les premiers siècles de l’imprimerie, les caractères d’affichage n’existaient généralement pas. L’apparition du format affiche et la généralisation de la signalétique ont favorisé l’apparition de nouvelles formes de lettres (désormais réalisables grâce aux nouvelles techniques d’impression).
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_112.jpg)|
@@ -359,7 +460,7 @@ Pendant les premiers siècles de l’imprimerie, les caractères d’affichage n
 | Rounded                                        |
 
 ## 1820 : Les titres de journeaux
-## 🗂️ Mécanes
+## Mécanes \* {#mecanes}
 Les slabs-sérifs (mécanes) deviennent populaires suite à la campagne d’égypte de Napoléon. De plus, les empattement rectangulaires réagissent bien à la technique d’impression de l’époque.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history-v3_003.png)|
@@ -371,7 +472,7 @@ Les slabs-sérifs (mécanes) deviennent populaires suite à la campagne d’égy
 | Titres de journaux                                        |
 
 ## 1829 : Machine à écrire
-## 🗂️ Monospaces
+## Monospaces \* {#monospaces}
 Sur une machine à écrire, chaque lettre occupe la même largeur (chasse fixe) afin de simplifier le mécanisme.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_106.png)|![](https://studioto.github.io/media/typography-history/overview-writing-history_107.png)|
@@ -383,7 +484,7 @@ Sur une machine à écrire, chaque lettre occupe la même largeur (chasse fixe) 
 | Texte tapé à la machine à écrire                                       |
 
 ## 1830 : Impressions publicitaires
-## 🗂️ Grotesques
+## Grotesques \* {#grotesques}
 Le terme « grotesque » viendrait de l’italien « grottesco », qui signifie « appartenant à la grotte » en raison de leur aspect géométrique simple puisque dénué de sérifs. Il résulte d’une comparaison négative avec les caractères à empattement de l’époque, considérés comme plus nobles. Dans un premier temps, les premières sans-sérifs sont principalement utilisées pour de la publicité.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_124.jpg)|
@@ -399,7 +500,7 @@ Le terme « grotesque » viendrait de l’italien « grottesco », qui s
 | Affiche publicitaire pour un saut en parachute dans les jardins de la Rotunda, Dublin                                        |
 
 ## 1880 : Automatisation
-## 🛠️ Composition à chaud
+## Composition à chaud \*\*
 L’inventeur américain Ottmar Mergenthaler, parfois appelé « le second Gutenberg », se lasse des efforts nécessaires à la composition manuelle et cherche à mettre au point une méthode de composition mécanique. Il invente la machine Linotype qui permet de fondre des alliages métalliques pour créer des lignes de type en un seul bloc, permettant une impression rapide et efficace en utilisant un système de composition automatisé.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_099.jpg)|
@@ -418,7 +519,7 @@ Suite aux guerres mondiales, le modernisme cherche à rompre avec les traditions
 | L’école du Bauhaus a révolutionné les pratiques artistiques en promouvant une approche fonctionnelle et esthétique du design                                        |
 
 ## 1916 : Redécouverte des capitales romaines
-## 🗂️ Humanistes
+## Humanistes \* {#humanistes}
 Capitales romaines + Minuscules carolingiennes
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_137.jpg)|
@@ -434,7 +535,7 @@ Capitales romaines + Minuscules carolingiennes
 | La librairie Douglas Cleverdon avec les lettres peintes par Eric Gill à Bristol (première apparition de la Gill Sans)                                        |
 
 ## 1927 : Constructivisme
-## 🗂️ Géométriques
+## Géométriques \* {#geometriques}
 Construction modulaire avec des formes primaires (carré, rond, triangle)
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_129.jpg)|![](https://studioto.github.io/media/typography-history/overview-writing-history_130.jpg)|
@@ -449,7 +550,7 @@ Construction modulaire avec des formes primaires (carré, rond, triangle)
 Le postmodernisme est un mouvement artistique caractérisé par un scepticisme envers les grands récits et idéologies et une tendance à célébrer l’ironie, la pluralité et la déconstruction des normes établies.
 
 ## 1950 : Développements d’après-guerre
-## 🛠️ Composition à froid (photo-composition)
+## Composition à froid (photo-composition) \*\*
 La photo-composition repose sur la photographie de caractères et leur projection sur un support photo-sensible. Les variantes ultérieures des machines à photocomposer comporte des écrans à tube cathodique pour afficher les caractères déjà numérisés.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_151.jpg)|![](https://studioto.github.io/media/typography-history/overview-writing-history_152.jpg)|
@@ -461,7 +562,7 @@ La photo-composition repose sur la photographie de caractères et leur projectio
 | Les caractères sont stockés sur des disques pour pouvoir être exposés sur des supports photographiques                                        |
 
 ## 1960 : Style International
-## 🗂️ Néo-Grotesques
+## Néo-Grotesques \* {#neo-grotesques}
 Le style international incarne la volonté de représenter l’information de manière objective et systématique (grid Systems, couleurs unies, neutralité). Chaque élément du design doit avoir une fonction précise et servir le message. Le dessin des grotesques évolue : uniformisation de la graisse, simplification des formes.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_145.jpg)|
@@ -495,7 +596,7 @@ Le style international incarne la volonté de représenter l’information de ma
 ## 1968 — Aujourd’hui : Typographie digitale
 
 ## 1965 : Numérique
-## 🛠️ Caractères assemblés numériquement (typographie digitale)
+## Caractères assemblés numériquement (typographie digitale) \*\*
 Le Digiset étant une opération entièrement digitale, elle a permis aux dessinateurs de caractères de partager leur travail sur des disquettes, mais aussi d’y revenir à tout moment pour y apporter des modifications.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_166.jpg)|
@@ -507,7 +608,7 @@ Le Digiset étant une opération entièrement digitale, elle a permis aux dessin
 | Digi-Grotesk, première fonte digitale                                        |
 
 ## 1965 : Numérisation
-## 🔧 OCR (Optical Character Recognition)
+## OCR (Optical Character Recognition) \*\*
 La technologie de reconnaissance optique des caractères permet d’identifier les caractères imprimés et de les reproduire / enregistrer sous forme d’informations numériques.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history-v3_006.png)|
@@ -523,7 +624,7 @@ La technologie de reconnaissance optique des caractères permet d’identifier l
 | Reconnaissance de la lettre par décomposition en modules simples                                        | Traduction de la forme dans une grille matricielle                                       |
 
 ## 1970 : Grille de pixels
-## 🔧 Bitmap
+## Bitmap \*\*
 Le système matriciel utilise une combinaison de pixels pour créer des caractères individuels. Bien que des fichiers distincts pour chaque taille et résolution soit nécessaires (coûteux en mémoire à l’époque), les bitmaps ont grandement facilité l’utilisation et le transfert des fontes.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_168.jpg)|
@@ -535,7 +636,7 @@ Le système matriciel utilise une combinaison de pixels pour créer des caractè
 | Sélection de fontes bitmap                                        |
 
 ## 1980 : Vecteurs
-## 🔧 Postscript
+## Postscript \*\*
 La grilles de pixels finalement est remplacée par des tracés vectoriels, qui permettent aux concepteurs de mettre à l’échelle n’importe quel symbole sans perte de qualité.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_170.jpg)|![](https://studioto.github.io/media/typography-history/overview-writing-history_171.jpg)|
@@ -555,8 +656,8 @@ La grilles de pixels finalement est remplacée par des tracés vectoriels, qui p
 | PostScript (PS) : deux fichiers (un pour l’écran et un pour l’impression). TrueType (TT) : un seul fichier qui fait à la fois office de fichier d’écran et d’impression.                                        |
 
 ## 1978 : Character-sets étendus
-## 🗂️ Non-Latines
-## 🛠️ Dingbats & Pi Fonts (symboles à la place des lettres)
+## Non-Latines \* {#non-latines}
+## Dingbats & Pi Fonts (symboles à la place des lettres) \*\*
 Historiquement en typographie, un *dingbat* est un ornement (souvent utilisé pour délimiter des espaces ou créer des contours). Au débuts de la typographie digitale, la technologie de l’époque ne permettait pas de stocker des symboles en plus des lettres dans un même fichier fonte. Par conséquent, les fontes *Dingbats* (symboles) ou les fontes *Pi* (symboles mathématiques) étaient des fichiers fontes entièrement dédiés aux symboles. Les symboles étaient stockés dans les emplacements normalement dédiés aux lettres.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_159.jpg)|![](https://studioto.github.io/media/typography-history/overview-writing-history_157.jpg)|
@@ -564,8 +665,8 @@ Historiquement en typographie, un *dingbat* est un ornement (souvent utilisé po
 | Poème composé avec des dingbats (contours, sections), Hill’s Manual                                        | Zapf Dingbats de Hermann Zapf                                        |
 
 ## 1988 : Super familles
-## 🗂️ Hybrides
-## 🛠️ Superfamille (variations stylistiques sur le même squelette)
+## Hybrides \* {#hybrides}
+## Superfamille (variations stylistiques sur le même squelette) \*\*
 Famille hybrides qui comprennent notamment des fontes avec et sans empatements, de même que des fontes linéaires et contrastées, toutes basées sur le même squelette.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_161.jpg)|
@@ -573,7 +674,7 @@ Famille hybrides qui comprennent notamment des fontes avec et sans empatements, 
 | Rotis, Otl Aicher                                        |
 
 ## 1996 : TrueType + PostScript
-## 🔧 Opentype
+## Opentype \*\*
 Le format OpenType est un format de police de caractères unifié qui combine les technologies TrueType (Apple) et Type 1 PostScript (Adobe), offrant une large compatibilité multiplateforme et la prise en charge de fonctionnalités typographiques telles que les substitutions ou la gestion de différents systèmes d’écriture.
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_175.jpg)|
@@ -581,7 +682,7 @@ Le format OpenType est un format de police de caractères unifié qui combine le
 | En raison de sa flexibilité, l’openType s’impose comme le format de référence sur les plates-formes informatiques                                        |
 
 ## 2016 : Interpolations
-## 🔧 OpenType Variable Fonts
+## OpenType Variable Fonts \*\*
 Les polices variables contiennent plusieurs masters dans un fichier unique et permettent d’interpoler entre ces masters le long de différents axes
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_176.jpg)|
@@ -597,5 +698,12 @@ Les polices variables contiennent plusieurs masters dans un fichier unique et pe
 |![](https://studioto.github.io/media/typography-history/overview-writing-history_178.jpg)|
 |:------------------------------------------:|
 | Adrian Frutiger, Quelles seront les formes de demain ?                                        |
+
+<div class="th-notes" markdown="1">
+
+\* : catégorie de la classification historique  
+\*\* : avancée technologique
+
+</div>
 
 <!-- ## Sources -->

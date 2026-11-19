@@ -47,13 +47,13 @@ redirect_from:
 |:---:|
 | Evolution des formes de l’écriture | 
 
-## [Incises](https://studioto.github.io/typography-history/#%EF%B8%8F-incises) {#incises}
+## [Incises](https://studioto.github.io/typography-history/#incises) {#incises}
 
 ### Lapidaire {#lapidaire}
 
 <!-- | Période | Technique | Squelette | Vox | 
 |:---:|:---:|
-| Antiquité | [Gravure dans la pierre](https://studioto.github.io/typography-history/#%EF%B8%8F-incises) |  —  |  Incises  | -->
+| Antiquité | [Gravure dans la pierre](https://studioto.github.io/typography-history/#incises) |  —  |  Incises  | -->
 
 |  Ce groupe comprend les caractères à empattements inspirées des premières formes manuscrites, gravées et inscrites. Les polices avec de très petits « empattements en éperon » peuvent également appartenir à ce groupe.  |
 
@@ -75,7 +75,7 @@ redirect_from:
 |:---:|
 | Ie siècle av. J.-C. |  
 
-## [Scripts](https://studioto.github.io/typography-history/#%EF%B8%8F-onciales) {#scripts}
+## [Scripts](https://studioto.github.io/typography-history/#onciales) {#scripts}
 
 ### Script Onciale / Manuaires {#script-onciale}
 
@@ -209,7 +209,7 @@ redirect_from:
 |:---:|
 | XIVe siècle | 
 
-## [Sérifs](https://studioto.github.io/typography-history/#%EF%B8%8F-humanes) {#serifs}
+## [Sérifs](https://studioto.github.io/typography-history/#humanes) {#serifs}
 
 ### Sérif Humaniste / Humanes-Garaldes {#serif-humaniste}
 
@@ -329,7 +329,7 @@ redirect_from:
 |:---:|
 | 1816 | 
 
-## [Expressives](https://studioto.github.io/typography-history/#%EF%B8%8F-expressives) {#expressives}
+## [Expressives](https://studioto.github.io/typography-history/#expressives) {#expressives}
 
 ### Ornemental / Display {#slab-display}
 
@@ -341,7 +341,7 @@ redirect_from:
 |:---:|
 | 1821 | 
 
-## [Slab-Sérifs](https://studioto.github.io/typography-history/#%EF%B8%8F-mécanes) {#slab-serifs}
+## [Slab-Sérifs](https://studioto.github.io/typography-history/#mecanes) {#slab-serifs}
 
 ### Slab Rationnelle / Mécanes {#slab-rationnelle}
 
@@ -357,7 +357,7 @@ redirect_from:
 |:---:|
 | 1844 | 
 
-## [Sans-Sérifs](https://studioto.github.io/typography-history/#%EF%B8%8F-grotesques) {#sans-serifs}
+## [Sans-Sérifs](https://studioto.github.io/typography-history/#grotesques) {#sans-serifs}
 
 ### Sans Rationnelle / Grotesques {#sans-rationnelle}
 
@@ -445,7 +445,7 @@ redirect_from:
 |:---:|
 | 1970 | 
 
-## [Hybrides](https://studioto.github.io/typography-history/#%EF%B8%8F-hybrides) {#hybrides}
+## [Hybrides](https://studioto.github.io/typography-history/#hybrides) {#hybrides}
 
 ### Superfamille {#hybride-superfamille}
 
