@@ -4,6 +4,7 @@
      et texte complet des pages listées dans le tableau (et seulement celles-là)
    - ordre d'affichage : celui du tableau dans index.md
    - emoji (3e colonne) : affiché au survol de la ligne, à droite
+   - toute la ligne ouvre la page ; un clic sur un #tag le recherche
    ============================================================ */
 (function () {
   var table = document.querySelector(".markdown-body table");
@@ -83,5 +84,47 @@
     loadTexts().then(filter);
   });
   input.addEventListener("focus", loadTexts, { once: true });
+
+  // ---------- tags cliquables : un clic sur #tag le recherche dans la barre de recherche
+  rows.forEach(function (r) {
+    var c = r.cells[1];
+    if (!c) return;
+    var txt = c.textContent;
+    c.textContent = "";
+    txt.split(/(#[^,#]+)/).forEach(function (part) {
+      if (/^#/.test(part)) {
+        var a = document.createElement("a");
+        a.href = "#";
+        a.className = "index-tag";
+        a.textContent = part.trim();
+        a.addEventListener("click", function (e) {
+          e.preventDefault();
+          e.stopPropagation();
+          input.value = a.textContent;
+          input.dispatchEvent(new Event("input"));
+          input.focus();
+          tools.scrollIntoView({ block: "nearest" });
+        });
+        c.appendChild(a);
+      } else if (part) {
+        c.appendChild(document.createTextNode(part.replace(/\s+$/, " ")));
+      }
+    });
+  });
+
+  // ---------- toute la ligne est cliquable : ouvre la page (⌘ / Ctrl + clic : nouvel onglet)
+  rows.forEach(function (r) {
+    var link = r.cells[0] && r.cells[0].querySelector("a");
+    if (!link) return;
+    r.classList.add("index-row-link");
+    r.addEventListener("click", function (e) {
+      if (e.target.closest("a")) return;            // clic sur le titre ou un tag : comportement du lien
+      if (e.metaKey || e.ctrlKey) window.open(link.href, "_blank", "noopener");
+      else link.click();
+    });
+    // survol de la ligne : le titre prend une couleur aléatoire comme un lien survolé
+    r.addEventListener("mouseenter", function () { link.dispatchEvent(new MouseEvent("mouseover", { bubbles: true })); });
+    r.addEventListener("mouseleave", function () { link.dispatchEvent(new MouseEvent("mouseout", { bubbles: true })); });
+  });
 
 })();

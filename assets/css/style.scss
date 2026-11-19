@@ -720,6 +720,11 @@ html[data-page="/"] .markdown-body table td:nth-child(2) {
   line-height: 20px;           /* 16px → 20px, comme partout ; la ligne garde 30px (titre à 20px) */
 }
 
+/* ligne entière cliquable */
+html[data-page="/"] .markdown-body table tr.index-row-link {
+  cursor: pointer;
+}
+
 /* emoji : tout à droite, toujours présent (taille fixe, la hauteur de ligne ne bouge pas),
    transparent sauf au survol ; index-table.js l'enveloppe dans <span class="index-emoji"> */
 html[data-page="/"] .markdown-body table td:nth-child(3) {
