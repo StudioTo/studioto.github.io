@@ -232,24 +232,24 @@ redirect_from:
 })();
 </script>
 
-## −64'000 : Représentations symboliques
+## −64’000 : Représentations symboliques
 Les traces peintes dans les grottes préhistoriques représentaient probablement des idées, des concepts spirituels, ou des symboles culturels, mais il n’y avait pas de grammaire ou de structure linguistique systématique derrière ces images. Elles servaient plutôt à des fins rituelles, artistiques ou symboliques.
 
-## −38'800 : Pictographes
+## −38’800 : Pictographes
 Un pictographe est un dessin ou une image qui représente un objet, un être ou une scène de manière simplifiée et stylisée (sens littéral, boeuf = boeuf).
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history-v2_002.jpg)|
 |:------------------------------------------:|
 | Grotte d’El Castille, Espagne              |
 
-## −22'000 : Pictogrammes
+## −22’000 : Pictogrammes
 Un pictogramme est un symbole graphique qui transmet une signification par sa ressemblance visuelle avec un objet physique (sens figuré, maison = famille).
   
 |![](https://studioto.github.io/media/typography-history/overview-writing-history-v2_004_alt.jpg)                                  |
 |:----------------------------------------------------------------------------:|
 | Parc National Chiribiquete, Colombie                           |
 
-## −15'000 Idéogrammes
+## −15’000 Idéogrammes
 Un idéogramme ou idéographie est un symbole qui représente une idée ou un concept indépendamment de toute langue particulière (sens figuré sans lien avec le dessin, homme + animaux = chasse).
 
 |![](https://studioto.github.io/media/typography-history/overview-writing-history-v2_005.jpg)                                  |
