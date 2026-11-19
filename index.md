@@ -1,9 +1,8 @@
 ---
 title: "Index"
 ---
-
-**Typo & Graphic Ressources**  
-Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) designer, [teacher](https://studioto.github.io)
+  
+Ressources for graphic design from Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) designer, [teacher](https://studioto.github.io)
 
 # &nbsp;
 
