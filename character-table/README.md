@@ -269,7 +269,7 @@ if (location.hash.startsWith("#gm-")) {
 })();
 </script>
 <script>
-// survol d'un caractère : couleur aléatoire, différente à chaque fois (comme les liens du site)
+// survol d'un caractère : fond de la case en couleur aléatoire, différente à chaque fois ; le glyphe reste noir
 (function () {
   var main = document.getElementById("gm-main");
   if (!main) return;
@@ -277,16 +277,16 @@ if (location.hash.startsWith("#gm-")) {
   main.addEventListener("mouseover", function (e) {
     var cell = e.target.closest(".gm-cell");
     if (!cell || cell.contains(e.relatedTarget)) return;
-    var g = cell.querySelector(".gm-glyph");
-    if (!g) return;
     hue = (hue + 60 + Math.random() * 240) % 360;
-    g.style.color = "hsl(" + Math.round(hue) + ", 85%, 45%)";
+    var c = "hsl(" + Math.round(hue) + ", 85%, 45%)";
+    cell.style.backgroundColor = c;
+    cell.style.borderColor = c;
   });
   main.addEventListener("mouseout", function (e) {
     var cell = e.target.closest(".gm-cell");
     if (!cell || cell.contains(e.relatedTarget)) return;
-    var g = cell.querySelector(".gm-glyph");
-    if (g) g.style.color = "";
+    cell.style.backgroundColor = "";
+    cell.style.borderColor = "";
   });
 })();
 </script>
