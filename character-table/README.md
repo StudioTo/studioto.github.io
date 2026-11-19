@@ -41,7 +41,7 @@ redirect_from:
 {% raw %}
 <style>
 #gm { --gm-border: #e1e4e8; --gm-muted: #6a737d; --gm-text: #24292e; --gm-blue: #0366d6; --gm-hover: #f6f8fa; }
-#gm-bar { position: sticky; top: 0; z-index: 10; background: #fff; padding: 12px 0 10px; border-bottom: 1px solid var(--gm-border); margin-bottom: 8px; }
+#gm-bar { position: sticky; top: var(--sticky-h, 119px); z-index: 1; background: #fff; padding: 12px 0 10px; border-bottom: 1px solid var(--gm-border); margin-bottom: 8px; }
 #gm-wrap { position: relative; }
 #gm-search { width: 100%; box-sizing: border-box; padding: 8px 12px; font-size: 16px; line-height: 20px; font-family: inherit; color: var(--gm-text); background: #fafbfc; border: 1px solid var(--gm-border); border-radius: 6px; outline: none; }
 #gm-search:focus { background: #fff; border-color: var(--gm-blue); box-shadow: 0 0 0 3px rgba(3, 102, 214, .3); }
@@ -56,7 +56,7 @@ redirect_from:
 #gm .gm-res .gm-t small { display: block; color: var(--gm-muted); font-size: 12px; }
 #gm .gm-res .gm-u { margin-left: auto; font-size: 12px; color: var(--gm-muted); white-space: nowrap; font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; }
 #gm .gm-none { padding: 10px 12px; color: var(--gm-muted); font-size: 14px; }
-#gm h2, #gm h3 { scroll-margin-top: 80px; }
+#gm h2, #gm h3 { scroll-margin-top: calc(var(--sticky-h, 119px) + 80px); }
 #gm h3 .gm-count { display: inline-block; margin-left: 6px; padding: 0 6px; font-size: 12px; font-weight: 600; line-height: 18px; color: var(--gm-text); background: rgba(27, 31, 35, .08); border-radius: 2em; vertical-align: middle; }
 #gm .gm-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 8px; margin-bottom: 16px; }
 #gm .gm-cell { position: relative; overflow: hidden; height: 152px; box-sizing: border-box; padding: 8px 6px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; background: #fff; border: 1px solid var(--gm-border); border-radius: 6px; cursor: pointer; user-select: none; -webkit-user-select: none; transition: background-color .15s ease, border-color .15s ease; }
@@ -265,7 +265,7 @@ function goTo(cp, copy) {
     const cell = $(uplus(cp));
     if (!cell) return;
     document.querySelectorAll("#gm .gm-cell.target").forEach(c => c.classList.remove("target"));
-    const r = cell.getBoundingClientRect(), top = barHeight();
+    const r = cell.getBoundingClientRect(), top = barHeight() + (parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sticky-h"), 10) || 0);
     window.scrollTo({ top: window.scrollY + r.top - top - (window.innerHeight - top - r.height) / 2, behavior: "smooth" });
     cell.classList.add("target");
     history.replaceState(null, "", "#" + uplus(cp));
