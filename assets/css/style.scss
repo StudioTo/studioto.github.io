@@ -120,20 +120,23 @@ html:not([data-page="/"]) .markdown-body .footnotes li {
 .markdown-body h6 { margin: 24px 0 16px; font-size: 16px; line-height: 24px; }
 
 /* table des matières (générée au commit) : entre le titre et le contenu,
-   même taille que les légendes sous les images (16px) ;
+   même taille que les légendes sous les images (16px), puces ▸ ;
    pas de ligne entre les entrées, une ligne sous la table, même espace dessus et dessous */
 html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul {
   margin: 0 0 48px;
-  padding: var(--line-gap) 0;
-  list-style: none;
+  padding-top: var(--line-gap);
+  padding-bottom: var(--line-gap);
   border-bottom: var(--line);
 }
 
 html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul > li {
   margin: 0;
-  padding: 0;
   font-size: 16px;
   line-height: 24px;
+}
+
+html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul > li::before {
+  content: "▸";
 }
 
 /* sans table des matières : même espace entre le titre et le contenu */
@@ -169,6 +172,29 @@ html:not([data-page="/"]) .markdown-body td p,
 html:not([data-page="/"]) .markdown-body th p {
   font-size: 16px;
   line-height: 24px;
+}
+
+/* ---------- Listes ----------
+   même retrait partout (24px), quelle que soit la taille du texte ;
+   puces dessinées en CSS pour qu'elles soient alignées dans toutes les listes */
+.markdown-body ul,
+.markdown-body ol {
+  padding-left: 24px;
+}
+
+.markdown-body ul {
+  list-style: none;
+}
+
+.markdown-body ul > li:not(.task-list-item) {
+  position: relative;
+}
+
+.markdown-body ul > li:not(.task-list-item)::before {
+  content: "•";
+  position: absolute;
+  left: -24px;
+  width: 24px;
 }
 
 /* ---------- Page d'accueil ----------
