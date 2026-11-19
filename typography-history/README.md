@@ -149,7 +149,11 @@ redirect_from:
       }
       return "";
     };
-    var last = Math.max(cats.length - 1, 1);
+    // 1re pastille : tout ce qui précède la classification (premiers symboles, depuis −64’000)
+    var firstPeriod = heads.filter(function (h) { return /^[\u2212-]?\d/.test(h.textContent.trim()); })[0];
+    var items = cats.map(function (h) { return { h: h, year: year(h), name: name(h) }; });
+    if (firstPeriod) items.unshift({ h: firstPeriod, year: "\u221264\u2019000", name: "Premiers symboles", top: true });
+    var last = Math.max(items.length - 1, 1);
     var barH = function () { return nav.getBoundingClientRect().height; };
 
     // titres datés (« 1540 : … », « −753 : … », « 1350 – 1420 : … ») : périodes, épinglées sous la frise
@@ -164,16 +168,19 @@ redirect_from:
         : "calc(var(--sticky-h, 119px) + 65px + " + PERIOD_H + "px)";
     });
 
-    var dots = cats.map(function (h, i) {
+    var dots = items.map(function (it, i) {
       var b = document.createElement("button");
       b.type = "button";
-      b.className = "th-dot" + (i === 0 ? " first" : "") + (i === cats.length - 1 ? " last" : "");
+      b.className = "th-dot" + (i === 0 ? " first" : "") + (i === items.length - 1 ? " last" : "");
       b.style.left = (i / last * 100) + "%";
-      b.setAttribute("aria-label", year(h) + " " + name(h));
-      var y = document.createElement("span"); y.className = "th-year"; y.textContent = year(h);
-      var n = document.createElement("span"); n.className = "th-name"; n.textContent = name(h);
+      b.setAttribute("aria-label", it.year + " " + it.name);
+      var y = document.createElement("span"); y.className = "th-year"; y.textContent = it.year;
+      var n = document.createElement("span"); n.className = "th-name"; n.textContent = it.name;
       b.appendChild(y); b.appendChild(n);
-      b.addEventListener("click", function () { h.scrollIntoView({ behavior: "smooth" }); });
+      b.addEventListener("click", function () {
+        if (it.top) window.scrollTo({ top: 0, behavior: "smooth" });   // retour au début de la frise
+        else it.h.scrollIntoView({ behavior: "smooth" });
+      });
       b.addEventListener("mouseenter", function () {
         dots.forEach(function (d) { d.classList.remove("hovered"); });
         b.classList.add("hovered");
@@ -185,9 +192,9 @@ redirect_from:
 
     function update() {
       var y = (parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sticky-h"), 10) || 0) + barH() + PERIOD_H + 1;
-      var k = -1;
-      for (var i = 0; i < cats.length; i++) {
-        if (cats[i].getBoundingClientRect().top <= y) k = i;
+      var k = 0;                 // avant la 1re catégorie : « Premiers symboles »
+      for (var i = 1; i < items.length; i++) {
+        if (items[i].h.getBoundingClientRect().top <= y) k = i;
       }
       dots.forEach(function (d, i) {
         d.classList.toggle("passed", i <= k);

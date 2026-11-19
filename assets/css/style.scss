@@ -199,10 +199,10 @@ html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul > li::before
   background: none;
 }
 
-/* titre ## juste après le titre de page (sans table des matières) : collé à sa ligne,
-   même hauteur entre les lignes grises que partout (5 + 40 + 9) */
+/* titre ## juste après le titre de page (sans table des matières) : même espace qu'entre deux sections
+   (comme sous un paragraphe : marge du ## = 43px) — exceptions : frise de l'histoire, table des caractères */
 html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + h2:not(ul) {   /* :not(ul) : passe devant la règle 24px ci-dessous */
-  margin-top: 0;
+  margin-top: 43px;
 }
 
 /* sans table des matières : même espace entre le titre et le contenu */
@@ -461,12 +461,28 @@ html:not([data-page="/"]) .markdown-body .brief li > ul {
   margin-bottom: 0;
 }
 
-/* citation : en italique (le mono a un vrai italique), sans filet */
+/* citation : en italique (le mono a un vrai italique), un cran plus loin que le reste ;
+   une barre « | » au début de chaque ligne, à la place du tiret (texte généré : pas copié au copier-coller) */
 html:not([data-page="/"]) .markdown-body .brief blockquote {
-  padding: 0;
+  position: relative;
+  padding: 0 0 0 3ch;
   color: inherit;
   font-style: italic;
   border: 0;
+}
+
+html:not([data-page="/"]) .markdown-body .brief blockquote::before {
+  content: "|\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |\A |";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  overflow: hidden;
+  white-space: pre;
+  font-style: normal;
+  -webkit-user-select: none;
+  user-select: none;
+  pointer-events: none;
 }
 
 /* liens dans les briefs : soulignés */
