@@ -1,21 +1,12 @@
 ---
 title: "Logos"
-toc: true
+toc: false
 permalink: /logos/
 redirect_from:
   - /index-logos/
 ---
 
 # Logos
-
-<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
-
-- [Next](#next)
-- [Apple](#apple)
-- [Nike](#nike)
-- [IBM](#ibm)
-
-<!-- /toc -->
 
 ## Next
 

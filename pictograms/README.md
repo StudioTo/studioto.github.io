@@ -1,18 +1,12 @@
 ---
 title: "Pictogrammes"
-toc: true
+toc: false
 permalink: /pictograms/
 redirect_from:
   - /index-pictos/
 ---
 
 # Pictogrammes
-
-<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
-
-- [Munich Olympic Games](#munich-olympic-games)
-
-<!-- /toc -->
 
 ## Munich Olympic Games
 

@@ -1,24 +1,12 @@
 ---
 title: "Specimens"
-toc: true
+toc: false
 permalink: /specimens/
 redirect_from:
   - /index-specimens/
 ---
 
 # Specimens
-
-<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
-
-- [Daylight Fonts](#daylight-fonts)
-- [Design Reviewed](#design-reviewed)
-- [Internet Archive](#internet-archive)
-- [Flickr](#flickr)
-- [Klingspor](#klingspor)
-- [Luc Devroye](#luc-devroye)
-- [Typographica](#typographica)
-
-<!-- /toc -->
 
 ## Daylight Fonts  
 https://e-daylight.jp/fonts

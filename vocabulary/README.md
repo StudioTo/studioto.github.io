@@ -1,45 +1,12 @@
 ---
 title: "Vocabulaire"
-toc: true
+toc: false
 permalink: /vocabulary/
 redirect_from:
   - /index-definitions/
 ---
 
 # Vocabulaire
-
-<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
-
-- [Casse](#casse)
-- [Colonne](#colonne)
-- [Contre-forme](#contre-forme)
-- [Corps](#corps)
-- [Ductus](#ductus)
-- [Espace](#espace)
-- [Format Desktop](#format-desktop)
-- [Format Variable](#format-variable)
-- [Format Web](#format-web)
-- [Folio](#folio)
-- [Fonctionnalités OpenType](#fonctionnalités-opentype)
-- [Glyphe](#glyphe)
-- [Gabarit](#gabarit)
-- [Gris de texte](#gris-de-texte)
-- [License libre](#license-libre)
-- [License propriétaire](#license-propriétaire)
-- [Ligne](#ligne)
-- [Macro-Typographie](#macro-typographie)
-- [Micro-Typographie](#micro-typographie)
-- [Miroir de page](#miroir-de-page)
-- [Mot](#mot)
-- [Police](#police)
-- [Revival classique](#revival-classique)
-- [Revival moderne](#revival-moderne)
-- [Section](#section)
-- [Scripte](#scripte)
-- [Signe](#signe)
-- [Typothèque](#typothèque)
-
-<!-- /toc -->
 
 ## Casse  
 

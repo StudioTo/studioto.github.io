@@ -46,7 +46,7 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Dessin vectoriel](/vector-drawing) | #glyphes | 🖥️ |
 | [Interpolation vectorielle](/vector-interpolation) | #glyphes | 🎚️ |
 | [Dessin vectoriel *debug*](/vector-debug) | #glyphes | 🪲 |
-| [Organisation](/organization) | #processus de design | 📋 |
+| [Organisation](/organization) | #processus de design | ✅ |
 | [Ton](/tone) | #processus de design | 🎹 |
 | [Variations](/variations) | #processus de design | 🎶 |
 | [Compositions](/compositions) | #processus de design | 🎼 |

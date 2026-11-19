@@ -189,3 +189,21 @@
     }
   })();
 </script>
+<script>
+  // ---------- liens : ouverture dans un nouvel onglet
+  // (sauf ancres de la même page — table des matières, notes, frise —, e-mail et titre du site StudioTo)
+  (function () {
+    function setup() {
+      document.querySelectorAll(".markdown-body a[href]").forEach(function (a) {
+        var href = a.getAttribute("href");
+        if (!href || href.charAt(0) === "#" || /^(mailto|tel|javascript):/i.test(href)) return;
+        if (a.hasAttribute("data-site-title") || a.closest(".markdown-body > h1:first-child")) return;
+        var u = new URL(a.href, location.href);
+        if (u.pathname === location.pathname && u.origin === location.origin && u.hash) return;
+        a.target = "_blank";
+        a.rel = "noopener";
+      });
+    }
+    if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", setup); else setup();
+  })();
+</script>
