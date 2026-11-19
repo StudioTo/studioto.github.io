@@ -77,8 +77,13 @@ redirect_from:
   white-space: nowrap;
   visibility: hidden;
 }
-#th-timeline .th-year { bottom: 23px; }
-#th-timeline .th-name { top: 23px; }
+/* textes centrés sur leurs capitales :
+   année entre la ligne grise du haut (0) et la frise (32.5px) → milieu 16px,
+   catégorie entre la frise et la ligne grise du bas (64px) → milieu 48px.
+   New Computer Modern à 13px / 16px : le milieu des capitales est 9px sous le haut de la ligne de texte.
+   (positions relatives à la frise, placée à 22px) */
+#th-timeline .th-year { top: -15px; }    /* 22 − 15 = 7px + 9 = 16px */
+#th-timeline .th-name { top: 17px; }     /* 22 + 17 = 39px + 9 = 48px */
 #th-timeline .th-dot.first .th-year,
 #th-timeline .th-dot.first .th-name { left: 7px; transform: none; }
 #th-timeline .th-dot.last .th-year,

@@ -20,7 +20,7 @@ Ressources for *graphic design* from Tancrède Ottiger : *[graphic](https://t-
 | [Iconicité](/iconicity) | #communication visuelle | 🚸 |
 | [Icône-Symbole](/icon-symbol) | #communication visuelle | 🚸 |
 | [Sémiotique](/semiotics) | #communication visuelle | 🏷️ |
-| [Histoire de la typographie](/typography-history) | #histoire, #timeline | ✍🏻 |
+| [*Histoire de la typographie*](/typography-history) | #histoire, #timeline | ✍🏻 |
 | [Classification anatomique](/anatomical-classification) | #classification typographique | 🦴 |
 | [Classification historique](/historical-classification) | #classification typographique | 🕰️ |
 | [Unités typographiques](/typographic-units) | #unités typographiques | 🔎 |
