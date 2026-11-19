@@ -17,6 +17,7 @@ redirect_from:
 - [Illusion de position](#illusion-de-position)
 - [Formes → Caractères](#formes--caracteres)
 - [Sources](#sources)
+- [Notes](#notes)
 
 <!-- /toc -->
 
@@ -113,5 +114,6 @@ Les règles optiques qui s’appliquent aux formes primitives s’appliquent aus
 - [Hoefler, Jonathan, *Typographic Illusions*. www.typography.com](/bibliography/#hoefler-web)
 - [Studer, Anton, *Is What I See What I Get ? — Math & Optics in Type Design*. www.typographica.org](/bibliography/#studer-web)
 
-[^1]: [Müller-Lyer, Franz Carl, *Müller-Lyer Illusion*, 1889](/bibliography/#muller-lyer-1889)
+## Notes
 
+[^1]: [Müller-Lyer, Franz Carl, *Müller-Lyer Illusion*, 1889](/bibliography/#muller-lyer-1889)

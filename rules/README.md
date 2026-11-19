@@ -78,12 +78,12 @@ Il est primordial de rendre le travail au moment du rendu, même si il n’est p
 ## Non Rendu
 Un travail est considéré comme non rendu si il n’est pas rendu à la date mentionnée sur le brief et se retrouve sanctionné par un 1.
 
-## Sources
-
-[^1]: [Cavandoli, Osvaldo, *La Linea*. Italie : Cavandoli / Gamma Film, 1969](/bibliography/#cavandoli-1969)
-
 <!-- |![](links/Eval28.gif) |
 |:---:|
 | Juste ou faux |  -->
 
 <!-- Un travail est considéré comme non rendu: 1. Si la personne est présente mais ne rend rien 2. Si la personne est absente et ne donne aucune nouvelle jusqu'au cours prochain. Un travail non rendu est sanctionné par un 1. -->
+
+## Notes
+
+[^1]: [Cavandoli, Osvaldo, *La Linea*. Italie : Cavandoli / Gamma Film, 1969](/bibliography/#cavandoli-1969)

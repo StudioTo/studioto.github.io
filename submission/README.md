@@ -13,7 +13,7 @@ redirect_from:
 - [Analogue & Digital](#analogue--digital)
 - [Nomenclature](#nomenclature)
 - [À éviter](#à-éviter)
-- [Sources](#sources)
+- [Notes](#notes)
 
 <!-- /toc -->
 
@@ -58,6 +58,6 @@ redirect_from:
 |:---:|
 | Mauvaise orientation, manque de netteté ou de contraste | 
 
-## Sources
+## Notes
 
 [^1]: [Cavandoli, Osvaldo, *La Linea*. Italie : Cavandoli / Gamma Film, 1969](/bibliography/#cavandoli-1969)

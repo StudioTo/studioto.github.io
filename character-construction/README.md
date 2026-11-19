@@ -16,6 +16,7 @@ redirect_from:
 - [📐 Proportions](#-proportions)
 - [🔡 Minuscules](#-minuscules)
 - [Sources](#sources)
+- [Notes](#notes)
 
 <!-- /toc -->
 
@@ -95,5 +96,7 @@ Voici une correspondance entre les règles mentionnées par Irene Wellington ci-
 
 - [Käch, Walter, *Die Gezeichnete Schrift*. Zürich : \[s.n.\], 1949](/bibliography/#kach-1949)
 - [Frutiger, Adrian, *Type Sign Symbol*. Zurich : ABC Verlag, 1980](/bibliography/#frutiger-1980)
+
+## Notes
 
 [^1]: [Wellington, Irene, *The Foundational Hand*, 1920](/bibliography/#wellington-1920)
