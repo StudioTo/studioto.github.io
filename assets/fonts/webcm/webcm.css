@@ -1,0 +1,300 @@
+/*
+  New Computer Modern (Antonis Tsolomitis, d'après Donald Knuth), version 7.0.2,
+  en WOFF2 sous le nom "WebCM" (paquet web-computer-modern).
+  Licence : GUST Font License, voir LICENSE.txt dans ce dossier.
+
+  Familles : WebCM Serif 10 / 08, WebCM Sans 10 / 08, WebCM Mono 10,
+             WebCM Math Serif / Sans, WebCM Uncial 10 / 08, WebCM Devanagari 10 / 08
+  Graisses : 400 = Regular, 500 = Book, 700 = Bold
+*/
+/** Devanagari 10 */
+@font-face {
+  font-family: "WebCM Devanagari 10";
+  src: url("fonts/webcm-devanagari-10-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Devanagari 10";
+  src: url("fonts/webcm-devanagari-10-book.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Devanagari 10";
+  src: url("fonts/webcm-devanagari-10-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+/** Devanagari 08 */
+@font-face {
+  font-family: "WebCM Devanagari 08";
+  src: url("fonts/webcm-devanagari-08-book.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Devanagari 08";
+  src: url("fonts/webcm-devanagari-08-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+/** Sans 10 */
+@font-face {
+  font-family: "WebCM Sans 10";
+  src: url("fonts/webcm-sans-10-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Sans 10";
+  src: url("fonts/webcm-sans-10-boldoblique.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Sans 10";
+  src: url("fonts/webcm-sans-10-book.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Sans 10";
+  src: url("fonts/webcm-sans-10-bookoblique.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Sans 10";
+  src: url("fonts/webcm-sans-10-oblique.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Sans 10";
+  src: url("fonts/webcm-sans-10-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+/** Sans 08 */
+@font-face {
+  font-family: "WebCM Sans 08";
+  src: url("fonts/webcm-sans-08-book.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Sans 08";
+  src: url("fonts/webcm-sans-08-bookoblique.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Sans 08";
+  src: url("fonts/webcm-sans-08-oblique.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Sans 08";
+  src: url("fonts/webcm-sans-08-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+/** Serif 10 */
+@font-face {
+  font-family: "WebCM Serif 10";
+  src: url("fonts/webcm-serif-10-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Serif 10";
+  src: url("fonts/webcm-serif-10-bolditalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Serif 10";
+  src: url("fonts/webcm-serif-10-book.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Serif 10";
+  src: url("fonts/webcm-serif-10-bookitalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Serif 10";
+  src: url("fonts/webcm-serif-10-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Serif 10";
+  src: url("fonts/webcm-serif-10-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+/** Serif 08 */
+@font-face {
+  font-family: "WebCM Serif 08";
+  src: url("fonts/webcm-serif-08-book.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Serif 08";
+  src: url("fonts/webcm-serif-08-bookitalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Serif 08";
+  src: url("fonts/webcm-serif-08-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Serif 08";
+  src: url("fonts/webcm-serif-08-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+/** Math Serif */
+@font-face {
+  font-family: "WebCM Math Serif";
+  src: url("fonts/webcm-math-serif-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Math Serif";
+  src: url("fonts/webcm-math-serif-book.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Math Serif";
+  src: url("fonts/webcm-math-serif-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+/** Math Sans */
+@font-face {
+  font-family: "WebCM Math Sans";
+  src: url("fonts/webcm-math-sans-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+/** Mono 10 */
+@font-face {
+  font-family: "WebCM Mono 10";
+  src: url("fonts/webcm-mono-10-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Mono 10";
+  src: url("fonts/webcm-mono-10-boldoblique.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Mono 10";
+  src: url("fonts/webcm-mono-10-book.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Mono 10";
+  src: url("fonts/webcm-mono-10-bookitalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Mono 10";
+  src: url("fonts/webcm-mono-10-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Mono 10";
+  src: url("fonts/webcm-mono-10-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+/** Uncial 10 */
+@font-face {
+  font-family: "WebCM Uncial 10";
+  src: url("fonts/webcm-uncial-10-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Uncial 10";
+  src: url("fonts/webcm-uncial-10-book.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+/** Uncial 08 */
+@font-face {
+  font-family: "WebCM Uncial 08";
+  src: url("fonts/webcm-uncial-08-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Uncial 08";
+  src: url("fonts/webcm-uncial-08-book.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "WebCM Uncial 08";
+  src: url("fonts/webcm-uncial-08-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

@@ -1,0 +1,42 @@
+---
+---
+
+/* ============================================================
+   StudioTo : feuille de style du site
+   Base : thème GitHub Pages par défaut (Primer)
+   + police New Computer Modern (WebCM) partout
+   ============================================================ */
+
+@import url("/assets/fonts/webcm/webcm.css");
+@import "{{ site.theme }}";
+
+/* ---------- Polices ---------- */
+:root {
+  --font-text: "WebCM Serif 10", "Latin Modern Roman", "Computer Modern Serif", Georgia, serif;
+  --font-mono: "WebCM Mono 10", "Latin Modern Mono", ui-monospace, monospace;
+}
+
+body,
+.markdown-body {
+  font-family: var(--font-text);
+}
+
+/* les champs et boutons n'héritent pas de la police par défaut */
+button,
+input,
+select,
+textarea {
+  font-family: inherit;
+}
+
+code,
+kbd,
+pre,
+samp,
+tt,
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre,
+.markdown-body tt {
+  font-family: var(--font-mono);
+}
