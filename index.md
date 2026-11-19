@@ -57,7 +57,7 @@ Ressources for *graphic design* from Tancrède Ottiger : *[graphic](https://t-
 | [Pictogrammes](/pictograms) | #références | 📙 |
 | [Bibliographie](/bibliography) | #références | 📚 |
 | [Vocabulaire](/vocabulary) | #références | 🌐 |
-| [Table des caractères](/character-table) | #références, #outil | 📋 |
+| [*Table des caractères*](/character-table) | #références, #outil | 📋 |
 | [Outils](/tools) | #technique | 🛃 |
 | [Checklists](/checklists) | #technique | 🛂 |
 | [Imprimantes](/printers) | #technique | 🛜 |
