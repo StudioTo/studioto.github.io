@@ -15,7 +15,7 @@ redirect_from:
 
 |![](https://studioto.github.io/media/iconicity/ecriture/evolution_alphabet.jpg)|
 |:---:|
-| Hans-Rudolf Lutz, Évolution de l'écriture dans *Ausbildung in typografischer Gestaltung*, 1980  |
+| Hans-Rudolf Lutz, Évolution de l’écriture dans *Ausbildung in typografischer Gestaltung*, 1980  |
 
 # Figuration-Abstraction {#figuration-abstraction}
 
@@ -37,11 +37,11 @@ redirect_from:
 
 |![](https://studioto.github.io/media/iconicity/isotype/isotypes.jpg)|
 |:---:|
-| Otto Neurath, Marie Neurath, Gerd Arntz, *Isotype (en anglais : International System Of TYpographic Picture Education, litt. « Système international d'éducation par les images typographiques »)*, 1925 |
+| Otto Neurath, Marie Neurath, Gerd Arntz, *Isotype (en anglais : International System Of TYpographic Picture Education, litt. « Système international d’éducation par les images typographiques »)*, 1925 |
 
 |![](https://studioto.github.io/media/iconicity/isotype/isotypes_animals.jpg)|
 |:---:|
-| Otto Neurath, Marie Neurath, Gerd Arntz, *How Long Do Animals Live?*, 1939 |
+| Otto Neurath, Marie Neurath, Gerd Arntz, *How Long Do Animals Live ?*, 1939 |
 
 # Échelle d’iconicité {#wileman-iconicite}
 

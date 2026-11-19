@@ -3,15 +3,15 @@ redirect_from:
   - /process-compositions/
 ---
 
-# 🎼 Compositions (2e vague):<br>Sélectionner les pistes principales et ajuster les détails techniques
+# 🎼 Compositions (2e vague) :<br>Sélectionner les pistes principales et ajuster les détails techniques
 
-- Quelles sont les meilleures pistes qui ressortent des variations? (sélection)  
-- Comment associer les différentes variations (paramètres) pour créer une proposition cohérente et pertinente?  
-- Est-ce possible de simplifier (un paramètre à la fois)?  
+- Quelles sont les meilleures pistes qui ressortent des variations ? (sélection)  
+- Comment associer les différentes variations (paramètres) pour créer une proposition cohérente et pertinente ?  
+- Est-ce possible de simplifier (un paramètre à la fois) ?  
 
 ## &nbsp;  
 
-La mise en forme consiste à sélectionner une ou plusieurs variations en fonction de leur pertinence vis-à-vis du sujet. Il est alors possible d'en combiner plusieurs à la fois. A ce stade, il est important de ne pas simplement reprendre une variation telle quelle, mais de la questionner et d’en dériver plusieurs versions. La mise en forme apporte ainsi une réponse cohérente au cadre défini par les contraintes du projet. 
+La mise en forme consiste à sélectionner une ou plusieurs variations en fonction de leur pertinence vis-à-vis du sujet. Il est alors possible d’en combiner plusieurs à la fois. A ce stade, il est important de ne pas simplement reprendre une variation telle quelle, mais de la questionner et d’en dériver plusieurs versions. La mise en forme apporte ainsi une réponse cohérente au cadre défini par les contraintes du projet. 
   
 &nbsp;
 

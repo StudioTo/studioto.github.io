@@ -35,7 +35,7 @@ redirect_from:
 
 |![](https://studioto.github.io/media/historical-classification/1-historique.gif) |
 |:---:|
-| Classification linéaire basée sur l'histoire des caractères | 
+| Classification linéaire basée sur l’histoire des caractères | 
 
 <!-- |![](https://studioto.github.io/media/historical-classification/2-historique_up.jpg) |
 |:---:|
@@ -45,11 +45,11 @@ redirect_from:
 
 |![](https://studioto.github.io/media/historical-classification/1-2-formes.jpg) |
 |:---:|
-| Evolution de l'enveloppe des caractères | 
+| Evolution de l’enveloppe des caractères | 
 
 |![](https://studioto.github.io/media/historical-classification/1-historique9.gif) |
 |:---:|
-| Evolution des formes de l'écriture | 
+| Evolution des formes de l’écriture | 
 
 # [Incises](https://studioto.github.io/typography-history/#%EF%B8%8F-incises) {#incises}
 
@@ -59,7 +59,7 @@ redirect_from:
 |:---:|:---:|
 | Antiquité | [Gravure dans la pierre](https://studioto.github.io/typography-history/#%EF%B8%8F-incises) |  —  |  Incises  | -->
 
-|  Ce groupe comprend les caractères à empattements inspirées des premières formes manuscrites, gravées et inscrites. Les polices avec de très petits «empattements en éperon» peuvent également appartenir à ce groupe.  |
+|  Ce groupe comprend les caractères à empattements inspirées des premières formes manuscrites, gravées et inscrites. Les polices avec de très petits « empattements en éperon » peuvent également appartenir à ce groupe.  |
 
 | Grec lapidaire | 
 |:---:|
@@ -175,7 +175,7 @@ redirect_from:
 
 ## Script Brisé / Fractures {#script-fracture}
 
-| Dans les caractères fractures — également appelés «gothique» — certaines ou toutes les parties rondes des lettres sont «brisées» en traits droits. Ce style s’est progressivement développé dans les régions médiévales afin que les scribes puissent copier les manuscrits plus rapidement qu’avec la main minuscule carolingienne qui était courante auparavant. Alors que les empattements humanistes ont supplanté la lettre noire en Europe du Sud au cours de la Renaissance, le style lettre noire — en particulier le Fraktur — a continué à être largement utilisé dans les pays germanophones jusqu’au milieu du XXe siècle.  |
+| Dans les caractères fractures — également appelés « gothique » — certaines ou toutes les parties rondes des lettres sont « brisées » en traits droits. Ce style s’est progressivement développé dans les régions médiévales afin que les scribes puissent copier les manuscrits plus rapidement qu’avec la main minuscule carolingienne qui était courante auparavant. Alors que les empattements humanistes ont supplanté la lettre noire en Europe du Sud au cours de la Renaissance, le style lettre noire — en particulier le Fraktur — a continué à être largement utilisé dans les pays germanophones jusqu’au milieu du XXe siècle.  |
 
 | Minuscule gothique primitive | 
 |:---:|
@@ -221,7 +221,7 @@ redirect_from:
 |:---:|:---:|:---:|
 | Dynamique |  Contrasté  |  Sérifs  |
 
-|  Le caractère humaniste est la forme originale des polices romaines développées à la Renaissance, au XVe siècle. Elle peut être divisée en deux styles: le style vénitien (Alde Manuce), caractérisé par une barre transversale inclinée sur le «e» minuscule, et le style français (Claude Garamond), dans lequel le «e» a généralement un œil plus petit. Les majuscules suivent les proportions des lettres romaines inscrites (Capitalis). Les italiques sont similaires à l’écriture chancelleresque. Les empattements sont généralement en forme de crochets, parfois asymétriques. Les empattements supérieurs sont pour la plupart angulaires.  |
+|  Le caractère humaniste est la forme originale des polices romaines développées à la Renaissance, au XVe siècle. Elle peut être divisée en deux styles : le style vénitien (Alde Manuce), caractérisé par une barre transversale inclinée sur le « e » minuscule, et le style français (Claude Garamond), dans lequel le « e » a généralement un œil plus petit. Les majuscules suivent les proportions des lettres romaines inscrites (Capitalis). Les italiques sont similaires à l’écriture chancelleresque. Les empattements sont généralement en forme de crochets, parfois asymétriques. Les empattements supérieurs sont pour la plupart angulaires.  |
 
 | Minuscule humaniste | 
 |:---:|
@@ -251,7 +251,7 @@ redirect_from:
 
 ## Script Chancellerie {#script-chancellerie}
 
-|  L’écriture de chancellerie — parfois également appelée «chancelleresque» — trouve son origine dans la calligraphie à plume large de la période de la Renaissance. Elle est basée sur l’écriture cursive des XVe et XVIe siècles développée en Italie, d’où le terme alternatif d’«italique». Des maîtres calligraphes comme Arrighi, Palatino et Tagliente ont publié des manuels d’écriture pour alimenter la «main italique». |
+|  L’écriture de chancellerie — parfois également appelée « chancelleresque » — trouve son origine dans la calligraphie à plume large de la période de la Renaissance. Elle est basée sur l’écriture cursive des XVe et XVIe siècles développée en Italie, d’où le terme alternatif d’« italique ». Des maîtres calligraphes comme Arrighi, Palatino et Tagliente ont publié des manuels d’écriture pour alimenter la « main italique ». |
 
 | Écriture de chancellerie / Main courante (Allemagne) | 
 |:---:|
@@ -281,7 +281,7 @@ redirect_from:
 |:---:|:---:|:---:|
 | Dynamique + Statique (rotation) |  Contrasté  |  Sérifs  |
 
-|  Le caractère réaliste, souvent appelée «transitionnel», se situe quelque part entre le style humaniste de la Renaissance et le modèle moderne et rationaliste de la période néoclassique. Elle est également parfois appelée «baroque». Ses principales caractéristiques sont un contraste accru, des formes et des proportions plus régulières, s’éloignant progressivement des formes ressemblant à l’écriture manuscrite. Les empattements sont en forme de parenthèses.  |
+|  Le caractère réaliste, souvent appelée « transitionnel », se situe quelque part entre le style humaniste de la Renaissance et le modèle moderne et rationaliste de la période néoclassique. Elle est également parfois appelée « baroque ». Ses principales caractéristiques sont un contraste accru, des formes et des proportions plus régulières, s’éloignant progressivement des formes ressemblant à l’écriture manuscrite. Les empattements sont en forme de parenthèses.  |
 
 | Caslon | 
 |:---:|
@@ -307,7 +307,7 @@ redirect_from:
 |:---:|:---:|:---:|
 | Statique |  Contrasté  |  Sérifs  |
 
-|  Le caractère «moderne», également appelée «néoclassique», se caractérise traditionnellement par un fort contraste vertical entre les tiges verticales épaisses et les traits horizontaux fins. Les empattements sont horizontaux, soit fins et abrupts. Les formes comportent souvent des terminaisons en forme de boules. Les italiques sont similaires à l’écriture ronde. Ces caractéristiques sont conservées même lorsque le contraste diminue.  |
+|  Le caractère « moderne », également appelée « néoclassique », se caractérise traditionnellement par un fort contraste vertical entre les tiges verticales épaisses et les traits horizontaux fins. Les empattements sont horizontaux, soit fins et abrupts. Les formes comportent souvent des terminaisons en forme de boules. Les italiques sont similaires à l’écriture ronde. Ces caractéristiques sont conservées même lorsque le contraste diminue.  |
 
 | Didot | 
 |:---:|
@@ -369,7 +369,7 @@ redirect_from:
 |:---:|:---:|:---:|
 | Statique |  Linéaire  |  Sans-Sérif  |
 
-|  Les caractères sans empattement qui sont apparues pour la première fois dans le catalogue des imprimeurs anglais au début du XIXe siècle ont été qualifiées à l’époque de «grotesques». Mais ce style n’était nouveau que dans le domaine de l’imprimerie: les lettres sans empattement étaient déjà utilisées dans les lettrages et les inscriptions. La police English Egyptian de William Caslon, composée uniquement de majuscules, datant de 1816, est considérée comme la première police sans empattement. |
+|  Les caractères sans empattement qui sont apparues pour la première fois dans le catalogue des imprimeurs anglais au début du XIXe siècle ont été qualifiées à l’époque de « grotesques ». Mais ce style n’était nouveau que dans le domaine de l’imprimerie : les lettres sans empattement étaient déjà utilisées dans les lettrages et les inscriptions. La police English Egyptian de William Caslon, composée uniquement de majuscules, datant de 1816, est considérée comme la première police sans empattement. |
 
 | Akzidenz Grotesk | 
 |:---:|
@@ -397,7 +397,7 @@ redirect_from:
 |:---:|:---:|:---:|
 | Géométrique |  Linéaire  |  Sans-Sérif  |
 
-|  Les formes de caractères sont «construites» à partir de formes géométriques (corrigées optiquement) avec des parties rondes et généralement très peu de contraste entre les traits. D’autres caractères de cette catégorie ont des formes carrées, basées sur un rectangle plutôt que sur un cercle, ou construites à partir d’autres éléments modulaires. |
+|  Les formes de caractères sont « construites » à partir de formes géométriques (corrigées optiquement) avec des parties rondes et généralement très peu de contraste entre les traits. D’autres caractères de cette catégorie ont des formes carrées, basées sur un rectangle plutôt que sur un cercle, ou construites à partir d’autres éléments modulaires. |
 
 | Futura | 
 |:---:|
@@ -417,7 +417,7 @@ redirect_from:
 |:---:|:---:|:---:|
 | Statique |  Linéaire  |  Sans-Sérif  |
 
-|  Les «néo-grotesques» émergent au milieu du XXe siècle avec le *Style Typographique International* (ou *Style Suisse*). Les caractères perdent les irrégularités de dessin de leurs prédécesseures (les «grotestques») pour atteindre un optimum de clarté. Elles ont donc une apparence moins chaleureuse et plus neutre que les grotesques. Les caractères sont généralement peu contrastés et les capitales sont dessinées avec une largeur uniforme. |
+|  Les « néo-grotesques » émergent au milieu du XXe siècle avec le *Style Typographique International* (ou *Style Suisse*). Les caractères perdent les irrégularités de dessin de leurs prédécesseures (les « grotestques ») pour atteindre un optimum de clarté. Elles ont donc une apparence moins chaleureuse et plus neutre que les grotesques. Les caractères sont généralement peu contrastés et les capitales sont dessinées avec une largeur uniforme. |
 
 | Folio | 
 |:---:|
@@ -465,7 +465,7 @@ redirect_from:
 
 ### Sources
 
-- Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
-- Indra Kupferschmid, *Buchstaben kommen selten allein: Typografie-Handbuch*, Sulgen: Niggli, 2004  
-- Robert Bringhurst, *The Elements of Typographic Style*, Vancouver: Hartley & Marks, 1992   
-- Gerrit Noordzij, *The Stroke: Theory of Writing*, London: Hyphen Press, 2005   
+- Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
+- Indra Kupferschmid, *Buchstaben kommen selten allein : Typografie-Handbuch*, Sulgen : Niggli, 2004  
+- Robert Bringhurst, *The Elements of Typographic Style*, Vancouver : Hartley & Marks, 1992   
+- Gerrit Noordzij, *The Stroke : Theory of Writing*, London : Hyphen Press, 2005   

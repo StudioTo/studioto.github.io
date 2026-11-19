@@ -4,7 +4,7 @@ redirect_from:
 ---
 
 # 🛂 Checklists
-  Vérification avant d'exporter, d'imprimer, de publier, de mettre en ligne,…
+  Vérification avant d’exporter, d’imprimer, de publier, de mettre en ligne,…
 ### &nbsp;
 
 
@@ -30,11 +30,11 @@ redirect_from:
 
 - Le format du document est correct
 - Le du voyant contrôle en amont (preflight) est vert
-- Il n'y a pas de lien manquant ou modifé
+- Il n’y a pas de lien manquant ou modifé
 - Il n’y a pas de fontes inutilisées ou manquantes (trouver des polices)
 - Les images sont au ratio original (1/1), minimum à 300dpi
 - Les blocs textes sont bien alignés sur la grille et les marges
-- L'application des gabarits aux pages est correcte (folio, section, etc.)
+- L’application des gabarits aux pages est correcte (folio, section, etc.)
 - Le nombre de page est correct par rapport à la reliure (multiple de 2 ou 4)
 - Il n’y a pas de teintes inutilisées (nuancier)
 - Il n’y a pas styles de paragraphes ou de caractères inutilisés
@@ -42,7 +42,7 @@ redirect_from:
 # 🔎 Micro-Typo
 
 - Les langues adaptées sont appliquées aux paragraphes via les styles
-- Les guillemets sont adaptés à la langue du texte, « Français », „Deutsch“, “English”, etc., jamais ceux-ci \"…\"
+- Les guillemets sont adaptés à la langue du texte, « Français », „Deutsch“, “English”, etc., jamais ceux-ci \"…\"
 - Les espaces avec les ponctuations sont justes et adaptés à la langue du texte (espaces fines)
 
 &nbsp;
@@ -61,7 +61,7 @@ redirect_from:
 
 &nbsp;
 
-- Les styles de paragraphes et de caractères n’ont pas d'exception
+- Les styles de paragraphes et de caractères n’ont pas d’exception
 - L’interlignage de la fonte est systématique (pour chaque style de pararaphe, aligné sur la grille de lignes de base)
 - L’interlettrage de la fonte est en métrique, aucun problème de crénage
 - Les chiffres dans le texte sont à chasse proportionnelle
@@ -72,7 +72,7 @@ redirect_from:
 - Les points sont positionnés correctement (aux extrêmes de la bounding box)
 - Les points de contrôle sont soit horizontaux soit verticaux
 - Les fûts ont la même largeur dans toutes les lettres
-- Les courbes du « o » sont équivalentes (rotation de 180°)
+- Les courbes du « o » sont équivalentes (rotation de 180°)
 - Les pleins et les déliés sont cohérents dans toutes les lettres
 - Les mesures de compensation sont inscrites dans le fichier Glyphs (Fichier > Informations de la police > Master > Mesures)
 - La compensation est cohérente dans toutes les lettres en haut et en bas, selon les principes d‘optique (carré, rond, triangle)

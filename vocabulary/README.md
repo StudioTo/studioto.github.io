@@ -11,15 +11,15 @@ redirect_from:
 
 # Casse  
 
-Ensemble des caractères d’une police ; désigne aussi l’usage des majuscules et minuscules.
+Ensemble des caractères d’une police ; désigne aussi l’usage des majuscules et minuscules.
 
 # Colonne
 
-Une colonne est une division verticale d'une page ou d'un texte, utilisée pour organiser le contenu en sections plus lisibles et esthétiques.
+Une colonne est une division verticale d’une page ou d’un texte, utilisée pour organiser le contenu en sections plus lisibles et esthétiques.
 
 # Contre-forme  
 
-L’espace vide à l’intérieur ou autour des lettres (par ex. l’intérieur du «o»).
+L’espace vide à l’intérieur ou autour des lettres (par ex. l’intérieur du « o »).
 
 # Corps  
 
@@ -27,7 +27,7 @@ Taille de la police mesurée en points typographiques, du sommet des ascendantes
 
 # Ductus  
 
-Les «modes d'emploi» des différentes écritures manuscrites qui sont à l’origine de la construction des formes typographiques.
+Les « modes d’emploi » des différentes écritures manuscrites qui sont à l’origine de la construction des formes typographiques.
 
 # Espace  
 
@@ -57,7 +57,7 @@ Le numéro de page tel qu’il apparaît dans une mise en page.
 
 # Fonctionnalités OpenType
 
-Les fonctionnalités OpenType sont des fonctions intégrées dans une police qui permettent d’activer des substitutions typographiques: ligatures, alternatives contextuelles, petites capitales, chiffres elzéviriens, fractions, etc. Elles enrichissent la mise en page et assurent une meilleure cohérence graphique.
+Les fonctionnalités OpenType sont des fonctions intégrées dans une police qui permettent d’activer des substitutions typographiques : ligatures, alternatives contextuelles, petites capitales, chiffres elzéviriens, fractions, etc. Elles enrichissent la mise en page et assurent une meilleure cohérence graphique.
 
 # Glyphe 
 
@@ -77,7 +77,7 @@ Une licence libre (open-source) permet généralement à l’utilisateur.rice d�
 
 # License propriétaire  
 
-Une licence propriétaire est un contrat qui accorde à l’utilisateur.rice le droit d’utiliser une fonte, mais sans en posséder le code source ou les droits de modification et de redistribution. Les restrictions sont souvent strictes: l’utilisateur.rice ne peut pas copier, modifier, ni partager le produit sans autorisation explicite.
+Une licence propriétaire est un contrat qui accorde à l’utilisateur.rice le droit d’utiliser une fonte, mais sans en posséder le code source ou les droits de modification et de redistribution. Les restrictions sont souvent strictes : l’utilisateur.rice ne peut pas copier, modifier, ni partager le produit sans autorisation explicite.
 
 # &nbsp;  
 
@@ -91,11 +91,11 @@ Une ligne est une rangée horizontale de texte dans une composition, formant une
 
 # Macro-Typographie
 
-La macro-typographie désigne l’organisation globale d’un texte dans l’espace du format: disposition des colonnes, choix des marges, hiérarchie des titres, gabarits, proportions, etc. Elle structure la lecture à grande échelle.
+La macro-typographie désigne l’organisation globale d’un texte dans l’espace du format : disposition des colonnes, choix des marges, hiérarchie des titres, gabarits, proportions, etc. Elle structure la lecture à grande échelle.
 
 # Micro-Typographie
 
-La micro-typographie concerne le soin apporté aux détails du contenu texte : gestion des espaces, ponctuation, césures, ligatures, interlettrage, justification, etc. Elle vise à optimiser la lisibilité.
+La micro-typographie concerne le soin apporté aux détails du contenu texte : gestion des espaces, ponctuation, césures, ligatures, interlettrage, justification, etc. Elle vise à optimiser la lisibilité.
 
 <!-- # &nbsp;  
 

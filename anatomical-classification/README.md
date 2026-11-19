@@ -22,7 +22,7 @@ redirect_from:
 
 |![](https://studioto.github.io/media/anatomical-classification/1-2-formes3.jpg) |
 |:---:|
-| Classification ramifiée basée sur l'anatomie des caractères | 
+| Classification ramifiée basée sur l’anatomie des caractères | 
 
 # Squelette - Graisse - Enveloppe {#squelette-graisse-enveloppe}
 
@@ -55,7 +55,7 @@ Squelette
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
-Vocabulaire sémiotique:
+Vocabulaire sémiotique :
 *convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel*
 
 ## Squelette Statique {#squelette-statique}
@@ -64,7 +64,7 @@ Vocabulaire sémiotique:
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
-Vocabulaire sémiotique:
+Vocabulaire sémiotique :
 *rationnel, ordonné, réservé, noble, élégant, sérieux, rigide, correct, rigoureux, autoritaire*
 
 ## Squelette Géométrique {#squelette-geometrique}
@@ -73,7 +73,7 @@ Vocabulaire sémiotique:
 |:---:|
 | Contrasté-Avec, Contrasté-Sans, Linéaire-Avec, Linéaire-Sans           |
 
-Vocabulaire sémiotique:
+Vocabulaire sémiotique :
 *géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
 
 # Combinaisons {#combinaisons}
@@ -82,13 +82,13 @@ Vocabulaire sémiotique:
 |:---:|
 | Combiner des fontes avec la classification formelle[^3]           |
 
-En se basant sur la classification formelle de Indra Kupferschmid, on peut faire les remarques suivantes concernant les combinaisons:
+En se basant sur la classification formelle de Indra Kupferschmid, on peut faire les remarques suivantes concernant les combinaisons :
 
-- Les fontes du même modèle s'accordent bien
-- Les fontes de modèles différents qui partagent le même contraste et les mêmes terminaisons ne s'accordent pas bien
-- Les fontes de modèles différents s'accordent bien seulement si elles sont éloignées dans le tableau (plus qu'une colonne d'écart)
+- Les fontes du même modèle s’accordent bien
+- Les fontes de modèles différents qui partagent le même contraste et les mêmes terminaisons ne s’accordent pas bien
+- Les fontes de modèles différents s’accordent bien seulement si elles sont éloignées dans le tableau (plus qu’une colonne d’écart)
 
-Ce système est un point de départ, il n'y a pas de règles absolues en matière de design. Il est nécesaire d'affiner les combinaisons en prenant en compte le contexte de votre projet, notamment les points suivants:
+Ce système est un point de départ, il n’y a pas de règles absolues en matière de design. Il est nécesaire d’affiner les combinaisons en prenant en compte le contexte de votre projet, notamment les points suivants :
 
 - la concordance des proportions (hauteur de x, hauteur des capitales)
 - les hiérarchies
@@ -112,5 +112,5 @@ Ce système est un point de départ, il n'y a pas de règles absolues en matièr
 
 ### Sources
 
-- Indra Kupferschmid, *Buchstaben kommen selten allein: Typografie-Handbuch*, Sulgen: Niggli, 2004  
-- Gerrit Noordzij, *The Stroke: Theory of Writing*, London: Hyphen Press, 2005  
+- Indra Kupferschmid, *Buchstaben kommen selten allein : Typografie-Handbuch*, Sulgen : Niggli, 2004  
+- Gerrit Noordzij, *The Stroke : Theory of Writing*, London : Hyphen Press, 2005  

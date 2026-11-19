@@ -3,7 +3,7 @@ redirect_from:
   - /see-signs/
 ---
 
-# 🗂️ Sémiotique: l'interprétation
+# 🗂️ Sémiotique : l’interprétation
 
 - [Signes](#signes)
 - [Langage](#langage)
@@ -34,11 +34,11 @@ redirect_from:
 
 |![](https://studioto.github.io/media/semiotics/1-language_v2116.jpg)|
 |:---:|
-| Les lettres n'acquièrent un sens que lorsqu'elles sont combinées |
+| Les lettres n’acquièrent un sens que lorsqu’elles sont combinées |
 
 |![](https://studioto.github.io/media/semiotics/1-language_v2120.gif)|
 |:---:|
-| Toutes les langues peuvent être codifiés dans n'importe quel alphabet (scripte) | 
+| Toutes les langues peuvent être codifiés dans n’importe quel alphabet (scripte) | 
 
 |![](https://studioto.github.io/media/semiotics/1-language_v2127.gif)|
 |:---:|
@@ -52,13 +52,13 @@ redirect_from:
 
 |![](https://studioto.github.io/media/semiotics/2-semiotique2.gif) |
 |:---:|
-| La forme des caractères influence l'interprétation du message |
+| La forme des caractères influence l’interprétation du message |
 
 # Caractère {#caractere}
 
 |![](https://studioto.github.io/media/semiotics/0-colonne20.gif) |
 |:---:|
-| Les caractères, au-delà de leur fonction première de vecteur visuel de la langue, peuvent teinter le texte d'une certaine atmosphère |
+| Les caractères, au-delà de leur fonction première de vecteur visuel de la langue, peuvent teinter le texte d’une certaine atmosphère |
 
 # Dénotation vs Connotation {#denotation-vs-connotation}
 
@@ -68,13 +68,13 @@ redirect_from:
 
 |![](https://studioto.github.io/media/semiotics/2-semiotique16.gif) |
 |:---:|
-| L'information est autant «lue» que «vue» |
+| L’information est autant « lue » que « vue » |
 
 # Explicite vs Implicite {#explicite-vs-implicite}
 
 |![](https://studioto.github.io/media/semiotics/2-semiotique26.gif) |
 |:---:|
-| Le texte est réduit à l'essentiel: ce qui est dit vs ce qui n'est pas dit |
+| Le texte est réduit à l’essentiel : ce qui est dit vs ce qui n’est pas dit |
 
 # Axes sémantiques {#axes-semantiques}
 
@@ -91,17 +91,17 @@ redirect_from:
 
 # Typologie {#typologie}
 
-•	Émotions: chaleureux, froid, joyeux, triste, rassurant, menaçant.  
-•	Société: prestigieux, populaire, féminin, masculin, enfantin, neutre.  
-•	Fonction: lisible, confus, stable, dynamique, clair, lourd, léger.  
-•	Culture: moderne, classique, rétro, futuriste, artisanal, technologique.  
-•	Esthétique: élégant, brut, raffiné, décoratif, minimaliste, grotesque.  
+•	Émotions : chaleureux, froid, joyeux, triste, rassurant, menaçant.  
+•	Société : prestigieux, populaire, féminin, masculin, enfantin, neutre.  
+•	Fonction : lisible, confus, stable, dynamique, clair, lourd, léger.  
+•	Culture : moderne, classique, rétro, futuriste, artisanal, technologique.  
+•	Esthétique : élégant, brut, raffiné, décoratif, minimaliste, grotesque.  
 
 
 ### Sources
 
-- Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich: Hans-Rudolf Lutz Verlag, 1980  
-- Abraham Moles, *Les sciences de l’imprécis: Échelles d’iconicité*, Paris: Seuil, 1990  
-- Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972  
-- Adrian Frutiger, *Type Sign Symbol*, Zurich: ABC Verlag, 1980  
+- Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich : Hans-Rudolf Lutz Verlag, 1980  
+- Abraham Moles, *Les sciences de l’imprécis : Échelles d’iconicité*, Paris : Seuil, 1990  
+- Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972  
+- Adrian Frutiger, *Type Sign Symbol*, Zurich : ABC Verlag, 1980  
 

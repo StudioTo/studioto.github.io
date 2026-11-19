@@ -5,7 +5,7 @@ redirect_from:
 
 # *️⃣ Objectifs
 
-«La typographie est soumise à un but précis: le message imprimé. Elle ne peut d'aucune manière se libérer de cette sujétion. L'ouvrage imprimé qui ne peut être lu devient un non-sens.»
+« La typographie est soumise à un but précis : le message imprimé. Elle ne peut d’aucune manière se libérer de cette sujétion. L’ouvrage imprimé qui ne peut être lu devient un non-sens. »
 
 Emil Ruder, 1967
 
@@ -30,18 +30,18 @@ Identifier comment la combinaison et l’ordre des ces unités influencent la si
 
 # Comprendre les niveaux de typographie
 
-Microtypographie: détails des signes, des mots, des lignes et des espaces.  
-Macrotypographie: organisation de l’espace du format, des colonnes, de la grille, des hiérarchies.
+Microtypographie : détails des signes, des mots, des lignes et des espaces.  
+Macrotypographie : organisation de l’espace du format, des colonnes, de la grille, des hiérarchies.
 
 # Comprendre la tension entre lisibilité et impact visuel
 
 Reconnaître que la forme sert avant tout la réception optimale du message.  
-Dépasser l'esthétisme pour privilégier la fonction.
+Dépasser l’esthétisme pour privilégier la fonction.
 
 # Savoir faire des choix typographiques pertinents
 
 Comprendre que chaque caractère porte une tonalité et influence la perception du texte.  
-Assumer que la neutralité absolue n’existe pas ; toute typographie convoie un sens.
+Assumer que la neutralité absolue n’existe pas ; toute typographie convoie un sens.
 
 # Maîtriser la composition typographique
 

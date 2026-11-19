@@ -17,22 +17,22 @@ redirect_from:
 
         créer un fichier InDesign
         
-            mode: impression
-            nombre de pages: 1
-            affichage des pages: simple (vis-à-vis décoché)
-            format de page: A3 (297 × 420 mm)
-            orientation: portrait
-            marges: 10 mm
-            fonds-perdus: 3 mm
+            mode : impression
+            nombre de pages : 1
+            affichage des pages : simple (vis-à-vis décoché)
+            format de page : A3 (297 × 420 mm)
+            orientation : portrait
+            marges : 10 mm
+            fonds-perdus : 3 mm
 
         créer des repères (grille)
 
-            colonnes: 4
-            gouttière: 5 mm
-            rangées: 4
-            gouttière: 5 mm
+            colonnes : 4
+            gouttière : 5 mm
+            rangées : 4
+            gouttière : 5 mm
             
-            ajuster les repères: marges
+            ajuster les repères : marges
 
     2.  Création de blocs textes pour chaque section
 
@@ -68,8 +68,8 @@ redirect_from:
 
             Consulter la page web de la fonderie pour trouver la liste des fonctionnalités disponibles
 
-            colonne gauche: fonctionnalité OFF
-            colonne droite: fonctionnalité ON
+            colonne gauche : fonctionnalité OFF
+            colonne droite : fonctionnalité ON
 
         d.  section character set (fenêtre Glyphes > Afficher)
 

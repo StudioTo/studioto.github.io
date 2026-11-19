@@ -15,31 +15,31 @@ redirect_from:
 
 |![](https://studioto.github.io/media/read-see/2-semiotique5.gif) |
 |:---:|
-| Deux niveaux d'information: textuel (lisibilité) et pictural (impact visuel) |
+| Deux niveaux d’information : textuel (lisibilité) et pictural (impact visuel) |
 
 # Lisibilité des caractères {#lisibilite}  
 
 |![](https://studioto.github.io/media/read-see/1-language_v2133.gif)|
 |:---:|
-| L'importance de l'accentuation de la moitié supérieure de la lettre |
+| L’importance de l’accentuation de la moitié supérieure de la lettre |
 
 |![](https://studioto.github.io/media/read-see/1-language_def_up2.gif)|
 |:---:|
-| L'œil du lecteur adulte ne déchiffrant pas les mots lettre par lettre, mais enregistrant leurs contours |
+| L’œil du lecteur adulte ne déchiffrant pas les mots lettre par lettre, mais enregistrant leurs contours |
 
 |![](https://studioto.github.io/media/read-see/1-language_v2137.gif)|
 |:---:|
-| Que l'on modifie la longueur des lignes, le corps aussi bien que la forme du caractère typographique, la longueur des saccades et leur fréquence changent |
+| Que l’on modifie la longueur des lignes, le corps aussi bien que la forme du caractère typographique, la longueur des saccades et leur fréquence changent |
 
 # Lisibilité vs Impact visuel {#lisibilite-vs-impact}
 
 |![](https://studioto.github.io/media/read-see/1-language_v2161.gif)|
 |:---:|
-| Les variables de lisibilité peuvent être opposée à celles de l'impact graphique |
+| Les variables de lisibilité peuvent être opposée à celles de l’impact graphique |
 
 |![](https://studioto.github.io/media/read-see/1-language_v2168.jpg)|
 |:---:|
-| Le logo d'IBM constitue un bon exemple de compromis |
+| Le logo d’IBM constitue un bon exemple de compromis |
 
 |![](https://studioto.github.io/media/read-see/1-language_v2169.jpg)|
 |:---:|
@@ -53,9 +53,9 @@ redirect_from:
 
 ### Sources
 
-- Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich: Hans-Rudolf Lutz Verlag, 1980 
-- Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972  
-- Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005
+- Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich : Hans-Rudolf Lutz Verlag, 1980 
+- Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972  
+- Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005
 
 
 <!--

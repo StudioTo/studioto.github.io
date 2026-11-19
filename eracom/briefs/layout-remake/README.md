@@ -15,18 +15,18 @@ redirect_from:
 
     1.  Créer un fichier InDesign
 
-        mode: impression
-        nombre de pages: 1
-        affichage des pages: simple
-        format de page: Broadsheet (410 × 580 mm)
-        marges: 10 mm
-        fonds-perdus: 3 mm
+        mode : impression
+        nombre de pages : 1
+        affichage des pages : simple
+        format de page : Broadsheet (410 × 580 mm)
+        marges : 10 mm
+        fonds-perdus : 3 mm
 
     2.  Recomposer une page du journal imposé
 
         a.  Importation du texte
 
-            ✓ Captures d'écran par article  
+            ✓ Captures d’écran par article  
             ✓ Copier, coller sans style  
             ✓ Notes de bas de page  
             ✓ Regex  
@@ -37,14 +37,14 @@ redirect_from:
             ✓ Format de caractères de base (famille, casse)  
             ✓ Retrait et espacement  
 
-        c.  Grille verticale: colonnes
+        c.  Grille verticale : colonnes
 
             ✓ Marges et colonnes  
             ✓ Étendue de colonnes  
             ✓ Habillage  
             ✓ Options de notes de bas de page du document  
 
-        d.  Grille horizontale: lignes
+        d.  Grille horizontale : lignes
 
             ✓ Grille de ligne de base  
             ✓ Alignement sur la grille (style)  
@@ -53,8 +53,8 @@ redirect_from:
 
         e.  Éléments graphiques
 
-            ✓ Navigation: titre, section, folio, date
-            ✓ Formes: symboles, encadrements, filets
+            ✓ Navigation : titre, section, folio, date
+            ✓ Formes : symboles, encadrements, filets
             ✓ Listes
             ✓ Tableaux
             ✓ Schémas
@@ -63,9 +63,9 @@ redirect_from:
 
             ✓ Images (Moma)
             ✓ Illustrations (Moma)
-            ✓ Logos, Logotypes (dans Illustrator, fenêtre > vectorisation de l'image)
+            ✓ Logos, Logotypes (dans Illustrator, fenêtre > vectorisation de l’image)
 
-    3.  Vérifier le fichier:
+    3.  Vérifier le fichier :
 
         ✓ pas de symbole manquant
         ✓ pas de de symbole remplacé dans une police
@@ -95,7 +95,7 @@ créer les éléments graphiques (filets) -->
     rechercher:     (?<=\w)((\s|~S)*?)([?!;:])
     remplacer:      ~<$3
 
-    «»
+    « »
 
     rechercher:     (\«)(\s)(.+?)( )(\»)
     remplacer:      $1~<$3~<$5
@@ -111,7 +111,7 @@ créer les éléments graphiques (filets) -->
 ✅ Reconnaître les polices de caractères  
 ✅ Connaître les règles de la composition typographique  
 ✅ Comprendre la grille de mise en page d’une publication donnée  
-✅ Produire une mise en page dans InDesign selon les règles de l'art (grille, styles, microtypographie)   
+✅ Produire une mise en page dans InDesign selon les règles de l’art (grille, styles, microtypographie)   
 
 # Évaluation
 

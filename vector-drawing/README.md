@@ -41,7 +41,7 @@ Dessin vectoriel
 
 |![](https://studioto.github.io/media/vector-drawing/terminology.gif) |
 |:---:|
-| Segment, point d'ancrage, point de contrôle           |
+| Segment, point d’ancrage, point de contrôle           |
 
 ### Segments
 
@@ -49,11 +49,11 @@ Dessin vectoriel
 |:---:|
 | Droites, courbes           |
 
-### Points d'ancrage
+### Points d’ancrage
 
 |![](https://studioto.github.io/media/vector-drawing/anchor_point.gif) |
 |:---:|
-| Les points qui sont sur le segment: angle (bleu), courbe (vert), ouvert (trait)          |
+| Les points qui sont sur le segment : angle (bleu), courbe (vert), ouvert (trait)          |
 
 ### Points de contrôle
 
@@ -105,7 +105,7 @@ Dessin vectoriel
 |:---:|
 | Tracé > Supprimer le chevauchement           |
 
-### Déplacement d'un point sur un segment
+### Déplacement d’un point sur un segment
 
 |![](https://studioto.github.io/media/vector-drawing/point_displacement.gif) |
 |:---:|
@@ -117,13 +117,13 @@ Dessin vectoriel
 
 |![](https://studioto.github.io/media/vector-drawing/first_point.gif) |
 |:---:|
-| Tracé > Corriger le sens des tracés: le premier point doit toujours être en bas à gauche           |
+| Tracé > Corriger le sens des tracés : le premier point doit toujours être en bas à gauche           |
 
 ### Sens des tracés
 
 |![](https://studioto.github.io/media/vector-drawing/path_direction.gif) |
 |:---:|
-| Tracé > Corriger le sens des tracés: forme (sens inverse des aiguilles), contreforme (sens des aiguilles)           |
+| Tracé > Corriger le sens des tracés : forme (sens inverse des aiguilles), contreforme (sens des aiguilles)           |
 
 ### Triangle magique
 
@@ -147,7 +147,7 @@ Dessin vectoriel
 
 |![](https://studioto.github.io/media/vector-drawing/less_points.gif) |
 |:---:|
-| Tracé > Nettoyer les tracés: utiliser le moins de points possible           |
+| Tracé > Nettoyer les tracés : utiliser le moins de points possible           |
 
 # 📏 Mesures
 
@@ -165,7 +165,7 @@ Dessin vectoriel
 ### Générer les fonctionnalités OpenType
 
 
-### Créer le dossier d'export Adobe Fonts
+### Créer le dossier d’export Adobe Fonts
 
 
 ### Exporter

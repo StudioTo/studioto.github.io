@@ -29,7 +29,7 @@ redirect_from:
 
 |![](https://studioto.github.io/media/character-measures/typo_anatomy_04.jpg) |
 |:---:|
-| La hauteur de x correspond à la hauteur des lettres minuscules sans ascendantes ni descendantes, tel que le « x »            |
+| La hauteur de x correspond à la hauteur des lettres minuscules sans ascendantes ni descendantes, tel que le « x »            |
 
 ### Hauteur des capitales {#hauteur-des-capitales}
 
@@ -95,7 +95,7 @@ redirect_from:
 
 |![](https://studioto.github.io/media/character-measures/2-mesures_up2.jpg) |
 |:---:|
-| Le signe est composé d'une organisation de surfaces noires et blanches | 
+| Le signe est composé d’une organisation de surfaces noires et blanches | 
 
 ### Pleins & delies {#pleins--delies}
 
@@ -131,19 +131,19 @@ redirect_from:
 
 |![](https://studioto.github.io/media/character-measures/2-mesures_up.jpg) |
 |:---:|
-| Le terme «casse» provient de la caisse en bois où les lettres étaient rangées par catégories: majuscules en haut et minuscules en bas | 
+| Le terme « casse » provient de la caisse en bois où les lettres étaient rangées par catégories : majuscules en haut et minuscules en bas | 
 
 ### Bas de casse {#bas-de-casse}
 
 |![](https://studioto.github.io/media/character-measures/typo_anatomy_09.jpg) |
 |:---:|
-| Le terme « bas de casse » fait référence aux lettres minuscules           |
+| Le terme « bas de casse » fait référence aux lettres minuscules           |
 
 ### Capitales {#capitales}
 
 |![](https://studioto.github.io/media/character-measures/typo_anatomy_08.jpg) |
 |:---:|
-| Le terme « capitales » fait référence aux lettres majuscules           |
+| Le terme « capitales » fait référence aux lettres majuscules           |
 
 # Morphologie {#morphologie}
 
@@ -155,25 +155,25 @@ redirect_from:
 
 |![](https://studioto.github.io/media/character-measures/typo_anatomy_17.jpg) |
 |:---:|
-| L’œil désigne la partie intérieure fermée d’une lettre comme le « e » ou le « o »           |
+| L’œil désigne la partie intérieure fermée d’une lettre comme le « e » ou le « o »           |
 
 ### Oreille {#oreille}
 
 |![](https://studioto.github.io/media/character-measures/typo_anatomy_18.jpg) |
 |:---:|
-| L’oreille est une extension qui se trouve sur certaines lettres comme le « g »           |
+| L’oreille est une extension qui se trouve sur certaines lettres comme le « g »           |
 
 ### Epaule {#epaule}
 
 |![](https://studioto.github.io/media/character-measures/typo_anatomy_19.jpg) |
 |:---:|
-| L’épaule fait référence à la partie arrondie d’une lettre qui connecte souvent un fût à une courbe, comme dans le « h », le « m » ou le « n »           |
+| L’épaule fait référence à la partie arrondie d’une lettre qui connecte souvent un fût à une courbe, comme dans le « h », le « m » ou le « n »           |
 
 ### Panse {#panse}
 
 |![](https://studioto.github.io/media/character-measures/typo_anatomy_20.jpg) |
 |:---:|
-| La panse désigne la partie arrondie d’une lettre, généralement dans les lettres comme le « b », le « d » ou le « p »           |
+| La panse désigne la partie arrondie d’une lettre, généralement dans les lettres comme le « b », le « d » ou le « p »           |
 
 ### Colonne {#colonne}
 
@@ -185,27 +185,27 @@ redirect_from:
 
 |![](https://studioto.github.io/media/character-measures/typo_anatomy_24.jpg) |
 |:---:|
-| Le bras est une partie horizontale d’une lettre qui ne touche pas la ligne de base, comme dans le « T » ou le « E »           |
+| Le bras est une partie horizontale d’une lettre qui ne touche pas la ligne de base, comme dans le « T » ou le « E »           |
 
 ### Jambe {#jambe}
 
 |![](https://studioto.github.io/media/character-measures/typo_anatomy_25.jpg) |
 |:---:|
-| La jambe est la partie d’une lettre qui descend vers la ligne de base à partir d’un trait fût, comme dans le « k » ou le « r »           |
+| La jambe est la partie d’une lettre qui descend vers la ligne de base à partir d’un trait fût, comme dans le « k » ou le « r »           |
 
 ### Pied {#pied}
 
 |![](https://studioto.github.io/media/character-measures/typo_anatomy_26.jpg) |
 |:---:|
-| Le pied est la partie inférieure d’une lettre qui repose sur la ligne de base, comme dans le « R » ou le « A »           |
+| Le pied est la partie inférieure d’une lettre qui repose sur la ligne de base, comme dans le « R » ou le « A »           |
 
 ### Queue {#queue}
 
 |![](https://studioto.github.io/media/character-measures/typo_anatomy_27.jpg) |
 |:---:|
-| La queue est une extension qui s’étend en dehors de la lettre, comme dans le « Q » ou le « J »           |
+| La queue est une extension qui s’étend en dehors de la lettre, comme dans le « Q » ou le « J »           |
 
 ### Sources
 
-- Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005 [éd. orig. 1987]  
-- Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980 
+- Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  
+- Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980 

@@ -33,10 +33,10 @@ redirect_from:
 
 - Sur Teams, dans le dossier correspondant à l’exercice
 - En un seul fichier (et non plusieurs fichiers dans un dossier)
-- Avec l'extension correcte (p. ex. PDF)
+- Avec l’extension correcte (p. ex. PDF)
 - Dans le format mentionné sur le brief (p. ex. A4)
 - Dans l’ordre des pages mentionné sur le brief
-- Avec l'orientation correcte pour toutes les pages (horizontal ou vertical)
+- Avec l’orientation correcte pour toutes les pages (horizontal ou vertical)
 - Scanné proprement (scan photocopieuse et non photo au téléphone, à plat, avec uniquement du noir et blanc, net)
 - Nommé correctement (GRXXX_Nom_Prénom_Exercice)
 
@@ -54,4 +54,4 @@ redirect_from:
 
 ### Sources
 
-[^1]: Cavandoli, Osvaldo, *La Linea*, Italie : Cavandoli / Gamma Film, 1969.
+[^1]: Cavandoli, Osvaldo, *La Linea*, Italie : Cavandoli / Gamma Film, 1969.

@@ -9,35 +9,35 @@ redirect_from:
 
 |![](https://studioto.github.io/media/character-construction/typo_construction_00.jpg) |
 |:---:|
-| Ductus[^1]: mode d'emploi pour dessiner un caractère spécifique(ordre, direction et nombre de segments)           |
+| Ductus[^1]: mode d’emploi pour dessiner un caractère spécifique(ordre, direction et nombre de segments)           |
 
 # 🚨 Règles
 
 Plusieurs principes de dessin (ductus) hérités de la calligraphie régissent encore la construction de nos alphabets modernes.
-Ces principes permettent de maintenir une cohérence des lettres entre elles, de sorte à ce qu'elles aient l'air d'avoir été «tracées» avec le même outil (ce qui était le cas en calligraphie).  
+Ces principes permettent de maintenir une cohérence des lettres entre elles, de sorte à ce qu’elles aient l’air d’avoir été « tracées » avec le même outil (ce qui était le cas en calligraphie).  
 
-Voici une correspondance entre les règles mentionnées par Irene Wellington ci-dessus et leur application contemporaine:
+Voici une correspondance entre les règles mentionnées par Irene Wellington ci-dessus et leur application contemporaine :
 
 1. l’angle de la plume est constant  
-   → la répartition de la graisse entre les pleins et les déliés est systématique à travers les caractères d'une même fonte (fûts, traverses, pleins, déliés)
+   → la répartition de la graisse entre les pleins et les déliés est systématique à travers les caractères d’une même fonte (fûts, traverses, pleins, déliés)
 4. l’alphabet entier est basée sur le cercle [ou autre forme]  
-   → l’alphabet est «construit», dans le sens ou il ré-utilise des tracés similaires dans plusieures lettres
+   → l’alphabet est « construit », dans le sens ou il ré-utilise des tracés similaires dans plusieures lettres
 6. une bonne hauteur (de x) moyenne est de […]  
-   → les proportions sont constantes à travers les caractères d'une même police (hauteur de x, ascendante, descendante, etc.)
+   → les proportions sont constantes à travers les caractères d’une même police (hauteur de x, ascendante, descendante, etc.)
 
 |![](https://studioto.github.io/media/character-construction/typo_construction_1_rotation.gif) |
 |:---:|
-| La rotation est autorisée: réalisabe à la plume (cohérent)           |
+| La rotation est autorisée : réalisabe à la plume (cohérent)           |
 
 |![](https://studioto.github.io/media/character-construction/typo_construction_2_symetrie.gif) |
 |:---:|
-| La symétrie est interdite: impossible à réaliser à la plume (et donc incohérent)             |
+| La symétrie est interdite : impossible à réaliser à la plume (et donc incohérent)             |
 
 # 🪵 Fûts
 
 |![](https://studioto.github.io/media/character-construction/typo_construction_3_futs.gif) |
 |:---:|
-| La fûts ont la même largeur à travers les caractères d'une même fonte            |
+| La fûts ont la même largeur à travers les caractères d’une même fonte            |
 
 # ⚽️ Courbes
 
@@ -49,7 +49,7 @@ Voici une correspondance entre les règles mentionnées par Irene Wellington ci-
 
 |![](https://studioto.github.io/media/character-construction/typo_construction_5_proportions.gif) |
 |:---:|
-| Les proportions sont constantes à travers les caractères d'une même police (hauteur de x, ascendante, descendante, etc.)           |
+| Les proportions sont constantes à travers les caractères d’une même police (hauteur de x, ascendante, descendante, etc.)           |
 
 # 🔡 Minuscules
 

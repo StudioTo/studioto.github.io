@@ -16,7 +16,7 @@ redirect_from:
 
 |![](https://studioto.github.io/media/typographic-units/1-language_v217.gif)|
 |:---:|
-| La langue est notre principal moyen de communication: la typographie la rend lisible par des formes visuelles (images: Alva Noto) |
+| La langue est notre principal moyen de communication : la typographie la rend lisible par des formes visuelles (images : Alva Noto) |
 
 # Les unités typographiques  
 
@@ -40,21 +40,21 @@ redirect_from:
 
 |![](https://studioto.github.io/media/typographic-units/1-language_v285.gif)|
 |:---:|
-| La ligne est constituée d'une séquence de mots séparés par des espaces |
+| La ligne est constituée d’une séquence de mots séparés par des espaces |
 
 # 4. La colonne {#la-colonne}  
 
 |![](https://studioto.github.io/media/typographic-units/1-language-typo-unit-column.gif)|
 |:---:|
-| La colonne est composée de lignes et introduit la dimension de la lecture continue (images: Jonas Voegeli) |
+| La colonne est composée de lignes et introduit la dimension de la lecture continue (images : Jonas Voegeli) |
 
 
 
 ### Sources
 
-- Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
-- Adrian Frutiger, *Type Sign Symbol*, Zurich: ABC Verlag, 1980  
-- Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972  
+- Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
+- Adrian Frutiger, *Type Sign Symbol*, Zurich : ABC Verlag, 1980  
+- Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972  
 - Alva Noto & Anne-James Chaton, *Uni Acronym*, 2011
 - Jonas Voegeli, www.voegeli.info
 

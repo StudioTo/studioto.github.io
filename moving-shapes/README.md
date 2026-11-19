@@ -30,4 +30,4 @@ Transition = continuité visuelle -->
 ### Sources
 
 - **Peter von Arx**  
-  *Film + Design : Die elementaren Phänomene und Dimensionen des Films im gestalterischen Unterricht*, Haupt, 1983
+  *Film + Design : Die elementaren Phänomene und Dimensionen des Films im gestalterischen Unterricht*, Haupt, 1983

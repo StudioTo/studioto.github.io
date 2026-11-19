@@ -60,9 +60,9 @@ redirect_from:
 - Fenêtre page
 - gabarit vs page
 - créer des pages, des gabarits
-- insérer des marques: folio, section
+- insérer des marques : folio, section
 - appliquer / dévérouiller gabarit
-- options de gabarit: titre section, numérotation
+- options de gabarit : titre section, numérotation
 - marges
 - repères
 - grille de ligne de base
@@ -112,7 +112,7 @@ redirect_from:
 
 ### Sources
 
-- Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
-- Indra Kupferschmid, *Buchstaben kommen selten allein: Typografie-Handbuch*, Sulgen: Niggli, 2004  
-- Robert Bringhurst, *The Elements of Typographic Style*, Vancouver: Hartley & Marks, 1992   
-- Gerrit Noordzij, *The Stroke: Theory of Writing*, London: Hyphen Press, 2005   
+- Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
+- Indra Kupferschmid, *Buchstaben kommen selten allein : Typografie-Handbuch*, Sulgen : Niggli, 2004  
+- Robert Bringhurst, *The Elements of Typographic Style*, Vancouver : Hartley & Marks, 1992   
+- Gerrit Noordzij, *The Stroke : Theory of Writing*, London : Hyphen Press, 2005   

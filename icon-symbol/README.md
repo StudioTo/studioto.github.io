@@ -5,7 +5,7 @@ redirect_from:
 
 # 🚸 Icône-Symbole
 
-L'icône est un signe orienté vers l’usage (dénotation), le symbole est un signe orienté vers le sens (connotation).
+L’icône est un signe orienté vers l’usage (dénotation), le symbole est un signe orienté vers le sens (connotation).
   
 ### &nbsp;
 
@@ -25,13 +25,13 @@ L'icône est un signe orienté vers l’usage (dénotation), le symbole est un s
 
 |![](https://studioto.github.io/media/icon-symbol/developpement.jpg) |
 |:---:|
-| La valeur symbolique d'un signe individuel reste souvent cachée et insignifiante. |
+| La valeur symbolique d’un signe individuel reste souvent cachée et insignifiante. |
 
 # Séquence de symboles
 
 |![](https://studioto.github.io/media/icon-symbol/developpement2.gif) |
 |:---:|
-| La présentation d'une séquence de signes ou leur confrontation permet cependant de conférer aux signes une valeur narrative, voire figurative. |
+| La présentation d’une séquence de signes ou leur confrontation permet cependant de conférer aux signes une valeur narrative, voire figurative. |
 
 ### Sources
 

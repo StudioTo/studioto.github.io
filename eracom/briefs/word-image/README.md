@@ -16,7 +16,7 @@ redirect_from:
         La composition typographique d’un mot est régie par la grammaire et l’orthographe de la langue concernée.
         Ces paramètres sont hors du champ d’action de la typographie.
 
-        Néanmoins, malgré ces contraintes, la typographie peut agir sur différents paramètres:
+        Néanmoins, malgré ces contraintes, la typographie peut agir sur différents paramètres :
 
             – la texture du mot
             — la graphie du mot
@@ -29,41 +29,41 @@ redirect_from:
 
     1.  Composition d’une marque verbale
 
-        pour le client qui vous a été attribué, créer une marque verbale en suivant le processus suivant:
+        pour le client qui vous a été attribué, créer une marque verbale en suivant le processus suivant :
 
         ⚠️  la marque verbale doit contenir le nom du client uniquement (et non l’information qui est entre parenthèses)
-            cette information vous sert à définir quel type de connotation vous devez donner à la marque (voir page «Texture du mot»)
+            cette information vous sert à définir quel type de connotation vous devez donner à la marque (voir page « Texture du mot »)
 
         ⚠️  garder tous vos essais, ne rien supprimer
 
-        a.  Recherche: expérimenter avec les différents paramètres
+        a.  Recherche : expérimenter avec les différents paramètres
         
-            a.1. la texture du mot: min. 10 essais
-            a.2. la graphie du mot: min. 10 essais (en partant de la meilleure variante a.1)
-            a.3. l’articulation du mot: min. 10 essais (en partant de la meilleure variante a.2)
-            a.4. la composition du mot: min. 10 essais (en partant de la meilleure variante a.3)
+            a.1. la texture du mot : min. 10 essais
+            a.2. la graphie du mot : min. 10 essais (en partant de la meilleure variante a.1)
+            a.3. l’articulation du mot : min. 10 essais (en partant de la meilleure variante a.2)
+            a.4. la composition du mot : min. 10 essais (en partant de la meilleure variante a.3)
 
-        b.  Développement: définir le concept et affiner la proposition
+        b.  Développement : définir le concept et affiner la proposition
 
             b.1. choisir la meilleure mise en forme provenant des recherches
-            b.2. mettre par écrit, en quelques phrases (min. 3), le concept: les raisons pour lesquelles cette mise en forme est la meilleure (axes sémantiques, typologies)
+            b.2. mettre par écrit, en quelques phrases (min. 3), le concept : les raisons pour lesquelles cette mise en forme est la meilleure (axes sémantiques, typologies)
             b.3. sur la base du concept défini, réaliser min. 10 nouveaux essais pour vérifier que la proposition est bel et bien la meilleure mise en forme de ce concept (positions, proportions, alignements)
 
-        c.  Production: vérifier que tout est en ordre
+        c.  Production : vérifier que tout est en ordre
 
             c.1. choisir la mise en forme finale
-            c.2. vérifier que tout est en ordre: police, alignement, fonds, contours
+            c.2. vérifier que tout est en ordre : police, alignement, fonds, contours
             c.3. exporter la mise en forme finale au format PDF
 
     2.  Format
         
-            mode: impression
-            nombre de pages: —
-            affichage des pages: simple (vis-à-vis décoché)
-            format de page: A4 (297 × 210 mm)
-            orientation: horizontal
-            marges: 0 mm
-            fonds-perdus: 3 mm
+            mode : impression
+            nombre de pages : —
+            affichage des pages : simple (vis-à-vis décoché)
+            format de page : A4 (297 × 210 mm)
+            orientation : horizontal
+            marges : 0 mm
+            fonds-perdus : 3 mm
 
         ⚠️  un seul test par page
         ⚠️  séparer chaque catérogie de test par une page titre (a, texture, graphie, articulation, composition, b, c)
@@ -75,14 +75,14 @@ redirect_from:
 
 ✉️ Liste des clients  
   
-Pour la recherche:  
+Pour la recherche :  
 
 1️⃣ [Texture du mot](../../../word-texture/)  
 2️⃣ [Graphie du mot](../../../word-case/)  
 3️⃣ [Articulation du mot](../../../word-articulation/)  
 4️⃣ [Composition du mot](../../../word-composition/)  
 
-Pour le développement du concept:  
+Pour le développement du concept :  
 
 📎 [Sémiotique](../../../semiotics/)    
 📖 Robert Bringhurst, *Principes Élémentaires De La Typographie, Une Histoire Des Styles*, Éditions B42, 2023

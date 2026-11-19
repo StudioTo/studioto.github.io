@@ -2,7 +2,7 @@
 title: "Index"
 ---
   
-Ressources for *graphic design* from Tancrède Ottiger: *[graphic](https://t-o.studio)* and *[type](https://t-o.supply)* designer, *[teacher](https://studioto.github.io)*
+Ressources for *graphic design* from Tancrède Ottiger : *[graphic](https://t-o.studio)* and *[type](https://t-o.supply)* designer, *[teacher](https://studioto.github.io)*
 
 # &nbsp;
 
@@ -24,22 +24,22 @@ Ressources for *graphic design* from Tancrède Ottiger: *[graphic](https://t-o.s
 | [Classification anatomique](/anatomical-classification) | #classification typographique | 🦴 |
 | [Classification historique](/historical-classification) | #classification typographique | 🕰️ |
 | [Unités typographiques](/typographic-units) | #unités typographiques | 🔎 |
-| [Anatomie](/character-anatomy) | #unités typographiques, #unité 1: caractère | 🍖 |
-| [Mesures](/character-measures) | #unités typographiques, #unité 1: caractère | ↕️ |
-| [Optique](/character-optics) | #unités typographiques, #unité 1: caractère | 🔼 |
-| [Variations](/character-variations) | #unités typographiques, #unité 1: caractère | 🔀 |
-| [Texture](/word-texture) | #unités typographiques, #unité 2: mot | 🎨 |
-| [Graphie](/word-case) | #unités typographiques, #unité 2: mot | 🔡 |
-| [Articulation](/word-articulation) | #unités typographiques, #unité 2: mot | 📶 |
-| [Composition](/word-composition) | #unités typographiques, #unité 2: mot | ↔️ |
-| [Orthographe typographique (micro)](/micro-typography) | #unités typographiques, #unité 3: ligne | 🖍️ |
-| [Composition](/line-composition) | #unités typographiques, #unité 3: ligne | ↔️ |
-| [Articulation](/line-articulation) | #unités typographiques, #unité 3: ligne | 📶 |
-| [Mise en forme](/line-layout) | #unités typographiques, #unité 3: ligne | ⏹️ |
-| [Lisibilité (macro)](/macro-typography) | #unités typographiques, #unité 4: colonne | 🔎 |
-| [Composition](/column-composition) | #unités typographiques, #unité 4: colonne | ↔️ |
-| [Articulation](/column-articulation) | #unités typographiques, #unité 4: colonne | 📶 |
-| [Mise en page](/page-layout) | #unités typographiques, #unité 4: colonne | ⏹️ |
+| [Anatomie](/character-anatomy) | #unités typographiques, #unité 1 : caractère | 🍖 |
+| [Mesures](/character-measures) | #unités typographiques, #unité 1 : caractère | ↕️ |
+| [Optique](/character-optics) | #unités typographiques, #unité 1 : caractère | 🔼 |
+| [Variations](/character-variations) | #unités typographiques, #unité 1 : caractère | 🔀 |
+| [Texture](/word-texture) | #unités typographiques, #unité 2 : mot | 🎨 |
+| [Graphie](/word-case) | #unités typographiques, #unité 2 : mot | 🔡 |
+| [Articulation](/word-articulation) | #unités typographiques, #unité 2 : mot | 📶 |
+| [Composition](/word-composition) | #unités typographiques, #unité 2 : mot | ↔️ |
+| [Orthographe typographique (micro)](/micro-typography) | #unités typographiques, #unité 3 : ligne | 🖍️ |
+| [Composition](/line-composition) | #unités typographiques, #unité 3 : ligne | ↔️ |
+| [Articulation](/line-articulation) | #unités typographiques, #unité 3 : ligne | 📶 |
+| [Mise en forme](/line-layout) | #unités typographiques, #unité 3 : ligne | ⏹️ |
+| [Lisibilité (macro)](/macro-typography) | #unités typographiques, #unité 4 : colonne | 🔎 |
+| [Composition](/column-composition) | #unités typographiques, #unité 4 : colonne | ↔️ |
+| [Articulation](/column-articulation) | #unités typographiques, #unité 4 : colonne | 📶 |
+| [Mise en page](/page-layout) | #unités typographiques, #unité 4 : colonne | ⏹️ |
 | [Formes en mouvement](/moving-shapes) | #animation | 📽️ |
 | [Construction des caractères](/character-construction) | #glyphes | ✏️ |
 | [Numérisation de croquis](/sketch-digitization) | #glyphes | 📸 |

@@ -3,7 +3,7 @@ redirect_from:
   - /process-delivery/
 ---
 
-# 📦 Production:<br>Délivrer une / des proposition(s)
+# 📦 Production :<br>Délivrer une / des proposition(s)
 
 
 ### Fichier

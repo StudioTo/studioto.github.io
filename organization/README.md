@@ -3,16 +3,16 @@ redirect_from:
   - /process-constraints/
 ---
 
-# 📋 Organisation:<br>Comprendre les contraintes
+# 📋 Organisation :<br>Comprendre les contraintes
 
-- Quel est le sujet? Quel est le message à transmettre?  
-- Quelle est l'échelle typographique du contenu?    
-- À qui s’adresse-t-il?  
-- Quelles sont les contraintes techniques? financières? etc.  
+- Quel est le sujet ? Quel est le message à transmettre ?  
+- Quelle est l’échelle typographique du contenu ?    
+- À qui s’adresse-t-il ?  
+- Quelles sont les contraintes techniques ? financières ? etc.  
 
 ## &nbsp;  
 
-*Design* signifie dessiner avec intention, c'est à dire transformer un message en une organisation visuelle claire, lisible et signifiante pour un public donné. Quel est le message à transmettre? Quelle idée, émotion ou information centrale doit être comprise ou ressentie? À qui s’adresse-t-il? Identifier le destinataire permet d’ajuster le ton, le niveau de complexité, les références ainsi que le registre visuel et verbal. C’est aussi identifier les contraintes techniques telles que le format ou la technique
+*Design* signifie dessiner avec intention, c’est à dire transformer un message en une organisation visuelle claire, lisible et signifiante pour un public donné. Quel est le message à transmettre ? Quelle idée, émotion ou information centrale doit être comprise ou ressentie ? À qui s’adresse-t-il ? Identifier le destinataire permet d’ajuster le ton, le niveau de complexité, les références ainsi que le registre visuel et verbal. C’est aussi identifier les contraintes techniques telles que le format ou la technique
   
 &nbsp;
 
@@ -33,7 +33,7 @@ redirect_from:
 
 |![](https://studioto.github.io/media/organization/1-language_v252.gif) |
 |:---:|
-| Échelle typographique: signe, mot, phrase, colonne |
+| Échelle typographique : signe, mot, phrase, colonne |
 
 # Public 
 
@@ -51,13 +51,13 @@ redirect_from:
 
 |![](https://studioto.github.io/media/organization/format1.gif) |
 |:---:|
-| Le format, l'orientation et les marges conditionnent les possibités de design |
+| Le format, l’orientation et les marges conditionnent les possibités de design |
 
 # Technique  
 
 |![](https://studioto.github.io/media/organization/0-mot2.gif) |
 |:---:|
-| Chaque technique a ses contraintes (notamment la plus corps qu'il est possible d'imprimer) |
+| Chaque technique a ses contraintes (notamment la plus corps qu’il est possible d’imprimer) |
 
 <!-- ### Sources
 

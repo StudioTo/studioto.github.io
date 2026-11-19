@@ -3,7 +3,7 @@ redirect_from:
   - /track-architecture-evolution/
 ---
 
-# 🏢 Evolution de l'architecture
+# 🏢 Evolution de l’architecture
 
   
 &nbsp;

@@ -12,18 +12,18 @@ redirect_from:
 # Brief
     1.  Créer un fichier Glyphs
 
-        mode: impression
-        nombre de pages: 1
-        affichage des pages: simple
-        format de page: Broadsheet (410 × 580 mm)
-        marges: 10 mm
-        fonds-perdus: 3 mm
+        mode : impression
+        nombre de pages : 1
+        affichage des pages : simple
+        format de page : Broadsheet (410 × 580 mm)
+        marges : 10 mm
+        fonds-perdus : 3 mm
 
     2.  Recomposer un lettering provenant du journal imposé
 
 
 
-    3.  Vérifier le fichier:
+    3.  Vérifier le fichier :
 
 
 
@@ -45,7 +45,7 @@ créer les éléments graphiques (filets) -->
     rechercher:     (?<=\w)((\s|~S)*?)([?!;:])
     remplacer:      ~<$3
 
-    «»
+    « »
 
     rechercher:     (\«)(\s)(.+?)( )(\»)
     remplacer:      $1~<$3~<$5
@@ -61,7 +61,7 @@ créer les éléments graphiques (filets) -->
 ✅ Reconnaître les polices de caractères  
 ✅ Connaître les règles de la composition typographique  
 ✅ Comprendre la grille de mise en page d’une publication donnée  
-✅ Produire une mise en page dans InDesign selon les règles de l'art (grille, styles, microtypographie)   
+✅ Produire une mise en page dans InDesign selon les règles de l’art (grille, styles, microtypographie)   
 
 # Évaluation
 

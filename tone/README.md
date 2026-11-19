@@ -3,10 +3,10 @@ redirect_from:
   - /process-typeface/
 ---
 
-# 🎹 Ton:<br>Choisir le ou les caractère(s)
+# 🎹 Ton :<br>Choisir le ou les caractère(s)
 
-- Quel ton ou registre sert le mieux le propos (avant même qu'il soit lu)?  
-- Quels sont les axes sémantiques qui permettent de caractériser la thématique?  
+- Quel ton ou registre sert le mieux le propos (avant même qu’il soit lu) ?  
+- Quels sont les axes sémantiques qui permettent de caractériser la thématique ?  
 
 ## &nbsp;  
 
@@ -18,13 +18,13 @@ Le choix du caractère typographique fixe le ton du message. Il s’agit d’art
 
 |![](https://studioto.github.io/media/tone/2-semiotique16.gif) |
 |:---:|
-| La morphologie des lettres se manifeste par des variations de style : italique (incliné), gras (épais), light (fin), etc. |
+| La morphologie des lettres se manifeste par des variations de style : italique (incliné), gras (épais), light (fin), etc. |
 
 # Connotation  
 
 |![](https://studioto.github.io/media/tone/0-mot15.gif) |
 |:---:|
-| Différentes formes de lettres sont associées à différentes valeurs culturelles: une linéale suggère la neutralité, une sérif classique évoque la tradition, une didone peut connoter le luxe, une script exprime la spontanéité, une gothique rappelle l’histoire médiévale, une géométrique suggère la modernité |
+| Différentes formes de lettres sont associées à différentes valeurs culturelles : une linéale suggère la neutralité, une sérif classique évoque la tradition, une didone peut connoter le luxe, une script exprime la spontanéité, une gothique rappelle l’histoire médiévale, une géométrique suggère la modernité |
 
 # Axes sémantiques
 
@@ -41,11 +41,11 @@ Le choix du caractère typographique fixe le ton du message. Il s’agit d’art
 
 # Typologie
 
-•	Émotions: chaleureux, froid, joyeux, triste, rassurant, menaçant.  
-•	Société: prestigieux, populaire, féminin, masculin, enfantin, neutre.  
-•	Fonction: lisible, confus, stable, dynamique, clair, lourd, léger.  
-•	Culture: moderne, classique, rétro, futuriste, artisanal, technologique.  
-•	Esthétique: élégant, brut, raffiné, décoratif, minimaliste, grotesque. 
+•	Émotions : chaleureux, froid, joyeux, triste, rassurant, menaçant.  
+•	Société : prestigieux, populaire, féminin, masculin, enfantin, neutre.  
+•	Fonction : lisible, confus, stable, dynamique, clair, lourd, léger.  
+•	Culture : moderne, classique, rétro, futuriste, artisanal, technologique.  
+•	Esthétique : élégant, brut, raffiné, décoratif, minimaliste, grotesque. 
 
 # Gris de texte  
 
@@ -57,7 +57,7 @@ Le choix du caractère typographique fixe le ton du message. Il s’agit d’art
 
 |![](https://studioto.github.io/media/tone/contraste_caracteres.gif) |
 |:---:|
-| Les contrastes créent la tension et l’harmonie essentielles à l'impact graphique et à la lisibilité d’une composition. Combinés avec discernement, ils renforcent mutuellement leur effet, tandis qu’une absence de contraste engendre la monotonie. |
+| Les contrastes créent la tension et l’harmonie essentielles à l’impact graphique et à la lisibilité d’une composition. Combinés avec discernement, ils renforcent mutuellement leur effet, tandis qu’une absence de contraste engendre la monotonie. |
 
 •	animé - paisible  
 •	animé - tranquille  
@@ -88,4 +88,4 @@ Le choix du caractère typographique fixe le ton du message. Il s’agit d’art
 
 ### Sources
 
-— Emil Ruder, *Typographie: Ein Gestaltungslehrbuch*. Teufen: Niggli, 1967  
+— Emil Ruder, *Typographie : Ein Gestaltungslehrbuch*. Teufen : Niggli, 1967  

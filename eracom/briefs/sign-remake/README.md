@@ -30,19 +30,19 @@ redirect_from:
 
         b.  Réaliser des esquisses de traduction graphique du niveau supérieur et du niveau inférieur
 
-            technique: crayon sur papier
-            format de page: libre
-            mode: noir/blanc
+            technique : crayon sur papier
+            format de page : libre
+            mode : noir/blanc
             
             ⚠️ 30 esquisses minimum par niveau (30 + 30 = 60)
 
         c.  Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
 
-            technique: Glyphs ou InDesign ou Illustrator
-            ratio de page: carré
-            mode: noir/blanc
-            construction: formes pleines uniquement (pas de dégradé, pas d'effet)
-            périphérique: souris/trackpad uniquement (pas de tablettre, pas de stylus)
+            technique : Glyphs ou InDesign ou Illustrator
+            ratio de page : carré
+            mode : noir/blanc
+            construction : formes pleines uniquement (pas de dégradé, pas d’effet)
+            périphérique : souris/trackpad uniquement (pas de tablettre, pas de stylus)
 
             ⚠️ Archiver tous les essais, garder les tracés et contours éditables
 

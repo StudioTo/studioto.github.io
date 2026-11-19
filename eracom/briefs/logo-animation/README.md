@@ -30,19 +30,19 @@ redirect_from:
 
     4.  Animation du logo (min. 5 étapes)
 
-        étape 1: frame vide
-        étape 2:
-        étape 3:
-        étape 4:
+        étape 1 : frame vide
+        étape 2 :
+        étape 3 :
+        étape 4 :
         […]
-        étape finale: logo complet, centré dans le frame
+        étape finale : logo complet, centré dans le frame
 
-    *   travailler à l’envers de l'animation
+    *   travailler à l’envers de l’animation
 
         préparer le frame final
         sur la gauche, dupliquer le frame puis le modifier (1ère étape de disparition)
 
-            modifications possibles (liste non exhaustive):
+            modifications possibles (liste non exhaustive) :
 
             - position
             - proportions
@@ -52,17 +52,17 @@ redirect_from:
             - effets
             - […]
 
-            ⚠️ chaque frame doit comporter le même groupe «logo», avec le même nombre de calques, nommés de la même manière et dans le même ordre
+            ⚠️ chaque frame doit comporter le même groupe « logo », avec le même nombre de calques, nommés de la même manière et dans le même ordre
 
         à nouveau, sur la gauche, dupliquer le frame puis le modifier (2e étape de disparition)
         et ainsi de suite jusqu’à la disparition complète du logo
         dans le mode prototype, créer des liens interatifs entre les frames, dans l’ordre de l’animation (du début à la fin)
 
-            interaction:
+            interaction :
 
-            trigger:    on click
-            action:     navigate to
-            animation:  smart animate
+            trigger :    on click
+            action :     navigate to
+            animation :  smart animate
 
             ⚠️ attention à bien faire démarrer le flow à la frame vide (étape 1)
 
@@ -86,7 +86,7 @@ redirect_from:
 
 # Objectifs
 
-✅ Connaître les différents paramètres d'un objet vectoriel dans Figma (position, layout, apparance, fond, contour, effets) (C1)  
+✅ Connaître les différents paramètres d’un objet vectoriel dans Figma (position, layout, apparance, fond, contour, effets) (C1)  
 ✅ Décomposer un logo en sous-parties (C3)  
 ✅ Animer l’apparition d’un logo (C3)  
 ✅ Utiliser la fonction smart animate dans Figma (C3)  

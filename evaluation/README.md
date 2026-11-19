@@ -210,7 +210,7 @@ redirect_from:
     <tbody>
       <tr>
         <td class="sub-label">Complétude</td>
-        <td class="question">Est-ce que les demandes du brief sont traitées (partiellement, entièrement, au-delà)?</td>
+        <td class="question">Est-ce que les demandes du brief sont traitées (partiellement, entièrement, au-delà) ?</td>
         <td class="rating" data-export="hiérarchie"></td>
         <td class="note-cell">
           <div class="note-meta progress"></div>
@@ -220,12 +220,12 @@ redirect_from:
       </tr>
       <tr>
         <td class="sub-label">Justesse</td>
-        <td class="question">Est-ce que les contraintes du brief sont respectées (contenu, format, outils)?</td>
+        <td class="question">Est-ce que les contraintes du brief sont respectées (contenu, format, outils) ?</td>
         <td class="rating" data-export="contexte"></td>
       </tr>
       <tr>
         <td class="sub-label">Précision</td>
-        <td class="question">Est-ce que le rendu est précis et systématique (styles, alignements, microtypo)?</td>
+        <td class="question">Est-ce que le rendu est précis et systématique (styles, alignements, microtypo) ?</td>
         <td class="rating" data-export="impact"></td>
       </tr>
     </tbody>
@@ -263,17 +263,17 @@ redirect_from:
       </tr>
       <tr>
         <td class="sub-label">Organisation</td>
-        <td class="question">La gestion du projet démontre-elle autonomie et lucidité?</td>
+        <td class="question">La gestion du projet démontre-elle autonomie et lucidité ?</td>
         <td class="rating" data-export="organisation"></td>
       </tr>
       <tr>
         <td class="sub-label">Recherche</td>
-        <td class="question">Les recherches ont-elles été menées de manière itérative et documentée?</td>
+        <td class="question">Les recherches ont-elles été menées de manière itérative et documentée ?</td>
         <td class="rating" data-export="recherche"></td>
       </tr>
       <tr>
         <td class="sub-label">Intentions</td>
-        <td class="question">Le concept est-il clairement défini et bien défendu?</td>
+        <td class="question">Le concept est-il clairement défini et bien défendu ?</td>
         <td class="rating" data-export="intentions"></td>
       </tr>
       <!-- DESIGN -->
@@ -282,17 +282,17 @@ redirect_from:
       </tr>
       <tr>
         <td class="sub-label">Pertinence</td>
-        <td class="question">Le langage graphique est-il pertinent par rapport à l’audience?</td>
+        <td class="question">Le langage graphique est-il pertinent par rapport à l’audience ?</td>
         <td class="rating" data-export="contexte"></td>
       </tr>
       <tr>
         <td class="sub-label">Hiérarchisation</td>
-        <td class="question">L'information est-elle accentuée proportionnelement à son importance?</td>
+        <td class="question">L’information est-elle accentuée proportionnelement à son importance ?</td>
         <td class="rating" data-export="hiérarchie"></td>
       </tr>
       <tr>
         <td class="sub-label">Impact</td>
-        <td class="question">Le traitement graphique a-t’il un impact sur l’attention du récepteur?</td>
+        <td class="question">Le traitement graphique a-t’il un impact sur l’attention du récepteur ?</td>
         <td class="rating" data-export="impact"></td>
       </tr>
       <!-- TECHNIQUE -->
@@ -301,17 +301,17 @@ redirect_from:
       </tr>
       <tr>
         <td class="sub-label">Systématisation</td>
-        <td class="question">La grille, les gabarits, les styles de texte et d’objets sont-ils cohérents?</td>
+        <td class="question">La grille, les gabarits, les styles de texte et d’objets sont-ils cohérents ?</td>
         <td class="rating" data-export="systématisation"></td>
       </tr>
       <tr>
         <td class="sub-label">Précision</td>
-        <td class="question">Les objets et les blocs texte sont alignés, les règles de microtypographie sont-ils appliquée?</td>
+        <td class="question">Les objets et les blocs texte sont alignés, les règles de microtypographie sont-ils appliquée ?</td>
         <td class="rating" data-export="précision"></td>
       </tr>
       <tr>
         <td class="sub-label">Production</td>
-        <td class="question">Les nomenclatures, les liens et les références sont-ils fonctionnels?</td>
+        <td class="question">Les nomenclatures, les liens et les références sont-ils fonctionnels ?</td>
         <td class="rating" data-export="production"></td>
       </tr>
     </tbody>

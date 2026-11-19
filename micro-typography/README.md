@@ -70,7 +70,7 @@ La micro-typographie concerne le soin apporté aux détails fins du contenu text
 
 |![](https://studioto.github.io/media/micro-typography/1-micro-typo3.gif) |
 |:---:|
-| Les guillemets sont des signes de ponctuation utilisés par paire pour mettre en évidence une citation ; chaque langue possède ses propres formes. | 
+| Les guillemets sont des signes de ponctuation utilisés par paire pour mettre en évidence une citation ; chaque langue possède ses propres formes. | 
 
 ```
 Pour chaque langue il y a des conventions particulières, voici certains des ouvrages de références:
@@ -145,7 +145,7 @@ Chicago Manual of Style
 
 |![](https://studioto.github.io/media/micro-typography/1-micro-typo47.gif) |
 |:---:|
-| Les opérations mathématiques (comme la multiplication) nécessite l'usage de signes distincts des lettres ou autres symboles voisins. | 
+| Les opérations mathématiques (comme la multiplication) nécessite l’usage de signes distincts des lettres ou autres symboles voisins. | 
 
 ## Les nombres {#les-nombres}
 
@@ -163,7 +163,7 @@ Chicago Manual of Style
 
 |![](https://studioto.github.io/media/micro-typography/1-micro-typo63.gif) |
 |:---:|
-| Les index s’écrivent avec des abréviations spécifiques et évitent les formes anglicisées ou incorrectes comme « 2ème ». | 
+| Les index s’écrivent avec des abréviations spécifiques et évitent les formes anglicisées ou incorrectes comme « 2ème ». | 
 
 # Symboles {#symboles}  
 
@@ -177,7 +177,7 @@ Chicago Manual of Style
 
 |![](https://studioto.github.io/media/micro-typography/1-micro-typo70.gif) |
 |:---:|
-| L’esperluette (&) représente la conjonction « et », issue de la ligature des lettres latines E et T. | 
+| L’esperluette (&) représente la conjonction « et », issue de la ligature des lettres latines E et T. | 
 
 ## Devises {#devises}  
 
@@ -209,7 +209,7 @@ Chicago Manual of Style
 
 |![](https://studioto.github.io/media/micro-typography/1-micro-typo38.gif) |
 |:---:|
-| Les chiffres peuvent varier en forme (proportionnels, tabulaires, elzéviriens) selon leur contexte typographique: texte courant, tableau ou encore affichages en grande taille. | 
+| Les chiffres peuvent varier en forme (proportionnels, tabulaires, elzéviriens) selon leur contexte typographique : texte courant, tableau ou encore affichages en grande taille. | 
 
 ## Formes sensibles à la casse (case) {#formes-sensibles-a-la-casse-case}  
 
@@ -227,6 +227,6 @@ Chicago Manual of Style
 
 ### Sources
  
-- Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005 [éd. orig. 1987]  
-- François Rappo, *Checklist — micro-typographie*, Lausanne: ECAL, 2009  
-- ECAL/ Ecole Cantonale d’art de Lausanne, Harry Bloch, Pierrick Brégeon & Philippe Karrer, *Gas for my Cadillac: Manuel et quelques trucs de mise en page pour InDesign*, Lausanne: ECAL, 2013  
+- Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  
+- François Rappo, *Checklist — micro-typographie*, Lausanne : ECAL, 2009  
+- ECAL/ Ecole Cantonale d’art de Lausanne, Harry Bloch, Pierrick Brégeon & Philippe Karrer, *Gas for my Cadillac : Manuel et quelques trucs de mise en page pour InDesign*, Lausanne : ECAL, 2013  

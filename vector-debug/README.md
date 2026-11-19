@@ -9,11 +9,11 @@ redirect_from:
 
 |![](https://studioto.github.io/media/vector-debug/typo_debug_1.jpg) |
 |:---:|
-| L'épaisseur des déliés doit être cohérente           |
+| L’épaisseur des déliés doit être cohérente           |
 
 |![](https://studioto.github.io/media/vector-debug/typo_debug_2.jpg) |
 |:---:|
-| L'épaisseur des pleins doit être cohérente           |
+| L’épaisseur des pleins doit être cohérente           |
 
 |![](https://studioto.github.io/media/vector-debug/typo_debug_3.jpg) |
 |:---:|
@@ -21,7 +21,7 @@ redirect_from:
 
 |![](https://studioto.github.io/media/vector-debug/typo_debug_4.jpg) |
 |:---:|
-| L'outil impose l'angle, l'angle répartit le contraste           |
+| L’outil impose l’angle, l’angle répartit le contraste           |
 
 |![](https://studioto.github.io/media/vector-debug/typo_debug_6.jpg) |
 |:---:|

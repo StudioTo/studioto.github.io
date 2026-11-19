@@ -15,7 +15,7 @@ La composition du mot se réfère à l’organisation globale de ses lettres dan
 
 |![](https://studioto.github.io/media/word-composition/0-mot35.gif) |
 |:---:|
-| En typographie occidentale, le sens de lecture se fait de gauche à droite et de haut en bas, mais il existe d'autres systèmes  |
+| En typographie occidentale, le sens de lecture se fait de gauche à droite et de haut en bas, mais il existe d’autres systèmes  |
 
 # Inter-lettrage  
 
@@ -25,6 +25,6 @@ La composition du mot se réfère à l’organisation globale de ses lettres dan
 
 ### Sources
 
-- Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972 
-- Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
-- Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005 [éd. orig. 1987]  
+- Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972 
+- Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
+- Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  
