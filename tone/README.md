@@ -28,7 +28,6 @@ Choisir le ou les caractère(s)
 
 Le choix du caractère typographique fixe le ton du message. Il s’agit d’articuler le rapport entre fond et forme, en tenant compte des connotations portées par la typographie.
   
-&nbsp;
 
 ## Morphologie  
 

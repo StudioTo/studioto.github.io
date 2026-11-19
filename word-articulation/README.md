@@ -21,7 +21,6 @@ L’articulation du mot concerne la manière dont les lettres interagissent à l
 
 → L’articulation des signes correspond au lien entre les notes (fluide ou saccadé)
   
-&nbsp;
 
 |![](https://studioto.github.io/media/word-articulation/0-mot63.gif) |
 |:---:|

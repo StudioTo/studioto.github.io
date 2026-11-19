@@ -63,7 +63,6 @@ La micro-typographie concerne le soin apporté aux détails fins du contenu text
   - [Formes sensibles à la casse](#formes-sensibles-a-la-casse-case)
   - [Style stylistique](#stylistic-set)
 
-&nbsp;
 
 ## Checklist
 

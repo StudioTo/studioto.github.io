@@ -21,7 +21,6 @@ La texture du mot fait référence aux formes de lettre choisies pour véhiculer
 
 → Choisir un caractère équivaut à choisir un timbre de voix
   
-&nbsp;
 
 <!-- ## Technique  
 

@@ -58,7 +58,6 @@ redirect_from:
 - [ ] Les guillemets sont adaptés à la langue du texte, « Français », „Deutsch“, “English”, etc., jamais ceux-ci \"…\"
 - [ ] Les espaces avec les ponctuations sont justes et adaptés à la langue du texte (espaces fines)
 
-&nbsp;
 
 - [ ] Les apostrophes sont typographiques ’ et non '
 - [ ] Les … utilisent le glyphe adéquat et non 3 points
@@ -66,13 +65,11 @@ redirect_from:
 - [ ] Les multiplications utilisent le glyphe × et non x
 - [ ] Les paires oe, ae … sont remplacées par les ligature œ, æ (en française)
 
-&nbsp;
 
 - [ ] Aucun paragraphe ne finit par une ligne composée d’un mot seul ou d’un mot avec césure
 - [ ] Il n’y a pas de veuve ni d’orpheline
 - [ ] Il n’y a pas de doubles espaces
 
-&nbsp;
 
 - [ ] Les styles de paragraphes et de caractères n’ont pas d’exception
 - [ ] L’interlignage de la fonte est systématique (pour chaque style de pararaphe, aligné sur la grille de lignes de base)

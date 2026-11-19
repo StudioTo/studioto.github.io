@@ -17,7 +17,6 @@ redirect_from:
 
 La mise en forme consiste à sélectionner une ou plusieurs variations en fonction de leur pertinence vis-à-vis du sujet. Il est alors possible d’en combiner plusieurs à la fois. A ce stade, il est important de ne pas simplement reprendre une variation telle quelle, mais de la questionner et d’en dériver plusieurs versions. La mise en forme apporte ainsi une réponse cohérente au cadre défini par les contraintes du projet. 
   
-&nbsp;
 
 |![](https://studioto.github.io/media/compositions/variations33.gif) |
 |:---:|

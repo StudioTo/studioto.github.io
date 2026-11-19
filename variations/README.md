@@ -26,7 +26,6 @@ redirect_from:
  
 Explorer un maximum de variations, en modulant un paramètre visuel à la fois. En effet, si plusieurs paramètres changent simultanément, il devient impossible d’identifier clairement l’effet de chacun. En isolant les variables, on peut évaluer objectivement la pertinence et l’impact de chaque solution graphique.
   
-&nbsp;
 
 ## Forme  
 

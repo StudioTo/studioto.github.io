@@ -28,7 +28,6 @@ redirect_from:
 
 Emil Ruder, 1967
 
-&nbsp;
 
 <!-- Chaque jour, de plus en plus d'informations visuelles et textuelles sont produites, ce qui représente un défi pour tous les designers qui font usage de la typographiques. Ce cours porte sur les méthodes d'organisation et de conception de l'information textuelle en fonction de son contenu et de son contexte, ainsi que sur les formats dans lesquels cette information est transmise au lecteur. Le terme «typographie» couvre dans notre cas tout le spectre de la communication visuelle qui implique un message écrit, y compris, par exemple, la conception de publications, d'affiches, de logos et de symboles. -->
 

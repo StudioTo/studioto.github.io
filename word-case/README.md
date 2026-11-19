@@ -23,7 +23,6 @@ La graphie désigne la manière dont un mot est écrit. Les mots sont des combin
 
 → La graphie du mot correspond à la mélodie
   
-&nbsp;
 
 ## Casse  
 
