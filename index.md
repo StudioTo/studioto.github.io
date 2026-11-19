@@ -32,13 +32,13 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Mot : articulation](/word-articulation) | #unités typographiques | 🪚 |
 | [Mot : composition](/word-composition) | #unités typographiques | 🕹️ |
 | [Ligne : orthographe typographique (micro)](/line-micro-typography) | #unités typographiques | 🦠 |
-| [Ligne : composition](/line-composition) | #unités typographiques | ↔️ |
+| [Ligne : composition](/line-composition) | #unités typographiques | 📉 |
 | [Colonne : lisibilité (macro)](/column-macro-typography) | #unités typographiques | 🌎 |
-| [Colonne : composition](/column-composition) | #unités typographiques | ↔️ |
+| [Colonne : composition](/column-composition) | #unités typographiques | 📖 |
 | [Formes en mouvement](/moving-shapes) | #animation | 📽️ |
 | [Construction des caractères](/character-construction) | #glyphes | ✏️ |
 | [Numérisation de croquis](/sketch-digitization) | #glyphes | 📸 |
-| [Dessin vectoriel](/vector-drawing) | #glyphes | 🖥️ |
+| [Dessin vectoriel](/vector-drawing) | #glyphes | 🖱️ |
 | [Interpolation vectorielle](/vector-interpolation) | #glyphes | 🎚️ |
 | [Dessin vectoriel *debug*](/vector-debug) | #glyphes | 🖍️ |
 | [Organisation](/organization) | #processus de design | ☑️ |
