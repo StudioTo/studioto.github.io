@@ -1,27 +1,82 @@
-<!-- Liens : couleur aléatoire au survol, différente à chaque fois -->
+<!--
+  Liens : couleur aléatoire au survol, différente à chaque fois.
+  Titre du site (StudioTo) : au survol, chaque lettre prend une couleur différente.
+-->
 <script>
   (function () {
+    var SITE_TITLE = {{ site.title | jsonify }};
     var lastHue = Math.random() * 360;
 
-    function randomColor() {
-      // nouvelle teinte, au moins 60° de l'ancienne pour que le changement se voie
-      lastHue = (lastHue + 60 + Math.random() * 240) % 360;
-      return "hsl(" + Math.round(lastHue) + ", 85%, 45%)";
+    function hsl(h) {
+      return "hsl(" + Math.round(h % 360) + ", 85%, 45%)";
     }
 
+    // couleur aléatoire, au moins 60° de la précédente pour que le changement se voie
+    function randomColor() {
+      lastHue = (lastHue + 60 + Math.random() * 240) % 360;
+      return hsl(lastHue);
+    }
+
+    // ---------- tous les liens (sauf le titre du site)
     function on(e) {
       var a = e.target.closest && e.target.closest("a");
-      if (a && !a.contains(e.relatedTarget)) a.style.color = randomColor();
+      if (!a || a.hasAttribute("data-site-title") || a.contains(e.relatedTarget)) return;
+      a.style.color = randomColor();
     }
 
     function off(e) {
       var a = e.target.closest && e.target.closest("a");
-      if (a && !a.contains(e.relatedTarget)) a.style.color = "";
+      if (!a || a.hasAttribute("data-site-title") || a.contains(e.relatedTarget)) return;
+      a.style.color = "";
     }
 
     document.addEventListener("mouseover", on);
     document.addEventListener("mouseout", off);
     document.addEventListener("focusin", on);   // clavier (Tab)
     document.addEventListener("focusout", off);
+
+    // ---------- titre du site : une couleur par lettre
+    function setupTitle() {
+      var links = document.querySelectorAll("h1 a");
+      for (var i = 0; i < links.length; i++) {
+        var a = links[i];
+        if (a.textContent.trim() !== SITE_TITLE) continue;
+
+        a.setAttribute("data-site-title", "");
+        a.setAttribute("aria-label", SITE_TITLE);
+        a.textContent = "";
+        var letters = [];
+        for (var k = 0; k < SITE_TITLE.length; k++) {
+          var s = document.createElement("span");
+          s.textContent = SITE_TITLE[k];
+          s.setAttribute("aria-hidden", "true");
+          a.appendChild(s);
+          letters.push(s);
+        }
+
+        function colorize() {
+          // teintes réparties sur tout le cercle, dans un ordre mélangé : toutes différentes
+          var start = Math.random() * 360, step = 360 / letters.length, hues = [];
+          for (var j = 0; j < letters.length; j++) hues.push(start + j * step);
+          hues.sort(function () { return Math.random() - 0.5; });
+          for (var j = 0; j < letters.length; j++) letters[j].style.color = hsl(hues[j]);
+        }
+
+        function reset() {
+          for (var j = 0; j < letters.length; j++) letters[j].style.color = "";
+        }
+
+        a.addEventListener("mouseenter", colorize);
+        a.addEventListener("mouseleave", reset);
+        a.addEventListener("focus", colorize);
+        a.addEventListener("blur", reset);
+      }
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", setupTitle);
+    } else {
+      setupTitle();
+    }
   })();
 </script>
