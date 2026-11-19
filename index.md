@@ -18,7 +18,6 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Perception](/gestalt) | #communication visuelle | 👁️‍🗨️ |
 | [Lire-Voir](/read-see) | #communication visuelle | 👀 |
 | [Iconicité](/iconicity) | #communication visuelle | 🚸 |
-| [Icône-Symbole](/icon-symbol) | #communication visuelle | 🚸 |
 | [Sémiotique](/semiotics) | #communication visuelle | 🏷️ |
 | [*Histoire de la typographie*](/typography-history) | #histoire, #timeline | ✍🏻 |
 | [Classification anatomique](/anatomical-classification) | #classification typographique | 🦴 |
