@@ -99,4 +99,4 @@ redirect_from:
 
 ## Évaluation
 
-📶 [Auto-évaluation](../../../evaluation/)
+📶 [Auto-évaluation (grille exercice)](../../../evaluation/#exercice)

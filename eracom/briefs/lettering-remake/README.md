@@ -64,4 +64,4 @@ créer les éléments graphiques (filets) -->
 
 ## Évaluation
 
-📶 [Auto-évaluation (grille exercice)](../../../evaluation/)
+📶 [Auto-évaluation (grille exercice)](../../../evaluation/#exercice)

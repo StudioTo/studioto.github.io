@@ -36,4 +36,4 @@ redirect_from:
 
 ## Évaluation
 
-📶 [Évaluation (score)]()
+📶 Évaluation (score)

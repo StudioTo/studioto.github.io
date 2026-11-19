@@ -95,4 +95,4 @@ Pour le développement du concept :
 
 ## Évaluation
 
-📶 [Auto-évaluation (grille exercice)](../../../evaluation/)
+📶 [Auto-évaluation (grille exercice)](../../../evaluation/#exercice)
