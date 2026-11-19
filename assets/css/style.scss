@@ -96,15 +96,29 @@ html[data-page="/"] .markdown-body > p > strong:only-child {
   display: none !important;
 }
 
-/* ---------- Index de la page d'accueil (tableau) ---------- */
+/* ---------- Index de la page d'accueil (tableau) ----------
+   hiérarchie : titres de page = 1.25em (un niveau sous ##), tags = texte courant (1em)
+   proportions : 1/3 titre, 2/3 tags ; emoji tout à droite, visible au survol */
+:root {
+  --index-title-size: 1.25em;
+  --index-tag-size: 1em;
+  --index-line: 1px solid #d0d7de;
+}
+
+.index-tools {
+  display: flex;
+  align-items: baseline;
+  gap: 1em;
+  border-bottom: var(--index-line);
+}
+
 .index-search {
-  display: block;
-  width: 100%;
-  margin: 0 0 1em;
-  padding: 0.3em 0;
-  font-size: 1.2em;
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+  padding: 0.25em 0;
+  font-size: var(--index-title-size);
   border: 0;
-  border-bottom: 1px solid #000;
   border-radius: 0;
   background: transparent;
   outline: none;
@@ -112,11 +126,43 @@ html[data-page="/"] .markdown-body > p > strong:only-child {
   appearance: none;
 }
 
+.index-search::placeholder {
+  font-size: 1em;
+  color: #6e7781;
+}
+
+.index-sort {
+  font-size: var(--index-tag-size);
+  white-space: nowrap;
+}
+
+.index-sort button {
+  margin: 0 0 0 0.6em;
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  color: #8c959f;
+  cursor: pointer;
+}
+
+.index-sort button[aria-pressed="true"] {
+  color: #000;
+}
+
 .markdown-body table.index-table {
   display: table;              /* le thème affiche les tableaux en bloc défilant */
   width: 100%;
+  max-width: 100%;
+  table-layout: fixed;
   border-collapse: collapse;
   overflow: visible;
+  margin-top: 0;
+}
+
+/* pas d'en-tête de tableau */
+.markdown-body table.index-table thead {
+  display: none;
 }
 
 .markdown-body table.index-table tr,
@@ -125,49 +171,38 @@ html[data-page="/"] .markdown-body > p > strong:only-child {
   border: 0;
 }
 
-/* lignes grises entre les pages, pas de lignes verticales */
-.markdown-body table.index-table th,
+/* lignes grises sur toute la largeur, pas de lignes verticales */
 .markdown-body table.index-table td {
   border: 0;
-  border-bottom: 1px solid #d0d7de;
-  padding: 0.25em 0.5em 0.25em 0;
+  border-bottom: var(--index-line);
+  padding: 0.25em 0.75em 0.25em 0;
   vertical-align: baseline;
   text-align: left;
 }
 
-.markdown-body table.index-table th {
-  font-size: 1.2em;
-  font-weight: 400;
-}
-
-.index-sortable {
-  cursor: pointer;
-}
-
-.index-sortable[aria-sort="ascending"]::after {
-  content: " ↓";
-}
-
-/* titres : taille des anciens ## ; tags : taille du texte d'introduction */
-.markdown-body table.index-table td:first-child {
-  font-size: 2em;
+.markdown-body table.index-table td:nth-child(1) {
+  width: 33.333%;
+  font-size: var(--index-title-size);
 }
 
 .markdown-body table.index-table td:nth-child(2) {
-  font-size: 1.2em;
+  font-size: var(--index-tag-size);
 }
 
-/* emoji : tout à droite, visible seulement au survol de la ligne */
-.markdown-body table.index-table .index-emoji {
-  width: 1%;
+/* emoji : tout à droite ; la cellule reste visible (et sa ligne grise), seul l'emoji apparaît au survol */
+.markdown-body table.index-table td.index-emoji {
+  width: 2.5em;
   padding-right: 0;
   text-align: right;
-  font-size: 2em;
+  font-size: var(--index-title-size);
   white-space: nowrap;
+}
+
+.index-emoji-icon {
   visibility: hidden;
 }
 
-.markdown-body table.index-table tr:hover .index-emoji,
-.markdown-body table.index-table tr:focus-within .index-emoji {
+.markdown-body table.index-table tr:hover .index-emoji-icon,
+.markdown-body table.index-table tr:focus-within .index-emoji-icon {
   visibility: visible;
 }

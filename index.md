@@ -8,7 +8,7 @@ Ressources for *graphic design* from Tancrède Ottiger: *[graphic](https://t-o.s
 
 <!--
   Index : un tableau Markdown simple, une ligne par page.
-  Colonne 1 : titre et lien. Colonne 2 : tag(s), avec #. Colonne 3 : emoji (affiché au survol).
+  Colonne 1 : titre et lien. Colonne 2 : tag(s), avec #, séparés par des virgules. Colonne 3 : emoji (affiché au survol).
   La recherche, le tri et l'affichage de l'emoji sont ajoutés par assets/js/index-table.js.
   Seules les pages listées ici sont cherchées : briefs et quiz restent hors de la recherche.
 -->
@@ -24,33 +24,33 @@ Ressources for *graphic design* from Tancrède Ottiger: *[graphic](https://t-o.s
 | [Classification anatomique](/anatomical-classification) | #Classification typographique | 🦴 |
 | [Classification historique](/historical-classification) | #Classification typographique | 🕰️ |
 | [Unités typographiques](/typographic-units) | #Unités typographiques | 🔎 |
-| [Anatomie](/character-anatomy) | #Unités typographiques #Unité 1: caractère | 🍖 |
-| [Mesures](/character-measures) | #Unités typographiques #Unité 1: caractère | ↕️ |
-| [Optique](/character-optics) | #Unités typographiques #Unité 1: caractère | 🔼 |
-| [Variations](/character-variations) | #Unités typographiques #Unité 1: caractère | 🔀 |
-| [Texture](/word-texture) | #Unités typographiques #Unité 2: mot | 🎨 |
-| [Graphie](/word-case) | #Unités typographiques #Unité 2: mot | 🔡 |
-| [Articulation](/word-articulation) | #Unités typographiques #Unité 2: mot | 📶 |
-| [Composition](/word-composition) | #Unités typographiques #Unité 2: mot | ↔️ |
-| [Orthographe typographique (micro)](/micro-typography) | #Unités typographiques #Unité 3: ligne | 🖍️ |
-| [Composition](/line-composition) | #Unités typographiques #Unité 3: ligne | ↔️ |
-| [Articulation](/line-articulation) | #Unités typographiques #Unité 3: ligne | 📶 |
-| [Mise en forme](/line-layout) | #Unités typographiques #Unité 3: ligne | ⏹️ |
-| [Lisibilité (macro)](/macro-typography) | #Unités typographiques #Unité 4: colonne | 🔎 |
-| [Composition](/column-composition) | #Unités typographiques #Unité 4: colonne | ↔️ |
-| [Articulation](/column-articulation) | #Unités typographiques #Unité 4: colonne | 📶 |
-| [Mise en page](/page-layout) | #Unités typographiques #Unité 4: colonne | ⏹️ |
+| [Anatomie](/character-anatomy) | #Unités typographiques, #Unité 1: caractère | 🍖 |
+| [Mesures](/character-measures) | #Unités typographiques, #Unité 1: caractère | ↕️ |
+| [Optique](/character-optics) | #Unités typographiques, #Unité 1: caractère | 🔼 |
+| [Variations](/character-variations) | #Unités typographiques, #Unité 1: caractère | 🔀 |
+| [Texture](/word-texture) | #Unités typographiques, #Unité 2: mot | 🎨 |
+| [Graphie](/word-case) | #Unités typographiques, #Unité 2: mot | 🔡 |
+| [Articulation](/word-articulation) | #Unités typographiques, #Unité 2: mot | 📶 |
+| [Composition](/word-composition) | #Unités typographiques, #Unité 2: mot | ↔️ |
+| [Orthographe typographique (micro)](/micro-typography) | #Unités typographiques, #Unité 3: ligne | 🖍️ |
+| [Composition](/line-composition) | #Unités typographiques, #Unité 3: ligne | ↔️ |
+| [Articulation](/line-articulation) | #Unités typographiques, #Unité 3: ligne | 📶 |
+| [Mise en forme](/line-layout) | #Unités typographiques, #Unité 3: ligne | ⏹️ |
+| [Lisibilité (macro)](/macro-typography) | #Unités typographiques, #Unité 4: colonne | 🔎 |
+| [Composition](/column-composition) | #Unités typographiques, #Unité 4: colonne | ↔️ |
+| [Articulation](/column-articulation) | #Unités typographiques, #Unité 4: colonne | 📶 |
+| [Mise en page](/page-layout) | #Unités typographiques, #Unité 4: colonne | ⏹️ |
 | [Formes en mouvement](/moving-shapes) | #Animation | 📽️ |
 | [Construction des caractères](/character-construction) | #Glyphes | ✏️ |
 | [Numérisation de croquis](/sketch-digitization) | #Glyphes | 📸 |
 | [Dessin vectoriel](/vector-drawing) | #Glyphes | 🖥️ |
 | [Interpolation vectorielle](/vector-interpolation) | #Glyphes | 🎚️ |
 | [Dessin vectoriel debug](/vector-debug) | #Glyphes | 🪲 |
-| [Organisation](/organization) | #Processus #Processus étape 1 | 📋 |
-| [Ton](/tone) | #Processus #Processus étape 2 | 🎹 |
-| [Variations](/variations) | #Processus #Processus étape 3 | 🎶 |
-| [Compositions](/compositions) | #Processus #Processus étape 4 | 🎼 |
-| [Production](/production) | #Processus #Processus étape 5 | 📦 |
+| [Organisation](/organization) | #Processus, #Processus étape 1 | 📋 |
+| [Ton](/tone) | #Processus, #Processus étape 2 | 🎹 |
+| [Variations](/variations) | #Processus, #Processus étape 3 | 🎶 |
+| [Compositions](/compositions) | #Processus, #Processus étape 4 | 🎼 |
+| [Production](/production) | #Processus, #Processus étape 5 | 📦 |
 | [Designers](/designers) | #Références | 📕 |
 | [Specimens](/specimens) | #Références | 📘 |
 | [Logos](/logos) | #Références | 📗 |
