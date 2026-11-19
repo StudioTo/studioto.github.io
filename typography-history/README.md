@@ -115,6 +115,14 @@ redirect_from:
 .markdown-body h2:has(a[href="#fn:cat"]) sup {
   font-style: normal;
 }
+/* titre de la période en cours (titres datés) : épinglé sous la frise ;
+   chaque nouvelle période recouvre la précédente */
+.markdown-body h2.th-period {
+  position: sticky;
+  top: calc(var(--sticky-h, 119px) + 65px);
+  z-index: 0;
+  background: #fff;
+}
 </style>
 
 <script>
@@ -144,8 +152,17 @@ redirect_from:
     var last = Math.max(cats.length - 1, 1);
     var barH = function () { return nav.getBoundingClientRect().height; };
 
-    // les titres arrivent sous l'en-tête et sous la frise
-    heads.forEach(function (h) { h.style.scrollMarginTop = "calc(var(--sticky-h, 119px) + 65px)"; });
+    // titres datés (« 1540 : … », « −753 : … », « 1350 – 1420 : … ») : périodes, épinglées sous la frise
+    var isPeriod = function (h) { return /^[\u2212-]?\d/.test(h.textContent.trim()); };
+    heads.forEach(function (h) { if (isPeriod(h)) h.classList.add("th-period"); });
+    var PERIOD_H = 55;           // 7 + 40 + 7 + ligne 1px
+
+    // les titres arrivent sous l'en-tête, la frise et la période épinglée
+    heads.forEach(function (h) {
+      h.style.scrollMarginTop = isPeriod(h)
+        ? "calc(var(--sticky-h, 119px) + 65px)"
+        : "calc(var(--sticky-h, 119px) + 65px + " + PERIOD_H + "px)";
+    });
 
     var dots = cats.map(function (h, i) {
       var b = document.createElement("button");
@@ -167,7 +184,7 @@ redirect_from:
     });
 
     function update() {
-      var y = (parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sticky-h"), 10) || 0) + barH() + 1;
+      var y = (parseInt(getComputedStyle(document.documentElement).getPropertyValue("--sticky-h"), 10) || 0) + barH() + PERIOD_H + 1;
       var k = -1;
       for (var i = 0; i < cats.length; i++) {
         if (cats[i].getBoundingClientRect().top <= y) k = i;

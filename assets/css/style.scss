@@ -68,9 +68,10 @@ a:focus,
 
 /* ---------- Interlignages : une taille = un interlignage, sur tout le site ----------
    32px → 40px   titres (StudioTo, titre de page, ##)
-   22px → 28px   ###
+   26px → 32px   ###
+   21px → 26px   ####
    20px → 30px   index : titres de page, recherche
-   19px → 23px   texte courant (1.2), ####, intro de l'accueil
+   19px → 23px   texte courant (1.2), intro de l'accueil
    16px → 24px   légendes, table des matières, sources, notes, tags, #####, ######, texte du thème */
 html,
 body {
@@ -86,7 +87,7 @@ body {
    toutes les valeurs en px entiers (texte courant du thème = 16px)
    #   titre du site (StudioTo) : 32px, gras ; titre de chaque page : 32px, italique regular
    ##  sections (listées dans la table des matières) : 32px comme #, regular
-   ### et suivants : gras, taille décroissante */
+   ### 26px regular, #### 21px regular, sans ligne ; ##### et ###### gras */
 
 .markdown-body h1,
 .markdown-body h2,
@@ -131,8 +132,10 @@ html:not([data-page="/"]) .markdown-body .footnotes li {
   line-height: 24px;
 }
 
-.markdown-body h3 { margin: 32px 0 16px; font-size: 22px; line-height: 28px; }
-.markdown-body h4 { margin: 24px 0 16px; font-size: 19px; line-height: 23px; }
+/* ### : regular, sans ligne, 20 % plus petit que ## (32 → 26px) */
+.markdown-body h3 { margin: 32px 0 16px; padding: 0; font-size: 26px; line-height: 32px; font-weight: 400; border: 0; }
+/* #### : regular, sans ligne, 20 % plus petit que ### (26 → 21px) */
+.markdown-body h4 { margin: 24px 0 16px; padding: 0; font-size: 21px; line-height: 26px; font-weight: 400; border: 0; }
 .markdown-body h5,
 .markdown-body h6 { margin: 24px 0 16px; font-size: 16px; line-height: 24px; }
 
