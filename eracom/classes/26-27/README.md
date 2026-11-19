@@ -1,9 +1,9 @@
 ---
-title: "Eracom 2026-2026"
+title: "Eracom 2026-2027"
 toc: false
 ---
 
-# Eracom 2026-2026
+# Eracom 2026-2027
 
 ## 1re année
 
