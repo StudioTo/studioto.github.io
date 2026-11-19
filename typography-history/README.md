@@ -11,14 +11,14 @@ redirect_from:
 <!-- frise de navigation : une pastille par catégorie de la classification historique (titres avec la note [^cat]) ;
      au-dessus l'année (titre daté qui précède), au-dessous la catégorie : pastille active et pastille survolée -->
 <nav id="th-timeline" aria-label="Classification historique">
-  <span class="th-track"><span class="th-line"></span></span>
+  <span class="th-track"><span class="th-line"></span><span class="th-progress"></span></span>
 </nav>
 
 <style>
 #th-timeline {
   position: sticky;
   top: var(--sticky-h, 119px);
-  z-index: 1;
+  z-index: 2;                  /* au-dessus de la période épinglée */
   height: 65px;                /* 4 + 16 (année) + 2 + 21 (frise) + 2 + 16 (catégorie) + 4 */
   margin: 0 0 24px;
   background: #fff;
@@ -38,6 +38,15 @@ redirect_from:
   top: 10px;
   height: 1px;
   background: #d0d7de;
+}
+/* progression : la ligne devient noire jusqu'à la position de lecture, en continu entre les pastilles */
+#th-timeline .th-progress {
+  position: absolute;
+  left: 0;
+  top: 10px;
+  width: 0;
+  height: 1px;
+  background: #1f2328;
 }
 /* pastilles et ligne centrées sur la même hauteur (10.5px) */
 #th-timeline .th-dot {
@@ -120,7 +129,7 @@ redirect_from:
 .markdown-body h2.th-period {
   position: sticky;
   top: calc(var(--sticky-h, 119px) + 65px);
-  z-index: 0;
+  z-index: 1;                  /* au-dessus du contenu (appels de note, images) qui défile dessous */
   background: #fff;
 }
 </style>
@@ -130,7 +139,7 @@ redirect_from:
   function setup() {
     var nav = document.getElementById("th-timeline");
     if (!nav) return;
-    var track = nav.querySelector(".th-track");
+    var track = nav.querySelector(".th-track"), progress = nav.querySelector(".th-progress");
     var heads = Array.prototype.slice.call(document.querySelectorAll(".markdown-body h2"));
     // catégories : titres qui renvoient à la note [^cat]
     var cats = heads.filter(function (h) { return h.querySelector('a[href="#fn:cat"]'); });
@@ -196,6 +205,16 @@ redirect_from:
       for (var i = 1; i < items.length; i++) {
         if (items[i].h.getBoundingClientRect().top <= y) k = i;
       }
+      // position continue entre la catégorie en cours et la suivante (coordonnées du document)
+      var R = window.scrollY + y;                       // ligne de lecture
+      var absTop = function (el) { return el.getBoundingClientRect().top + window.scrollY; };
+      var pos = k;
+      if (k < items.length - 1) {
+        var start = k === 0 ? y : absTop(items[k].h);   // 1er segment : depuis le haut de la page
+        var end = absTop(items[k + 1].h);
+        pos = k + Math.min(1, Math.max(0, (R - start) / (end - start)));
+      }
+      progress.style.width = (pos / last * 100) + "%";
       dots.forEach(function (d, i) {
         d.classList.toggle("passed", i <= k);
         d.classList.toggle("active", i === k);
