@@ -47,9 +47,9 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Compositions](/compositions) | #processus de design | 🎼 |
 | [Production](/production) | #processus de design | 📦 |
 | [Designers](/designers) | #références | 🤷🏻‍♂️ |
-| [Specimens](/specimens) | #références | 🔡 |
+| [Specimens](/specimens) | #références | 📜 |
 | [Logos](/logos) | #références | 💋 |
-| [Pictogrammes](/pictograms) | #références | 📙 |
+| [Pictogrammes](/pictograms) | #références | Ⓜ️ |
 | [Bibliographie](/bibliography) | #références | 📚 |
 | [Vocabulaire](/vocabulary) | #références | 💬 |
 | [*Table des caractères*](/character-table) | #références, #outil | 🧩 |
