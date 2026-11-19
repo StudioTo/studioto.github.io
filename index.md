@@ -8,85 +8,85 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 # &nbsp;
 
 <!---
-## [🦚 Index Littérature Visuelle]()
-## [💼 Portfolio](Student's projects)
-## [⚡ Index Logos]()
-## [🐦‍⬛ Index Animations]()
-## [🏢 Index Grid Systems]()
-## [🔮 Design Theories](/)
-## [🔲 Design Gestalt](/)**/*.gif,**/*.jpg
-## [📊 Design Hiérarchies](/)
-## [🏗️ Typo Grille](/)
-## [🌐 Wiki](/index-graphic-terminology)
-## [👀 Voir / Lire](/see-things)
-## [🔡 Gris de texte](/see-shades)
-## [↔️ Longueur de ligne](/set-line-width)
-## [↕️ Inter-lignes](/set-line-height)
-## [🔡 Gris de texte](/see-shades)
-## [⚙️ Support](/support-technicals)
+## [Index Littérature Visuelle]()
+## [Portfolio](Student's projects)
+## [Index Logos]()
+## [Index Animations]()
+## [Index Grid Systems]()
+## [Design Theories](/)
+## [Design Gestalt](/)**/*.gif,**/*.jpg
+## [Design Hiérarchies](/)
+## [Typo Grille](/)
+## [Wiki](/index-graphic-terminology)
+## [Voir / Lire](/see-things)
+## [Gris de texte](/see-shades)
+## [Longueur de ligne](/set-line-width)
+## [Inter-lignes](/set-line-height)
+## [Gris de texte](/see-shades)
+## [Support](/support-technicals)
 --->
 
 
 **Communication visuelle**
-## [👁️‍🗨️ Gestalt](/see-gestalt)
-## [🚸 Iconicité](/see-iconicity)
-## [🏷️ Sémiotique](/see-signs)
+## [Gestalt](/see-gestalt)
+## [Iconicité](/see-iconicity)
+## [Sémiotique](/see-signs)
 
 &nbsp;
 &nbsp;
 
 **Typographie**
-## [🔎 Unités](/see-units)
-## [👀 Lire-Voir](/see-read)
-## [🌐 Vocabulaire](/index-definitions)
+## [Unités](/see-units)
+## [Lire-Voir](/see-read)
+## [Vocabulaire](/index-definitions)
 
 &nbsp;
 &nbsp;
 
 **Histoire de la typographie**
-## [✍🏻 Evolution de l'écriture](/track-writing-evolution)
+## [Evolution de l'écriture](/track-writing-evolution)
 <!-- ## [🏢 Evolution de l'architecture](/track-architecture-evolution) -->
 
 &nbsp;
 &nbsp;
 
 **Classifications typographiques**
-## [🦴 Anatomique](/classify-typefaces-shapes)
-## [🕰️ Historique](/classify-typefaces-history)
+## [Anatomique](/classify-typefaces-shapes)
+## [Historique](/classify-typefaces-history)
 
 &nbsp;
 &nbsp;
 
 **1. Lettre**
-## [🍖 Anatomie](/study-sign-shapes)
-## [↕️ Mesures](/study-sign-measures)
-## [🔼 Optique](/study-sign-optics)
-## [🔀 Variations](/study-sign-variations)
+## [Anatomie](/study-sign-shapes)
+## [Mesures](/study-sign-measures)
+## [Optique](/study-sign-optics)
+## [Variations](/study-sign-variations)
 **2. Mot**
-## [🎨 Texture](/set-word-texture)
-## [🔡 Graphie](/set-word-case)
-## [📶 Articulation](/set-word-articulation)
-## [↔️ Composition](/set-word-composition)
+## [Texture](/set-word-texture)
+## [Graphie](/set-word-case)
+## [Articulation](/set-word-articulation)
+## [Composition](/set-word-composition)
 **3. Ligne**
-## [🖍️ Orthographe typographique (micro)](/set-micro-typo)
-## [↔️ Composition](/set-line-composition)
-## [📶 Articulation](/set-line-articulation)
-## [⏹️ Mise en forme](set-line-layout)
+## [Orthographe typographique (micro)](/set-micro-typo)
+## [Composition](/set-line-composition)
+## [Articulation](/set-line-articulation)
+## [Mise en forme](set-line-layout)
 **4. Colonne**
-## [🔎 Lisibilité (macro)](/set-macro-typo)
-## [↔️ Composition](/set-column-composition)
-## [📶 Articulation](/set-column-articulation)
-## [⏹️ Mise en page](/set-column-layout)
+## [Lisibilité (macro)](/set-macro-typo)
+## [Composition](/set-column-composition)
+## [Articulation](/set-column-articulation)
+## [Mise en page](/set-column-layout)
 <!-- **5. Grille** -->
 
 &nbsp;
 &nbsp;
 
 <!-- **Paramètres visuels**
-## [🌓 Contraste](/form-contrast)
-## [🎶 Rythme](/form-rythm)
-## [📐 Proportions](/form-proportions)
-## [🌈 Couleurs](/form-colors)
+## [Contraste](/form-contrast)
+## [Rythme](/form-rythm)
+## [Proportions](/form-proportions)
+## [Couleurs](/form-colors)
 ## [Mouvement]()
 ## [Séquence]()
 ## [Ordre]()
@@ -95,48 +95,48 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp; -->
 
 **Signes**
-## [🚸 Icône-Symbole](/symbolize-development)
-## [📽️ Mouvement](/symbolize-animation)
+## [Icône-Symbole](/symbolize-development)
+## [Mouvement](/symbolize-animation)
 
 &nbsp;
 &nbsp;
 
 **Glyphes**
-## [✏️ Construction](/type-construct)
-## [📸 Numérisation](/type-digitize)
-## [🖥️ Dessin vectoriel](/type-vectorize)
-## [🎚️ Interpolation](/type-interpolate)
-## [🪲 Debug](/type-debug)
+## [Construction](/type-construct)
+## [Numérisation](/type-digitize)
+## [Dessin vectoriel](/type-vectorize)
+## [Interpolation](/type-interpolate)
+## [Debug](/type-debug)
 
 &nbsp;
 &nbsp;
 
 **Design**
-## [📋 Organisation](/process-constraints)
-## [🎹 Ton](/process-typeface)
-## [🎶 Variations](/process-variations)
-## [🎼 Compositions](/process-compositions)
-## [📦 Production](/process-delivery)
+## [Organisation](/process-constraints)
+## [Ton](/process-typeface)
+## [Variations](/process-variations)
+## [Compositions](/process-compositions)
+## [Production](/process-delivery)
 
 &nbsp;
 &nbsp;
 
 **Références**
-## [📕 Designers](/index-designers)
-## [📘 Specimens](/index-specimens)
-## [📗 Logos](/index-logos)
-## [📙 Pictogrammes](/index-pictos)
-## [📚 Bibliographie](/index-books)
-## [📓 Table des caractères](/index-glyphs)
+## [Designers](/index-designers)
+## [Specimens](/index-specimens)
+## [Logos](/index-logos)
+## [Pictogrammes](/index-pictos)
+## [Bibliographie](/index-books)
+## [Table des caractères](/index-glyphs)
 
 &nbsp;
 &nbsp;
 
 **Technique**
-## [🛃 Outils](/use-material)
-## [🛂 Checklists](/check-export)
-## [🛜 Imprimantes](/use-printer)
-## [🛄 Typothèque](http://typo.eracom.ch)
+## [Outils](/use-material)
+## [Checklists](/check-export)
+## [Imprimantes](/use-printer)
+## [Typothèque](http://typo.eracom.ch)
 <!-- ## [Ⓜ️ InDesign](/use-indesign) -->
 <!-- ## [Ⓜ️ Figma](/use-figma) -->
 <!-- ## [Ⓜ️ AfterEffects](/use-aftereffects) -->
@@ -146,9 +146,9 @@ Tancrède Ottiger: [graphic](https://t-o.studio) and [type](https://t-o.supply) 
 &nbsp;
 
 **Cours**
-## [*️⃣ Objectifs](/evaluate-objectives)
-## [🔁 Méthode](/evaluate-method)
-## [🔡 Programme](/evaluate-program)
-## [📶 Évaluation](/evaluate-criteria)
-## [⬇️ Rendus](/evaluate-deliverable)
-## [🧑‍🧑‍🧒‍🧒 Règles](/evaluate-rules)
+## [Objectifs](/evaluate-objectives)
+## [Méthode](/evaluate-method)
+## [Programme](/evaluate-program)
+## [Évaluation](/evaluate-criteria)
+## [Rendus](/evaluate-deliverable)
+## [Règles](/evaluate-rules)
