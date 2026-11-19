@@ -23,7 +23,7 @@ redirect_from:
 ## Ressources
 
 📖 Guide du Typographe Romand  
-📎 [Microtypographie](../../../micro-typography/)  
+📎 [Microtypographie](../../../line-micro-typography/)  
 📎 [Table des caractères](../../../character-table/)   
 
 ## Objectifs

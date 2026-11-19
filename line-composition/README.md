@@ -1,9 +1,9 @@
 ---
-title: "Ligne : Composition"
+title: "Ligne : composition"
 toc: true
-permalink: /line/
+permalink: /line-composition/
 redirect_from:
-  - /line-composition/
+  - /line/
   - /set-line-composition/
   - /line-articulation/
   - /set-line-articulation/
@@ -11,7 +11,7 @@ redirect_from:
   - /set-line-layout/
 ---
 
-# Ligne : Composition
+# Ligne : composition
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
@@ -40,7 +40,7 @@ La composition de la ligne se réfère à l’espacement vertical et horizontal 
 L’articulation de la ligne concerne la manière de mettre en relief certains mots pour distinguer l’important de l’accessoire. Ce rôle appartient d’abord à l’orthographe (accents, majuscules) mais se traduit aussi en typographie par des choix de mise en évidence graphiques.
   
 
-|![](https://studioto.github.io/media/line-articulation/0-ligne2.gif) |
+|![](https://studioto.github.io/media/line-composition/0-ligne2.gif) |
 |:---:|
 | Différents moyens de mettre en évidence |
 
@@ -49,7 +49,7 @@ L’articulation de la ligne concerne la manière de mettre en relief certains m
 La mise en forme de la ligne se réfère à l’organisation globale des mots dans l’espace. Elle détermine le rythme visuel et la cohérence d’ensemble.
   
 
-|![](https://studioto.github.io/media/line-layout/0-ligne27.gif) |
+|![](https://studioto.github.io/media/line-composition/0-ligne27.gif) |
 |:---:|
 | Mise en forme |
 

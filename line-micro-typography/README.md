@@ -1,12 +1,13 @@
 ---
-title: "Ligne : Orthographe typographique (micro)"
+title: "Ligne : orthographe typographique (micro)"
 toc: true
-permalink: /micro-typography/
+permalink: /line-micro-typography/
 redirect_from:
+  - /micro-typography/
   - /set-micro-typo/
 ---
 
-# Ligne : Orthographe typographique (micro)
+# Ligne : orthographe typographique (micro)
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
@@ -91,7 +92,7 @@ La micro-typographie concerne le soin apporté aux détails fins du contenu text
 
 ### Les guillemets {#les-guillemets}
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo3.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo3.gif) |
 |:---:|
 | Les guillemets sont des signes de ponctuation utilisés par paire pour mettre en évidence une citation ; chaque langue possède ses propres formes. | 
 
@@ -118,41 +119,41 @@ Chicago Manual of Style
 
 ### L’apostrophe {#lapostrophe}
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo10.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo10.gif) |
 |:---:|
 | L’apostrophe est un signe typographique servant à signaler l’élision d’une lettre | 
 
 ### Le point, la virgule {#le-point-la-virgule}
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo18.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo18.gif) |
 |:---:|
 | Le point et la virgule sont des signes de ponctuation qui marquent la fin ou une pause dans une phrase. | 
 
 ### Les points de suspension {#les-points-de-suspension}
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo15.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo15.gif) |
 |:---:|
 | Les points de suspension marquent une interruption ou une hésitation, ils laissent la phrase en suspens. | 
 
 ## Espaces {#espaces}  
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo21.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo21.gif) |
 |:---:|
 | Les signes de ponctuation ( : ; ! ? ) doivent être précédés en français d’une espace fine insécable. | 
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo25.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo25.gif) |
 |:---:|
 | Les signes de ponctuation ( : ; ! ? ) doivent être précédés en français d’une espace fine insécable. | 
 
 ## Césures {#cesures}  
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo31.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo31.gif) |
 |:---:|
 | La césure permet de couper un mot en fin de ligne selon des règles précises, afin d’améliorer la justification et l’équilibre typographique. | 
 
 ## Parenthèses {#parentheses}  
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo35.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo35.gif) |
 |:---:|
 | Les parenthèses encadrent un élément explicatif ou secondaire, tandis que les tirets peuvent introduire, isoler ou ponctuer une phrase selon leur longueur. | 
 
@@ -160,31 +161,31 @@ Chicago Manual of Style
 
 ### Les fractions {#les-fractions}
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo44.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo44.gif) |
 |:---:|
 |  | 
 
 ### Les opérations {#les-operations}
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo47.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo47.gif) |
 |:---:|
 | Les opérations mathématiques (comme la multiplication) nécessite l’usage de signes distincts des lettres ou autres symboles voisins. | 
 
 ### Les nombres {#les-nombres}
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo50.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo50.gif) |
 |:---:|
 | Les nombres s’écrivent selon des conventions propres à chaque langue, notamment pour le séparateur de milliers ou de décimales. (ici en français CH) | 
 
 ### Les heures {#les-heures}
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo57.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo57.gif) |
 |:---:|
 | Les heures s’écrivent avec des conventions typographiques variables propres à chaque langue. | 
 
 ### Les index {#les-index}
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo63.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo63.gif) |
 |:---:|
 | Les index s’écrivent avec des abréviations spécifiques et évitent les formes anglicisées ou incorrectes comme « 2ème ». | 
 
@@ -192,31 +193,31 @@ Chicago Manual of Style
 
 ### Arobase {#arobase}  
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo68.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo68.gif) |
 |:---:|
 | Le signe arobase (@) est utilisé principalement dans les adresses électroniques, mais il possède aussi des usages historiques comme symbole commercial ou d’unité de mesure. | 
 
 ### Esperluette {#esperluette}  
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo70.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo70.gif) |
 |:---:|
 | L’esperluette (&) représente la conjonction « et », issue de la ligature des lettres latines E et T. | 
 
 ### Devises {#devises}  
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo72.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo72.gif) |
 |:---:|
 | Les signes monétaires (€, $, £, etc.) indiquent les devises et suivent des règles typographiques spécifiques selon les langues. | 
 
 ### Copyright {#copyright}  
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo74.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo74.gif) |
 |:---:|
 | Le signe © indique la protection d’une œuvre par le droit d’auteur, souvent accompagné de l’année et du nom du détenteur. | 
 
 ### Flèches {#fleches}  
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo76.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo76.gif) |
 |:---:|
 | Les flèches (→, ↑, ↓, etc.) servent à indiquer une direction, un mouvement ou une relation dans le texte ou la mise en page. |
 
@@ -224,25 +225,25 @@ Chicago Manual of Style
 
 ### Ligatures (liga) {#ligatures}  
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo79.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo79.gif) |
 |:---:|
 | Les ligatures sont des combinaisons de lettres (fi, fl, etc.) créées pour améliorer la lisibilité et l’esthétique du texte. | 
 
 ### Les types de chiffres {#les-types-de-chiffres}
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo38.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo38.gif) |
 |:---:|
 | Les chiffres peuvent varier en forme (proportionnels, tabulaires, elzéviriens) selon leur contexte typographique : texte courant, tableau ou encore affichages en grande taille. | 
 
 ### Formes sensibles à la casse (case) {#formes-sensibles-a-la-casse-case}  
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo81.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo81.gif) |
 |:---:|
 | Certaines glyphes changent de forme selon qu’elles apparaissent en majuscules ou en minuscules, comme les parenthèses ou certains chiffres. | 
 
 ### Style stylistique (ss00) {#stylistic-set}  
 
-|![](https://studioto.github.io/media/micro-typography/1-micro-typo83.gif) |
+|![](https://studioto.github.io/media/line-micro-typography/1-micro-typo83.gif) |
 |:---:|
 | Les ensembles stylistiques (ss01, ss02, etc.) proposent des variantes alternatives de glyphes, activables grâce aux fonctionnalités OpenType. |
 

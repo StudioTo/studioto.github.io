@@ -1,12 +1,12 @@
 ---
-title: "Caractère : Anatomie"
+title: "Caractère : anatomie"
 toc: true
 permalink: /character-anatomy/
 redirect_from:
   - /study-sign-shapes/
 ---
 
-# Caractère : Anatomie
+# Caractère : anatomie
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

@@ -24,18 +24,18 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Classification anatomique](/anatomical-classification) | #classification typographique | 🦴 |
 | [Classification historique](/historical-classification) | #classification typographique | 🕰️ |
 | [Unités typographiques](/typographic-units) | #unités typographiques | 🔎 |
-| [Caractère : Anatomie](/character-anatomy) | #unités typographiques | 🍖 |
-| [Caractère : Mesures](/character-measures) | #unités typographiques | ↕️ |
-| [Caractère : Optique](/character-optics) | #unités typographiques | 🔼 |
-| [Caractère : Variations](/character-variations) | #unités typographiques | 🔀 |
-| [Mot : Texture](/word-texture) | #unités typographiques | 🎨 |
-| [Mot : Graphie](/word-case) | #unités typographiques | 🔡 |
-| [Mot : Articulation](/word-articulation) | #unités typographiques | 📶 |
-| [Mot : Composition](/word-composition) | #unités typographiques | ↔️ |
-| [Ligne : Orthographe typographique (micro)](/micro-typography) | #unités typographiques | 🖍️ |
-| [Ligne : Composition](/line) | #unités typographiques | ↔️ |
-| [Colonne : Lisibilité (macro)](/macro-typography) | #unités typographiques | 🔎 |
-| [Colonne : Composition](/column) | #unités typographiques | ↔️ |
+| [Caractère : anatomie](/character-anatomy) | #unités typographiques | 🍖 |
+| [Caractère : mesures](/character-measures) | #unités typographiques | ↕️ |
+| [Caractère : optique](/character-optics) | #unités typographiques | 🔼 |
+| [Caractère : variations](/character-variations) | #unités typographiques | 🔀 |
+| [Mot : texture](/word-texture) | #unités typographiques | 🎨 |
+| [Mot : graphie](/word-case) | #unités typographiques | 🔡 |
+| [Mot : articulation](/word-articulation) | #unités typographiques | 📶 |
+| [Mot : composition](/word-composition) | #unités typographiques | ↔️ |
+| [Ligne : orthographe typographique (micro)](/line-micro-typography) | #unités typographiques | 🖍️ |
+| [Ligne : composition](/line-composition) | #unités typographiques | ↔️ |
+| [Colonne : lisibilité (macro)](/column-macro-typography) | #unités typographiques | 🔎 |
+| [Colonne : composition](/column-composition) | #unités typographiques | ↔️ |
 | [Formes en mouvement](/moving-shapes) | #animation | 📽️ |
 | [Construction des caractères](/character-construction) | #glyphes | ✏️ |
 | [Numérisation de croquis](/sketch-digitization) | #glyphes | 📸 |

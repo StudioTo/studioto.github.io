@@ -1,9 +1,9 @@
 ---
-title: "Colonne : Composition"
+title: "Colonne : composition"
 toc: true
-permalink: /column/
+permalink: /column-composition/
 redirect_from:
-  - /column-composition/
+  - /column/
   - /set-column-composition/
   - /column-articulation/
   - /set-column-articulation/
@@ -11,7 +11,7 @@ redirect_from:
   - /set-column-layout/
 ---
 
-# Colonne : Composition
+# Colonne : composition
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
@@ -67,7 +67,7 @@ La composition des colonnes concerne l’organisation du texte en largeur et en 
 L’articulation de la lecture désigne la manière dont le texte est structuré pour guider l’œil du lecteur. Hiérarchies visuelles, alinéas, retours à la ligne et espacements permettent de distinguer les niveaux d’importance et de faciliter la compréhension.
   
 
-|![](https://studioto.github.io/media/column-articulation/0-colonne79.gif) |
+|![](https://studioto.github.io/media/column-composition/0-colonne79.gif) |
 |:---:|
 | Texte brut → Texte structuré |
 
@@ -76,7 +76,7 @@ L’articulation de la lecture désigne la manière dont le texte est structuré
 La mise en page consiste à organiser la zone de lecture (les colonnes) dans le format global, en tenant compte des marges, du folio et des mentions de section. Elle définit la structure de navigation et assure une lecture claire et hiérarchisée.
   
 
-|![](https://studioto.github.io/media/page-layout/0-colonne93.gif) |
+|![](https://studioto.github.io/media/column-composition/0-colonne93.gif) |
 |:---:|
 | Zone de texte + Folio + Section |
 
