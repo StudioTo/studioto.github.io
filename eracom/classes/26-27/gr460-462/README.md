@@ -37,13 +37,13 @@ toc: false
 
 ## 29.09.2026
 
-## 06.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
+## 06.10.2026 (rendu noté ex. 1.1.-1.4.)
 
 [📄 2. Mot : logotype](../../../briefs/word-image/)  
 
-## 13.10.2026 🏖️
+## 13.10.2026
 
-## 20.10.2026 🏖️
+## 20.10.2026
 
 ## 27.10.2026 
 
@@ -51,7 +51,7 @@ toc: false
 
 ## 10.11.2026 
 
-## 17.11.2026 ⚠️ (rendu noté ex. 2)
+## 17.11.2026 (rendu noté ex. 2)
 
 📖 Il faut prendre votre exemplaire du *Guide du typographe romand*
 
@@ -62,7 +62,7 @@ toc: false
 
 ## 24.11.2026
 
-## 01.12.2026 ⚠️ (rendu noté ex. 3)
+## 01.12.2026 (rendu noté ex. 3)
 
 4\. Colonne : optimiser la lisibilité de textes dans différents formats
 
@@ -72,10 +72,10 @@ toc: false
 
 ## 22.12.2026
 
-## 29.12.2026 🏖️
+## 29.12.2026
 
-## 05.01.2027 🏖️
+## 05.01.2027
 
 ## 12.01.2027
 
-## 19.01.2027 ⚠️ (rendu noté ex. 4)
+## 19.01.2027 (rendu noté ex. 4)

@@ -12,8 +12,8 @@ redirect_from:
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
 - [Introduction](#introduction)
-- [⌨️ Caractères](#️-caractères)
-- [🖱️ Glyphes](#️-glyphes)
+- [Caractères](#caractères)
+- [Glyphes](#glyphes)
 - [Checklist](#checklist)
 - [Langue](#langue)
 - [Ponctuation](#ponctuation)
@@ -31,7 +31,7 @@ redirect_from:
 
 La micro-typographie concerne le soin apporté aux détails fins du contenu texte.
 
-## ⌨️ Caractères
+## Caractères
 
 - [Langue](#langue)
   - [Les guillemets](#les-guillemets)
@@ -55,7 +55,7 @@ La micro-typographie concerne le soin apporté aux détails fins du contenu text
   - [Copyright](#copyright)
   - [Flèches](#fleches)
 
-## 🖱️ Glyphes
+## Glyphes
 
 - [Substitutions](#substitutions)
   - [Ligatures](#ligatures)

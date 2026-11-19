@@ -10,11 +10,11 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
-- [🎚️ Axes](#️-axes)
-- [🧱 Masters](#-masters)
-- [🪲 Debug dessins](#-debug-dessins)
-- [📦 Export](#-export)
-- [🛠️ Tester](#️-tester)
+- [Axes](#axes)
+- [Masters](#masters)
+- [Debug dessins](#debug-dessins)
+- [Export](#export)
+- [Tester](#tester)
 
 <!-- /toc -->
 
@@ -26,13 +26,13 @@ redirect_from:
 
 Dessin vectoriel
 
-## 🎚️ Axes
+## Axes
 
 |![](https://studioto.github.io/media/vector-interpolation/00_axes.gif) |
 |:---:|
 | Informations de la Police > Police > Axes           |
 
-## 🧱 Masters
+## Masters
 
 #### Créer les masters
 
@@ -52,7 +52,7 @@ Dessin vectoriel
 |:---:|
 | cmd + 1 \| cmd + 2 \| cmd + 3 \| cmd + 4        |
 
-## 🪲 Debug dessins
+## Debug dessins
 
 #### Outil de debug
 
@@ -78,13 +78,13 @@ Dessin vectoriel
 |:---:|
 | Filtre > Ordre des formes           |
 
-## 📦 Export
+## Export
 
 |![](https://studioto.github.io/media/vector-interpolation/08_export.gif) |
 |:---:|
 | Fichier > Exporter > Variable           |
 
-## 🛠️ Tester
+## Tester
 
-### ➡️ [Font Gauntlet](https://fontgauntlet.com)
-### ➡️ [Axis-Praxis](https://www.axis-praxis.org/samsa/)
+### [Font Gauntlet](https://fontgauntlet.com)
+### [Axis-Praxis](https://www.axis-praxis.org/samsa/)

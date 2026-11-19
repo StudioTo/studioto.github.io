@@ -10,9 +10,9 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
-- [💻 InDesign](#-indesign)
-- [🔎 Micro-Typo](#-micro-typo)
-- [📐 Dessin vectoriel](#-dessin-vectoriel)
+- [InDesign](#indesign)
+- [Micro-Typo](#micro-typo)
+- [Dessin vectoriel](#dessin-vectoriel)
 - [Sources](#sources)
 - [Notes](#notes)
 
@@ -25,7 +25,7 @@ redirect_from:
 |:---:|
 | Vérification[^1]           |
 
-<!-- ## 📁 Rendu 
+<!-- ## Rendu
 
 - Sur Teams, dans le dossier correspondant à l’exercice
 - En un seul fichier (et non plusieurs fichiers dans un dossier)
@@ -39,7 +39,7 @@ redirect_from:
 ⚠️  Si le rendu est transmis après la date prévue, il faut l'envoyer par mail avec une justification du retard (et non le mettre sur le serveur) -->
 
 
-## 💻 InDesign
+## InDesign
 
 - Le format du document est correct
 - Le du voyant contrôle en amont (preflight) est vert
@@ -52,7 +52,7 @@ redirect_from:
 - Il n’y a pas de teintes inutilisées (nuancier)
 - Il n’y a pas styles de paragraphes ou de caractères inutilisés
 
-## 🔎 Micro-Typo
+## Micro-Typo
 
 - Les langues adaptées sont appliquées aux paragraphes via les styles
 - Les guillemets sont adaptés à la langue du texte, « Français », „Deutsch“, “English”, etc., jamais ceux-ci \"…\"
@@ -79,7 +79,7 @@ redirect_from:
 - L’interlettrage de la fonte est en métrique, aucun problème de crénage
 - Les chiffres dans le texte sont à chasse proportionnelle
 
-## 📐 Dessin vectoriel 
+## Dessin vectoriel
 
 - Le type de point est juste partout (angle vs courbe)
 - Les points sont positionnés correctement (aux extrêmes de la bounding box)
@@ -95,7 +95,7 @@ redirect_from:
 
 
 <!---
-## 💻 Digital
+## Digital
 
 - abc
 - abc
@@ -104,7 +104,7 @@ redirect_from:
 - abc
 - abc
 
-## 🌐 Web
+## Web
 
 - abc
 - abc

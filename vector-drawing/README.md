@@ -11,13 +11,13 @@ redirect_from:
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
 - [Checklist](#checklist)
-- [🖥️ Interfaçe](#️-interfaçe)
-- [🛠️ Outils](#️-outils)
-- [✏️ Principes de dessin](#️-principes-de-dessin)
-- [📏 Mesures](#-mesures)
-- [📦 Export](#-export)
-- [🔍 Test](#-test)
-- [🐞 Debug des erreurs communes](#-debug-des-erreurs-communes)
+- [Interfaçe](#interfaçe)
+- [Outils](#outils)
+- [Principes de dessin](#principes-de-dessin)
+- [Mesures](#mesures)
+- [Export](#export)
+- [Test](#test)
+- [Debug des erreurs communes](#debug-des-erreurs-communes)
 
 <!-- /toc -->
 
@@ -45,7 +45,7 @@ Dessin vectoriel
 ✓ L‘espacement est défini systématiquement, selon les principes d‘optique
 ```
 
-## 🖥️ Interfaçe
+## Interfaçe
 
 #### Vues
 
@@ -95,7 +95,7 @@ Dessin vectoriel
 |:---:|
 | Largeur, espace à gauche, espace à droite           |
 
-## 🛠️ Outils
+## Outils
 
 #### Formes primitives
 
@@ -127,7 +127,7 @@ Dessin vectoriel
 |:---:|
 | Alt + Drag sur un point           |
 
-## ✏️ Principes de dessin
+## Principes de dessin
 
 #### 1er Point
 
@@ -165,7 +165,7 @@ Dessin vectoriel
 |:---:|
 | Tracé > Nettoyer les tracés : utiliser le moins de points possible           |
 
-## 📏 Mesures
+## Mesures
 
 #### Systématiser les proportions
 
@@ -173,7 +173,7 @@ Dessin vectoriel
 #### Systématiser le spacing
 
 
-## 📦 Export
+## Export
 
 #### Créer le dossier Adobe Fonts dans Application Support
 
@@ -187,12 +187,12 @@ Dessin vectoriel
 #### Exporter
 
 
-## 🔍 Test
+## Test
 
 #### Choississez votre fonte dans le menu déroulant de InDesign
 
 
-## 🐞 Debug des erreurs communes
+## Debug des erreurs communes
 
 #### Autohinting
 

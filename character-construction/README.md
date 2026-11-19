@@ -10,11 +10,11 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
-- [🚨 Règles](#-règles)
-- [🪵 Fûts](#-fûts)
-- [⚽️ Courbes](#️-courbes)
-- [📐 Proportions](#-proportions)
-- [🔡 Minuscules](#-minuscules)
+- [Règles](#règles)
+- [Fûts](#fûts)
+- [Courbes](#courbes)
+- [Proportions](#proportions)
+- [Minuscules](#minuscules)
 - [Sources](#sources)
 - [Notes](#notes)
 
@@ -26,7 +26,7 @@ redirect_from:
 |:---:|
 | Ductus[^1]: mode d’emploi pour dessiner un caractère spécifique(ordre, direction et nombre de segments)           |
 
-## 🚨 Règles
+## Règles
 
 Plusieurs principes de dessin (ductus) hérités de la calligraphie régissent encore la construction de nos alphabets modernes.
 Ces principes permettent de maintenir une cohérence des lettres entre elles, de sorte à ce qu’elles aient l’air d’avoir été « tracées » avec le même outil (ce qui était le cas en calligraphie).  
@@ -48,25 +48,25 @@ Voici une correspondance entre les règles mentionnées par Irene Wellington ci-
 |:---:|
 | La symétrie est interdite : impossible à réaliser à la plume (et donc incohérent)             |
 
-## 🪵 Fûts
+## Fûts
 
 |![](https://studioto.github.io/media/character-construction/typo_construction_3_futs.gif) |
 |:---:|
 | La fûts ont la même largeur à travers les caractères d’une même fonte            |
 
-## ⚽️ Courbes
+## Courbes
 
 |![](https://studioto.github.io/media/character-construction/typo_construction_4_courbes.gif) |
 |:---:|
 | La répartition de la graisse entre les pleins et les déliés est systématique à travers les caractères           |
 
-## 📐 Proportions
+## Proportions
 
 |![](https://studioto.github.io/media/character-construction/typo_construction_5_proportions.gif) |
 |:---:|
 | Les proportions sont constantes à travers les caractères d’une même police (hauteur de x, ascendante, descendante, etc.)           |
 
-## 🔡 Minuscules
+## Minuscules
 
 |![](https://studioto.github.io/media/character-construction/typo_construction_6_n.gif) |
 |:---:|

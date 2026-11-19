@@ -40,7 +40,7 @@ Remake 1 page (images from Moma) -->
 
 [🎥 c) Grille verticale : colonnes](https://kdrive.t-o.studio/app/share/105447/31e89ef0-7dfc-45b7-94ab-1d3aec32e53f)  
 
-## 21.09.2026 🏖️
+## 21.09.2026
 
 ## 28.09.2026
 
@@ -53,11 +53,11 @@ Remake 1 page (images from Moma) -->
 
 ✅ Vérification du fichier
 
-## 12.10.2026 🏖️
+## 12.10.2026
 
-## 19.10.2026 🏖️
+## 19.10.2026
 
-## 26.10.2026 ⚠️ (rendu noté layout)
+## 26.10.2026 (rendu noté layout)
 
 [📄 Brief Remake Sign](../../../briefs/sign-remake/)  
   
@@ -80,7 +80,7 @@ c) Traduire le signe de référence en dessin vectoriel, puis développer les de
 
 d) Finaliser les tracés pour la production / la distribution
 
-## 30.11.2026  ⚠️ (rendu noté signe)
+## 30.11.2026  (rendu noté signe)
 
 <!-- Rendu publicité
 Remake logo -->
@@ -91,9 +91,9 @@ Remake logo -->
 
 ## 21.12.2026
 
-## 28.12.2026 🏖️
+## 28.12.2026
 
-## 04.01.2027 🏖️
+## 04.01.2027
 
 ## 11.01.2027
 

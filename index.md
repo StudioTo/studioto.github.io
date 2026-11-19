@@ -23,7 +23,7 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [*Histoire de la typographie*](/typography-history) | #histoire, #timeline | ✍🏻 |
 | [Classification anatomique](/anatomical-classification) | #classification typographique | 🦴 |
 | [Classification historique](/historical-classification) | #classification typographique | 🕰️ |
-| [Unités typographiques](/typographic-units) | #unités typographiques | 🔎 |
+| [Unités typographiques](/typographic-units) | #unités typographiques | 📐 |
 | [Caractère : anatomie](/character-anatomy) | #unités typographiques | 🍖 |
 | [Caractère : mesures](/character-measures) | #unités typographiques | ↕️ |
 | [Caractère : optique](/character-optics) | #unités typographiques | 🔼 |
@@ -32,9 +32,9 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Mot : graphie](/word-case) | #unités typographiques | 🔡 |
 | [Mot : articulation](/word-articulation) | #unités typographiques | 📶 |
 | [Mot : composition](/word-composition) | #unités typographiques | ↔️ |
-| [Ligne : orthographe typographique (micro)](/line-micro-typography) | #unités typographiques | 🖍️ |
+| [Ligne : orthographe typographique (micro)](/line-micro-typography) | #unités typographiques | 🦠 |
 | [Ligne : composition](/line-composition) | #unités typographiques | ↔️ |
-| [Colonne : lisibilité (macro)](/column-macro-typography) | #unités typographiques | 🔎 |
+| [Colonne : lisibilité (macro)](/column-macro-typography) | #unités typographiques | 🌎 |
 | [Colonne : composition](/column-composition) | #unités typographiques | ↔️ |
 | [Formes en mouvement](/moving-shapes) | #animation | 📽️ |
 | [Construction des caractères](/character-construction) | #glyphes | ✏️ |
@@ -52,7 +52,7 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Logos](/logos) | #références | 📗 |
 | [Pictogrammes](/pictograms) | #références | 📙 |
 | [Bibliographie](/bibliography) | #références | 📚 |
-| [Vocabulaire](/vocabulary) | #références | 🌐 |
+| [Vocabulaire](/vocabulary) | #références | 💬 |
 | [*Table des caractères*](/character-table) | #références, #outil | 📋 |
 | [Outils](/tools) | #technique | 🛃 |
 | [Checklists](/checklists) | #technique | 🛂 |

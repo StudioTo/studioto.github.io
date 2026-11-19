@@ -37,13 +37,13 @@ toc: false
 
 ## 29.09.2026
 
-## 06.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
+## 06.10.2026 (rendu noté ex. 1.1.-1.4.)
 
 [📄 2. Mot : animation d’un logo](../../../briefs/logo-animation/) 
 
-## 13.10.2026 🏖️
+## 13.10.2026
 
-## 20.10.2026 🏖️
+## 20.10.2026
 
 ## 27.10.2026 
 
@@ -53,7 +53,7 @@ toc: false
 
 ⬆️
 
-## 10.11.2026 ⚠️ (rendu noté ex. 2)
+## 10.11.2026 (rendu noté ex. 2)
 
 [📄 3. Ligne : adaptation d’un poster](../../../briefs/responsive-poster/) 
 
@@ -63,7 +63,7 @@ toc: false
 
 ## 01.12.2026
 
-## 08.12.2026 ⚠️ (rendu noté ex. 3)
+## 08.12.2026 (rendu noté ex. 3)
 
 4\. Colonne : générique de film
 
@@ -71,10 +71,10 @@ toc: false
 
 ## 22.12.2026
 
-## 29.12.2026 🏖️
+## 29.12.2026
 
-## 05.01.2027 🏖️
+## 05.01.2027
 
 ## 12.01.2027
 
-## 19.01.2027 ⚠️ (rendu noté ex. 4)
+## 19.01.2027 (rendu noté ex. 4)

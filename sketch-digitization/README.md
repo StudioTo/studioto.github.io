@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
-- [📝 Créer une nouvelle fonte](#-créer-une-nouvelle-fonte)
+- [Créer une nouvelle fonte](#créer-une-nouvelle-fonte)
 
 <!-- /toc -->
 
@@ -19,7 +19,7 @@ redirect_from:
 
 Numérisation
 
-## 📝 Créer une nouvelle fonte
+## Créer une nouvelle fonte
 
 #### Nouveau fichier
 

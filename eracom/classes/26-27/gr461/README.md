@@ -31,7 +31,7 @@ toc: false
 [📄 1.3. Lettre : ex. optique](../../../briefs/optical-illusions/)  
 [🎥 1.3. Lettre : ex. optique](https://kdrive.t-o.studio/app/share/105447/155dbcb3-d74b-4ea6-93eb-8c909eaa13ea)  
 
-## 21.9.2026 🏖️
+## 21.9.2026
 
 ## 28.9.2026
 
@@ -40,11 +40,11 @@ toc: false
 
 ## 05.10.2026
 
-## 12.10.2026 🏖️
+## 12.10.2026
 
-## 19.10.2026 🏖️
+## 19.10.2026
 
-## 26.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
+## 26.10.2026 (rendu noté ex. 1.1.-1.4.)
 
 [📄 2. Mot : logotype](../../../briefs/word-image/)  
 
@@ -57,7 +57,7 @@ toc: false
 
 ## 16.11.2026 
 
-## 23.11.2026 ⚠️ (rendu noté ex. 2)
+## 23.11.2026 (rendu noté ex. 2)
 
 📖 Il faut prendre votre exemplaire du *Guide du typographe romand*
 
@@ -68,16 +68,16 @@ toc: false
 
 ## 07.12.2026 
 
-## 14.12.2026 ⚠️ (rendu noté ex. 3)
+## 14.12.2026 (rendu noté ex. 3)
 
 4\. Colonne : optimiser la lisibilité de textes dans différents formats
 
 ## 21.12.2026
 
-## 28.12.2026 🏖️
+## 28.12.2026
 
-## 04.01.2027 🏖️
+## 04.01.2027
 
 ## 11.01.2027
 
-## 18.01.2027 ⚠️ (rendu noté ex. 4)
+## 18.01.2027 (rendu noté ex. 4)
