@@ -40,7 +40,7 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Numérisation de croquis](/sketch-digitization) | #glyphes | 📸 |
 | [Dessin vectoriel](/vector-drawing) | #glyphes | 🖥️ |
 | [Interpolation vectorielle](/vector-interpolation) | #glyphes | 🎚️ |
-| [Dessin vectoriel *debug*](/vector-debug) | #glyphes | 🪲 |
+| [Dessin vectoriel *debug*](/vector-debug) | #glyphes | 🖍️ |
 | [Organisation](/organization) | #processus de design | ☑️ |
 | [Ton](/tone) | #processus de design | 🎺 |
 | [Variations](/variations) | #processus de design | 🎶 |
