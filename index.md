@@ -30,7 +30,7 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Mot : texture](/word-texture) | #unités typographiques | 🎨 |
 | [Mot : graphie](/word-case) | #unités typographiques | ⌨️ |
 | [Mot : articulation](/word-articulation) | #unités typographiques | 🪚 |
-| [Mot : composition](/word-composition) | #unités typographiques | 🕹️ |
+| [Mot : composition](/word-composition) | #unités typographiques | 📐 |
 | [Ligne : orthographe typographique (micro)](/line-micro-typography) | #unités typographiques | 🦠 |
 | [Ligne : composition](/line-composition) | #unités typographiques | 📉 |
 | [Colonne : lisibilité (macro)](/column-macro-typography) | #unités typographiques | 🌎 |
