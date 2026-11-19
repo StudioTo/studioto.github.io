@@ -69,6 +69,11 @@ tt,
   line-height: inherit;
 }
 
+/* rien ne sort de la colonne de texte : les mots ou adresses trop longs passent à la ligne */
+.markdown-body {
+  overflow-wrap: break-word;
+}
+
 /* ---------- Liens ----------
    noir par défaut, sans soulignement, à toutes les tailles et dans tous les niveaux de titre ;
    la couleur aléatoire au survol est appliquée par _includes/head-custom.html */
@@ -272,6 +277,33 @@ html:not([data-page="/"]) .markdown-body th p {
   position: relative;
 }
 
+/* listes numérotées : numéros alignés à droite, juste avant le texte (8px d'écart) ;
+   à partir de 10 éléments, le retrait s'élargit vers la droite au lieu que « 10. » déborde à gauche */
+.markdown-body ol {
+  list-style: none;
+}
+
+.markdown-body ol > li {
+  position: relative;
+}
+
+.markdown-body ol > li::before {
+  content: counter(list-item) ".";
+  position: absolute;
+  right: 100%;
+  top: 0;
+  padding-right: 8px;
+  white-space: nowrap;
+}
+
+.markdown-body ol:has(> li:nth-child(10)) {
+  padding-left: 32px;
+}
+
+.markdown-body ol:has(> li:nth-child(100)) {
+  padding-left: 40px;
+}
+
 /* puce : même rond de 5px dans toutes les listes, centré sur les capitales
    (New Computer Modern, capitales = 683/1000) :
    texte courant 19px / 25px → milieu des capitales à 14px → puce à 11px (centre 13.5px)
@@ -430,7 +462,9 @@ html:not([data-page="/"]) .markdown-body .brief ol > li::before {
   content: counter(brief) ".";
   position: absolute;
   left: 0;
+  right: auto;
   top: 0;
+  padding-right: 0;
 }
 
 /* tout ce qui suit une étape (tirets, texte, citations) : en retrait sous le texte de l'étape */
@@ -589,6 +623,17 @@ html[data-page="/"] .index-tools {
 /* accueil : le # &nbsp; d'espacement ne trace pas de ligne */
 html[data-page="/"] .markdown-body > h1:not(:first-child) {
   border-bottom: 0;
+}
+
+/* en-têtes collants : fond blanc élargi de 40px de chaque côté (ombre sans flou),
+   pour qu'aucun texte qui défile dessous ne reste visible sur les bords */
+.markdown-body > h1:first-child,
+html:not([data-page="/"]) .markdown-body > h1:first-child + h1,
+html[data-page="/"] .index-tools,
+#th-timeline,
+.markdown-body h2.th-period,
+#gm-bar {
+  box-shadow: -40px 0 0 #fff, 40px 0 0 #fff;
 }
 
 /* ---------- Index de la page d'accueil (tableau) ----------
