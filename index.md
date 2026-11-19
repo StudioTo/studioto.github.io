@@ -54,7 +54,7 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Vocabulaire](/vocabulary) | #références | 💬 |
 | [*Table des caractères*](/character-table) | #références, #outil | 🧩 |
 | [Outils](/tools) | #technique | 🛠️ |
-| [Checklists](/checklists) | #technique | 📋 |
+| [Checklists](/checklists) | #technique, #outil | 📋 |
 | [Imprimantes](/printers) | #technique | 🖨️ |
 | [Typothèque](http://typo.eracom.ch/) | #technique | 🧰 |
 | [Objectifs](/objectives) | #cours | 🎯 |
