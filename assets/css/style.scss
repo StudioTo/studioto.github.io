@@ -101,6 +101,7 @@ a:focus,
    20px → 30px   index : titres de page, recherche
    19px → 25px   texte courant (1.3 : 24.7 arrondi), intro de l'accueil
    23px → 30px   police mono (code, blocs de texte préformaté)
+   14px → 18px   briefs (mono)
    16px → 24px   légendes, table des matières, sources, notes, tags, #####, ######, texte du thème */
 html,
 body {
@@ -381,8 +382,8 @@ html:not([data-page="/"]) .markdown-body .brief {
   margin: 0 0 24px;
   padding: 16px;
   font-family: var(--font-mono);
-  font-size: 23px;
-  line-height: 30px;
+  font-size: 14px;             /* 40 % plus petit que le mono du site (23 → 14px) */
+  line-height: 18px;
   background: #f2f2f2;
   border-radius: 6px;
   counter-reset: brief;
@@ -391,14 +392,15 @@ html:not([data-page="/"]) .markdown-body .brief {
 html:not([data-page="/"]) .markdown-body .brief p,
 html:not([data-page="/"]) .markdown-body .brief li,
 html:not([data-page="/"]) .markdown-body .brief blockquote,
-html:not([data-page="/"]) .markdown-body .brief code {
+html:not([data-page="/"]) .markdown-body .brief code,
+html:not([data-page="/"]) .markdown-body .brief pre {
   font-size: inherit;
   line-height: inherit;
   font-family: inherit;
 }
 
 html:not([data-page="/"]) .markdown-body .brief > * {
-  margin: 0 0 30px;            /* une ligne vide entre les blocs, comme dans un bloc de code */
+  margin: 0 0 18px;            /* une ligne vide entre les blocs, comme dans un bloc de code */
 }
 
 html:not([data-page="/"]) .markdown-body .brief > :last-child {
@@ -411,9 +413,10 @@ html:not([data-page="/"]) .markdown-body .brief ol {
   list-style: none;
 }
 
+/* retraits : même pas partout — du numéro au texte = du tiret au texte = 3 caractères */
 html:not([data-page="/"]) .markdown-body .brief ol > li {
   position: relative;
-  padding-left: 4ch;
+  padding-left: 3ch;
   counter-increment: brief;
 }
 
@@ -426,19 +429,19 @@ html:not([data-page="/"]) .markdown-body .brief ol > li::before {
 
 /* tout ce qui suit une étape (tirets, texte, citations) : en retrait sous le texte de l'étape */
 html:not([data-page="/"]) .markdown-body .brief > ol ~ :not(ol) {
-  margin-left: 4ch;
+  margin-left: 3ch;
 }
 
 /* tirets « – » */
 html:not([data-page="/"]) .markdown-body .brief ul {
-  padding-left: 2ch;
+  padding-left: 3ch;
   list-style: none;
 }
 
 html:not([data-page="/"]) .markdown-body .brief ul > li::before {
   content: "–";
   position: absolute;
-  left: -2ch;
+  left: -3ch;
   top: 0;
   width: auto;
   height: auto;
@@ -452,10 +455,11 @@ html:not([data-page="/"]) .markdown-body .brief li > ul {
   margin-bottom: 0;
 }
 
-/* citation : filet gris à gauche */
+/* citation : filet gris à gauche, en italique (le mono a un vrai italique) */
 html:not([data-page="/"]) .markdown-body .brief blockquote {
   padding: 0 0 0 2ch;
   color: inherit;
+  font-style: italic;
   border-left: 3px solid #c8c8c8;
 }
 
