@@ -8,3 +8,5 @@ plugins:
   - jekyll-relative-links        # liens vers des .md convertis en liens de pages
   - jekyll-titles-from-headings  # titre de page tiré du premier #
   - jekyll-default-layout        # layout du thème appliqué par défaut
+readme_index:
+  with_frontmatter: true         # README.md avec front matter (redirect_from) = index aussi
