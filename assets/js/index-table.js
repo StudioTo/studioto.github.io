@@ -2,7 +2,7 @@
    Index de la page d'accueil
    - barre de recherche au-dessus du tableau : titres, tags,
      et texte complet des pages listées dans le tableau (et seulement celles-là)
-   - tri : ordre du tableau dans index.md (défaut, bouton « Tags ») ou alphabétique (bouton « A–Z »)
+   - ordre d'affichage : celui du tableau dans index.md
    - emoji (3e colonne) : affiché au survol de la ligne, à droite
    ============================================================ */
 (function () {
@@ -27,18 +27,9 @@
     r._tag = norm(r._tagRaw);
     r._url = a && a.origin === location.origin ? a.href : null;   // pages du site seulement
     r._text = "";
-    var e = r.cells[2];
-    if (e) {
-      // l'emoji est enveloppé : la cellule (et sa ligne grise) reste visible, seul l'emoji est masqué
-      e.classList.add("index-emoji");
-      var icon = document.createElement("span");
-      icon.className = "index-emoji-icon";
-      while (e.firstChild) icon.appendChild(e.firstChild);
-      e.appendChild(icon);
-    }
   });
 
-  // ---------- barre d'outils : recherche + tri
+  // ---------- barre de recherche
   var tools = document.createElement("div");
   tools.className = "index-tools";
 
@@ -49,37 +40,7 @@
   input.setAttribute("aria-label", "Rechercher dans l'index et dans les pages");
   tools.appendChild(input);
 
-  var sortBox = document.createElement("span");
-  sortBox.className = "index-sort";
-  tools.appendChild(sortBox);
-
   table.parentNode.insertBefore(tools, table);
-
-  // ---------- tri
-  var collator = new Intl.Collator("fr", { numeric: true, sensitivity: "base" });
-  var mode = "tag";
-  var buttons = {};
-
-  function sort() {
-    rows.sort(function (a, b) {
-      if (mode === "tag") {
-        return a._order - b._order;   // ordre d'origine, groupé par tag comme dans index.md
-      }
-      return collator.compare(a._titleRaw, b._titleRaw) || collator.compare(a._tagRaw, b._tagRaw);
-    });
-    rows.forEach(function (r) { tbody.appendChild(r); });
-    for (var k in buttons) buttons[k].setAttribute("aria-pressed", k === mode ? "true" : "false");
-  }
-
-  [["tag", "Tags"], ["alpha", "A–Z"]].forEach(function (p) {
-    var b = document.createElement("button");
-    b.type = "button";
-    b.textContent = p[1];
-    b.title = p[0] === "tag" ? "Ordre par tags (ordre d'origine)" : "Trier par ordre alphabétique";
-    b.addEventListener("click", function () { mode = p[0]; sort(); });
-    buttons[p[0]] = b;
-    sortBox.appendChild(b);
-  });
 
   // ---------- recherche
   var loaded = null;   // le texte des pages n'est chargé qu'à la première recherche
@@ -114,5 +75,4 @@
   });
   input.addEventListener("focus", loadTexts, { once: true });
 
-  sort();
 })();

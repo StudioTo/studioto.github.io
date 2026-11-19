@@ -96,28 +96,50 @@ html[data-page="/"] .markdown-body > p > strong:only-child {
   display: none !important;
 }
 
+/* ---------- Lignes grises : une seule épaisseur et un seul espacement partout ---------- */
+:root {
+  --line: 1px solid #d0d7de;
+  --line-gap: 0.45rem;         /* espace identique au-dessus et au-dessous de chaque ligne */
+}
+
+/* titre du site (StudioTo) : ligne dessous, même espace dessus et dessous */
+.markdown-body > h1:first-child {
+  margin-bottom: var(--line-gap);
+  padding-bottom: var(--line-gap);
+  border-bottom: var(--line);
+}
+
+/* accueil : le # &nbsp; d'espacement ne trace pas de ligne */
+html[data-page="/"] .markdown-body > h1:not(:first-child) {
+  border-bottom: 0;
+}
+
 /* ---------- Index de la page d'accueil (tableau) ----------
    hiérarchie : titres de page = 1.25em (un niveau sous ##), tags = texte courant (1em)
-   proportions : 1/3 titre, 2/3 tags ; emoji tout à droite, visible au survol */
+   ordre : celui du tableau dans index.md
+   proportions : 1/2 titre, 1/2 tags ; emoji tout à droite, visible au survol seulement
+   chaque ligne sur une seule ligne, coupée par … si trop longue */
 :root {
   --index-title-size: 1.25em;
   --index-tag-size: 1em;
-  --index-line: 1px solid #d0d7de;
 }
 
 .index-tools {
   display: flex;
   align-items: baseline;
   gap: 1em;
-  border-bottom: var(--index-line);
+  padding: var(--line-gap) 0;
+  border-top: var(--line);
+  border-bottom: var(--line);
 }
 
 .index-search {
   flex: 1;
   min-width: 0;
   margin: 0;
-  padding: 0.25em 0;
+  padding: 0;
   font-size: var(--index-title-size);
+  line-height: 1.5;
   border: 0;
   border-radius: 0;
   background: transparent;
@@ -131,78 +153,60 @@ html[data-page="/"] .markdown-body > p > strong:only-child {
   color: #6e7781;
 }
 
-.index-sort {
-  font-size: var(--index-tag-size);
-  white-space: nowrap;
-}
-
-.index-sort button {
-  margin: 0 0 0 0.6em;
-  padding: 0;
-  border: 0;
-  background: none;
-  font: inherit;
-  color: #8c959f;
-  cursor: pointer;
-}
-
-.index-sort button[aria-pressed="true"] {
-  color: #000;
-}
-
-.markdown-body table.index-table {
+html[data-page="/"] .markdown-body table {
   display: table;              /* le thème affiche les tableaux en bloc défilant */
   width: 100%;
   max-width: 100%;
   table-layout: fixed;
-  border-collapse: collapse;
+  border-collapse: separate;   /* évite les lignes doublées du thème */
+  border-spacing: 0;
   overflow: visible;
-  margin-top: 0;
+  margin: 0;
 }
 
 /* pas d'en-tête de tableau */
-.markdown-body table.index-table thead {
+html[data-page="/"] .markdown-body table thead {
   display: none;
 }
 
-.markdown-body table.index-table tr,
-.markdown-body table.index-table tr:nth-child(2n) {
+html[data-page="/"] .markdown-body table tr,
+html[data-page="/"] .markdown-body table tr:nth-child(2n) {
   background: transparent;     /* pas de lignes zébrées */
   border: 0;
 }
 
-/* lignes grises sur toute la largeur, pas de lignes verticales */
-.markdown-body table.index-table td {
+/* une ligne grise sous chaque page, sur toute la largeur */
+html[data-page="/"] .markdown-body table td {
   border: 0;
-  border-bottom: var(--index-line);
-  padding: 0.25em 0.75em 0.25em 0;
+  border-bottom: var(--line);
+  padding: var(--line-gap) 0.75em var(--line-gap) 0;
   vertical-align: baseline;
   text-align: left;
+  line-height: 1.5;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 
-.markdown-body table.index-table td:nth-child(1) {
-  width: 33.333%;
+html[data-page="/"] .markdown-body table td:nth-child(1) {
+  width: 50%;
   font-size: var(--index-title-size);
 }
 
-.markdown-body table.index-table td:nth-child(2) {
+html[data-page="/"] .markdown-body table td:nth-child(2) {
   font-size: var(--index-tag-size);
 }
 
-/* emoji : tout à droite ; la cellule reste visible (et sa ligne grise), seul l'emoji apparaît au survol */
-.markdown-body table.index-table td.index-emoji {
-  width: 2.5em;
+/* emoji : tout à droite, invisible sauf au survol (la ligne grise reste) */
+html[data-page="/"] .markdown-body table td:nth-child(3) {
+  width: 2.5rem;               /* en rem : la largeur ne dépend pas de la taille 0 ci-dessous */
   padding-right: 0;
   text-align: right;
+  font-size: 0;                /* emoji masqué */
+  text-overflow: clip;
+}
+
+html[data-page="/"] .markdown-body table tr:hover td:nth-child(3),
+html[data-page="/"] .markdown-body table tr:focus-within td:nth-child(3) {
   font-size: var(--index-title-size);
-  white-space: nowrap;
-}
-
-.index-emoji-icon {
-  visibility: hidden;
-}
-
-.markdown-body table.index-table tr:hover .index-emoji-icon,
-.markdown-body table.index-table tr:focus-within .index-emoji-icon {
-  visibility: visible;
 }
