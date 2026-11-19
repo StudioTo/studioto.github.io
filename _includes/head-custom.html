@@ -170,3 +170,48 @@
     window.addEventListener("resize", fit);
   })();
 </script>
+<script>
+  // ---------- emojis des titres (## et suivants) et de la table des matières : alignés à droite, comme dans l'index
+  (function () {
+    var EMOJI = /(?:[#*0-9]\uFE0F?\u20E3|\p{Regional_Indicator}{2}|\p{Extended_Pictographic}(?:\uFE0F|\p{Emoji_Modifier})?(?:\u200D\p{Extended_Pictographic}(?:\uFE0F|\p{Emoji_Modifier})?)*)/gu;
+
+    function moveEmoji(el) {
+      if (el.querySelector(".heading-emoji")) return;
+      var found = [];
+      var walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT);
+      var nodes = [];
+      while (walker.nextNode()) nodes.push(walker.currentNode);
+      nodes.forEach(function (n) {
+        var t = n.nodeValue.replace(EMOJI, function (m) { found.push(m); return ""; });
+        if (t !== n.nodeValue) n.nodeValue = t.replace(/\s{2,}/g, " ");
+      });
+      if (!found.length) return;
+      // espaces laissés en début / fin
+      if (nodes.length) {
+        nodes[0].nodeValue = nodes[0].nodeValue.replace(/^\s+/, "");
+        nodes[nodes.length - 1].nodeValue = nodes[nodes.length - 1].nodeValue.replace(/\s+$/, "");
+      }
+      var span = document.createElement("span");
+      span.className = "heading-emoji";
+      span.setAttribute("aria-hidden", "true");
+      span.textContent = found.join(" ");
+      el.appendChild(span);
+      el.classList.add("has-emoji");
+    }
+
+    function setup() {
+      if (document.documentElement.getAttribute("data-page") === "/") return;
+      var body = document.querySelector(".markdown-body");
+      if (!body) return;
+      body.querySelectorAll("h2, h3, h4, h5, h6").forEach(moveEmoji);
+      var toc = body.querySelector(":scope > h1:first-child + h1 + ul");
+      if (toc) toc.querySelectorAll(":scope > li > a").forEach(moveEmoji);
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", setup);
+    } else {
+      setup();
+    }
+  })();
+</script>

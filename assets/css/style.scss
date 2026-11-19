@@ -260,6 +260,25 @@ html:not([data-page="/"]) .markdown-body table img.cover {
   object-fit: cover;
 }
 
+/* ---------- Emojis des titres et de la table des matières : tout à droite, comme dans l'index
+   (déplacés par head-custom.html ; le texte des pages ne change pas) */
+.markdown-body .has-emoji {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.markdown-body li > a.has-emoji {
+  display: flex;               /* l'entrée de la table occupe toute la ligne */
+}
+
+.markdown-body .heading-emoji {
+  flex: none;
+  font-style: normal;
+  font-weight: 400;
+}
+
 /* ---------- Page d'accueil ----------
    texte d'introduction et intitulés de groupe (**Communication visuelle**, etc.) :
    même style, 20 % plus grands que le texte courant (19px), sans gras */
