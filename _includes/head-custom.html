@@ -1,6 +1,6 @@
 <!--
   Liens : couleur aléatoire au survol, différente à chaque fois.
-  Titre du site (StudioTo) : au survol, chaque lettre prend une couleur différente.
+  Titre du site (StudioTo) : au survol, deux couleurs différentes, une pour « Studio », une pour « To ».
 -->
 <script>
   (function () {
@@ -35,7 +35,7 @@
     document.addEventListener("focusin", on);   // clavier (Tab)
     document.addEventListener("focusout", off);
 
-    // ---------- titre du site : une couleur par lettre
+    // ---------- titre du site : une couleur par partie (Studio / To)
     function setupTitle() {
       var links = document.querySelectorAll("h1 a");
       for (var i = 0; i < links.length; i++) {
@@ -45,21 +45,23 @@
         a.setAttribute("data-site-title", "");
         a.setAttribute("aria-label", SITE_TITLE);
         a.textContent = "";
+        // découpe à chaque majuscule : "StudioTo" → "Studio" + "To"
+        var words = SITE_TITLE.match(/[A-Z][^A-Z]*|[^A-Z]+/g) || [SITE_TITLE];
         var letters = [];
-        for (var k = 0; k < SITE_TITLE.length; k++) {
+        for (var k = 0; k < words.length; k++) {
           var s = document.createElement("span");
-          s.textContent = SITE_TITLE[k];
+          s.textContent = words[k];
           s.setAttribute("aria-hidden", "true");
           a.appendChild(s);
           letters.push(s);
         }
 
         function colorize() {
-          // teintes réparties sur tout le cercle, dans un ordre mélangé : toutes différentes
-          var start = Math.random() * 360, step = 360 / letters.length, hues = [];
-          for (var j = 0; j < letters.length; j++) hues.push(start + j * step);
-          hues.sort(function () { return Math.random() - 0.5; });
-          for (var j = 0; j < letters.length; j++) letters[j].style.color = hsl(hues[j]);
+          // une couleur par partie, toutes nettement différentes (réparties sur le cercle)
+          var start = Math.random() * 360, step = 360 / letters.length;
+          for (var j = 0; j < letters.length; j++) {
+            letters[j].style.color = hsl(start + j * step + (Math.random() - 0.5) * step * 0.4);
+          }
         }
 
         function reset() {
