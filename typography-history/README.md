@@ -19,7 +19,7 @@ redirect_from:
   position: sticky;
   top: var(--sticky-h, 119px);
   z-index: 1;
-  height: 81px;                /* 4 + 24 (année) + 2 + 21 (frise) + 2 + 24 (catégorie) + 4 */
+  height: 65px;                /* 4 + 16 (année) + 2 + 21 (frise) + 2 + 16 (catégorie) + 4 */
   margin: 0 0 24px;
   background: #fff;
   border-bottom: var(--line);
@@ -28,7 +28,7 @@ redirect_from:
   position: absolute;
   left: 0;
   right: 0;
-  top: 30px;
+  top: 22px;
   height: 21px;
 }
 #th-timeline .th-line {
@@ -82,10 +82,15 @@ redirect_from:
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
-  font-size: 16px;
-  line-height: 24px;
+  font-size: 13px;             /* exception sur cette page : 20 % plus petit (16 → 13px) */
+  line-height: 16px;
   white-space: nowrap;
   visibility: hidden;
+}
+/* pastille survolée, non active : textes en gris */
+#th-timeline .th-dot:not(.active) .th-year,
+#th-timeline .th-dot:not(.active) .th-name {
+  color: #6e7781;
 }
 #th-timeline .th-year { bottom: 23px; }
 #th-timeline .th-name { top: 23px; }
@@ -135,7 +140,7 @@ redirect_from:
     var barH = function () { return nav.getBoundingClientRect().height; };
 
     // les titres arrivent sous l'en-tête et sous la frise
-    heads.forEach(function (h) { h.style.scrollMarginTop = "calc(var(--sticky-h, 119px) + 81px)"; });
+    heads.forEach(function (h) { h.style.scrollMarginTop = "calc(var(--sticky-h, 119px) + 65px)"; });
 
     var dots = cats.map(function (h, i) {
       var b = document.createElement("button");
