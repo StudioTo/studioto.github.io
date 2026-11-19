@@ -17,6 +17,8 @@
 
 # Exceptions (fichiers à garder dans le site), décommenter si besoin :
 # !favicon.png
+# icône du site (‽)
+!assets/icons/*.png
 
 # Fichiers système
 .DS_Store

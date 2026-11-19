@@ -144,3 +144,29 @@
     }
   })();
 </script>
+<script>
+  // ---------- tableaux d'images : images d'une même ligne à la même hauteur (la plus basse), recadrées
+  (function () {
+    function fit() {
+      if (document.documentElement.getAttribute("data-page") === "/") return;
+      document.querySelectorAll(".markdown-body table tr").forEach(function (tr) {
+        var imgs = tr.querySelectorAll(":scope > th img, :scope > td img");
+        if (imgs.length < 2) return;
+        var h = Infinity;
+        imgs.forEach(function (img) {
+          img.classList.remove("cover");
+          img.style.height = "";
+          if (img.naturalWidth) h = Math.min(h, img.getBoundingClientRect().width * img.naturalHeight / img.naturalWidth);
+        });
+        if (!isFinite(h)) return;
+        h = Math.round(h);
+        imgs.forEach(function (img) {
+          img.classList.add("cover");
+          img.style.height = h + "px";
+        });
+      });
+    }
+    window.addEventListener("load", fit);
+    window.addEventListener("resize", fit);
+  })();
+</script>
