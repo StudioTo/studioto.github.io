@@ -10,54 +10,52 @@ redirect_from:
 
 ## Brief
 
-    ●   Regrouper, aligner et mesurer des glyphes
+<!-- brief : Markdown simple, sans retrait — 1. étapes (numéros automatiques), - tirets, > remarques, **gras**, *italique*, [liens](…) -->
 
-    1.  Préparation du document
+**Regrouper, aligner et mesurer des glyphes**
 
-        Ouvrir le fichier InDesign
-        Ajouter 3 pages au document
-        Appliquer le gabarit A à toutes les pages
-        Dévérouiller le calque « caractères »
-        Activer les repères commentés
+1. Préparation du document
 
-    2.  Regroupement des caractères
+- Ouvrir le fichier InDesign
+- Ajouter 3 pages au document
+- Appliquer le gabarit A à toutes les pages
+- Dévérouiller le calque « caractères »
+- Activer les repères commentés
 
-        Ouvrir le fichier Illustrator
-        Regrouger les caractères de la même police (il y a 4 polices au total) pour former le a séquence
+1. Regroupement des caractères
 
-        Sftp;3
+- Ouvrir le fichier Illustrator
+- Regrouger les caractères de la même police (il y a 4 polices au total) pour former le a séquence
 
-        Sélectionner les caractères dans Illustrator > Copier
-        Dans InDesign > Coller
+Sftp;3
 
-    3.  Alignement vertical des caractères
+- Sélectionner les caractères dans Illustrator > Copier
+- Dans InDesign > Coller
 
-        a.  Corriger l’angle de rotation des caractères de sorte à ce qu’il soit dans le bon sens de lecture
-            (perpendiculaire à la ligne de pied)
-            Positionner les caractères correctement par rapport à la ligne de pied
+1. Alignement vertical des caractères
 
-        b.  Dévérouiller le calque « mesures »
-            Dévérouiller toutes les mesures sauf la ligne de pied
-            Positionner correctement chaque mesure en fonction de la police
+- a. Corriger l’angle de rotation des caractères de sorte à ce qu’il soit dans le bon sens de lecture (perpendiculaire à la ligne de pied)
+  - Positionner les caractères correctement par rapport à la ligne de pied
+- b. Dévérouiller le calque « mesures »
+  - Dévérouiller toutes les mesures sauf la ligne de pied
+  - Positionner correctement chaque mesure en fonction de la police
 
-        ⚠️  Les caractères sont déjà à la bonne taille, il ne faut pas les re-dimensionner
+> ⚠️ Les caractères sont déjà à la bonne taille, il ne faut pas les re-dimensionner
 
-    4.  Alignement horizontal des caractères
+1. Alignement horizontal des caractères
 
-        Espacer horizontalement les caractères de sorte à ce que les vides entre les caractères soient les mêmes
+- Espacer horizontalement les caractères de sorte à ce que les vides entre les caractères soient les mêmes
 
-    5.  Terminologie 🎁
+1. Terminologie 🎁
 
-        Dupliquer le calque « caractères »
-        A l’aide du pathfinder et de la souris blanche, découper les caractères pour ne garder que les parties suivantes :
-
-            p.1 fût
-            p.2 traverse
-            p.3 panse
-            p.4 colonne
-
-        Mettre en couleur la partie isolée
-        Ajouter la légende (le nom de la partie) à côté de la partie
+- Dupliquer le calque « caractères »
+- A l’aide du pathfinder et de la souris blanche, découper les caractères pour ne garder que les parties suivantes :
+  - p.1 fût
+  - p.2 traverse
+  - p.3 panse
+  - p.4 colonne
+- Mettre en couleur la partie isolée
+- Ajouter la légende (le nom de la partie) à côté de la partie
 
 ## Ressources
 

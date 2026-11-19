@@ -207,3 +207,24 @@
     if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", setup); else setup();
   })();
 </script>
+<script>
+  // ---------- briefs : tout ce qui suit « ## Brief » (jusqu'au titre ## suivant) prend le style « brief »
+  // (mono, fond gris, numéros automatiques, tirets en retrait) — voir assets/css/style.scss
+  (function () {
+    function setup() {
+      if (location.pathname.indexOf("/eracom/briefs/") !== 0) return;
+      var h = document.getElementById("brief");
+      if (!h || h.tagName !== "H2") return;
+      var box = document.createElement("div");
+      box.className = "brief";
+      var n = h.nextElementSibling;
+      while (n && n.tagName !== "H2") {
+        var next = n.nextElementSibling;
+        box.appendChild(n);
+        n = next;
+      }
+      if (box.children.length) h.parentNode.insertBefore(box, h.nextSibling);
+    }
+    if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", setup); else setup();
+  })();
+</script>
