@@ -65,3 +65,10 @@ a:focus,
 .markdown-body a:focus {
   text-decoration: none;
 }
+
+/* ---------- Titres ---------- */
+
+/* ## (h2) : regular, pas de gras */
+.markdown-body h2 {
+  font-weight: 400;
+}
