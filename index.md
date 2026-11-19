@@ -15,7 +15,7 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 
 | Titre | Tag | |
 |---|---|---|
-| [Perception](/gestalt) | #communication visuelle | 👁️‍🗨️ |
+| [Perception](/gestalt) | #communication visuelle | 🌀 |
 | [Lire-Voir](/read-see) | #communication visuelle | 👓 |
 | [Iconicité](/iconicity) | #communication visuelle | 🚸 |
 | [Sémiotique](/semiotics) | #communication visuelle | 🏷️ |
