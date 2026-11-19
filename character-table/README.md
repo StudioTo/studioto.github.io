@@ -1,6 +1,6 @@
 ---
 title: "Table des caractères"
-toc: true
+toc: false
 permalink: /character-table/
 redirect_from:
   - /index-glyphs/
@@ -8,42 +8,12 @@ redirect_from:
 
 # Table des caractères
 
-- [Lettres](#gm-lettres)
-  - [Majuscules](#gm-lettres-majuscules)
-  - [Minuscules](#gm-lettres-minuscules)
-  - [Ligatures](#gm-lettres-ligatures)
-  - [Exposants](#gm-lettres-exposants)
-  - [Grec](#gm-lettres-grec)
-- [Chiffres](#gm-chiffres)
-  - [Chiffres](#gm-chiffres-chiffres)
-  - [Fractions](#gm-chiffres-fractions)
-  - [Exposants & indices](#gm-chiffres-exposants-et-indices)
-  - [Autres](#gm-chiffres-autres)
-- [Séparateurs](#gm-separateurs)
-  - [Espaces](#gm-separateurs-espaces)
-  - [Invisibles](#gm-separateurs-invisibles)
-- [Ponctuation](#gm-ponctuation)
-  - [Tirets](#gm-ponctuation-tirets)
-  - [Parenthèses](#gm-ponctuation-parentheses)
-  - [Guillemets](#gm-ponctuation-guillemets)
-  - [Autres](#gm-ponctuation-autres)
-- [Symboles](#gm-symboles)
-  - [Devises](#gm-symboles-devises)
-  - [Maths](#gm-symboles-maths)
-  - [Flèches](#gm-symboles-fleches)
-  - [Géométrie](#gm-symboles-geometrie)
-  - [Autres](#gm-symboles-autres)
-- [Diacritiques](#gm-diacritiques)
-  - [Combinants](#gm-diacritiques-combinants)
-  - [Isolés](#gm-diacritiques-isoles)
-  - [Modificateurs](#gm-diacritiques-modificateurs)
-
 {% raw %}
 <style>
 #gm { --gm-border: #e1e4e8; --gm-muted: #6a737d; --gm-text: #24292e; --gm-blue: #0366d6; --gm-hover: #f6f8fa; }
-#gm-bar { position: sticky; top: var(--sticky-h, 119px); z-index: 1; background: #fff; padding: 12px 0 10px; border-bottom: 1px solid var(--gm-border); margin-bottom: 8px; }
+#gm-bar { position: sticky; top: var(--sticky-h, 119px); z-index: 1; background: #fff; padding: 7px 0; border-bottom: var(--line); margin: 0; }
 #gm-wrap { position: relative; }
-#gm-search { width: 100%; box-sizing: border-box; padding: 8px 12px; font-size: 16px; line-height: 20px; font-family: inherit; color: var(--gm-text); background: #fafbfc; border: 1px solid var(--gm-border); border-radius: 6px; outline: none; }
+#gm-search { width: 100%; box-sizing: border-box; padding: 6px 12px; font-size: 16px; line-height: 24px; font-family: inherit; color: var(--gm-text); background: #fafbfc; border: 1px solid var(--gm-border); border-radius: 6px; outline: none; }
 #gm-search:focus { background: #fff; border-color: var(--gm-blue); box-shadow: 0 0 0 3px rgba(3, 102, 214, .3); }
 #gm-results { display: none; position: absolute; top: calc(100% + 4px); left: 0; right: 0; max-height: 55vh; overflow-y: auto; background: #fff; border: 1px solid var(--gm-border); border-radius: 6px; box-shadow: 0 8px 24px rgba(149, 157, 165, .2); z-index: 20; }
 #gm-results.open { display: block; }
@@ -296,6 +266,28 @@ if (location.hash.startsWith("#gm-")) {
     const cp = parseInt(location.hash.slice(3), 16);
     setTimeout(() => goTo(cp), 150);
 }
+})();
+</script>
+<script>
+// survol d'un caractère : couleur aléatoire, différente à chaque fois (comme les liens du site)
+(function () {
+  var main = document.getElementById("gm-main");
+  if (!main) return;
+  var hue = Math.random() * 360;
+  main.addEventListener("mouseover", function (e) {
+    var cell = e.target.closest(".gm-cell");
+    if (!cell || cell.contains(e.relatedTarget)) return;
+    var g = cell.querySelector(".gm-glyph");
+    if (!g) return;
+    hue = (hue + 60 + Math.random() * 240) % 360;
+    g.style.color = "hsl(" + Math.round(hue) + ", 85%, 45%)";
+  });
+  main.addEventListener("mouseout", function (e) {
+    var cell = e.target.closest(".gm-cell");
+    if (!cell || cell.contains(e.relatedTarget)) return;
+    var g = cell.querySelector(".gm-glyph");
+    if (g) g.style.color = "";
+  });
 })();
 </script>
 {% endraw %}

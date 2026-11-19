@@ -141,6 +141,7 @@ html:not([data-page="/"]) .markdown-body .footnotes li {
    pas de ligne entre les entrées, une ligne sous la table, même espace dessus et dessous */
 html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul {
   margin: 0 0 48px;
+  padding-left: 54px;          /* retrait = hauteur entre les lignes grises du titre de page : 7 + 40 + 7 */
   padding-top: var(--line-gap);
   padding-bottom: var(--line-gap);
   border-bottom: var(--line);
