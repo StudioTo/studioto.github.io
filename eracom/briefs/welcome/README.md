@@ -1,14 +1,15 @@
 ---
-title: "Typographie"
+title: "Accueil Eracom"
 toc: false
-permalink: /eracom/briefs/typography/
+permalink: /eracom/briefs/welcome/
 redirect_from:
+  - /eracom/briefs/typography/
   - /eracom/briefs/introduce-typography/
 ---
 
-# Typographie
+# Accueil Eracom
 
-|![](https://studioto.github.io/media/eracom/briefs/typography/evolution_metier.gif) |
+|![](https://studioto.github.io/media/eracom/briefs/welcome/evolution_metier.gif) |
 |:---:|
 | L’évolution du métier[^1][^2]  |
 

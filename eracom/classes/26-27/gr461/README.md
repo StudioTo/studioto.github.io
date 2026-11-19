@@ -7,7 +7,7 @@ toc: false
 
 ## 17.8.2026
 
-[📎 Introduction](../../../briefs/typography/)
+[📎 Accueil Eracom](../../../briefs/welcome/)
 
 ## 24.8.2026
 

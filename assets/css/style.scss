@@ -41,14 +41,26 @@ tt,
   font-family: var(--font-mono);
 }
 
-/* police mono : 30 % plus grande que celle du thème (85 % de 16px = 13.6px → 18px) */
+/* police mono : 18px → 30 % plus grande → 23px (23.4 arrondi) ; fond gris neutre (pas bleuté) */
 .markdown-body code,
 .markdown-body kbd,
 .markdown-body samp,
 .markdown-body tt,
 .markdown-body pre {
-  font-size: 18px;
-  line-height: 24px;
+  font-size: 23px;
+  line-height: 30px;
+}
+
+.markdown-body pre,
+.markdown-body code,
+.markdown-body tt,
+.markdown-body .highlight pre {
+  background-color: #f2f2f2;
+}
+
+.markdown-body pre code,
+.markdown-body pre tt {
+  background-color: transparent;
 }
 
 .markdown-body pre code,
@@ -88,7 +100,7 @@ a:focus,
    21px → 26px   ####
    20px → 30px   index : titres de page, recherche
    19px → 25px   texte courant (1.3 : 24.7 arrondi), intro de l'accueil
-   18px → 24px   police mono (code, blocs de texte préformaté)
+   23px → 30px   police mono (code, blocs de texte préformaté)
    16px → 24px   légendes, table des matières, sources, notes, tags, #####, ######, texte du thème */
 html,
 body {

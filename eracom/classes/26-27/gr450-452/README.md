@@ -7,7 +7,7 @@ toc: false
 
 ## 17.08.2026
 
-[📎 Gestion de classe](../../../briefs/typography/)  
+[📎 Accueil Eracom](../../../briefs/welcome/)  
 📼 Documentaire : *Graphic Means*
 
 <!-- Définition du programme
