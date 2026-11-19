@@ -10,12 +10,13 @@ redirect_from:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MicroTypo Quiz</title>
+<link rel="stylesheet" href="/assets/fonts/webcm/webcm.css">
 <style>
     html, body { height: 100%; }
     body {
         margin: 0;
         padding: 0;
-        font-family: Times, serif;
+        font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
         transition: background-color .1s ease;
         text-align: center;
         overflow: hidden;
@@ -45,7 +46,7 @@ redirect_from:
         margin: 0;
         padding: 0 40px;
         text-align: center;
-        font-family: Times, serif;
+        font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
         font-size: 150px;
         line-height: 1.2;
         color: black;
@@ -112,7 +113,7 @@ redirect_from:
     /* flèches dessinées : centrées exactement, quelle que soit la police du système */
     .round .arrow { display: block; width: 26px; height: 16px; margin: 0 auto; }
     .round .arrow path { fill: none; stroke: currentColor; stroke-width: 2.2; stroke-linecap: butt; stroke-linejoin: miter; }
-    div.title .serif { font-family: Times, serif; font-style: italic; font-size: 1.15em; line-height: 1; } /* compense la hauteur d’x plus petite du Times */
+    div.title .serif { font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-style: italic; font-size: 1.15em; line-height: 1; } /* compense la hauteur d’x plus petite du Computer Modern */
     /* losange rouge sous le titre : même taille que les boutons ronds, 10 px sous le titre */
     .topbar { position: absolute; top: 52px; left: 50%; transform: translateX(-50%); display: flex; gap: 10px; z-index: 2; pointer-events: none; }
     .topbar div.title { position: static; transform: none; }
@@ -168,7 +169,7 @@ redirect_from:
         max-width: calc(100% - 240px);
     }
     .hint-text.visible { display: block; }
-    .hint-text { white-space: pre-line; font-family: Times, serif; font-size: 31.05px; } /* même taille que le titre en Times */
+    .hint-text { white-space: pre-line; font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-size: 31.05px; } /* même taille que le titre en Computer Modern */
 
     /* barre de navigation : un point par question */
     .dots {
@@ -224,7 +225,7 @@ redirect_from:
         overflow: hidden;
         font-size: var(--fs, 60px);
     }
-    .end-text p { font-family: Times, serif; font-size: 1em; margin: 0; line-height: 1.2; }
+    .end-text p { font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-size: 1em; margin: 0; line-height: 1.2; }
     .end-text .player-name { font-kerning: none; font-variant-ligatures: none; font-style: italic; margin-bottom: 1.2em; } /* une ligne vide après le nom */
     #final-date { margin-top: 1.2em; } /* une ligne vide avant la date */
     .end-text p.ref { user-select: all; -webkit-user-select: all; }
@@ -233,8 +234,8 @@ redirect_from:
     #paint { position: absolute; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; }
     #final-screen p { position: relative; z-index: 1;
         text-shadow: 0 0 .08em white, 0 0 .08em white, 0 0 .15em white, 0 0 .25em white, 0 0 .4em white; } /* halo blanc : lisible sur le dessin */
-    #menu-screen p#save-code { font-family: Times, serif; font-style: italic; font-size: 1em; color: black; letter-spacing: 0; margin-top: .5em; }
-    #final-screen p#final-ref { font-family: Times, serif; font-style: italic; font-size: 1em; color: black; letter-spacing: 0; margin-top: 1.2em; }
+    #menu-screen p#save-code { font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-style: italic; font-size: 1em; color: black; letter-spacing: 0; margin-top: .5em; }
+    #final-screen p#final-ref { font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-style: italic; font-size: 1em; color: black; letter-spacing: 0; margin-top: 1.2em; }
     .thin { display: inline-block; width: 0.16em; } /* espace fine insécable */
     .end-buttons { margin-top: 40px; display: flex; gap: 10px; justify-content: center; }
 
@@ -374,7 +375,7 @@ function fit() {
     const box = field.getBoundingClientRect();
     const lines = field.value.split("\n");
     const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
-    ctx.font = "100px Times, serif";
+    ctx.font = "100px 'WebCM Serif 10', serif";
     const widest = Math.max(1, ...lines.map(l => ctx.measureText(l).width));
     const byWidth = (box.width - 100) / widest * 100;
     const byHeight = (box.height - 200) / (lines.length * 1.2); // place pour le titre et les boutons
@@ -389,7 +390,7 @@ function fitName() {
     const box = inp.getBoundingClientRect();
     if (!box.width) return;
     const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
-    ctx.font = "100px Times, serif";
+    ctx.font = "100px 'WebCM Serif 10', serif";
     const w = Math.max(1, ctx.measureText(inp.value || inp.placeholder).width);
     const size = Math.max(20, Math.min(150, (box.width - 100) / w * 100, (box.height - 200) / 1.2));
     inp.style.fontSize = size + "px";
@@ -423,14 +424,14 @@ function paintName() {
 let baselineY = 0, lockBaseline = null;
 function centerOnXHeight(n) {
     const ctx = fit.ctx;
-    ctx.font = fitSize + "px Times, serif";
+    ctx.font = fitSize + "px 'WebCM Serif 10', serif";
     const xh = ctx.measureText("x").actualBoundingBoxAscent;
     // Les lignes de base sont mesurées sur une copie invisible du texte, avec la même mise en forme.
-    // Ainsi, si un caractère absent du Times (espace fine, etc.) est dessiné avec une police de secours
+    // Ainsi, si un caractère absent du Computer Modern (espace fine, etc.) est dessiné avec une police de secours
     // qui agrandit la ligne, le centrage en tient compte et le texte ne descend plus.
     const lines = field.value.split("\n");
     const mirror = centerOnXHeight.mirror || (centerOnXHeight.mirror = Object.assign(document.createElement("div"), {
-        style: "position:absolute;left:-99999px;top:0;visibility:hidden;white-space:pre;font-family:Times,serif;line-height:1.2;padding:0;margin:0;border:0"
+        style: "position:absolute;left:-99999px;top:0;visibility:hidden;white-space:pre;font-family:'WebCM Serif 10',serif;line-height:1.2;padding:0;margin:0;border:0"
     }));
     if (!mirror.parentNode) document.body.appendChild(mirror);
     mirror.style.fontSize = fitSize + "px";
@@ -647,7 +648,7 @@ function paintCtx() {
     const ctx = cv.getContext("2d");
     const fs = parseFloat(getComputedStyle($("final-name")).fontSize);
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-    ctx.font = "italic " + fs + "px Times, serif";
+    ctx.font = "italic " + fs + "px 'WebCM Serif 10', serif";
     ctx.textBaseline = "alphabetic";
     ctx.fontKerning = "none";
     return { ctx, box, fs };
@@ -821,6 +822,15 @@ $("finish").addEventListener("click", () => {
 
 // ---------- démarrage ----------
 (async function start() {
+    // Computer Modern (WebCM) : chargé avant de dessiner les glyphes dans le canvas
+    if (document.fonts) {
+        try {
+            await Promise.all([
+                document.fonts.load("100px 'WebCM Serif 10'"),
+                document.fonts.load("italic 100px 'WebCM Serif 10'")
+            ]);
+        } catch (e) {}
+    }
     if (document.fonts) document.fonts.ready.then(centerRoundGlyphs); else centerRoundGlyphs();
     load();
     await verifyAll();
