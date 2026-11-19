@@ -303,16 +303,21 @@ html[data-page="/"] .markdown-body table td:nth-child(2) {
   font-size: var(--index-tag-size);
 }
 
-/* emoji : tout à droite, invisible sauf au survol (la ligne grise reste) */
+/* emoji : tout à droite, toujours présent (taille fixe, la hauteur de ligne ne bouge pas),
+   transparent sauf au survol ; index-table.js l'enveloppe dans <span class="index-emoji"> */
 html[data-page="/"] .markdown-body table td:nth-child(3) {
-  width: 40px;                 /* en px : la largeur ne dépend pas de la taille 0 ci-dessous */
+  width: 40px;
   padding-right: 0;
   text-align: right;
-  font-size: 0;                /* emoji masqué */
+  font-size: var(--index-title-size);
   text-overflow: clip;
 }
 
-html[data-page="/"] .markdown-body table tr:hover td:nth-child(3),
-html[data-page="/"] .markdown-body table tr:focus-within td:nth-child(3) {
-  font-size: var(--index-title-size);
+html[data-page="/"] .markdown-body table .index-emoji {
+  opacity: 0;
+}
+
+html[data-page="/"] .markdown-body table tr:hover .index-emoji,
+html[data-page="/"] .markdown-body table tr:focus-within .index-emoji {
+  opacity: 1;
 }

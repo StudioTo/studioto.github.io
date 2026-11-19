@@ -27,6 +27,15 @@
     r._tag = norm(r._tagRaw);
     r._url = a && a.origin === location.origin ? a.href : null;   // pages du site seulement
     r._text = "";
+
+    // emoji : enveloppé pour être masqué sans changer la hauteur de la ligne
+    var c = r.cells[2];
+    if (c && !c.querySelector(".index-emoji")) {
+      var span = document.createElement("span");
+      span.className = "index-emoji";
+      while (c.firstChild) span.appendChild(c.firstChild);
+      c.appendChild(span);
+    }
   });
 
   // ---------- barre de recherche
