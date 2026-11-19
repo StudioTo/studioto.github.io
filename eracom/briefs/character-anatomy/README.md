@@ -19,7 +19,7 @@ redirect_from:
 - Ouvrir le fichier InDesign
 - Ajouter 3 pages au document
 - Appliquer le gabarit A à toutes les pages
-- Dévérouiller le calque « caractères »
+- Dévérouiller le calque «caractères»
 - Activer les repères commentés
 
 1. Regroupement des caractères
@@ -36,7 +36,7 @@ Sftp;3
 
 - a. Corriger l’angle de rotation des caractères de sorte à ce qu’il soit dans le bon sens de lecture (perpendiculaire à la ligne de pied)
   - Positionner les caractères correctement par rapport à la ligne de pied
-- b. Dévérouiller le calque « mesures »
+- b. Dévérouiller le calque «mesures»
   - Dévérouiller toutes les mesures sauf la ligne de pied
   - Positionner correctement chaque mesure en fonction de la police
 
@@ -48,7 +48,7 @@ Sftp;3
 
 1. Terminologie 🎁
 
-- Dupliquer le calque « caractères »
+- Dupliquer le calque «caractères»
 - A l’aide du pathfinder et de la souris blanche, découper les caractères pour ne garder que les parties suivantes :
   - p.1 fût
   - p.2 traverse

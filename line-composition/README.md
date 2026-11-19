@@ -1,5 +1,5 @@
 ---
-title: "Ligne : composition"
+title: "Ligne : composition"
 toc: true
 permalink: /line-composition/
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-title: "Caractère : optique"
+title: "Caractère : optique"
 toc: true
 permalink: /character-optics/
 redirect_from:

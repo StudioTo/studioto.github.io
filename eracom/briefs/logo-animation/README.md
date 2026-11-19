@@ -50,7 +50,7 @@ redirect_from:
   - effets
   - […]
 
-> ⚠️ chaque frame doit comporter le même groupe « logo », avec le même nombre de calques, nommés de la même manière et dans le même ordre
+> ⚠️ chaque frame doit comporter le même groupe «logo», avec le même nombre de calques, nommés de la même manière et dans le même ordre
 
 - à nouveau, sur la gauche, dupliquer le frame puis le modifier (2e étape de disparition)
 - et ainsi de suite jusqu’à la disparition complète du logo

@@ -1,5 +1,5 @@
 ---
-title: "Mot : articulation"
+title: "Mot : articulation"
 toc: true
 permalink: /word-articulation/
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-title: "Caractère : mesures"
+title: "Caractère : mesures"
 toc: true
 permalink: /character-measures/
 redirect_from:

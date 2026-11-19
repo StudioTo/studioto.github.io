@@ -1,5 +1,5 @@
 ---
-title: "Colonne : composition"
+title: "Colonne : composition"
 toc: true
 permalink: /column-composition/
 redirect_from:

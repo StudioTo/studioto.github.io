@@ -1,5 +1,5 @@
 ---
-title: "Ligne : orthographe typographique (micro)"
+title: "Ligne : orthographe typographique (micro)"
 toc: true
 permalink: /line-micro-typography/
 redirect_from:

@@ -12,9 +12,9 @@ redirect_from:
 
 - [Login](#login)
 - [Menu](#menu)
-- [Copie : Photocopier](#copie-photocopier)
-- [Relâcher : Imprimer](#relâcher-imprimer)
-- [Numérisation : Scanner](#numérisation-scanner)
+- [Copie : Photocopier](#copie-photocopier)
+- [Relâcher : Imprimer](#relâcher-imprimer)
+- [Numérisation : Scanner](#numérisation-scanner)
 
 <!-- /toc -->
 

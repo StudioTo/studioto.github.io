@@ -28,7 +28,7 @@ redirect_from:
 
 - page de gauche
 - télécharger les images des monuments
-- placer les images dans le dossier « Liens »
+- placer les images dans le dossier «Liens»
 - dans un bloc image, importer 1 image pour chaque double page
 - si l’image est horizontale, la tourner de 90° dans le sens contraire des aiguilles d’une montre
 - format pleine page

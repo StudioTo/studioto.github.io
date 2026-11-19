@@ -1,5 +1,5 @@
 ---
-title: "Mot : composition"
+title: "Mot : composition"
 toc: true
 permalink: /word-composition/
 redirect_from:

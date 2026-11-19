@@ -1,5 +1,5 @@
 ---
-title: "Mot : texture"
+title: "Mot : texture"
 toc: true
 permalink: /word-texture/
 redirect_from:

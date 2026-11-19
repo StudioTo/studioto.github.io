@@ -1,5 +1,5 @@
 ---
-title: "Caractère : anatomie"
+title: "Caractère : anatomie"
 toc: true
 permalink: /character-anatomy/
 redirect_from:

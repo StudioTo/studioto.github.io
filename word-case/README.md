@@ -1,5 +1,5 @@
 ---
-title: "Mot : graphie"
+title: "Mot : graphie"
 toc: true
 permalink: /word-case/
 redirect_from:

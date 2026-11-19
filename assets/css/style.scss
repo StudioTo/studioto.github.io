@@ -101,7 +101,7 @@ a:focus,
    20px → 30px   index : titres de page, recherche
    19px → 25px   texte courant (1.3 : 24.7 arrondi), intro de l'accueil
    23px → 30px   police mono (code, blocs de texte préformaté)
-   14px → 18px   briefs (mono)
+   17px → 22px   briefs (mono)
    16px → 24px   légendes, table des matières, sources, notes, tags, #####, ######, texte du thème */
 html,
 body {
@@ -197,6 +197,12 @@ html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul > li::before
   height: auto;
   border-radius: 0;
   background: none;
+}
+
+/* titre ## juste après le titre de page (sans table des matières) : collé à sa ligne,
+   même hauteur entre les lignes grises que partout (5 + 40 + 9) */
+html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + h2:not(ul) {   /* :not(ul) : passe devant la règle 24px ci-dessous */
+  margin-top: 0;
 }
 
 /* sans table des matières : même espace entre le titre et le contenu */
@@ -382,8 +388,8 @@ html:not([data-page="/"]) .markdown-body .brief {
   margin: 0 0 24px;
   padding: 16px;
   font-family: var(--font-mono);
-  font-size: 14px;             /* 40 % plus petit que le mono du site (23 → 14px) */
-  line-height: 18px;
+  font-size: 17px;             /* 14px + 20 % = 16.8 → 17px */
+  line-height: 22px;
   background: #f2f2f2;
   border-radius: 6px;
   counter-reset: brief;
@@ -400,7 +406,7 @@ html:not([data-page="/"]) .markdown-body .brief pre {
 }
 
 html:not([data-page="/"]) .markdown-body .brief > * {
-  margin: 0 0 18px;            /* une ligne vide entre les blocs, comme dans un bloc de code */
+  margin: 0 0 22px;            /* une ligne vide entre les blocs, comme dans un bloc de code */
 }
 
 html:not([data-page="/"]) .markdown-body .brief > :last-child {
@@ -455,12 +461,18 @@ html:not([data-page="/"]) .markdown-body .brief li > ul {
   margin-bottom: 0;
 }
 
-/* citation : filet gris à gauche, en italique (le mono a un vrai italique) */
+/* citation : en italique (le mono a un vrai italique), sans filet */
 html:not([data-page="/"]) .markdown-body .brief blockquote {
-  padding: 0 0 0 2ch;
+  padding: 0;
   color: inherit;
   font-style: italic;
-  border-left: 3px solid #c8c8c8;
+  border: 0;
+}
+
+/* liens dans les briefs : soulignés */
+html:not([data-page="/"]) .markdown-body .brief a,
+html:not([data-page="/"]) .markdown-body .brief a:hover {
+  text-decoration: underline;
 }
 
 /* ---------- Page d'accueil ----------

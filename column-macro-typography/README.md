@@ -1,5 +1,5 @@
 ---
-title: "Colonne : lisibilité (macro)"
+title: "Colonne : lisibilité (macro)"
 toc: true
 permalink: /column-macro-typography/
 redirect_from:

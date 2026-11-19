@@ -1,5 +1,5 @@
 ---
-title: "Caractère : variations"
+title: "Caractère : variations"
 toc: true
 permalink: /character-variations/
 redirect_from:

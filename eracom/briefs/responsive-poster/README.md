@@ -34,7 +34,7 @@ redirect_from:
 - formes
 - fonds
 
-⚠️ recomposition, pas de vectorisation dynamique « en un clic »  
+⚠️ recomposition, pas de vectorisation dynamique «en un clic»  
 ⚠️ respecter les polices, les couleurs, les proportions, les alignements
 
 1. Dupliquer et adapter le poster au format page d’accueil web
@@ -46,7 +46,7 @@ redirect_from:
 - tous les objets du poster doivent se retrouver dans la page web
 - néanmoins, ils peuvent être placés différemment, changer de proportion, subir une symétrie, une rotation,…
 
-⚠️ recomposistion, pas de déformation « en un clic »
+⚠️ recomposistion, pas de déformation «en un clic»
 
 🎁  Question bonus : animer la transition du format poster au format web
 
