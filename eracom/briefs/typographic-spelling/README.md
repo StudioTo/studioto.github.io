@@ -10,15 +10,14 @@ redirect_from:
 
 ## Brief
 
-    ●   Appliquer les règles de microtypographie
+**Appliquer les règles de microtypographie**
 
-➡️ [Microtypo Quiz](../../../microtypo-quiz/)   
+➡️ [Microtypo Quiz](../../../microtypo-quiz/)
 
-    1.  Compléter le quiz de microtypo en se basant sur le Guide du Typographe Romand 
-    2.  Envoyer une capture d’écran du score à la fin du cours
+1. Compléter le quiz de microtypo en se basant sur le Guide du Typographe Romand
+1. Envoyer une capture d’écran du score à la fin du cours
 
-    ⚠️  travail individuel
-
+⚠️ travail individuel
 
 ## Ressources
 

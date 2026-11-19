@@ -10,69 +10,71 @@ redirect_from:
 
 ## Brief
 
-    ●  Créer un specimen pour une police de caractères
-    
-    1.  Préparation du document
+**Créer un specimen pour une police de caractères**
 
-        créer un fichier InDesign
-        
-            mode : impression
-            nombre de pages : 1
-            affichage des pages : simple (vis-à-vis décoché)
-            format de page : A3 (297 × 420 mm)
-            orientation : portrait
-            marges : 10 mm
-            fonds-perdus : 3 mm
+1. Préparation du document
 
-        créer des repères (grille)
+- créer un fichier InDesign
 
-            colonnes : 4
-            gouttière : 5 mm
-            rangées : 4
-            gouttière : 5 mm
-            
-            ajuster les repères : marges
+  - mode : impression
+  - nombre de pages : 1
+  - affichage des pages : simple (vis-à-vis décoché)
+  - format de page : A3 (297 × 420 mm)
+  - orientation : portrait
+  - marges : 10 mm
+  - fonds-perdus : 3 mm
 
-    2.  Création de blocs textes pour chaque section
+- créer des repères (grille)
 
-             a | a | c | c 
-            ———————––––––––
-             b | b | c | c 
-            ———————––––––––
-             d | d | d | d 
-            ———————––––––––
-             d | d | d | d 
+  - colonnes : 4
+  - gouttière : 5 mm
+  - rangées : 4
+  - gouttière : 5 mm
 
-        a.  section graisses
+  - ajuster les repères : marges
 
-            […]
-            Police XZY Light
-            Police XZY Light Italic
-            Police XZY Regular
-            Police XZY Italic
-            Police XZY Medium
-            Police XZY Medium Italic
-            Police XZY Bold
-            Police XZY Bold Italic
-            […]
+1. Création de blocs textes pour chaque section
 
-        b.  section informations
+```
+ a | a | c | c
+———————––––––––
+ b | b | c | c
+———————––––––––
+ d | d | d | d
+———————––––––––
+ d | d | d | d
+```
 
-            Designer
-            Fonderie
-            Classification (historique + anatomique –> voir tags)
-            Phrase descriptive (voir texte fonderie)
+- a. section graisses
 
-        c.  section opentype (fenêtre Caractère > OpenType)
+  - […]
+  - Police XZY Light
+  - Police XZY Light Italic
+  - Police XZY Regular
+  - Police XZY Italic
+  - Police XZY Medium
+  - Police XZY Medium Italic
+  - Police XZY Bold
+  - Police XZY Bold Italic
+  - […]
 
-            Consulter la page web de la fonderie pour trouver la liste des fonctionnalités disponibles
+- b. section informations
 
-            colonne gauche : fonctionnalité OFF
-            colonne droite : fonctionnalité ON
+  - Designer
+  - Fonderie
+  - Classification (historique + anatomique –> voir tags)
+  - Phrase descriptive (voir texte fonderie)
 
-        d.  section character set (fenêtre Glyphes > Afficher)
+- c. section opentype (fenêtre Caractère > OpenType)
 
-            1 catégorie = 1 ligne
+  - Consulter la page web de la fonderie pour trouver la liste des fonctionnalités disponibles
+
+  - colonne gauche : fonctionnalité OFF
+  - colonne droite : fonctionnalité ON
+
+- d. section character set (fenêtre Glyphes > Afficher)
+
+  - 1 catégorie = 1 ligne
 
 <!-- 3.  Recherche d’informations complémentaires 🎁
 
@@ -81,7 +83,6 @@ redirect_from:
     Phrase d’explication du concept de la police
     Classification historique
     Classification anatomique -->
-
 
 ## Ressources
 

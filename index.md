@@ -16,7 +16,7 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | Titre | Tag | |
 |---|---|---|
 | [Perception](/gestalt) | #communication visuelle | 👁️‍🗨️ |
-| [Lire-Voir](/read-see) | #communication visuelle | 👀 |
+| [Lire-Voir](/read-see) | #communication visuelle | 👓 |
 | [Iconicité](/iconicity) | #communication visuelle | 🚸 |
 | [Sémiotique](/semiotics) | #communication visuelle | 🏷️ |
 | [*Histoire de la typographie*](/typography-history) | #histoire, #timeline | ✍🏻 |
@@ -25,7 +25,7 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Unités typographiques](/typographic-units) | #unités typographiques | 🔗 |
 | [Caractère : anatomie](/character-anatomy) | #unités typographiques | 🍖 |
 | [Caractère : mesures](/character-measures) | #unités typographiques | 📏 |
-| [Caractère : optique](/character-optics) | #unités typographiques | 👓 |
+| [Caractère : optique](/character-optics) | #unités typographiques | 👀 |
 | [Caractère : variations](/character-variations) | #unités typographiques | 🎛️ |
 | [Mot : texture](/word-texture) | #unités typographiques | 🎨 |
 | [Mot : graphie](/word-case) | #unités typographiques | ⌨️ |
@@ -42,27 +42,27 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Interpolation vectorielle](/vector-interpolation) | #glyphes | 🎚️ |
 | [Dessin vectoriel *debug*](/vector-debug) | #glyphes | 🪲 |
 | [Organisation](/organization) | #processus de design | ☑️ |
-| [Ton](/tone) | #processus de design | 🎹 |
+| [Ton](/tone) | #processus de design | 🎺 |
 | [Variations](/variations) | #processus de design | 🎶 |
 | [Compositions](/compositions) | #processus de design | 🎼 |
 | [Production](/production) | #processus de design | 📦 |
-| [Designers](/designers) | #références | 📕 |
-| [Specimens](/specimens) | #références | 📘 |
-| [Logos](/logos) | #références | 📗 |
+| [Designers](/designers) | #références | 🤷🏻‍♂️ |
+| [Specimens](/specimens) | #références | 🔡 |
+| [Logos](/logos) | #références | 💋 |
 | [Pictogrammes](/pictograms) | #références | 📙 |
 | [Bibliographie](/bibliography) | #références | 📚 |
 | [Vocabulaire](/vocabulary) | #références | 💬 |
-| [*Table des caractères*](/character-table) | #références, #outil | 📋 |
-| [Outils](/tools) | #technique | 🛃 |
-| [Checklists](/checklists) | #technique | 🛂 |
-| [Imprimantes](/printers) | #technique | 🛜 |
-| [Typothèque](http://typo.eracom.ch/) | #technique | 🛄 |
-| [Objectifs](/objectives) | #cours | *️⃣ |
-| [Méthode](/method) | #cours | 🔁 |
-| [Programme](/program) | #cours | 🔡 |
-| [Évaluation](/evaluation) | #cours, #outil | 📶 |
-| [Rendus](/submission) | #cours | ⬇️ |
-| [Règles](/rules) | #cours | 🧑‍🧑‍🧒‍🧒 |
+| [*Table des caractères*](/character-table) | #références, #outil | 🧩 |
+| [Outils](/tools) | #technique | 🛠️ |
+| [Checklists](/checklists) | #technique | 📋 |
+| [Imprimantes](/printers) | #technique | 🖨️ |
+| [Typothèque](http://typo.eracom.ch/) | #technique | 🧰 |
+| [Objectifs](/objectives) | #cours | 🎯 |
+| [Méthode](/method) | #cours | 🪜 |
+| [Programme](/program) | #cours | 🗓️ |
+| [Évaluation](/evaluation) | #cours, #outil | 💯 |
+| [Rendus](/submission) | #cours | 📫 |
+| [Règles](/rules) | #cours | ⚖️ |
 
 <!---
 ## [Index Littérature Visuelle]()

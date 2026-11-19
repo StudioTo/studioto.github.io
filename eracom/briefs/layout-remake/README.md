@@ -10,71 +10,71 @@ redirect_from:
 
 ## Brief
 
-    ●   Recomposer entièrement une page de journal
+**Recomposer entièrement une page de journal**
 
-    1.  Créer un fichier InDesign
+1. Créer un fichier InDesign
 
-        mode : impression
-        nombre de pages : 1
-        affichage des pages : simple
-        format de page : Broadsheet (410 × 580 mm)
-        marges : 10 mm
-        fonds-perdus : 3 mm
+- mode : impression
+- nombre de pages : 1
+- affichage des pages : simple
+- format de page : Broadsheet (410 × 580 mm)
+- marges : 10 mm
+- fonds-perdus : 3 mm
 
-    2.  Recomposer une page du journal imposé
+1. Recomposer une page du journal imposé
 
-        a.  Importation du texte
+- a. Importation du texte
 
-            ✓ Captures d’écran par article  
-            ✓ Copier, coller sans style  
-            ✓ Notes de bas de page  
-            ✓ Regex  
+  - ✓ Captures d’écran par article
+  - ✓ Copier, coller sans style
+  - ✓ Notes de bas de page
+  - ✓ Regex
 
-        b.  Styles de paragraphes & caractères
+- b. Styles de paragraphes & caractères
 
-            ✓ Identifier les hiérarchies = styles (paragraphes vs caractères)  
-            ✓ Format de caractères de base (famille, casse)  
-            ✓ Retrait et espacement  
+  - ✓ Identifier les hiérarchies = styles (paragraphes vs caractères)
+  - ✓ Format de caractères de base (famille, casse)
+  - ✓ Retrait et espacement
 
-        c.  Grille verticale : colonnes
+- c. Grille verticale : colonnes
 
-            ✓ Marges et colonnes  
-            ✓ Étendue de colonnes  
-            ✓ Habillage  
-            ✓ Options de notes de bas de page du document  
+  - ✓ Marges et colonnes
+  - ✓ Étendue de colonnes
+  - ✓ Habillage
+  - ✓ Options de notes de bas de page du document
 
-        d.  Grille horizontale : lignes
+- d. Grille horizontale : lignes
 
-            ✓ Grille de ligne de base  
-            ✓ Alignement sur la grille (style)  
-            ✓ Césures  
-            ✓ Justification  
+  - ✓ Grille de ligne de base
+  - ✓ Alignement sur la grille (style)
+  - ✓ Césures
+  - ✓ Justification
 
-        e.  Éléments graphiques
+- e. Éléments graphiques
 
-            ✓ Navigation : titre, section, folio, date
-            ✓ Formes : symboles, encadrements, filets
-            ✓ Listes
-            ✓ Tableaux
-            ✓ Schémas
+  - ✓ Navigation : titre, section, folio, date
+  - ✓ Formes : symboles, encadrements, filets
+  - ✓ Listes
+  - ✓ Tableaux
+  - ✓ Schémas
 
-        f.  Images
+- f. Images
 
-            ✓ Images (Moma)
-            ✓ Illustrations (Moma)
-            ✓ Logos, Logotypes (dans Illustrator, fenêtre > vectorisation de l’image)
+  - ✓ Images (Moma)
+  - ✓ Illustrations (Moma)
+  - ✓ Logos, Logotypes (dans Illustrator, fenêtre > vectorisation de l’image)
 
-    3.  Vérifier le fichier :
+1. Vérifier le fichier :
 
-        ✓ pas de symbole manquant
-        ✓ pas de de symbole remplacé dans une police
-        ✓ pas d’exception de style de paragraphe ou de caractère
-        ✓ les blocs sont alignés sur la grille
-        ✓ les styles sont alignés sur la grille de ligne de base
-        ✓ pas de lien manquant ou modifié
-        ✓ les images sont à 300 dpi dans la mise en page
-        ✓ les images sont au ratio original (1/1)
-        ✓ le contrôle en amont (preflight) est vert
+- ✓ pas de symbole manquant
+- ✓ pas de de symbole remplacé dans une police
+- ✓ pas d’exception de style de paragraphe ou de caractère
+- ✓ les blocs sont alignés sur la grille
+- ✓ les styles sont alignés sur la grille de ligne de base
+- ✓ pas de lien manquant ou modifié
+- ✓ les images sont à 300 dpi dans la mise en page
+- ✓ les images sont au ratio original (1/1)
+- ✓ le contrôle en amont (preflight) est vert
 
 <!-- importer les textes par copier-coller
 nettoyer les textes importés (retours, microtypographie)

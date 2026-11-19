@@ -9,22 +9,19 @@ redirect_from:
 # Remake lettering
 
 ## Brief
-    1.  Créer un fichier Glyphs
 
-        mode : impression
-        nombre de pages : 1
-        affichage des pages : simple
-        format de page : Broadsheet (410 × 580 mm)
-        marges : 10 mm
-        fonds-perdus : 3 mm
+1. Créer un fichier Glyphs
 
-    2.  Recomposer un lettering provenant du journal imposé
+- mode : impression
+- nombre de pages : 1
+- affichage des pages : simple
+- format de page : Broadsheet (410 × 580 mm)
+- marges : 10 mm
+- fonds-perdus : 3 mm
 
+1. Recomposer un lettering provenant du journal imposé
 
-
-    3.  Vérifier le fichier :
-
-
+1. Vérifier le fichier :
 
 <!-- importer les textes par copier-coller
 nettoyer les textes importés (retours, microtypographie)

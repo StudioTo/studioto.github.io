@@ -10,47 +10,45 @@ redirect_from:
 
 ## Brief
 
-    ●   Recomposer un poster dans Figma puis l’adapter au format page d’accueil web
+**Recomposer un poster dans Figma puis l’adapter au format page d’accueil web**
 
-    1.  Trouver les polices les plus proches de la référence dans la typothèque
+1. Trouver les polices les plus proches de la référence dans la typothèque
 
-        – sélectionner les polices avec Font Goggles
-        – installer les polices choisies dans le livre des polices (double clic sur les fichiers OTF > installer)
+- sélectionner les polices avec Font Goggles
+- installer les polices choisies dans le livre des polices (double clic sur les fichiers OTF > installer)
 
-    2.  Recomposer le poster au plus proche de la référence
+1. Recomposer le poster au plus proche de la référence
 
-        logiciel : Figma
-        orientation : portrait
-        format : 900 ✕ 1280 px
+- logiciel : Figma
+- orientation : portrait
+- format : 900 ✕ 1280 px
 
-        — textes : outil bloc texte
-        – letterings : outils dessin vectoriel
-        – formes : outils dessin vectoriel
+- textes : outil bloc texte
+- letterings : outils dessin vectoriel
+- formes : outils dessin vectoriel
 
-        nommer les calques de manière descriptive
-        regrouper les objets (utiliser les groupes comme des calques)
+- nommer les calques de manière descriptive
+- regrouper les objets (utiliser les groupes comme des calques)
 
-        – textes
-        – formes
-        - fonds
+- textes
+- formes
+- fonds
 
-    ⚠️  recomposition, pas de vectorisation dynamique « en un clic »
-    ⚠️  respecter les polices, les couleurs, les proportions, les alignements
+⚠️ recomposition, pas de vectorisation dynamique « en un clic »  
+⚠️ respecter les polices, les couleurs, les proportions, les alignements
 
-    3.  Dupliquer et adapter le poster au format page d’accueil web
+1. Dupliquer et adapter le poster au format page d’accueil web
 
-        logiciel : Figma
-        orientation : paysage
-        format : 1920 ✕ 1080 px
+- logiciel : Figma
+- orientation : paysage
+- format : 1920 ✕ 1080 px
 
-        tous les objets du poster doivent se retrouver dans la page web
-        néanmoins, ils peuvent être placés différemment, changer de proportion, subir une symétrie, une rotation,…
+- tous les objets du poster doivent se retrouver dans la page web
+- néanmoins, ils peuvent être placés différemment, changer de proportion, subir une symétrie, une rotation,…
 
-    ⚠️  recomposistion, pas de déformation « en un clic »   
+⚠️ recomposistion, pas de déformation « en un clic »
 
-    🎁  Question bonus : animer la transition du format poster au format web
-
-
+🎁  Question bonus : animer la transition du format poster au format web
 
 ## Ressources
 
