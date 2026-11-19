@@ -42,6 +42,8 @@ redirect_from:
 #gm-tip.open { display: block; }
 #gm-tip, #gm-tip div { font-size: 13px; line-height: 1.4; color: var(--gm-muted); }
 #gm-tip .gm-gap { height: 8px; }
+/* langues (CH / FR / EN) : étiquette dans sa colonne, le texte revient à la ligne en retrait */
+#gm .gm-res .gm-t small.gm-lang, #gm-tip .gm-lang { display: grid; grid-template-columns: 32px 1fr; }
 #gm-tip kbd { display: inline-block; min-width: 1.4em; padding: 0 5px; font: inherit; line-height: 1.5; text-align: center; color: var(--gm-text); background: #fafbfc; border: 1px solid #d1d5da; border-bottom-width: 2px; border-radius: 4px; }
 #gm-toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%) translateY(10px); background: #24292e; color: #fff; font-size: 14px; padding: 8px 14px; border-radius: 6px; opacity: 0; pointer-events: none; transition: opacity .15s ease, transform .15s ease; z-index: 30; white-space: nowrap; }
 #gm-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); }
@@ -82,9 +84,8 @@ function glyphHTML(cp, type) {
 }
 function namesHTML(it) {
     const [, , fr, , , , enal, ch] = it;
-    return (ch ? '<small>CH : ' + esc(ch) + '</small>' : '')
-         + (fr ? '<small>FR : ' + esc(fr) + '</small>' : '')
-         + (enal ? '<small>EN : ' + esc(enal) + '</small>' : '');
+    const l = (tag, txt) => '<small class="gm-lang"><span>' + tag + ' :</span><span>' + esc(txt) + '</span></small>';
+    return (ch ? l("CH", ch) : "") + (fr ? l("FR", fr) : "") + (enal ? l("EN", enal) : "");
 }
 // ---------- Construction ----------
 const byGroup = {}, typeOf = {};
@@ -112,7 +113,7 @@ let tipCell = null;
 function showTip(cell) {
     const it = itemOf[+cell.dataset.cp];
     const [cp, en, fr, , , , enal, ch] = it;
-    const line = (tag, txt) => '<div>' + tag + ' : ' + esc(txt) + '</div>';
+    const line = (tag, txt) => '<div class="gm-lang"><span>' + tag + ' :</span><span>' + esc(txt) + '</span></div>';
     const langs = (ch ? line("CH", ch) : "") + (fr ? line("FR", fr) : "") + (enal ? line("EN", enal) : "");
     const mac = it[9] ? '<div>Mac : ' + keysHTML(it[9]) + '</div>' : "";
     tip.innerHTML = '<div>' + uplus(cp) + '</div>' + mac + '<div>' + esc(title(en)) + '</div>'
