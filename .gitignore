@@ -19,6 +19,7 @@
 # !favicon.png
 # icône du site (‽)
 !assets/icons/*.png
+!assets/icons/*.svg
 
 # Fichiers système
 .DS_Store
