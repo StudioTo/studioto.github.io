@@ -68,10 +68,27 @@ a:focus,
 
 /* ---------- Titres ---------- */
 
+/* ---------- Tailles ----------
+   toutes les valeurs en px entiers (texte courant du thème = 16px) */
+
 /* # (h1, dont le titre du site StudioTo) et ## (h2) : même taille */
 .markdown-body h1,
 .markdown-body h2 {
-  font-size: 2em;
+  font-size: 32px;
+  line-height: 40px;
+  padding-bottom: 10px;
+}
+
+.markdown-body h1 {
+  font-weight: 700;
+}
+
+/* titre propre à chaque page (premier # sous StudioTo) : italique,
+   même graisse et même taille que StudioTo */
+html:not([data-page="/"]) .markdown-body > h1:first-child + h1 {
+  font-size: 32px;
+  font-weight: 700;
+  font-style: italic;
 }
 
 /* ## (h2) : regular, pas de gras */
@@ -79,11 +96,28 @@ a:focus,
   font-weight: 400;
 }
 
+/* texte courant des pages : 20 % plus grand (16px → 19px) ;
+   les légendes sous les images (cellules de tableau) restent à 16px */
+html:not([data-page="/"]) .markdown-body p,
+html:not([data-page="/"]) .markdown-body li,
+html:not([data-page="/"]) .markdown-body dd,
+html:not([data-page="/"]) .markdown-body dt {
+  font-size: 19px;
+  line-height: 28px;
+}
+
+html:not([data-page="/"]) .markdown-body td p,
+html:not([data-page="/"]) .markdown-body th p {
+  font-size: 16px;
+  line-height: 24px;
+}
+
 /* ---------- Page d'accueil ----------
    texte d'introduction et intitulés de groupe (**Communication visuelle**, etc.) :
-   même style, 20 % plus grands que le texte courant, sans gras */
+   même style, 20 % plus grands que le texte courant (19px), sans gras */
 html[data-page="/"] .markdown-body > p {
-  font-size: 1.2em;
+  font-size: 19px;
+  line-height: 28px;
 }
 
 html[data-page="/"] .markdown-body > p > strong:only-child {
@@ -99,7 +133,7 @@ html[data-page="/"] .markdown-body > p > strong:only-child {
 /* ---------- Lignes grises : une seule épaisseur et un seul espacement partout ---------- */
 :root {
   --line: 1px solid #d0d7de;
-  --line-gap: 0.45rem;         /* espace identique au-dessus et au-dessous de chaque ligne */
+  --line-gap: 7px;             /* espace identique au-dessus et au-dessous de chaque ligne */
 }
 
 /* titre du site (StudioTo) : ligne dessous, même espace dessus et dessous */
@@ -115,19 +149,19 @@ html[data-page="/"] .markdown-body > h1:not(:first-child) {
 }
 
 /* ---------- Index de la page d'accueil (tableau) ----------
-   hiérarchie : titres de page = 1.25em (un niveau sous ##), tags = texte courant (1em)
+   hiérarchie : titres de page = 20px (un niveau sous ##), tags = texte courant (16px)
    ordre : celui du tableau dans index.md
    proportions : 1/2 titre, 1/2 tags ; emoji tout à droite, visible au survol seulement
    chaque ligne sur une seule ligne, coupée par … si trop longue */
 :root {
-  --index-title-size: 1.25em;
-  --index-tag-size: 1em;
+  --index-title-size: 20px;
+  --index-tag-size: 16px;
 }
 
 .index-tools {
   display: flex;
   align-items: baseline;
-  gap: 1em;
+  gap: 16px;
   padding: var(--line-gap) 0;
   border-top: var(--line);
   border-bottom: var(--line);
@@ -139,7 +173,7 @@ html[data-page="/"] .markdown-body > h1:not(:first-child) {
   margin: 0;
   padding: 0;
   font-size: var(--index-title-size);
-  line-height: 1.5;
+  line-height: 30px;
   border: 0;
   border-radius: 0;
   background: transparent;
@@ -149,7 +183,7 @@ html[data-page="/"] .markdown-body > h1:not(:first-child) {
 }
 
 .index-search::placeholder {
-  font-size: 1em;
+  font-size: var(--index-title-size);
   color: #6e7781;
 }
 
@@ -179,10 +213,10 @@ html[data-page="/"] .markdown-body table tr:nth-child(2n) {
 html[data-page="/"] .markdown-body table td {
   border: 0;
   border-bottom: var(--line);
-  padding: var(--line-gap) 0.75em var(--line-gap) 0;
+  padding: var(--line-gap) 12px var(--line-gap) 0;
   vertical-align: baseline;
   text-align: left;
-  line-height: 1.5;
+  line-height: 30px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -199,7 +233,7 @@ html[data-page="/"] .markdown-body table td:nth-child(2) {
 
 /* emoji : tout à droite, invisible sauf au survol (la ligne grise reste) */
 html[data-page="/"] .markdown-body table td:nth-child(3) {
-  width: 2.5rem;               /* en rem : la largeur ne dépend pas de la taille 0 ci-dessous */
+  width: 40px;                 /* en px : la largeur ne dépend pas de la taille 0 ci-dessous */
   padding-right: 0;
   text-align: right;
   font-size: 0;                /* emoji masqué */
