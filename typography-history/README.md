@@ -108,6 +108,13 @@ redirect_from:
 #th-timeline .th-dot:not(.active) .th-name {
   color: #6e7781;
 }
+/* titres des catégories de la classification (note [^cat]) : en italique, sur cette page seulement */
+.markdown-body h2:has(a[href="#fn:cat"]) {
+  font-style: italic;
+}
+.markdown-body h2:has(a[href="#fn:cat"]) sup {
+  font-style: normal;
+}
 </style>
 
 <script>
