@@ -33,6 +33,8 @@ toc: false
 
 ## 21.9.2026
 
+🏖️ Vacances
+
 ## 28.9.2026
 
 [📄 1.4. Lettre : ex. variations](../../../briefs/typographic-variations/)  
@@ -42,7 +44,11 @@ toc: false
 
 ## 12.10.2026
 
+🏖️ Vacances
+
 ## 19.10.2026
+
+🏖️ Vacances
 
 ## 26.10.2026
 
@@ -79,7 +85,11 @@ toc: false
 
 ## 28.12.2026
 
+🏖️ Vacances
+
 ## 04.01.2027
+
+🏖️ Vacances
 
 ## 11.01.2027
 

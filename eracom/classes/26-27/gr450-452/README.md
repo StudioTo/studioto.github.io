@@ -42,6 +42,8 @@ Remake 1 page (images from Moma) -->
 
 ## 21.09.2026
 
+🏖️ Vacances
+
 ## 28.09.2026
 
 [🎥 d) Grille horizontale : lignes](https://kdrive.t-o.studio/app/share/105447/bd6e4956-8b30-49bb-b671-e8f6172f9ed4)
@@ -54,7 +56,11 @@ Remake 1 page (images from Moma) -->
 
 ## 12.10.2026
 
+🏖️ Vacances
+
 ## 19.10.2026
+
+🏖️ Vacances
 
 ## 26.10.2026
 
@@ -94,7 +100,11 @@ Remake logo -->
 
 ## 28.12.2026
 
+🏖️ Vacances
+
 ## 04.01.2027
+
+🏖️ Vacances
 
 ## 11.01.2027
 
