@@ -4,7 +4,7 @@ redirect_from:
   - /type-vectorize/
 ---
 
-# 🖥️ Draw vectors
+# Draw vectors
   Dessin vectoriel
 ### &nbsp;
 

@@ -4,7 +4,7 @@ redirect_from:
   - /type-digitize/
 ---
 
-# 🖨️ Digitalization
+# Digitalization
   Numérisation
 ### &nbsp;
 

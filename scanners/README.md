@@ -4,7 +4,7 @@ redirect_from:
   - /use-scanner/
 ---
 
-# 🛜 Imprimantes
+# Imprimantes
 
 
 ### &nbsp;

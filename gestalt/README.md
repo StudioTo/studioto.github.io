@@ -4,7 +4,7 @@ redirect_from:
   - /see-gestalt/
 ---
 
-# 👁️‍🗨️ Gestalt : la perception
+# Perception
 
 La Gestalt (ou psychologie de la forme) étudie les conditions de la perception visuelle : comment le cerveau reconnaît, organise et assemble les formes pour produire du sens. Elle repose sur une idée centrale souvent résumée par la formule ***le tout est plus que la somme des parties***. Plutôt que de percevoir des éléments isolés, la perception construit spontanément des ensembles organisés. En design graphique, ces principes permettent de structurer l’information, guider le regard et améliorer la lisibilité.
 

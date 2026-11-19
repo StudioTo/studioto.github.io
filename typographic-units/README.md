@@ -4,7 +4,7 @@ redirect_from:
   - /see-units/
 ---
 
-# 🔎 Les unités typographiques
+# Les unités typographiques
 
 - [La caractère](#le-caractere)
 - [Le mot](#le-mot)

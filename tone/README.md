@@ -4,7 +4,7 @@ redirect_from:
   - /process-typeface/
 ---
 
-# 🎹 Ton :<br>Choisir le ou les caractère(s)
+# Ton :<br>Choisir le ou les caractère(s)
 
 - Quel ton ou registre sert le mieux le propos (avant même qu’il soit lu) ?  
 - Quels sont les axes sémantiques qui permettent de caractériser la thématique ?  

@@ -4,7 +4,7 @@ redirect_from:
   - /study-sign-measures/
 ---
 
-# ↕️ Mesures du caractère
+# Mesures du caractère
 
 - [Mesures verticales](#mesures-verticales)
 - [Mesures horizontales](#mesures-horizontales)

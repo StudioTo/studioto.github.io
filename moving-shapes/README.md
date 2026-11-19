@@ -4,7 +4,7 @@ redirect_from:
   - /symbolize-animation/
 ---
 
-# 📽️ Animation de symboles
+# Animation de symboles
 
 En animation, le nombre d’images construit le temps, l’ampleur des changements détermine la vitesse, la variation des formes produit le mouvement et la continuité visuelle assure les transitions.
   

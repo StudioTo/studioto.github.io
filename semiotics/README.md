@@ -4,7 +4,7 @@ redirect_from:
   - /see-signs/
 ---
 
-# 🗂️ Sémiotique : l’interprétation
+# Sémiotique : l’interprétation
 
 - [Signes](#signes)
 - [Langage](#langage)

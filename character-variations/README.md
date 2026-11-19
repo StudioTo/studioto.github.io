@@ -4,7 +4,7 @@ redirect_from:
   - /study-sign-variations/
 ---
 
-# 🔀 Variations du caractère
+# Variations du caractère
 
 - [Graisse](#graisse)
 - [Largeur](#largeur)

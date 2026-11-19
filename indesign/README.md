@@ -4,7 +4,7 @@ redirect_from:
   - /use-indesign/
 ---
 
-# Ⓜ️ InDesign
+# InDesign
 
 1. [Gabarit](#scripts)
     - [Script Onciale](#script-onciale)

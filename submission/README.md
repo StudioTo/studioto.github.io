@@ -4,7 +4,7 @@ redirect_from:
   - /evaluate-deliverable/
 ---
 
-# ⬇️ Rendus
+# Rendus
 
 - [Analogue & Digital](#Analogue-&-Digital)
 - [Nomenclature](#Nomenclature)

@@ -4,7 +4,7 @@ redirect_from:
   - /index-definitions/
 ---
 
-# 🌐 Vocabulaire
+# Vocabulaire
 
 &nbsp;
 

@@ -4,7 +4,7 @@ redirect_from:
   - /see-iconicity/
 ---
 
-# 🚸 Iconicité
+# Iconicité
 
 - [Figuration-Abstraction](#figuration-abstraction)
 - [Mot-Image](#mot-image)

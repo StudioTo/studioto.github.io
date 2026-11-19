@@ -4,7 +4,7 @@ redirect_from:
   - /evaluate-criteria/
 ---
 
-# 📶 Critères d’évaluation
+# Critères d’évaluation
 
 
 ### &nbsp;

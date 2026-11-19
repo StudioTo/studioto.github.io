@@ -4,7 +4,7 @@ redirect_from:
   - /index-books/
 ---
 
-# 📚 Bibliographie
+# Bibliographie
 
 &nbsp;
 

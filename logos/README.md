@@ -4,7 +4,7 @@ redirect_from:
   - /index-logos/
 ---
 
-# 📗 Index des logos
+# Index des logos
 
 ### &nbsp;
 

@@ -4,7 +4,7 @@ redirect_from:
   - /classify-typefaces-history/
 ---
 
-# 🕰️ Classification Historique
+# Classification Historique
 
 - [Incises](#incises)
 - [Scripts](#scripts)

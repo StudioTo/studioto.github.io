@@ -4,7 +4,7 @@ redirect_from:
   - /see-read/
 ---
 
-# 👀 Lire-Voir
+# Lire-Voir
 
 - [Textuel vs Pictural](#textuel-vs-pictural)
 - [Lisibilité vs Impact visuel](#lisibilite-vs-impact)

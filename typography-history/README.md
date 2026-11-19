@@ -4,7 +4,7 @@ redirect_from:
   - /track-writing-evolution/
 ---
 
-# ✍🏻 Evolution de l’écriture
+# Evolution de l’écriture
 
 🗂️ **Classification Historique**
 

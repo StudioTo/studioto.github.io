@@ -4,7 +4,7 @@ redirect_from:
   - /index-specimens/
 ---
 
-# 📘 Index des specimens
+# Index des specimens
 
 ### &nbsp;
 

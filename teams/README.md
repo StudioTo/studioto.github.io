@@ -4,7 +4,7 @@ redirect_from:
   - /use-teams/
 ---
 
-# 🛗 Teams
+# Teams
 
 
 ### &nbsp;

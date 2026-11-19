@@ -15,7 +15,7 @@ Ressources for *graphic design* from Tancrède Ottiger : *[graphic](https://t-
 
 | Titre | Tag | |
 |---|---|---|
-| [Gestalt](/gestalt) | #communication visuelle | 👁️‍🗨️ |
+| [Perception](/gestalt) | #communication visuelle | 👁️‍🗨️ |
 | [Lire-Voir](/read-see) | #communication visuelle | 👀 |
 | [Iconicité](/iconicity) | #communication visuelle | 🚸 |
 | [Icône-Symbole](/icon-symbol) | #communication visuelle | 🚸 |
@@ -24,33 +24,33 @@ Ressources for *graphic design* from Tancrède Ottiger : *[graphic](https://t-
 | [Classification anatomique](/anatomical-classification) | #classification typographique | 🦴 |
 | [Classification historique](/historical-classification) | #classification typographique | 🕰️ |
 | [Unités typographiques](/typographic-units) | #unités typographiques | 🔎 |
-| [Anatomie](/character-anatomy) | #unités typographiques niv. 1 : caractère | 🍖 |
-| [Mesures](/character-measures) | #unités typographiques niv. 1 : caractère | ↕️ |
-| [Optique](/character-optics) | #unités typographiques niv. 1 : caractère | 🔼 |
-| [Variations](/character-variations) | #unités typographiques niv. 1 : caractère | 🔀 |
-| [Texture](/word-texture) | #unités typographiques niv. 2 : mot | 🎨 |
-| [Graphie](/word-case) | #unités typographiques niv. 2 : mot | 🔡 |
-| [Articulation](/word-articulation) | #unités typographiques niv. 2 : mot | 📶 |
-| [Composition](/word-composition) | #unités typographiques niv. 2 : mot | ↔️ |
-| [Orthographe typographique (micro)](/micro-typography) | #unités typographiques niv. 3 : ligne | 🖍️ |
-| [Composition](/line-composition) | #unités typographiques niv. 3 : ligne | ↔️ |
-| [Articulation](/line-articulation) | #unités typographiques niv. 3 : ligne | 📶 |
-| [Mise en forme](/line-layout) | #unités typographiques niv. 3 : ligne | ⏹️ |
-| [Lisibilité (macro)](/macro-typography) | #unités typographiques niv. 4 : colonne | 🔎 |
-| [Composition](/column-composition) | #unités typographiques niv. 4 : colonne | ↔️ |
-| [Articulation](/column-articulation) | #unités typographiques niv. 4 : colonne | 📶 |
-| [Mise en page](/page-layout) | #unités typographiques niv. 4 : colonne | ⏹️ |
+| [Anatomie](/character-anatomy) | #unités typographiques, #caractère | 🍖 |
+| [Mesures](/character-measures) | #unités typographiques, #caractère | ↕️ |
+| [Optique](/character-optics) | #unités typographiques, #caractère | 🔼 |
+| [Variations](/character-variations) | #unités typographiques, #caractère | 🔀 |
+| [Texture](/word-texture) | #unités typographiques, #mot | 🎨 |
+| [Graphie](/word-case) | #unités typographiques, #mot | 🔡 |
+| [Articulation](/word-articulation) | #unités typographiques, #mot | 📶 |
+| [Composition](/word-composition) | #unités typographiques, #mot | ↔️ |
+| [Orthographe typographique (micro)](/micro-typography) | #unités typographiques, #ligne | 🖍️ |
+| [Composition](/line-composition) | #unités typographiques, #ligne | ↔️ |
+| [Articulation](/line-articulation) | #unités typographiques, #ligne | 📶 |
+| [Mise en forme](/line-layout) | #unités typographiques, #ligne | ⏹️ |
+| [Lisibilité (macro)](/macro-typography) | #unités typographiques, #colonne | 🔎 |
+| [Composition](/column-composition) | #unités typographiques, #colonne | ↔️ |
+| [Articulation](/column-articulation) | #unités typographiques, #colonne | 📶 |
+| [Mise en page](/page-layout) | #unités typographiques, #colonne | ⏹️ |
 | [Formes en mouvement](/moving-shapes) | #animation | 📽️ |
 | [Construction des caractères](/character-construction) | #glyphes | ✏️ |
 | [Numérisation de croquis](/sketch-digitization) | #glyphes | 📸 |
 | [Dessin vectoriel](/vector-drawing) | #glyphes | 🖥️ |
 | [Interpolation vectorielle](/vector-interpolation) | #glyphes | 🎚️ |
 | [Dessin vectoriel debug](/vector-debug) | #glyphes | 🪲 |
-| [Organisation](/organization) | #processus de design étape 1 | 📋 |
-| [Ton](/tone) | #processus de design étape 2 | 🎹 |
-| [Variations](/variations) | #processus de design étape 3 | 🎶 |
-| [Compositions](/compositions) | #processus de design étape 4 | 🎼 |
-| [Production](/production) | #processus de design étape 5 | 📦 |
+| [Organisation](/organization) | #processus de design | 📋 |
+| [Ton](/tone) | #processus de design | 🎹 |
+| [Variations](/variations) | #processus de design | 🎶 |
+| [Compositions](/compositions) | #processus de design | 🎼 |
+| [Production](/production) | #processus de design | 📦 |
 | [Designers](/designers) | #références | 📕 |
 | [Specimens](/specimens) | #références | 📘 |
 | [Logos](/logos) | #références | 📗 |

@@ -4,7 +4,7 @@ redirect_from:
   - /evaluate-method/
 ---
 
-# 🔁 Méthode
+# Méthode
 
 &nbsp;
 

@@ -4,7 +4,7 @@ redirect_from:
   - /use-material/
 ---
 
-# 🛃 Outils
+# Outils
 
 
 ### &nbsp;

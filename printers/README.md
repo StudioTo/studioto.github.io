@@ -4,7 +4,7 @@ redirect_from:
   - /use-printer/
 ---
 
-# 🛜 Imprimantes
+# Imprimantes
 
 
 ### &nbsp;

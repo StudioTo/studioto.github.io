@@ -4,7 +4,7 @@ redirect_from:
   - /process-constraints/
 ---
 
-# 📋 Organisation :<br>Comprendre les contraintes
+# Organisation :<br>Comprendre les contraintes
 
 - Quel est le sujet ? Quel est le message à transmettre ?  
 - Quelle est l’échelle typographique du contenu ?    

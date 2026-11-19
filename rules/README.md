@@ -4,7 +4,7 @@ redirect_from:
   - /evaluate-rules/
 ---
 
-# 🧑‍🧑‍🧒‍🧒 Règles du cours
+# Règles du cours
 
 &nbsp;
 

@@ -4,7 +4,7 @@ redirect_from:
   - /evaluate-program/
 ---
 
-# 🔡 Programme
+# Programme
 
 &nbsp;
 

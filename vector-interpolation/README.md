@@ -4,7 +4,7 @@ redirect_from:
   - /type-interpolate/
 ---
 
-# 🎚️ Interpolation
+# Interpolation
   Interpolation vectorielle
 ### &nbsp;
 

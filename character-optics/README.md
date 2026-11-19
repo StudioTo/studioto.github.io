@@ -4,7 +4,7 @@ redirect_from:
   - /study-sign-optics/
 ---
 
-# 🔼 Optique du caractère
+# Optique du caractère
 
 - [Illusion](#illusion)
 - [Illusion de proportions](#illusion-de-proportions)

@@ -4,7 +4,7 @@ redirect_from:
   - /index-pictos/
 ---
 
-# 📙 Index des pictogrammes
+# Index des pictogrammes
 
 ### &nbsp;
 

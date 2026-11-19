@@ -4,7 +4,7 @@ redirect_from:
   - /check-export/
 ---
 
-# 🛂 Checklists
+# Checklists
   Vérification avant d’exporter, d’imprimer, de publier, de mettre en ligne,…
 ### &nbsp;
 

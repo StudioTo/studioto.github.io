@@ -4,7 +4,7 @@ redirect_from:
   - /classify-typefaces-shapes/
 ---
 
-# 🦴 Classification Anatomique
+# Classification Anatomique
 
 - [Tableau](#tableau)
 - [Squelette - Graisse - Enveloppe](#squelette-graisse-enveloppe)

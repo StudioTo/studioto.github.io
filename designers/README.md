@@ -4,7 +4,7 @@ redirect_from:
   - /index-designers/
 ---
 
-# 📕 Index des designers
+# Index des designers
 
 ### &nbsp;
 

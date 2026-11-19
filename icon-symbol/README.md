@@ -4,7 +4,7 @@ redirect_from:
   - /symbolize-development/
 ---
 
-# 🚸 Icône-Symbole
+# Icône-Symbole
 
 L’icône est un signe orienté vers l’usage (dénotation), le symbole est un signe orienté vers le sens (connotation).
   

@@ -4,7 +4,7 @@ redirect_from:
   - /study-sign-shapes/
 ---
 
-# 🦴 Anatomie du caractère
+# Anatomie du caractère
 
 - [Squelette](#squelette)
 - [Graisse](#graisse)

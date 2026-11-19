@@ -4,7 +4,7 @@ redirect_from:
   - /set-macro-typo/
 ---
 
-# 🌍 Macro-typographie
+# Macro-typographie
 
 La macro-typographie désigne l’organisation globale d’un texte dans l’espace du format.
 

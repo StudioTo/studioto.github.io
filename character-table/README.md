@@ -4,7 +4,7 @@ redirect_from:
   - /index-glyphs/
 ---
 
-# 📓 Table des caractères
+# Table des caractères
 
 - [Lettres](#gm-lettres)
   - [Majuscules](#gm-lettres-majuscules)

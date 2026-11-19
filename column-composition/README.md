@@ -4,7 +4,7 @@ redirect_from:
   - /set-column-composition/
 ---
 
-# ↔️ Composition des colonnes
+# Composition des colonnes
 
 La composition des colonnes concerne l’organisation du texte en largeur et en hauteur au sein de la zone de texte.
 

@@ -4,7 +4,7 @@ redirect_from:
   - /set-word-articulation/
 ---
 
-# 📶 Articulation du mot
+# Articulation du mot
 
 L’articulation du mot concerne la manière dont les lettres interagissent à l’intérieur d’un même mot. Elle prend en compte les effets de liaison, de séparation ou de mise en valeur. Elle module ainsi la séquence des lettres en insérant des nuances dans le flux de lecture.
 

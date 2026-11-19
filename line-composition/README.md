@@ -4,7 +4,7 @@ redirect_from:
   - /set-line-composition/
 ---
 
-# ↔️ Composition de la ligne
+# Composition de la ligne
 
 La composition de la ligne se réfère à l’espacement vertical et horizontal entre les mots qui régit la fluidité de lecture. Selon la police et le contexte, le règlage de ces intervalles peut renforcer soit la lisiblité, soit l’impact graphique.
   
