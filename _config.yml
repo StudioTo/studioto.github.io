@@ -1,2 +1,4 @@
 title: "StudioTo"
 theme: jekyll-theme-primer
+plugins:
+  - jekyll-redirect-from

@@ -6,7 +6,7 @@
 
 # 18.08.2026
 
-[📎 Introduction](../../../briefs/introduce-typography/)
+[📎 Introduction](../../../briefs/typography/)
 
 # 25.08.2026
 
@@ -16,29 +16,29 @@
 
 # 01.09.2026
 
-[📄 1.1. Lettre: ex. classification](../../../briefs/classify-fonts/)  
+[📄 1.1. Lettre: ex. classification](../../../briefs/typeface-classification/)  
 [🎥 1.1. Lettre: ex. classification](https://kdrive.t-o.studio/app/share/105447/67f74da6-d128-4261-9e80-12524796e4e5)
 
 # 08.09.2026
 
-[📄 1.2. Lettre: ex. anatomie](../../../briefs/measure-fonts/)  
+[📄 1.2. Lettre: ex. anatomie](../../../briefs/character-anatomy/)  
 [🎥 1.2. Lettre: ex. anatomie](https://kdrive.t-o.studio/app/share/105447/f07dd011-b056-4c66-9198-bc86bc22a2d0)  
 
 # 15.09.2026
 
-[📄 1.3. Lettre: ex. optique](../../../briefs/balance-fonts/)  
+[📄 1.3. Lettre: ex. optique](../../../briefs/optical-illusions/)  
 [🎥 1.3. Lettre: ex. optique](https://kdrive.t-o.studio/app/share/105447/da8e83b9-5bfb-4dbb-b79d-8e3465db38c5)  
 
 # 22.09.2026
 
-[📄 1.4. Lettre: ex. variations](../../../briefs/vary-fonts/)  
+[📄 1.4. Lettre: ex. variations](../../../briefs/typographic-variations/)  
 [🎥 1.4. Lettre: ex. variations](https://kdrive.t-o.studio/app/share/105447/5a9ed82e-e136-49fa-aa89-013db7cdb4be)  
 
 # 29.09.2026
 
 # 06.10.2026 ⚠️ (rendu noté ex. 1.1.-1.4.)
 
-[📄 2. Mot: animation d’un logo](../../../briefs/animate-logo/) 
+[📄 2. Mot: animation d’un logo](../../../briefs/logo-animation/) 
 
 # 13.10.2026 🏖️
 
@@ -54,7 +54,7 @@
 
 # 10.11.2026 ⚠️ (rendu noté ex. 2)
 
-[📄 3. Ligne: adaptation d’un poster](../../../briefs/adapt-poster/) 
+[📄 3. Ligne: adaptation d’un poster](../../../briefs/responsive-poster/) 
 
 # 17.11.2026
 

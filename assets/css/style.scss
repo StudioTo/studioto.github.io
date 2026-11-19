@@ -68,7 +68,106 @@ a:focus,
 
 /* ---------- Titres ---------- */
 
+/* # (h1, dont le titre du site StudioTo) et ## (h2) : même taille */
+.markdown-body h1,
+.markdown-body h2 {
+  font-size: 2em;
+}
+
 /* ## (h2) : regular, pas de gras */
 .markdown-body h2 {
   font-weight: 400;
+}
+
+/* ---------- Page d'accueil ----------
+   texte d'introduction et intitulés de groupe (**Communication visuelle**, etc.) :
+   même style, 20 % plus grands que le texte courant, sans gras */
+html[data-page="/"] .markdown-body > p {
+  font-size: 1.2em;
+}
+
+html[data-page="/"] .markdown-body > p > strong:only-child {
+  font-weight: 400;
+}
+
+/* ---------- Icône de lien (chaîne) à côté des titres : masquée ---------- */
+.anchorjs-link,
+.markdown-body .anchor {
+  display: none !important;
+}
+
+/* ---------- Index de la page d'accueil (tableau) ---------- */
+.index-search {
+  display: block;
+  width: 100%;
+  margin: 0 0 1em;
+  padding: 0.3em 0;
+  font-size: 1.2em;
+  border: 0;
+  border-bottom: 1px solid #000;
+  border-radius: 0;
+  background: transparent;
+  outline: none;
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.markdown-body table.index-table {
+  display: table;              /* le thème affiche les tableaux en bloc défilant */
+  width: 100%;
+  border-collapse: collapse;
+  overflow: visible;
+}
+
+.markdown-body table.index-table tr,
+.markdown-body table.index-table tr:nth-child(2n) {
+  background: transparent;     /* pas de lignes zébrées */
+  border: 0;
+}
+
+/* lignes grises entre les pages, pas de lignes verticales */
+.markdown-body table.index-table th,
+.markdown-body table.index-table td {
+  border: 0;
+  border-bottom: 1px solid #d0d7de;
+  padding: 0.25em 0.5em 0.25em 0;
+  vertical-align: baseline;
+  text-align: left;
+}
+
+.markdown-body table.index-table th {
+  font-size: 1.2em;
+  font-weight: 400;
+}
+
+.index-sortable {
+  cursor: pointer;
+}
+
+.index-sortable[aria-sort="ascending"]::after {
+  content: " ↓";
+}
+
+/* titres : taille des anciens ## ; tags : taille du texte d'introduction */
+.markdown-body table.index-table td:first-child {
+  font-size: 2em;
+}
+
+.markdown-body table.index-table td:nth-child(2) {
+  font-size: 1.2em;
+}
+
+/* emoji : tout à droite, visible seulement au survol de la ligne */
+.markdown-body table.index-table .index-emoji {
+  width: 1%;
+  padding-right: 0;
+  text-align: right;
+  font-size: 2em;
+  white-space: nowrap;
+  visibility: hidden;
+}
+
+.markdown-body table.index-table tr:hover .index-emoji,
+.markdown-body table.index-table tr:focus-within .index-emoji {
+  visibility: visible;
 }

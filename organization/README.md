@@ -1,0 +1,67 @@
+---
+redirect_from:
+  - /process-constraints/
+---
+
+# 📋 Organisation:<br>Comprendre les contraintes
+
+- Quel est le sujet? Quel est le message à transmettre?  
+- Quelle est l'échelle typographique du contenu?    
+- À qui s’adresse-t-il?  
+- Quelles sont les contraintes techniques? financières? etc.  
+
+## &nbsp;  
+
+*Design* signifie dessiner avec intention, c'est à dire transformer un message en une organisation visuelle claire, lisible et signifiante pour un public donné. Quel est le message à transmettre? Quelle idée, émotion ou information centrale doit être comprise ou ressentie? À qui s’adresse-t-il? Identifier le destinataire permet d’ajuster le ton, le niveau de complexité, les références ainsi que le registre visuel et verbal. C’est aussi identifier les contraintes techniques telles que le format ou la technique
+  
+&nbsp;
+
+
+# Processus
+
+|![](https://studioto.github.io/media/organization/processus.jpg) |
+|:---:|
+| Organisation, Ton + Variations (1re vague), Compositions (2e vague), Production |
+
+# Sujet
+
+|![](https://studioto.github.io/media/organization/1-language_v217.gif) |
+|:---:|
+| Le signe, le mot, la phrase, la colonne |
+
+# Contenu
+
+|![](https://studioto.github.io/media/organization/1-language_v252.gif) |
+|:---:|
+| Échelle typographique: signe, mot, phrase, colonne |
+
+# Public 
+
+|![](https://studioto.github.io/media/organization/1-language_v2161.gif) |
+|:---:|
+| Les variables de lisibilité peuvent être opposée à celles de l’impact graphique |
+
+# Langue 
+
+|![](https://studioto.github.io/media/organization/1-language_v2120.gif) |
+|:---:|
+| Chaque langue possède ses codes typographiques propres |
+
+# Format  
+
+|![](https://studioto.github.io/media/organization/format1.gif) |
+|:---:|
+| Le format, l'orientation et les marges conditionnent les possibités de design |
+
+# Technique  
+
+|![](https://studioto.github.io/media/organization/0-mot2.gif) |
+|:---:|
+| Chaque technique a ses contraintes (notamment la plus corps qu'il est possible d'imprimer) |
+
+<!-- ### Sources
+
+- Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972 
+- Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
+- Jost Hochuli, *Le détail en typographie*, London: Hyphen Press, 2005 [éd. orig. 1987]   -->
+
