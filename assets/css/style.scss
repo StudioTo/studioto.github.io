@@ -272,15 +272,15 @@ html:not([data-page="/"]) .markdown-body th p {
   position: relative;
 }
 
-/* puce : même rond de 5px dans toutes les listes, centré sur la hauteur d'x
-   (New Computer Modern, x = 431/1000) :
-   texte courant 19px / 25px → milieu de l'x à 16.4px → puce à 14px (centre 16.5px)
-   listes à 16px / 24px (sources) → milieu de l'x à 15.3px → puce à 13px (centre 15.5px) */
+/* puce : même rond de 5px dans toutes les listes, centré sur les capitales
+   (New Computer Modern, capitales = 683/1000) :
+   texte courant 19px / 25px → milieu des capitales à 14px → puce à 11px (centre 13.5px)
+   listes à 16px / 24px (sources) → milieu des capitales à 13.2px → puce à 11px (centre 13.5px) */
 .markdown-body ul > li:not(.task-list-item)::before {
   content: "";
   position: absolute;
   left: -17px;
-  top: 14px;
+  top: 11px;
   width: 5px;
   height: 5px;
   border-radius: 50%;
@@ -288,7 +288,7 @@ html:not([data-page="/"]) .markdown-body th p {
 }
 
 html:not([data-page="/"]) .markdown-body h2#sources + ul > li::before {
-  top: 13px;
+  top: 11px;
 }
 
 /* ---------- Tableaux : fond blanc partout, pas de lignes alternées ---------- */
@@ -492,7 +492,7 @@ html:not([data-page="/"]) .markdown-body .brief a:hover {
 }
 
 /* listes à cocher (- [ ] en Markdown) : case dans le retrait de 24px, à la place de la puce,
-   centrée sur la hauteur d'x du texte courant (19px / 25px → milieu de l'x à 16px) */
+   centrée sur les capitales du texte courant (19px / 25px → milieu des capitales à 14px → case de 14px à 7px) */
 .markdown-body ul.contains-task-list,
 .markdown-body ul:has(> li.task-list-item) {
   padding-left: 24px;
@@ -511,7 +511,7 @@ html:not([data-page="/"]) .markdown-body .brief a:hover {
   appearance: none;
   position: absolute;
   left: -24px;
-  top: 9px;
+  top: 7px;
   width: 14px;
   height: 14px;
   margin: 0;

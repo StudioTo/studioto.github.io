@@ -233,11 +233,26 @@
   (function () {
     function setup() {
       var boxes = document.querySelectorAll(".markdown-body li.task-list-item > input[type=checkbox]");
+      // case cochée : fond d'une couleur aléatoire, différente pour chaque case (≥ 60° d'écart de teinte)
+      var hue = Math.random() * 360;
+      function paint(box) {
+        if (box.checked) {
+          hue = (hue + 60 + Math.random() * 240) % 360;
+          var c = "hsl(" + Math.round(hue) + ", 85%, 45%)";
+          box.style.backgroundColor = c;
+          box.style.borderColor = c;
+        } else {
+          box.style.backgroundColor = "";
+          box.style.borderColor = "";
+        }
+      }
       boxes.forEach(function (box, i) {
         var key = "studioto:check:" + location.pathname + ":" + i;
         box.disabled = false;
         try { box.checked = localStorage.getItem(key) === "1" || box.checked; } catch (e) {}
+        paint(box);
         box.addEventListener("change", function () {
+          paint(box);
           try { localStorage.setItem(key, box.checked ? "1" : "0"); } catch (e) {}
         });
         // un clic sur le texte coche aussi (sauf sur un lien)

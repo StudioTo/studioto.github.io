@@ -26,8 +26,6 @@ redirect_from:
 
 
 - Espace de travail typo + liens + etc.
-
-
 - Format
 - CMJN + mm vs RVB + px
 - Pages en vis à vis ou simple
