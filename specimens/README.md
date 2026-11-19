@@ -9,26 +9,26 @@ redirect_from:
 # Specimens
 
 ## Daylight Fonts  
-https://e-daylight.jp/fonts
+<https://e-daylight.jp/fonts>
 
 ## Design Reviewed
-https://designreviewed.com/type-specimens
+<https://designreviewed.com/type-specimens>
 
 |![](https://studioto.github.io/media/specimens/typo_specimens.gif) |
 |:---:|
 | Sélection de specimens |  
 
 ## Internet Archive
-https://archive.org/details/typecatalogs
+<https://archive.org/details/typecatalogs>
 
 ## Flickr
-https://www.flickr.com/groups/type_specimen
+<https://www.flickr.com/groups/type_specimen>
 
 ## Klingspor
-https://klingspor-type-archive.de/archive?document=6482f62c4cc069edfa025bfb
+<https://klingspor-type-archive.de/archive?document=6482f62c4cc069edfa025bfb>
 
 ## Luc Devroye
-https://luc.devroye.org/fonts.html
+<https://luc.devroye.org/fonts.html>
 
 ## Typographica
-https://library.typographica.org/specimen-books-of-metal-wood-type
+<https://library.typographica.org/specimen-books-of-metal-wood-type>

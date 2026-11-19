@@ -15,7 +15,7 @@ redirect_from:
 1. Kerning quizz
 
 - ouvrir l’url suivante :
-- https://type.method.ac/
+- <https://type.method.ac/>
 
 - terminer le quizz et prendre une capture d’écran de votre score (⇧⌘4)
 

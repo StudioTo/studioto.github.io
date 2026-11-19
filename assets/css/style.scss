@@ -491,6 +491,30 @@ html:not([data-page="/"]) .markdown-body .brief a:hover {
   text-decoration: underline;
 }
 
+/* listes à cocher (- [ ] en Markdown) : case dans le retrait de 24px, à la place de la puce,
+   centrée sur la hauteur d'x du texte courant (19px / 25px → milieu de l'x à 16px) */
+.markdown-body ul.contains-task-list,
+.markdown-body ul:has(> li.task-list-item) {
+  padding-left: 24px;
+}
+
+.markdown-body li.task-list-item {
+  position: relative;
+  list-style: none;
+  cursor: pointer;
+}
+
+.markdown-body li.task-list-item > input[type=checkbox] {
+  position: absolute;
+  left: -24px;
+  top: 9px;
+  width: 14px;
+  height: 14px;
+  margin: 0;
+  accent-color: #000;
+  cursor: pointer;
+}
+
 /* ---------- Page d'accueil ----------
    texte d'introduction et intitulés de groupe (**Communication visuelle**, etc.) :
    même style, 20 % plus grands que le texte courant (19px), sans gras */

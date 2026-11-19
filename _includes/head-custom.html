@@ -228,3 +228,26 @@
     if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", setup); else setup();
   })();
 </script>
+<script>
+  // ---------- listes à cocher (- [ ] en Markdown) : cases cliquables, état gardé dans le navigateur
+  (function () {
+    function setup() {
+      var boxes = document.querySelectorAll(".markdown-body li.task-list-item > input[type=checkbox]");
+      boxes.forEach(function (box, i) {
+        var key = "studioto:check:" + location.pathname + ":" + i;
+        box.disabled = false;
+        try { box.checked = localStorage.getItem(key) === "1" || box.checked; } catch (e) {}
+        box.addEventListener("change", function () {
+          try { localStorage.setItem(key, box.checked ? "1" : "0"); } catch (e) {}
+        });
+        // un clic sur le texte coche aussi (sauf sur un lien)
+        box.parentNode.addEventListener("click", function (e) {
+          if (e.target === box || e.target.closest("a")) return;
+          box.checked = !box.checked;
+          box.dispatchEvent(new Event("change"));
+        });
+      });
+    }
+    if (document.readyState === "loading") document.addEventListener("DOMContentLoaded", setup); else setup();
+  })();
+</script>

@@ -69,7 +69,7 @@ redirect_from:
 1. Export de l’animation au format lotie
 
 - Installer du plugin LotieFiles dans Figma
-- https://lottiefiles.com/plugins/figma
+- <https://lottiefiles.com/plugins/figma>
 
 - Exporter
 
