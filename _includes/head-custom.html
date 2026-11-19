@@ -28,14 +28,19 @@
     }
 
     // ---------- tous les liens (sauf le titre du site)
+    // liens, et titre de la page (cliquable : retour à la table des matières)
+    function target(e) {
+      return e.target.closest && (e.target.closest("a") || e.target.closest("[data-page-title]"));
+    }
+
     function on(e) {
-      var a = e.target.closest && e.target.closest("a");
+      var a = target(e);
       if (!a || a.hasAttribute("data-site-title") || a.contains(e.relatedTarget)) return;
       a.style.color = randomColor();
     }
 
     function off(e) {
-      var a = e.target.closest && e.target.closest("a");
+      var a = target(e);
       if (!a || a.hasAttribute("data-site-title") || a.contains(e.relatedTarget)) return;
       a.style.color = "";
     }
@@ -120,6 +125,7 @@
       if (!p) return;
       if (p.title) {
         p.title.setAttribute("title", "Retour à la table des matières");
+        p.title.setAttribute("data-page-title", "");
         p.title.addEventListener("click", function () {
           window.scrollTo({ top: 0, behavior: "smooth" });
           if (location.hash) history.replaceState(null, "", location.pathname + location.search);

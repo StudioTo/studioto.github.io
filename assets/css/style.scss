@@ -110,19 +110,20 @@ html:not([data-page="/"]) .markdown-body > h1:first-child + h1 {
 .markdown-body h6 { margin: 24px 0 16px; font-size: 16px; line-height: 24px; }
 
 /* table des matières (générée au commit) : entre le titre et le contenu,
-   même dessin que l'index de l'accueil : une ligne grise sous chaque entrée */
+   même taille que les légendes sous les images (16px) ;
+   pas de ligne entre les entrées, une ligne sous la table, même espace dessus et dessous */
 html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul {
   margin: 0 0 48px;
-  padding: 0;
+  padding: var(--line-gap) 0;
   list-style: none;
+  border-bottom: var(--line);
 }
 
 html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul > li {
   margin: 0;
-  padding: 7px 0;
-  font-size: 20px;
-  line-height: 30px;
-  border-bottom: var(--line);
+  padding: 0;
+  font-size: 16px;
+  line-height: 24px;
 }
 
 /* sans table des matières : même espace entre le titre et le contenu */
