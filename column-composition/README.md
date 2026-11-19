@@ -1,12 +1,12 @@
 ---
-title: "Composition des colonnes"
+title: "Composition"
 toc: true
 permalink: /column-composition/
 redirect_from:
   - /set-column-composition/
 ---
 
-# Composition des colonnes
+# Composition
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

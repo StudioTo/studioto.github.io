@@ -1,12 +1,12 @@
 ---
-title: "Draw vectors"
+title: "Dessin vectoriel"
 toc: true
 permalink: /vector-drawing/
 redirect_from:
   - /type-vectorize/
 ---
 
-# Draw vectors
+# Dessin vectoriel
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

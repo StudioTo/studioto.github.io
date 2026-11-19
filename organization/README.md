@@ -1,12 +1,12 @@
 ---
-title: "Organisation : Comprendre les contraintes"
+title: "Organisation"
 toc: true
 permalink: /organization/
 redirect_from:
   - /process-constraints/
 ---
 
-# Organisation :<br>Comprendre les contraintes
+# Organisation
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
@@ -19,6 +19,8 @@ redirect_from:
 - [Technique](#technique)
 
 <!-- /toc -->
+
+Comprendre les contraintes
 
 - Quel est le sujet ? Quel est le message à transmettre ?  
 - Quelle est l’échelle typographique du contenu ?    

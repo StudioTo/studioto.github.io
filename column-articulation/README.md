@@ -1,12 +1,12 @@
 ---
-title: "Articulation de la lecture"
+title: "Articulation"
 toc: true
 permalink: /column-articulation/
 redirect_from:
   - /set-column-articulation/
 ---
 
-# Articulation de la lecture
+# Articulation
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

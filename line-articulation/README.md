@@ -1,12 +1,12 @@
 ---
-title: "Articulation de la ligne"
+title: "Articulation"
 toc: true
 permalink: /line-articulation/
 redirect_from:
   - /set-line-articulation/
 ---
 
-# Articulation de la ligne
+# Articulation
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

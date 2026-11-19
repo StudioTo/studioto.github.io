@@ -1,12 +1,12 @@
 ---
-title: "Animation de symboles"
+title: "Formes en mouvement"
 toc: true
 permalink: /moving-shapes/
 redirect_from:
   - /symbolize-animation/
 ---
 
-# Animation de symboles
+# Formes en mouvement
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

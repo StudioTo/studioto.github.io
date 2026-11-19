@@ -1,12 +1,12 @@
 ---
-title: "Règles du cours"
+title: "Règles"
 toc: true
 permalink: /rules/
 redirect_from:
   - /evaluate-rules/
 ---
 
-# Règles du cours
+# Règles
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

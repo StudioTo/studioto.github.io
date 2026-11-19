@@ -1,19 +1,19 @@
 ---
-title: "Evolution de l’écriture"
+title: "Histoire de la typographie"
 toc: false
 permalink: /typography-history/
 redirect_from:
   - /track-writing-evolution/
 ---
 
-# Evolution de l’écriture
+# Histoire de la typographie
 
 🗂️ **Classification Historique**
 
 - [Incises](#%EF%B8%8F-incises)
 - [Onciales](#%EF%B8%8F-onciales)
 - [Cursives](#%EF%B8%8F-cursives)
-- [Fractures](#%EF%B8%8F-Fractures)
+- [Fractures](#%EF%B8%8F-fractures)
 - [Humanes](#%EF%B8%8F-humanes)
 - [Garaldes](#%EF%B8%8F-garaldes)
 - [Réales](#%EF%B8%8F-réales)

@@ -1,12 +1,12 @@
 ---
-title: "Optique du caractère"
+title: "Optique"
 toc: true
 permalink: /character-optics/
 redirect_from:
   - /study-sign-optics/
 ---
 
-# Optique du caractère
+# Optique
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

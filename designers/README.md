@@ -1,12 +1,12 @@
 ---
-title: "Index des designers"
+title: "Designers"
 toc: true
 permalink: /designers/
 redirect_from:
   - /index-designers/
 ---
 
-# Index des designers
+# Designers
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

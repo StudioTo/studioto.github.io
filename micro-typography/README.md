@@ -1,12 +1,12 @@
 ---
-title: "Micro-typographie"
+title: "Orthographe typographique (micro)"
 toc: true
 permalink: /micro-typography/
 redirect_from:
   - /set-micro-typo/
 ---
 
-# Micro-typographie
+# Orthographe typographique (micro)
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

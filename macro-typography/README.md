@@ -1,12 +1,12 @@
 ---
-title: "Macro-typographie"
+title: "Lisibilité (macro)"
 toc: true
 permalink: /macro-typography/
 redirect_from:
   - /set-macro-typo/
 ---
 
-# Macro-typographie
+# Lisibilité (macro)
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

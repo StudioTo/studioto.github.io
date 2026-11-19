@@ -1,12 +1,12 @@
 ---
-title: "Mise en forme de la ligne"
+title: "Mise en forme"
 toc: true
 permalink: /line-layout/
 redirect_from:
   - /set-line-layout/
 ---
 
-# Mise en forme de la ligne
+# Mise en forme
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

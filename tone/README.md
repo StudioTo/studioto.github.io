@@ -1,12 +1,12 @@
 ---
-title: "Ton : Choisir le ou les caractère(s)"
+title: "Ton"
 toc: true
 permalink: /tone/
 redirect_from:
   - /process-typeface/
 ---
 
-# Ton :<br>Choisir le ou les caractère(s)
+# Ton
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
@@ -19,6 +19,8 @@ redirect_from:
 - [Sources](#sources)
 
 <!-- /toc -->
+
+Choisir le ou les caractère(s)
 
 - Quel ton ou registre sert le mieux le propos (avant même qu’il soit lu) ?  
 - Quels sont les axes sémantiques qui permettent de caractériser la thématique ?  

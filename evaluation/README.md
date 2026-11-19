@@ -1,12 +1,12 @@
 ---
-title: "Critères d’évaluation"
+title: "Évaluation"
 toc: true
 permalink: /evaluation/
 redirect_from:
   - /evaluate-criteria/
 ---
 
-# Critères d’évaluation
+# Évaluation
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

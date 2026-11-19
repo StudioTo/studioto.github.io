@@ -1,12 +1,12 @@
 ---
-title: "Sémiotique : l’interprétation"
+title: "Sémiotique"
 toc: true
 permalink: /semiotics/
 redirect_from:
   - /see-signs/
 ---
 
-# Sémiotique : l’interprétation
+# Sémiotique
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

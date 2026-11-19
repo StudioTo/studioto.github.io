@@ -1,12 +1,12 @@
 ---
-title: "Index des logos"
+title: "Logos"
 toc: true
 permalink: /logos/
 redirect_from:
   - /index-logos/
 ---
 
-# Index des logos
+# Logos
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

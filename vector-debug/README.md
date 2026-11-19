@@ -1,12 +1,12 @@
 ---
-title: "Debug typefaces drawings"
+title: "Dessin vectoriel debug"
 toc: true
 permalink: /vector-debug/
 redirect_from:
   - /type-debug/
 ---
 
-# Debug typefaces drawings
+# Dessin vectoriel *debug*
 
   Erreurs communes de dessin dans les lettres
 

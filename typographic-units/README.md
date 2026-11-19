@@ -1,17 +1,17 @@
 ---
-title: "Les unités typographiques"
+title: "Unités typographiques"
 toc: true
 permalink: /typographic-units/
 redirect_from:
   - /see-units/
 ---
 
-# Les unités typographiques
+# Unités typographiques
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
 - [Le champ de la typographie](#le-champ-de-la-typographie)
-- [Les unités typographiques](#les-unités-typographiques-1)
+- [Les unités typographiques](#les-unités-typographiques)
 - [1. Le caractère](#le-caractere)
 - [2. Le mot](#le-mot)
 - [3. La ligne](#la-ligne)

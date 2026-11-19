@@ -1,12 +1,14 @@
 ---
-title: "Production : Délivrer une / des proposition(s)"
+title: "Production"
 toc: true
 permalink: /production/
 redirect_from:
   - /process-delivery/
 ---
 
-# Production :<br>Délivrer une / des proposition(s)
+# Production
+
+Délivrer une / des proposition(s)
 
 #### Fichier
 

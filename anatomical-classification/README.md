@@ -1,12 +1,12 @@
 ---
-title: "Classification Anatomique"
+title: "Classification anatomique"
 toc: true
 permalink: /anatomical-classification/
 redirect_from:
   - /classify-typefaces-shapes/
 ---
 
-# Classification Anatomique
+# Classification anatomique
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

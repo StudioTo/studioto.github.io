@@ -1,12 +1,12 @@
 ---
-title: "Construct a typeface"
+title: "Construction des caractères"
 toc: true
 permalink: /character-construction/
 redirect_from:
   - /type-construct/
 ---
 
-# Construct a typeface
+# Construction des caractères
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

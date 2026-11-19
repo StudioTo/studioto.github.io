@@ -1,12 +1,12 @@
 ---
-title: "Mesures du caractère"
+title: "Mesures"
 toc: true
 permalink: /character-measures/
 redirect_from:
   - /study-sign-measures/
 ---
 
-# Mesures du caractère
+# Mesures
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

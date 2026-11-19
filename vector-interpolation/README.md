@@ -1,12 +1,12 @@
 ---
-title: "Interpolation"
+title: "Interpolation vectorielle"
 toc: true
 permalink: /vector-interpolation/
 redirect_from:
   - /type-interpolate/
 ---
 
-# Interpolation
+# Interpolation vectorielle
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

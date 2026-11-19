@@ -1,12 +1,12 @@
 ---
-title: "Classification Historique"
+title: "Classification historique"
 toc: true
 permalink: /historical-classification/
 redirect_from:
   - /classify-typefaces-history/
 ---
 
-# Classification Historique
+# Classification historique
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

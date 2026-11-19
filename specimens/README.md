@@ -1,12 +1,12 @@
 ---
-title: "Index des specimens"
+title: "Specimens"
 toc: true
 permalink: /specimens/
 redirect_from:
   - /index-specimens/
 ---
 
-# Index des specimens
+# Specimens
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

@@ -1,12 +1,12 @@
 ---
-title: "Index des pictogrammes"
+title: "Pictogrammes"
 toc: true
 permalink: /pictograms/
 redirect_from:
   - /index-pictos/
 ---
 
-# Index des pictogrammes
+# Pictogrammes
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

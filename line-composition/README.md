@@ -1,12 +1,12 @@
 ---
-title: "Composition de la ligne"
+title: "Composition"
 toc: true
 permalink: /line-composition/
 redirect_from:
   - /set-line-composition/
 ---
 
-# Composition de la ligne
+# Composition
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

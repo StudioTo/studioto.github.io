@@ -1,12 +1,12 @@
 ---
-title: "Digitalization"
+title: "Numérisation de croquis"
 toc: true
 permalink: /sketch-digitization/
 redirect_from:
   - /type-digitize/
 ---
 
-# Digitalization
+# Numérisation de croquis
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
