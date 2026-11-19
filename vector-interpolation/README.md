@@ -1,4 +1,5 @@
 ---
+permalink: /vector-interpolation/
 redirect_from:
   - /type-interpolate/
 ---

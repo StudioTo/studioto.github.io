@@ -1,4 +1,5 @@
 ---
+permalink: /submission/
 redirect_from:
   - /evaluate-deliverable/
 ---

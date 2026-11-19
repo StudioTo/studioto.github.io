@@ -1,4 +1,5 @@
 ---
+permalink: /line-articulation/
 redirect_from:
   - /set-line-articulation/
 ---

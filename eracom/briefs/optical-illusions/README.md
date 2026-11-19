@@ -1,4 +1,5 @@
 ---
+permalink: /eracom/briefs/optical-illusions/
 redirect_from:
   - /eracom/briefs/balance-fonts/
 ---

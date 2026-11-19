@@ -1,4 +1,5 @@
 ---
+permalink: /tools/
 redirect_from:
   - /use-material/
 ---

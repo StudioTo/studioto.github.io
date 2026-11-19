@@ -1,4 +1,5 @@
 ---
+permalink: /tone/
 redirect_from:
   - /process-typeface/
 ---

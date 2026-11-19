@@ -1,4 +1,5 @@
 ---
+permalink: /line-composition/
 redirect_from:
   - /set-line-composition/
 ---

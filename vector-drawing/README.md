@@ -1,4 +1,5 @@
 ---
+permalink: /vector-drawing/
 redirect_from:
   - /type-vectorize/
 ---

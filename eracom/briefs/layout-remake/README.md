@@ -1,4 +1,5 @@
 ---
+permalink: /eracom/briefs/layout-remake/
 redirect_from:
   - /eracom/briefs/remake-layout/
 ---

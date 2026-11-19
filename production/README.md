@@ -1,4 +1,5 @@
 ---
+permalink: /production/
 redirect_from:
   - /process-delivery/
 ---

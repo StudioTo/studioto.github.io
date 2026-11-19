@@ -1,4 +1,5 @@
 ---
+permalink: /column-composition/
 redirect_from:
   - /set-column-composition/
 ---

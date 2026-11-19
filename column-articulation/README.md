@@ -1,4 +1,5 @@
 ---
+permalink: /column-articulation/
 redirect_from:
   - /set-column-articulation/
 ---

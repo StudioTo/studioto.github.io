@@ -1,4 +1,5 @@
 ---
+permalink: /method/
 redirect_from:
   - /evaluate-method/
 ---

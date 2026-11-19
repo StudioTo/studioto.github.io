@@ -1,4 +1,5 @@
 ---
+permalink: /rules/
 redirect_from:
   - /evaluate-rules/
 ---

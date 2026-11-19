@@ -1,4 +1,5 @@
 ---
+permalink: /specimens/
 redirect_from:
   - /index-specimens/
 ---

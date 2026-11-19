@@ -1,4 +1,5 @@
 ---
+permalink: /variations/
 redirect_from:
   - /process-variations/
 ---

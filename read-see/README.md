@@ -1,4 +1,5 @@
 ---
+permalink: /read-see/
 redirect_from:
   - /see-read/
 ---

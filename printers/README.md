@@ -1,4 +1,5 @@
 ---
+permalink: /printers/
 redirect_from:
   - /use-printer/
 ---

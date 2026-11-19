@@ -1,4 +1,5 @@
 ---
+permalink: /checklists/
 redirect_from:
   - /check-export/
 ---

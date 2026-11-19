@@ -1,4 +1,5 @@
 ---
+permalink: /indesign/
 redirect_from:
   - /use-indesign/
 ---

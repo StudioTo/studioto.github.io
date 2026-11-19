@@ -1,4 +1,5 @@
 ---
+permalink: /eracom/briefs/typographic-variations/
 redirect_from:
   - /eracom/briefs/vary-fonts/
 ---

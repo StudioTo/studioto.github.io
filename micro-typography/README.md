@@ -1,4 +1,5 @@
 ---
+permalink: /micro-typography/
 redirect_from:
   - /set-micro-typo/
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: /typography-history/
 redirect_from:
   - /track-writing-evolution/
 ---

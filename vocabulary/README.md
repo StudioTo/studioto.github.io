@@ -1,4 +1,5 @@
 ---
+permalink: /vocabulary/
 redirect_from:
   - /index-definitions/
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: /eracom/briefs/typography/
 redirect_from:
   - /eracom/briefs/introduce-typography/
 ---

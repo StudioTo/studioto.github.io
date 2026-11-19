@@ -1,4 +1,5 @@
 ---
+permalink: /pictograms/
 redirect_from:
   - /index-pictos/
 ---

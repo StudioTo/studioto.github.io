@@ -1,4 +1,5 @@
 ---
+permalink: /character-anatomy/
 redirect_from:
   - /study-sign-shapes/
 ---

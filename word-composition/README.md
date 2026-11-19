@@ -1,4 +1,5 @@
 ---
+permalink: /word-composition/
 redirect_from:
   - /set-word-composition/
 ---

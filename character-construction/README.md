@@ -1,4 +1,5 @@
 ---
+permalink: /character-construction/
 redirect_from:
   - /type-construct/
 ---

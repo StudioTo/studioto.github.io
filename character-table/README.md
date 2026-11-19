@@ -1,4 +1,5 @@
 ---
+permalink: /character-table/
 redirect_from:
   - /index-glyphs/
 ---

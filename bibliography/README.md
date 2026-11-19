@@ -1,4 +1,5 @@
 ---
+permalink: /bibliography/
 redirect_from:
   - /index-books/
 ---

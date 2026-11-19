@@ -1,4 +1,5 @@
 ---
+permalink: /page-layout/
 redirect_from:
   - /set-column-layout/
 ---

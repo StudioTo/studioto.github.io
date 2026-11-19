@@ -1,4 +1,5 @@
 ---
+permalink: /architecture-evolution/
 redirect_from:
   - /track-architecture-evolution/
 ---

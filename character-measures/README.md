@@ -1,4 +1,5 @@
 ---
+permalink: /character-measures/
 redirect_from:
   - /study-sign-measures/
 ---

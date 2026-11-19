@@ -1,4 +1,5 @@
 ---
+permalink: /compositions/
 redirect_from:
   - /process-compositions/
 ---

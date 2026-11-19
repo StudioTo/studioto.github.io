@@ -1,4 +1,5 @@
 ---
+permalink: /eracom/briefs/character-anatomy/
 redirect_from:
   - /eracom/briefs/measure-fonts/
 ---

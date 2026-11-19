@@ -1,4 +1,5 @@
 ---
+permalink: /macro-typography/
 redirect_from:
   - /set-macro-typo/
 ---

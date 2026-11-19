@@ -1,4 +1,5 @@
 ---
+permalink: /eracom/briefs/word-image/
 redirect_from:
   - /eracom/briefs/typeset-word/
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: /organization/
 redirect_from:
   - /process-constraints/
 ---

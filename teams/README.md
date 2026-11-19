@@ -1,4 +1,5 @@
 ---
+permalink: /teams/
 redirect_from:
   - /use-teams/
 ---

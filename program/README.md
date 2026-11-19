@@ -1,4 +1,5 @@
 ---
+permalink: /program/
 redirect_from:
   - /evaluate-program/
 ---

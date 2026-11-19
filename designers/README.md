@@ -1,4 +1,5 @@
 ---
+permalink: /designers/
 redirect_from:
   - /index-designers/
 ---

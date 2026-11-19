@@ -1,4 +1,5 @@
 ---
+permalink: /semiotics/
 redirect_from:
   - /see-signs/
 ---

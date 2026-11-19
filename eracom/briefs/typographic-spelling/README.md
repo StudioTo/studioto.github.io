@@ -1,4 +1,5 @@
 ---
+permalink: /eracom/briefs/typographic-spelling/
 redirect_from:
   - /eracom/briefs/typeset-phrase/
 ---

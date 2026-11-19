@@ -1,4 +1,5 @@
 ---
+permalink: /evaluation/
 redirect_from:
   - /evaluate-criteria/
 ---

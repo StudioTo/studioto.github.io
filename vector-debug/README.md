@@ -1,4 +1,5 @@
 ---
+permalink: /vector-debug/
 redirect_from:
   - /type-debug/
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: /line-layout/
 redirect_from:
   - /set-line-layout/
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: /historical-classification/
 redirect_from:
   - /classify-typefaces-history/
 ---

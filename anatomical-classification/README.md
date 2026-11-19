@@ -1,4 +1,5 @@
 ---
+permalink: /anatomical-classification/
 redirect_from:
   - /classify-typefaces-shapes/
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: /word-case/
 redirect_from:
   - /set-word-case/
 ---

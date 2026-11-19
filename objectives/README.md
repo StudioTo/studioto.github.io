@@ -1,4 +1,5 @@
 ---
+permalink: /objectives/
 redirect_from:
   - /evaluate-objectives/
 ---

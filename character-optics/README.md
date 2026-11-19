@@ -1,4 +1,5 @@
 ---
+permalink: /character-optics/
 redirect_from:
   - /study-sign-optics/
 ---

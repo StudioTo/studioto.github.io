@@ -1,4 +1,5 @@
 ---
+permalink: /scanners/
 redirect_from:
   - /use-scanner/
 ---

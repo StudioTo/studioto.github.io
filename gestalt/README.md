@@ -1,4 +1,5 @@
 ---
+permalink: /gestalt/
 redirect_from:
   - /see-gestalt/
 ---

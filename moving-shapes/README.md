@@ -1,4 +1,5 @@
 ---
+permalink: /moving-shapes/
 redirect_from:
   - /symbolize-animation/
 ---

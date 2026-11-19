@@ -1,4 +1,5 @@
 ---
+permalink: /iconicity/
 redirect_from:
   - /see-iconicity/
 ---

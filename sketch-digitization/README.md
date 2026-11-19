@@ -1,4 +1,5 @@
 ---
+permalink: /sketch-digitization/
 redirect_from:
   - /type-digitize/
 ---

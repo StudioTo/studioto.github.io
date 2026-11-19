@@ -1,4 +1,5 @@
 ---
+permalink: /typographic-units/
 redirect_from:
   - /see-units/
 ---

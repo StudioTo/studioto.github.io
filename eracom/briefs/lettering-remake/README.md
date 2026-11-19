@@ -1,4 +1,5 @@
 ---
+permalink: /eracom/briefs/lettering-remake/
 redirect_from:
   - /eracom/briefs/remake-lettering/
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: /word-articulation/
 redirect_from:
   - /set-word-articulation/
 ---

@@ -1,4 +1,5 @@
 ---
+permalink: /character-variations/
 redirect_from:
   - /study-sign-variations/
 ---

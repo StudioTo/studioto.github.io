@@ -1,4 +1,5 @@
 ---
+permalink: /logos/
 redirect_from:
   - /index-logos/
 ---
