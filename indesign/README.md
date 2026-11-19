@@ -1,4 +1,6 @@
 ---
+title: "InDesign"
+toc: true
 permalink: /indesign/
 redirect_from:
   - /use-indesign/
@@ -6,35 +8,20 @@ redirect_from:
 
 # InDesign
 
-1. [Gabarit](#scripts)
-    - [Script Onciale](#script-onciale)
-    - [Script Interrompu *Fractures*](#script-fracture)
-    - [Script Cursif *Chancellerie*](#script-chancellerie)
-    - [Script Cursif *Main Ronde*](#script-main-ronde)
-2. [Import](#scripts)
-    - [Script Onciale](#script-onciale)
-    - [Script Interrompu *Fractures*](#script-fracture)
-    - [Script Cursif *Chancellerie*](#script-chancellerie)
-    - [Script Cursif *Main Ronde*](#script-main-ronde)
-3. [Texte](#scripts)
-    - [Script Onciale](#script-onciale)
-    - [Script Interrompu *Fractures*](#script-fracture)
-    - [Script Cursif *Chancellerie*](#script-chancellerie)
-    - [Script Cursif *Main Ronde*](#script-main-ronde)
-4. [Image](#scripts)
-    - [Script Onciale](#script-onciale)
-    - [Script Interrompu *Fractures*](#script-fracture)
-    - [Script Cursif *Chancellerie*](#script-chancellerie)
-    - [Script Cursif *Main Ronde*](#script-main-ronde)
-6. [Export](#scripts)
-    - [Script Onciale](#script-onciale)
-    - [Script Interrompu *Fractures*](#script-fracture)
-    - [Script Cursif *Chancellerie*](#script-chancellerie)
-    - [Script Cursif *Main Ronde*](#script-main-ronde)
-  
-## &nbsp;
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
-# 1. Document
+- [1. Document](#1-document)
+- [3. Import](#3-import)
+- [2. Gabarit](#2-gabarit)
+- [4. Texte](#4-texte)
+- [5. Image](#5-image)
+- [6. Nuance](#6-nuance)
+- [7. Vérification](#7-vérification)
+- [8. Export](#8-export)
+
+<!-- /toc -->
+
+## 1. Document
 
 
 - Espace de travail typo + liens + etc.
@@ -48,7 +35,7 @@ redirect_from:
 - Langue
 - Calques
 
-# 3. Import
+## 3. Import
 
 
 - copier-coller texte, coller dans le style
@@ -56,7 +43,7 @@ redirect_from:
 - fichier > importer avec option
 - glisser
 
-# 2. Gabarit
+## 2. Gabarit
 
 - Fenêtre page
 - gabarit vs page
@@ -74,7 +61,7 @@ redirect_from:
 |:---:|:---:|
 | Nouveau document | <kbd class="keyboard-key nowrap">⌘ Command</kbd> + <kbd class="keyboard-key nowrap">Option</kbd> + <kbd class="keyboard-key nowrap">⇧ Shift</kbd> |
 
-# 4. Texte
+## 4. Texte
 
 - outil texte
 - option de bloc texte
@@ -84,16 +71,16 @@ redirect_from:
 - rechercher-remplacer (micro)
 
 
-# 5. Image
+## 5. Image
 
 
-# 6. Nuance
+## 6. Nuance
 
 
-# 7. Vérification
+## 7. Vérification
 
 
-# 8. Export
+## 8. Export
 
 
 ```
@@ -111,7 +98,7 @@ redirect_from:
 
 
 
-### Sources
+#### Sources
 
 - Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
 - Indra Kupferschmid, *Buchstaben kommen selten allein : Typografie-Handbuch*, Sulgen : Niggli, 2004  

@@ -1,10 +1,14 @@
 ---
+title: "Sémiotique : l’interprétation"
+toc: true
 permalink: /semiotics/
 redirect_from:
   - /see-signs/
 ---
 
 # Sémiotique : l’interprétation
+
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
 - [Signes](#signes)
 - [Langage](#langage)
@@ -15,13 +19,13 @@ redirect_from:
 - [Axes sémantiques](#axes-semantiques)
 - [Typologie](#typologie)
 
-&nbsp;
+<!-- /toc -->
 
 |![](https://studioto.github.io/media/semiotics/2-semiotique-v2_1.gif)|
 |:---:|
 | Le signifiant est la forme visible ou sonore d’un signe (ce que l’on perçoit) alors que le signifié est l’idée ou le concept qu’elle fait naître dans l’esprit (ce que l’on comprend) |
 
-# Signes {#signes}
+## Signes {#signes}
 
 |![](https://studioto.github.io/media/semiotics/1-language_v2.gif)|
 |:---:|
@@ -31,7 +35,7 @@ redirect_from:
 |:---:|
 | Les lettres sont des signes abstraits qui représentent des sons |
 
-# Langage {#langage}
+## Langage {#langage}
 
 |![](https://studioto.github.io/media/semiotics/1-language_v2116.jpg)|
 |:---:|
@@ -45,7 +49,7 @@ redirect_from:
 |:---:|
 | La signalétique est une forme de langage universel, capable de communiquer à tous.tes et de dépasser les frontières linguistiques |
 
-# Expression {#expression}
+## Expression {#expression}
 
 |![](https://studioto.github.io/media/semiotics/2-semiotique.jpg) |
 |:---:|
@@ -55,13 +59,13 @@ redirect_from:
 |:---:|
 | La forme des caractères influence l’interprétation du message |
 
-# Caractère {#caractere}
+## Caractère {#caractere}
 
 |![](https://studioto.github.io/media/semiotics/0-colonne20.gif) |
 |:---:|
 | Les caractères, au-delà de leur fonction première de vecteur visuel de la langue, peuvent teinter le texte d’une certaine atmosphère |
 
-# Dénotation vs Connotation {#denotation-vs-connotation}
+## Dénotation vs Connotation {#denotation-vs-connotation}
 
 |![](https://studioto.github.io/media/semiotics/2-semiotique10.gif) |
 |:---:|
@@ -71,13 +75,13 @@ redirect_from:
 |:---:|
 | L’information est autant « lue » que « vue » |
 
-# Explicite vs Implicite {#explicite-vs-implicite}
+## Explicite vs Implicite {#explicite-vs-implicite}
 
 |![](https://studioto.github.io/media/semiotics/2-semiotique26.gif) |
 |:---:|
 | Le texte est réduit à l’essentiel : ce qui est dit vs ce qui n’est pas dit |
 
-# Axes sémantiques {#axes-semantiques}
+## Axes sémantiques {#axes-semantiques}
 
 •	Fort ↔ Faible  
 •	Dur ↔ Doux  
@@ -90,7 +94,7 @@ redirect_from:
 •	Lisible ↔ Expressif  
 •	Formel ↔ Informel  
 
-# Typologie {#typologie}
+## Typologie {#typologie}
 
 •	Émotions : chaleureux, froid, joyeux, triste, rassurant, menaçant.  
 •	Société : prestigieux, populaire, féminin, masculin, enfantin, neutre.  
@@ -99,7 +103,7 @@ redirect_from:
 •	Esthétique : élégant, brut, raffiné, décoratif, minimaliste, grotesque.  
 
 
-### Sources
+#### Sources
 
 - Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich : Hans-Rudolf Lutz Verlag, 1980  
 - Abraham Moles, *Les sciences de l’imprécis : Échelles d’iconicité*, Paris : Seuil, 1990  

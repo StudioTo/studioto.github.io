@@ -1,4 +1,6 @@
 ---
+title: "Règles du cours"
+toc: true
 permalink: /rules/
 redirect_from:
   - /evaluate-rules/
@@ -6,79 +8,104 @@ redirect_from:
 
 # Règles du cours
 
-&nbsp;
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Vouvoiement](#vouvoiement)
+- [Respect](#respect)
+- [Écoute](#écoute)
+- [Silence](#silence)
+- [Téléphone ⚠️](#téléphone-️)
+- [Participation](#participation)
+- [Ponctualité](#ponctualité)
+- [Organisation](#organisation)
+- [Sauvegarde ⚠️](#sauvegarde-️)
+- [Devoir](#devoir)
+- [Soin](#soin)
+- [Concentration ⚠️](#concentration-️)
+- [Responsabilité](#responsabilité)
+- [Question](#question)
+- [Proactivité](#proactivité)
+- [Absence ⚠️](#absence-️)
+- [Absence Prévue](#absence-prévue)
+- [Absence Imprévue](#absence-imprévue)
+- [Evaluation ⚠️](#evaluation-️)
+- [Retard](#retard)
+- [Rendu Partiel](#rendu-partiel)
+- [Non Rendu](#non-rendu)
+
+<!-- /toc -->
 
 |![](https://studioto.github.io/media/rules/0-eval2.gif) |
 |:---:|
 | Tenir la ligne[^1] | 
 
-# Vouvoiement
+## Vouvoiement
 Vouvoyer et être vouvoyé en retour.
 
-# Respect
+## Respect
 Parler et agir avec respect envers tous.tes.
 
-# Écoute
+## Écoute
 Laisser chacun s’exprimer sans interruption.
 
-# Silence
+## Silence
 Maintenir le silence pendant les sessions d’écoute et de travail. Musique autorisée avec des écouteurs.
 
-# Téléphone ⚠️
+## Téléphone ⚠️
 Ranger son téléphone hors de vue pendant la durée du cours.
 
-# Participation
+## Participation
 S’impliquer et on contribuer au cours.
 
-# Ponctualité
+## Ponctualité
 Arriver à l’heure et être prêt à travailler.
 
-# Organisation
+## Organisation
 Respecter les échéances fixées pour chaque travail.
 
-# Sauvegarde ⚠️
+## Sauvegarde ⚠️
 En cas de problème technique ou de perte de fichiers, il est attendu que vous puissiez fournir tout de même des sauvegardes récentes (disque dur externe, cloud, etc.).
 
-# Devoir
+## Devoir
 Tout travail non finalisé dans le délai imparti doit être achevé hors classe et remis au début de la séance suivante.
 
-# Soin
+## Soin
 Rendre des travaux proprement exécutés et correspondant aux normes de rendus.
 
-# Concentration ⚠️
+## Concentration ⚠️
 Rester concentré sur la tâche du cours uniquement (par ex.: pas d’autre application, fichier ou page web ouvertes sans rapport avec le court).
 
-# Responsabilité
+## Responsabilité
 Assumer ses actions et leurs conséquences.
 
-# Question
+## Question
 En cas de doute, demander de l’aide plutôt que de rester bloqué. Poser les question directement à l’enseignant plutôt qu’aux collègues.
 
-# Proactivité
+## Proactivité
 Il revient à l’élève de se manifester auprès de l’enseignant pour demander un rattrapage ou solliciter un prolongement de délai. L’enseignant n’est pas tenu de rappeler ces règles ni de signaler un oubli.
 
-# Absence ⚠️
+## Absence ⚠️
 En cas d’absence, avertir le plus tôt possible par e-mail avec une justification.
 
-# Absence Prévue
+## Absence Prévue
 En cas d’absence prévue à un examen / un rendu, prévenir l’enseignant par écrit avec une justification pour définir les modalités spécifiques de rendu avant le jour j (prévenir uniquement le secrétariat ne suffit pas).
 
-# Absence Imprévue
+## Absence Imprévue
 En cas d’absence imprévue à un examen / un rendu, prévenir l’enseignant avec une justification dès que vous êtes en capacité de le faire pour définir les modalités spécifiques de rendu (le jour même ou dès la fin du certificat médical, au plus tard dès le début du cours suivant).
 
-# Evaluation ⚠️
+## Evaluation ⚠️
 Dans le cas ou une personne n’est pas appelée pour présenter son travail lors d’une évaludation, il est de sa responsabilité de se manifester au moment même du cours (ou au plus tard au début du cours suivant). Dans le cas contraire, l’évaluation est considérée comme non rendue.
 
-# Retard
+## Retard
 Un travail est considéré comme en retard si il n’est pas prêt à la date (et heure) mentionnée dans le brief. Il s’en suit que la note est péjorée en conséquence.
 
-# Rendu Partiel
+## Rendu Partiel
 Il est primordial de rendre le travail au moment du rendu, même si il n’est pas terminé. Un travail partiel est évalué alors qu’un non rendu est sanctionné par un 1.
 
-# Non Rendu
+## Non Rendu
 Un travail est considéré comme non rendu si il n’est pas rendu à la date mentionnée sur le brief et se retrouve sanctionné par un 1.
 
-### Sources
+#### Sources
 
 [^1]: Cavandoli, Osvaldo, *La Linea*, Italie : Cavandoli / Gamma Film, 1969.
 

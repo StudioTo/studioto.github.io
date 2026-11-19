@@ -1,12 +1,14 @@
 ---
+title: "Debug typefaces drawings"
+toc: true
 permalink: /vector-debug/
 redirect_from:
   - /type-debug/
 ---
 
 # Debug typefaces drawings
+
   Erreurs communes de dessin dans les lettres
-### &nbsp;
 
 |![](https://studioto.github.io/media/vector-debug/typo_debug_1.jpg) |
 |:---:|

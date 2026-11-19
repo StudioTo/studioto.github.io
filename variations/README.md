@@ -1,4 +1,6 @@
 ---
+title: "Variations (1re vague) : Moduler un paramètre visuel à la fois"
+toc: true
 permalink: /variations/
 redirect_from:
   - /process-variations/
@@ -6,46 +8,55 @@ redirect_from:
 
 # Variations (1re vague) :<br>Moduler un paramètre visuel à la fois
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Forme](#forme)
+- [Orientation](#orientation)
+- [Position](#position)
+- [Dimension](#dimension)
+- [Rythme](#rythme)
+
+<!-- /toc -->
+
 - Comment peut-on souligner le propos en variant uniquement la forme, l’orientation, la position,… ?  
 - Attention à ne pas tomber amoureux de ses idées, cela restreint la créativité ! (continuer à tester de nouvelles choses même si une piste vous plaît plus que les autres)  
 
-## &nbsp;
  
 Explorer un maximum de variations, en modulant un paramètre visuel à la fois. En effet, si plusieurs paramètres changent simultanément, il devient impossible d’identifier clairement l’effet de chacun. En isolant les variables, on peut évaluer objectivement la pertinence et l’impact de chaque solution graphique.
   
 &nbsp;
 
-# Forme  
+## Forme  
 
 |![](https://studioto.github.io/media/variations/forme_contre_forme.gif) |
 |:---:|
 | Le blanc (contreforme) participe autant à l’équilibre que les signes imprimés (formes). |
 
-# Orientation  
+## Orientation  
 
 |![](https://studioto.github.io/media/variations/variations2.gif) |
 |:---:|
 | L’orientation agit sur la lisibilité et peut évoquer le mouvement, la stabilité ou l’instabilité d’une composition. |
 
-# Position  
+## Position  
 
 |![](https://studioto.github.io/media/variations/variations10.gif) |
 |:---:|
 | La position influence la hiérarchie visuelle et l’équilibre spatial d’une composition. |
 
-# Dimension  
+## Dimension  
 
 |![](https://studioto.github.io/media/variations/variations18.gif) |
 |:---:|
 | La dimension modifie le rapport d’échelle et l’importance perçue des éléments. |
 
-# Rythme  
+## Rythme  
 
 |![](https://studioto.github.io/media/variations/variations27.gif) |
 |:---:|
 | Le rythme, déterminé par les espacements, agit sur la cadence de lecture et la perception de la densité visuelle. |
 
-<!-- ### Sources
+<!-- #### Sources
 
 - Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972 
 - Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  

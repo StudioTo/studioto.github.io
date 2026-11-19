@@ -1,4 +1,6 @@
 ---
+title: "Index des logos"
+toc: true
 permalink: /logos/
 redirect_from:
   - /index-logos/
@@ -6,20 +8,26 @@ redirect_from:
 
 # Index des logos
 
-### &nbsp;
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Next](#next)
+- [Apple](#apple)
+- [Nike](#nike)
+- [IBM](#ibm)
 
-# Next
+<!-- /toc -->
+
+## Next
 
 |![](https://studioto.github.io/media/logos/2-logos.gif) |
 |:---:|
 | Paul Rand, 1986 |
 
-# Apple
+## Apple
 
-# Nike
+## Nike
 
-# IBM
+## IBM
 
-<!-- # Frutiger -->
-<!-- # Hattenschwiller -->
+<!-- ## Frutiger -->
+<!-- ## Hattenschwiller -->

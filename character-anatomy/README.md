@@ -1,4 +1,6 @@
 ---
+title: "Anatomie du caractère"
+toc: true
 permalink: /character-anatomy/
 redirect_from:
   - /study-sign-shapes/
@@ -6,18 +8,16 @@ redirect_from:
 
 # Anatomie du caractère
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Typologie](#typologie)
 - [Squelette](#squelette)
 - [Graisse](#graisse)
 - [Enveloppe](#enveloppe)
-  - [Terminaisons](#terminaisons)
-  - [Sorties](#sorties)
-  - [Futs](#futs)
-  - [Ornements](#ornements)
 
-  
-### &nbsp;
+<!-- /toc -->
 
-# Typologie   
+## Typologie   
 
 |![](https://studioto.github.io/media/character-anatomy/1-formes2.jpg) |
 |:---:|
@@ -27,7 +27,7 @@ redirect_from:
 |:---:|
 | Squelette - Graisse - Enveloppe | 
 
-# Squelette {#squelette}
+## Squelette {#squelette}
 
 |  Dynamique  |  Statique  |  Géométrique  |
 |:---:|:---:|:---:|
@@ -45,15 +45,15 @@ redirect_from:
 |:---:|:---:|:---:|
 | Axe oblique           | Axe vertical           | Modulaire           |
 
-# Graisse {#graisse}
+## Graisse {#graisse}
 
 | ![](https://studioto.github.io/media/character-anatomy/typo_parameters_08.jpg) | ![](https://studioto.github.io/media/character-anatomy/typo_parameters_09.jpg) |
 |:---:|:---:|
 | Contrasté           | Linéaire           |
 
-# Enveloppe {#enveloppe}
+## Enveloppe {#enveloppe}
 
-## Terminaisons {#terminaisons}
+### Terminaisons {#terminaisons}
 
 | ![](https://studioto.github.io/media/character-anatomy/typo_parameters_10.jpg) | ![](https://studioto.github.io/media/character-anatomy/typo_parameters_11.jpg) |
 |:---:|:---:|
@@ -63,7 +63,7 @@ redirect_from:
 |:---:|
 | Variation de la forme des empattements (sans, rectangulaire, triangulaire, transitionnel, intersection)           |
 
-## Sorties {#sorties}
+### Sorties {#sorties}
 
 | ![](https://studioto.github.io/media/character-anatomy/1-formes25.jpg) |
 |:---:|
@@ -75,19 +75,19 @@ redirect_from:
 |:---:|
 | Sorties fermées           |
 
-## Fûts {#futs}
+### Fûts {#futs}
 
 | ![](https://studioto.github.io/media/character-anatomy/typo_parameters_18.jpg) | ![](https://studioto.github.io/media/character-anatomy/typo_parameters_19.jpg) | ![](https://studioto.github.io/media/character-anatomy/typo_parameters_20.jpg) |
 |:---:|:---:|:---:|
 | Concaves           | Rectilignes           | Convexes           |
 
-## Ornements {#ornements}
+### Ornements {#ornements}
 
 | ![](https://studioto.github.io/media/character-anatomy/typo_parameters_22.jpg) |
 |:---:|
 | Variation de l’effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |
 
-### Sources
+#### Sources
 
 - Indra Kupferschmid, *Buchstaben kommen selten allein : Typografie-Handbuch*, Sulgen : Niggli, 2004  
 - Gerrit Noordzij, *The Stroke : Theory of Writing*, London : Hyphen Press, 2005  

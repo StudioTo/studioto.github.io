@@ -1,4 +1,6 @@
 ---
+title: "Texture du mot"
+toc: true
 permalink: /word-texture/
 redirect_from:
   - /set-word-texture/
@@ -12,13 +14,13 @@ La texture du mot fait référence aux formes de lettre choisies pour véhiculer
   
 &nbsp;
 
-<!-- # Technique  
+<!-- ## Technique  
 
 |![](https://studioto.github.io/media/word-texture/0-mot2.gif) |
 |:---:|
 | Chaque technique a ses contraintes |
 
-# Connotation   -->
+## Connotation   -->
 
 |![](https://studioto.github.io/media/word-texture/0-mot15.gif) |
 |:---:|
@@ -45,7 +47,7 @@ La texture du mot fait référence aux formes de lettre choisies pour véhiculer
 •	Culture : moderne, classique, rétro, futuriste, artisanal, technologique.  
 •	Esthétique : élégant, brut, raffiné, décoratif, minimaliste, grotesque.  
 
-### Sources
+#### Sources
 
 - Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972 
 - Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  

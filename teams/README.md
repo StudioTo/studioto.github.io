@@ -1,13 +1,12 @@
 ---
+title: "Teams"
+toc: true
 permalink: /teams/
 redirect_from:
   - /use-teams/
 ---
 
 # Teams
-
-
-### &nbsp;
 
 |![](https://studioto.github.io/media/teams/1_teams_channel.gif) |
 |:---:|

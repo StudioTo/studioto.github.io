@@ -1,4 +1,6 @@
 ---
+title: "Lire-Voir"
+toc: true
 permalink: /read-see/
 redirect_from:
   - /see-read/
@@ -6,19 +8,21 @@ redirect_from:
 
 # Lire-Voir
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
 - [Textuel vs Pictural](#textuel-vs-pictural)
-- [Lisibilité vs Impact visuel](#lisibilite-vs-impact)
 - [Lisibilité des caractères](#lisibilite)
+- [Lisibilité vs Impact visuel](#lisibilite-vs-impact)
 
-&nbsp;
+<!-- /toc -->
 
-# Textuel vs Pictural {#textuel-vs-pictural}  
+## Textuel vs Pictural {#textuel-vs-pictural}  
 
 |![](https://studioto.github.io/media/read-see/2-semiotique5.gif) |
 |:---:|
 | Deux niveaux d’information : textuel (lisibilité) et pictural (impact visuel) |
 
-# Lisibilité des caractères {#lisibilite}  
+## Lisibilité des caractères {#lisibilite}  
 
 |![](https://studioto.github.io/media/read-see/1-language_v2133.gif)|
 |:---:|
@@ -32,7 +36,7 @@ redirect_from:
 |:---:|
 | Que l’on modifie la longueur des lignes, le corps aussi bien que la forme du caractère typographique, la longueur des saccades et leur fréquence changent |
 
-# Lisibilité vs Impact visuel {#lisibilite-vs-impact}
+## Lisibilité vs Impact visuel {#lisibilite-vs-impact}
 
 |![](https://studioto.github.io/media/read-see/1-language_v2161.gif)|
 |:---:|
@@ -52,7 +56,7 @@ redirect_from:
 
 
 
-### Sources
+#### Sources
 
 - Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich : Hans-Rudolf Lutz Verlag, 1980 
 - Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972  

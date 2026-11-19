@@ -1,4 +1,6 @@
 ---
+title: "Typographie"
+toc: false
 permalink: /eracom/briefs/typography/
 redirect_from:
   - /eracom/briefs/introduce-typography/
@@ -6,13 +8,11 @@ redirect_from:
 
 # Typographie
 
-&nbsp;
-
 |![](https://studioto.github.io/media/eracom/briefs/typography/evolution_metier.gif) |
 |:---:|
 | L’évolution du métier[^1][^2]  |
 
-# Informations
+## Informations
 - [Qu’est-ce que la typographie ?](../../../../typographic-units)
 - [Enjeux du domaine](../../../../semiotics)
 - [Savoir faire](../../../../read-see)
@@ -20,17 +20,17 @@ redirect_from:
 - [Modalités d’évaluation](../../../../evaluation)
 - [Règles du cours](../../../../rules)
 
-# Matériel
+## Matériel
 - Ordinateur MacBook
 - Feutre noir fin pour les contours (GR)
 - Feutre noir épais pour le remplissage (GR)
 - Feutre blanc couvrant, type posca (GR)
 
-# Livres
+## Livres
 - *Guide du typographe*, Association suisse des typographes (AST), Lausanne, 2020 (GR)
 - *Principes élémentaires de la typographie*, Robert Bringhurst, B42, Montreuil, 2023 (GR)
 
-# Installation
+## Installation
 - [Guide eracom](https://eracom.ch/eleves/)
 - [Compte eduvaud](https://aka.ms/mysecurityinfo)  
 **connection** avec le mail anonymisé (**pp00xxx@eduvaud.ch**), pas le mail nominatif (prenom.nom@eduvaud.ch)
@@ -47,7 +47,7 @@ choisir pour le statut de l’établissement : *higher education* puis **K12**
 
 &nbsp;
 
-### Sources
+#### Sources
 
 [^1]: (dessin) Frutiger, Adrian, *Type Sign Symbol*. Zurich : ABC Verlag, 1980
 [^2]: (captures) Briar Levit, *Graphic Means, A History of Graphic Design Production*, 2017

@@ -1,4 +1,6 @@
 ---
+title: "Animation de symboles"
+toc: true
 permalink: /moving-shapes/
 redirect_from:
   - /symbolize-animation/
@@ -8,7 +10,6 @@ redirect_from:
 
 En animation, le nombre d’images construit le temps, l’ampleur des changements détermine la vitesse, la variation des formes produit le mouvement et la continuité visuelle assure les transitions.
   
-### &nbsp;
 
 |![](https://studioto.github.io/media/moving-shapes/animation1.gif) |
 |:---:|
@@ -28,7 +29,7 @@ Vitesse = écart de changement
 Mouvement = variation
 Transition = continuité visuelle -->
 
-### Sources
+#### Sources
 
 - **Peter von Arx**  
   *Film + Design : Die elementaren Phänomene und Dimensionen des Films im gestalterischen Unterricht*, Haupt, 1983

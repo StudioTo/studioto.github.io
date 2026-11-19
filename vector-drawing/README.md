@@ -1,12 +1,27 @@
 ---
+title: "Draw vectors"
+toc: true
 permalink: /vector-drawing/
 redirect_from:
   - /type-vectorize/
 ---
 
 # Draw vectors
+
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Checklist](#checklist)
+- [🖥️ Interfaçe](#️-interfaçe)
+- [🛠️ Outils](#️-outils)
+- [✏️ Principes de dessin](#️-principes-de-dessin)
+- [📏 Mesures](#-mesures)
+- [📦 Export](#-export)
+- [🔍 Test](#-test)
+- [🐞 Debug des erreurs communes](#-debug-des-erreurs-communes)
+
+<!-- /toc -->
+
   Dessin vectoriel
-### &nbsp;
 
 |![](https://studioto.github.io/media/vector-drawing/typo_vectors_drawing_1.jpg) |
 |:---:|
@@ -14,7 +29,7 @@ redirect_from:
 
 Dessin vectoriel
 
-# Checklist
+## Checklist
 
 ```
 ✓ Le type de point est juste partout (angle vs courbe)
@@ -30,154 +45,154 @@ Dessin vectoriel
 ✓ L‘espacement est défini systématiquement, selon les principes d‘optique
 ```
 
-# 🖥️ Interfaçe
+## 🖥️ Interfaçe
 
-### Vues
+#### Vues
 
 |![](https://studioto.github.io/media/vector-drawing/view.gif) |
 |:---:|
 | Characterset (fenêtre), plan de travail (onglet)           |
 
-### Terminologie
+#### Terminologie
 
 |![](https://studioto.github.io/media/vector-drawing/terminology.gif) |
 |:---:|
 | Segment, point d’ancrage, point de contrôle           |
 
-### Segments
+#### Segments
 
 |![](https://studioto.github.io/media/vector-drawing/segments.gif) |
 |:---:|
 | Droites, courbes           |
 
-### Points d’ancrage
+#### Points d’ancrage
 
 |![](https://studioto.github.io/media/vector-drawing/anchor_point.gif) |
 |:---:|
 | Les points qui sont sur le segment : angle (bleu), courbe (vert), ouvert (trait)          |
 
-### Points de contrôle
+#### Points de contrôle
 
 |![](https://studioto.github.io/media/vector-drawing/control_point.gif) |
 |:---:|
 | Les points qui sont en dehors du segment (gris)           |
 
-### Plans
+#### Plans
 
 |![](https://studioto.github.io/media/vector-drawing/grounds.gif) |
 |:---:|
 | 1er plan, 2eme plan           |
 
-### Calques (sauvegardes)
+#### Calques (sauvegardes)
 
 |![](https://studioto.github.io/media/vector-drawing/layers.gif) |
 |:---:|
 | Icône "+"           |
 
-### Letterbox
+#### Letterbox
 
 |![](https://studioto.github.io/media/vector-drawing/letterbox.gif) |
 |:---:|
 | Largeur, espace à gauche, espace à droite           |
 
-# 🛠️ Outils
+## 🛠️ Outils
 
-### Formes primitives
+#### Formes primitives
 
 |![](https://studioto.github.io/media/vector-drawing/primitives.gif) |
 |:---:|
 | Carré, Cercle           |
 
-### Plume
+#### Plume
 
 |![](https://studioto.github.io/media/vector-drawing/pen_tool.gif) |
 |:---:|
 | Clic = segment droit, Clic + Drag = segment courbe           |
 
-### Règle
+#### Règle
 
 |![](https://studioto.github.io/media/vector-drawing/ruler.gif) |
 |:---:|
 | Ctl + Opt + Cmd + Drag           |
 
-### Fusion
+#### Fusion
 
 |![](https://studioto.github.io/media/vector-drawing/remove_overlap.gif) |
 |:---:|
 | Tracé > Supprimer le chevauchement           |
 
-### Déplacement d’un point sur un segment
+#### Déplacement d’un point sur un segment
 
 |![](https://studioto.github.io/media/vector-drawing/point_displacement.gif) |
 |:---:|
 | Alt + Drag sur un point           |
 
-# ✏️ Principes de dessin
+## ✏️ Principes de dessin
 
-### 1er Point
+#### 1er Point
 
 |![](https://studioto.github.io/media/vector-drawing/first_point.gif) |
 |:---:|
 | Tracé > Corriger le sens des tracés : le premier point doit toujours être en bas à gauche           |
 
-### Sens des tracés
+#### Sens des tracés
 
 |![](https://studioto.github.io/media/vector-drawing/path_direction.gif) |
 |:---:|
 | Tracé > Corriger le sens des tracés : forme (sens inverse des aiguilles), contreforme (sens des aiguilles)           |
 
-### Triangle magique
+#### Triangle magique
 
 |![](https://studioto.github.io/media/vector-drawing/magic_triangle.gif) |
 |:---:|
 | Les points de contrôle doivent être contenus dans le triangle qui contient le segment            |
 
-### Points aux extrémités
+#### Points aux extrémités
 
 |![](https://studioto.github.io/media/vector-drawing/extremums.gif) |
 |:---:|
 | Tracé > Ajouter les extrêmes           |
 
-### Contrôles horizontaux ou verticaux
+#### Contrôles horizontaux ou verticaux
 
 |![](https://studioto.github.io/media/vector-drawing/bcps.gif) |
 |:---:|
 | Les points de contrôle doivent être alignés horizontalement ou verticalement           |
 
-### Points superflus
+#### Points superflus
 
 |![](https://studioto.github.io/media/vector-drawing/less_points.gif) |
 |:---:|
 | Tracé > Nettoyer les tracés : utiliser le moins de points possible           |
 
-# 📏 Mesures
+## 📏 Mesures
 
-### Systématiser les proportions
-
-
-### Systématiser le spacing
+#### Systématiser les proportions
 
 
-# 📦 Export
-
-### Créer le dossier Adobe Fonts dans Application Support
+#### Systématiser le spacing
 
 
-### Générer les fonctionnalités OpenType
+## 📦 Export
+
+#### Créer le dossier Adobe Fonts dans Application Support
 
 
-### Créer le dossier d’export Adobe Fonts
+#### Générer les fonctionnalités OpenType
 
 
-### Exporter
+#### Créer le dossier d’export Adobe Fonts
 
 
-# 🔍 Test
-
-### Choississez votre fonte dans le menu déroulant de InDesign
+#### Exporter
 
 
-# 🐞 Debug des erreurs communes
+## 🔍 Test
 
-### Autohinting
+#### Choississez votre fonte dans le menu déroulant de InDesign
+
+
+## 🐞 Debug des erreurs communes
+
+#### Autohinting
 

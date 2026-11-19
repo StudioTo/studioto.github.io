@@ -1,4 +1,6 @@
 ---
+title: "L’image du mot"
+toc: false
 permalink: /eracom/briefs/word-image/
 redirect_from:
   - /eracom/briefs/typeset-word/
@@ -6,11 +8,7 @@ redirect_from:
 
 # L’image du mot
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-# Brief
+## Brief
 
     ●   Créer un logotype
 
@@ -72,7 +70,7 @@ redirect_from:
         ⚠️  tout en noir / blanc
 
 
-# Ressources
+## Ressources
 
 ✉️ Liste des clients  
   
@@ -88,13 +86,13 @@ Pour le développement du concept :
 📎 [Sémiotique](../../../semiotics/)    
 📖 Robert Bringhurst, *Principes Élémentaires De La Typographie, Une Histoire Des Styles*, Éditions B42, 2023
 
-# Objectifs
+## Objectifs
 
 ✅ Connaître les paramètres typographiques qui concerne l’image du mot (C1)   
 ✅ Produire des variations sur la base des paramètres de l’image du mot (C3)  
 ✅ Utiliser les commandes de mise en forme de paragraphe et de caractère dans InDesign (C3)  
 ✅ Analyser des variations de mise en forme et sélectionner la meilleure parmis celles-ci (C4)  
 
-# Évaluation
+## Évaluation
 
 📶 [Auto-évaluation (grille exercice)](../../../evaluation/)

@@ -1,6 +1,8 @@
 <!--
   Liens : couleur aléatoire au survol, différente à chaque fois.
   Titre du site (StudioTo) : au survol, deux couleurs différentes, une pour « Studio », une pour « To ».
+  En-tête collant : mesure sa hauteur (--sticky-top, --sticky-h) ; clic sur le titre de la page :
+  retour à la table des matières.
 -->
 {% if page.url == "/" %}
 <!-- accueil : recherche, tri et emoji du tableau d'index -->
@@ -87,6 +89,52 @@
       document.addEventListener("DOMContentLoaded", setupTitle);
     } else {
       setupTitle();
+    }
+  })();
+</script>
+<script>
+  // ---------- en-tête collant et titre de page cliquable
+  (function () {
+    function parts() {
+      var body = document.querySelector(".markdown-body");
+      var site = body && body.querySelector(":scope > h1:first-child");
+      if (!site) return null;
+      var next = site.nextElementSibling;
+      var title = next && next.tagName === "H1" && document.documentElement.getAttribute("data-page") !== "/" ? next : null;
+      return { site: site, title: title, tools: document.querySelector(".index-tools") };
+    }
+
+    function measure() {
+      var p = parts();
+      if (!p) return;
+      var top = Math.round(p.site.getBoundingClientRect().height);
+      var below = p.title || p.tools;
+      var h = top + (below ? Math.round(below.getBoundingClientRect().height) : 0);
+      var root = document.documentElement.style;
+      root.setProperty("--sticky-top", top + "px");
+      root.setProperty("--sticky-h", h + "px");
+    }
+
+    function setup() {
+      var p = parts();
+      if (!p) return;
+      if (p.title) {
+        p.title.setAttribute("title", "Retour à la table des matières");
+        p.title.addEventListener("click", function () {
+          window.scrollTo({ top: 0, behavior: "smooth" });
+          if (location.hash) history.replaceState(null, "", location.pathname + location.search);
+        });
+      }
+      measure();
+      window.addEventListener("resize", measure);
+      if (document.fonts && document.fonts.ready) document.fonts.ready.then(measure);
+      setTimeout(measure, 500);  // la barre de recherche de l'accueil est ajoutée par index-table.js
+    }
+
+    if (document.readyState === "loading") {
+      document.addEventListener("DOMContentLoaded", setup);
+    } else {
+      setup();
     }
   })();
 </script>

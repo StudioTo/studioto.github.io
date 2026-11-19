@@ -1,4 +1,6 @@
 ---
+title: "Graphie du mot"
+toc: true
 permalink: /word-case/
 redirect_from:
   - /set-word-case/
@@ -6,19 +8,26 @@ redirect_from:
 
 # Graphie du mot
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Casse](#casse)
+- [Ponctuation](#ponctuation)
+
+<!-- /toc -->
+
 La graphie désigne la manière dont un mot est écrit. Les mots sont des combinaisons de lettres dont la séquence est fixée par des règles orthographiques. Pourtant, il existe une multitude de façons de transmettre le même message selon la graphie choisie. Chaque variante typographique suscite des perceptions différentes chez le lecteur.
 
 → La graphie du mot correspond à la mélodie
   
 &nbsp;
 
-# Casse  
+## Casse  
 
 |![](https://studioto.github.io/media/word-case/0-mot25.gif) |
 |:---:|
 | L’usage des majuscules et des minuscules permet de hiérarchiser les mots, de marquer leur importance ou de donner une tonalité particulière au texte. |
 
-# Ponctuation  
+## Ponctuation  
 
 |![](https://studioto.github.io/media/word-case/0-mot51.gif) |
 |:---:|
@@ -26,7 +35,7 @@ La graphie désigne la manière dont un mot est écrit. Les mots sont des combin
 
 
 
-### Sources
+#### Sources
 
 - Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972 
 - Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  

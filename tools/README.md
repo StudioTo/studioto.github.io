@@ -1,4 +1,6 @@
 ---
+title: "Outils"
+toc: true
 permalink: /tools/
 redirect_from:
   - /use-material/
@@ -6,10 +8,13 @@ redirect_from:
 
 # Outils
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
-### &nbsp;
+- [Matériel](#matériel)
 
-# Matériel
+<!-- /toc -->
+
+## Matériel
 
 |![](https://studioto.github.io/media/tools/tech_materiel.jpg) |
 |:---:|

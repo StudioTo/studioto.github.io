@@ -1,4 +1,6 @@
 ---
+title: "Articulation du mot"
+toc: true
 permalink: /word-articulation/
 redirect_from:
   - /set-word-articulation/
@@ -16,7 +18,7 @@ L’articulation du mot concerne la manière dont les lettres interagissent à l
 |:---:|
 | L’articulation des lettres permet de renforcer le propos |
 
-### Sources
+#### Sources
 
 - Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972 
 - Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  

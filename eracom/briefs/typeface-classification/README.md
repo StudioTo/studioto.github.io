@@ -1,4 +1,6 @@
 ---
+title: "Classification typographique"
+toc: false
 permalink: /eracom/briefs/typeface-classification/
 redirect_from:
   - /eracom/briefs/classify-fonts/
@@ -6,11 +8,7 @@ redirect_from:
 
 # Classification typographique
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-# Brief
+## Brief
 
     ●   Classer les polices de caractères,
         - selon l’époque de leur dessin original
@@ -62,7 +60,7 @@ redirect_from:
         pour chaque famille, indiquer en dessous de la technique les 3 paramètres anatomiques
         (possible de se référer à la page classification historique)
 
-# Ressources
+## Ressources
 
 ✉️ Monuments architecturaux (images)  
 📎 [Histoire de l’écriture (point 3)](../../../typography-history/)  
@@ -70,13 +68,13 @@ redirect_from:
 📎 [Classification anatomique (point 4)](../../../anatomical-classification/)  
 📎 [Classification historique (point 4)](../../../historical-classification/)  
 
-# Objectifs
+## Objectifs
 
 ✅ Connaître l’anatomie des caractères (C1)  
 ✅ Trouver des polices dans la typothèque (C3)  
 ✅ Activer des polices dans la typothèque (C3)  
 ✅ Utiliser les blocs texte et image dans InDesign (C3)  
 
-# Évaluation
+## Évaluation
 
 📶 [Auto-évaluation (grille exercice)](../../../evaluation/)

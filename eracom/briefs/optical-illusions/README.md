@@ -1,4 +1,6 @@
 ---
+title: "Illusions d’optique"
+toc: false
 permalink: /eracom/briefs/optical-illusions/
 redirect_from:
   - /eracom/briefs/balance-fonts/
@@ -6,11 +8,7 @@ redirect_from:
 
 # Illusions d’optique
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-# Brief
+## Brief
 
     ●   Ajuster les réglages optiques d’une composition typographique
 
@@ -56,19 +54,19 @@ redirect_from:
         dessiner les formes primitives suivantes avec un fond noir : carré, rond, triangle
         sur la même ligne de base et avec une même hauteur de x de 4cm
 
-# Ressources
+## Ressources
 
 ✉️ Fichier de police (broken font)  
 📎 [Kerning Quizz](https://type.method.ac/)  
 📎 [Optique du caractère](../../../character-optics/)  
 
-# Objectifs
+## Objectifs
 
 ✅ Connaître les règlages optiques des caractères (C1)  
 ✅ Ajuster le crénage entre des caractères (C3)  
 ✅ Ajuster optiquement des formes primitives (C3)  
 ✅ Utiliser les outils de crénage, le pathfinder et la plume dans InDesign (C3)  
 
-# Évaluation
+## Évaluation
 
 📶 [Auto-évaluation (grille exercice)](../../../evaluation/)

@@ -1,4 +1,6 @@
 ---
+title: "Animation d’un logo"
+toc: false
 permalink: /eracom/briefs/logo-animation/
 redirect_from:
   - /eracom/briefs/animate-logo/
@@ -6,11 +8,7 @@ redirect_from:
 
 # Animation d’un logo
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-# Brief
+## Brief
 
     ●   Animer un logo de sorte à ce qu’il apparaisse
 
@@ -77,7 +75,7 @@ redirect_from:
         Exporter
 
 
-# Ressources
+## Ressources
 
 ✉️ Logos attribués  
 <!-- 📎 [Animation de symboles](../../../moving-shapes/)   -->
@@ -85,13 +83,13 @@ redirect_from:
 📎 [Créer une animation Lotie](https://www.youtube.com/watch?v=ajfKecCyNOs)  
 📎 [5 conseils pour créer une animation Lotie](https://www.youtube.com/watch?v=xawbY5A4miI)  
 
-# Objectifs
+## Objectifs
 
 ✅ Connaître les différents paramètres d’un objet vectoriel dans Figma (position, layout, apparance, fond, contour, effets) (C1)  
 ✅ Décomposer un logo en sous-parties (C3)  
 ✅ Animer l’apparition d’un logo (C3)  
 ✅ Utiliser la fonction smart animate dans Figma (C3)  
 
-# Évaluation
+## Évaluation
 
 📶 [Auto-évaluatio (grille exercice)](../../../evaluation/)

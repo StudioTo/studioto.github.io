@@ -1,4 +1,6 @@
 ---
+title: "L’orthographe de la typographie"
+toc: false
 permalink: /eracom/briefs/typographic-spelling/
 redirect_from:
   - /eracom/briefs/typeset-phrase/
@@ -6,11 +8,7 @@ redirect_from:
 
 # L’orthographe de la typographie
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-# Brief
+## Brief
 
     ●   Appliquer les règles de microtypographie
 
@@ -22,13 +20,13 @@ redirect_from:
     ⚠️  travail individuel
 
 
-# Ressources
+## Ressources
 
 📖 Guide du Typographe Romand  
 📎 [Microtypographie](../../../micro-typography/)  
 📎 [Table des caractères](../../../character-table/)   
 
-# Objectifs
+## Objectifs
 
 ✅ Connaître les règles de base de la microtypographie (C1)  
 ✅ Utiliser un guide de référence pour trouver des règles spécifiques (C3)  
@@ -36,6 +34,6 @@ redirect_from:
 ✅ Utiliser une table de caratères pour trouver des caractères spéciaux (C3)  
 ✅ Appliquer les règles de microtypographie (C3)  
 
-# Évaluation
+## Évaluation
 
 📶 [Évaluation (score)]()

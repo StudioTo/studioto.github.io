@@ -1,4 +1,6 @@
 ---
+title: "Rendus"
+toc: true
 permalink: /submission/
 redirect_from:
   - /evaluate-deliverable/
@@ -6,13 +8,15 @@ redirect_from:
 
 # Rendus
 
-- [Analogue & Digital](#Analogue-&-Digital)
-- [Nomenclature](#Nomenclature)
-- [À éviter](#À-éviter)
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
-### &nbsp;
+- [Analogue & Digital](#analogue--digital)
+- [Nomenclature](#nomenclature)
+- [À éviter](#à-éviter)
 
-# Analogue & Digital
+<!-- /toc -->
+
+## Analogue & Digital
 
 |![](https://studioto.github.io/media/submission/eval2.gif) |
 |:---:|
@@ -41,18 +45,18 @@ redirect_from:
 - Scanné proprement (scan photocopieuse et non photo au téléphone, à plat, avec uniquement du noir et blanc, net)
 - Nommé correctement (GRXXX_Nom_Prénom_Exercice)
 
-# Nomenclature
+## Nomenclature
 
 |![](https://studioto.github.io/media/submission/eval7.gif) |
 |:---:|
 | GRXXX_Nom_Prénom_Exercice |
 
-# À éviter
+## À éviter
 
 |![](https://studioto.github.io/media/submission/eval19.gif) |
 |:---:|
 | Mauvaise orientation, manque de netteté ou de contraste | 
 
-### Sources
+#### Sources
 
 [^1]: Cavandoli, Osvaldo, *La Linea*, Italie : Cavandoli / Gamma Film, 1969.

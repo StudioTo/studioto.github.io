@@ -1,4 +1,6 @@
 ---
+title: "Imprimantes"
+toc: true
 permalink: /printers/
 redirect_from:
   - /use-printer/
@@ -6,34 +8,41 @@ redirect_from:
 
 # Imprimantes
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
-### &nbsp;
+- [Login](#login)
+- [Menu](#menu)
+- [Copie : Photocopier](#copie-photocopier)
+- [Relâcher : Imprimer](#relâcher-imprimer)
+- [Numérisation : Scanner](#numérisation-scanner)
 
-# Login
+<!-- /toc -->
+
+## Login
 
 |![](https://studioto.github.io/media/printers/1_login.gif) |
 |:---:|
 | Utiliser l’utilisateur eduvaud (pxxx) et le mot de passe lié | 
 
-# Menu
+## Menu
 
 |![](https://studioto.github.io/media/printers/0_start_menu.jpg) |
 |:---:|
 | Scanner sur une imprimante | 
 
-# Copie : Photocopier
+## Copie : Photocopier
 
 |![](https://studioto.github.io/media/printers/5_copy.jpg) |
 |:---:|
 | Copie > Paramètres > Départ | 
 
-# Relâcher : Imprimer
+## Relâcher : Imprimer
 
 |![](https://studioto.github.io/media/printers/2_print.jpg) |
 |:---:|
 | Sélectionner les travaux / Régler l’option recto-verso / Imprimer | 
 
-# Numérisation : Scanner
+## Numérisation : Scanner
 
 |![](https://studioto.github.io/media/printers/3_scan_to_mail.gif) |
 |:---:|

@@ -1,4 +1,6 @@
 ---
+title: "Responsive poster"
+toc: false
 permalink: /eracom/briefs/responsive-poster/
 redirect_from:
   - /eracom/briefs/adapt-poster/
@@ -6,11 +8,7 @@ redirect_from:
 
 # Responsive poster
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-# Brief
+## Brief
 
     ●   Recomposer un poster dans Figma puis l’adapter au format page d’accueil web
 
@@ -54,17 +52,17 @@ redirect_from:
 
 
 
-# Ressources
+## Ressources
 
 ✉️ Poster attribués  
 
-# Objectifs
+## Objectifs
 
 ✅ Connaître les différents paramètres d’un objet vectoriel dans Figma (position, layout, apparance, fond, contour, effets) (C1)  
 ✅ Décomposer un poster en sous-parties (C3)   
 ✅ Adapter un même contenu dans un nouveau format (C3)    
 ✅ Animer l’apparition d’objets (C3) 
 
-# Évaluation
+## Évaluation
 
 📶 [Auto-évaluation (grille exercice)](../../../evaluation/)

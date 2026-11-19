@@ -1,10 +1,11 @@
+---
+title: "GR450-452 Typographie Sem. 1 2026-2027"
+toc: false
+---
+
 # GR450-452 Typographie Sem. 1 2026-2027
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-# 17.08.2026
+## 17.08.2026
 
 [📎 Gestion de classe](../../../briefs/typography/)  
 📼 Documentaire : *Graphic Means*
@@ -17,7 +18,7 @@ journal
     1 logo (redessiner dans Glyphs)
 Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more & poster -->
 
-# 24.08.2026
+## 24.08.2026
 
 [📄 Brief Remake Layout](../../../briefs/layout-remake/)  
   
@@ -25,77 +26,77 @@ Sem. 2 Dessin vectoriel : calligraphie (outil random) + no glyphs + anode & more
 
 <!-- Fin du documentaire + distrib journeaux -->
 
-# 31.08.2026
+## 31.08.2026
 
 ⬆️
 <!-- 
 Remake 1 page (images from Moma) -->
 
-# 07.09.2026
+## 07.09.2026
 
 [🎥 b) Styles de paragraphes & caractères](https://kdrive.t-o.studio/app/share/105447/03d6af24-521e-464d-b27c-a3293e306963)  
 
-# 14.09.2026
+## 14.09.2026
 
 [🎥 c) Grille verticale : colonnes](https://kdrive.t-o.studio/app/share/105447/31e89ef0-7dfc-45b7-94ab-1d3aec32e53f)  
 
-# 21.09.2026 🏖️
+## 21.09.2026 🏖️
 
-# 28.09.2026
+## 28.09.2026
 
 [🎥 d) Grille horizontale : lignes](https://kdrive.t-o.studio/app/share/105447/bd6e4956-8b30-49bb-b671-e8f6172f9ed4)  
 
-# 05.10.2026
+## 05.10.2026
 
 🧑🏻‍💻 e\) Éléments graphiques  
 🧑🏻‍💻 f\) Images
 
 ✅ Vérification du fichier
 
-# 12.10.2026 🏖️
+## 12.10.2026 🏖️
 
-# 19.10.2026 🏖️
+## 19.10.2026 🏖️
 
-# 26.10.2026 ⚠️ (rendu noté layout)
+## 26.10.2026 ⚠️ (rendu noté layout)
 
 [📄 Brief Remake Sign](../../../briefs/sign-remake/)  
   
 a) Échelle d’iconicité  
 b) Réaliser des esquisses de traduction graphique du niveau supérieur et du niveau inférieur  
 
-# 02.11.2026 
+## 02.11.2026 
 
 c) Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
 
-# 09.11.2026
+## 09.11.2026
 
 c) Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
 
-# 16.11.2026
+## 16.11.2026
 
 c) Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
 
-# 23.11.2026
+## 23.11.2026
 
 d) Finaliser les tracés pour la production / la distribution
 
-# 30.11.2026  ⚠️ (rendu noté signe)
+## 30.11.2026  ⚠️ (rendu noté signe)
 
 <!-- Rendu publicité
 Remake logo -->
 
-# 07.12.2026
+## 07.12.2026
 
-# 14.12.2026
+## 14.12.2026
 
-# 21.12.2026
+## 21.12.2026
 
-# 28.12.2026 🏖️
+## 28.12.2026 🏖️
 
-# 04.01.2027 🏖️
+## 04.01.2027 🏖️
 
-# 11.01.2027
+## 11.01.2027
 
-# 18.01.2027
+## 18.01.2027
 
 <!-- Rendu logo -->

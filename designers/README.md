@@ -1,4 +1,6 @@
 ---
+title: "Index des designers"
+toc: true
 permalink: /designers/
 redirect_from:
   - /index-designers/
@@ -6,149 +8,219 @@ redirect_from:
 
 # Index des designers
 
-### &nbsp;
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Aicher, Otl](#aicher-otl)
+- [Arp, Hans](#arp-hans)
+- [Bass, Saul](#bass-saul)
+- [Bayer, Herbert](#bayer-herbert)
+- [Behrens, Peter](#behrens-peter)
+- [Bennewith, David](#bennewith-david)
+- [Bill, Max](#bill-max)
+- [Carson, David](#carson-david)
+- [Carter, Matthew](#carter-matthew)
+- [Corbusier, Le](#corbusier-le)
+- [Crouwel, Wim](#crouwel-wim)
+- [Depero, Fortunato](#depero-fortunato)
+- [Eidenbenz, Hermann](#eidenbenz-hermann)
+- [Elliman, Paul](#elliman-paul)
+- [Excoffon, Roger](#excoffon-roger)
+- [Frutiger, Adrian](#frutiger-adrian)
+- [Gerstner, Karl](#gerstner-karl)
+- [Gill, Eric](#gill-eric)
+- [Glaser, Milton](#glaser-milton)
+- [Greiman, April](#greiman-april)
+- [Gropius, Walter](#gropius-walter)
+- [Gürtler, André](#gürtler-andré)
+- [Haettenschweiler, Walter](#haettenschweiler-walter)
+- [Hochuli, Jost](#hochuli-jost)
+- [Hofmann, Armin](#hofmann-armin)
+- [Holder, Will](#holder-will)
+- [Itten, Johannes](#itten-johannes)
+- [Johnston, Edward](#johnston-edward)
+- [Käch, Walter](#käch-walter)
+- [Kent, Corita](#kent-corita)
+- [Kim, Na](#kim-na)
+- [Klee, Paul](#klee-paul)
+- [Lubalin, Herbert](#lubalin-herbert)
+- [Lutz, Hans-Rudolf](#lutz-hans-rudolf)
+- [Martens, Karel](#martens-karel)
+- [Matta-Clark, Gordon](#matta-clark-gordon)
+- [Meier, Hans Eduard](#meier-hans-eduard)
+- [Moholy-Nagy, László](#moholy-nagy-lászló)
+- [Müller-Brockmann, Josef](#müller-brockmann-josef)
+- [Munari, Bruno](#munari-bruno)
+- [Nawrot, Karl](#nawrot-karl)
+- [Neurath, Otto](#neurath-otto)
+- [Noordzij, Gerrit](#noordzij-gerrit)
+- [Novarese, Aldo](#novarese-aldo)
+- [Rand, Paul](#rand-paul)
+- [Ray, Man](#ray-man)
+- [Renner, Paul](#renner-paul)
+- [Ruder, Emil](#ruder-emil)
+- [Saville, Peter](#saville-peter)
+- [Scher, Paula](#scher-paula)
+- [Schmidt, Helmut](#schmidt-helmut)
+- [Schwitters, Kurt](#schwitters-kurt)
+- [Sinister, Dexter](#sinister-dexter)
+- [Tanaka, Ikko](#tanaka-ikko)
+- [Tauber-Arp, Sophie](#tauber-arp-sophie)
+- [Team77](#team77)
+- [Troxler, Niklaus](#troxler-niklaus)
+- [Tschichold, Jan](#tschichold-jan)
+- [Unger, Gehard](#unger-gehard)
+- [van Doesburg, Theo](#van-doesburg-theo)
+- [Vignelli, Massimo](#vignelli-massimo)
+- [Von Arx, Peter](#von-arx-peter)
+- [Weiner, Laurence](#weiner-laurence)
+- [Wellington, Irene](#wellington-irene)
+- [Weingart, Wolfgang](#weingart-wolfgang)
+- [Widmer, Jean](#widmer-jean)
+- [Zapf, Hermann](#zapf-hermann)
+- [Zwart, Piet](#zwart-piet)
 
-# Aicher, Otl
+<!-- /toc -->
 
-# Arp, Hans
+## Aicher, Otl
+
+## Arp, Hans
 
 |![](https://studioto.github.io/media/designers/annuaire_arp_hans.gif) |
 |:---:|
 | Hans Arp (1886-1966)           |
 
-# Bass, Saul
+## Bass, Saul
 
-# Bayer, Herbert
+## Bayer, Herbert
 
-# Behrens, Peter
+## Behrens, Peter
 
-# Bennewith, David
+## Bennewith, David
 
-# Bill, Max
+## Bill, Max
 
 |![](https://studioto.github.io/media/designers/annuaire_bill_max.gif) |
 |:---:|
 | Max Bill (1908-1994)           |
 
-# Carson, David
+## Carson, David
 
-# Carter, Matthew
+## Carter, Matthew
 
-# Corbusier, Le
+## Corbusier, Le
 
-# Crouwel, Wim
+## Crouwel, Wim
 
-# Depero, Fortunato
+## Depero, Fortunato
 
-# Eidenbenz, Hermann
+## Eidenbenz, Hermann
 
-# Elliman, Paul
+## Elliman, Paul
 
-# Excoffon, Roger
+## Excoffon, Roger
 
-# Frutiger, Adrian
+## Frutiger, Adrian
 
-# Gerstner, Karl
+## Gerstner, Karl
 
-# Gill, Eric
+## Gill, Eric
 
-# Glaser, Milton
+## Glaser, Milton
 
-# Greiman, April
+## Greiman, April
 
-# Gropius, Walter
+## Gropius, Walter
 
-# Gürtler, André
+## Gürtler, André
 
-# Haettenschweiler, Walter
+## Haettenschweiler, Walter
 
-# Hochuli, Jost
+## Hochuli, Jost
 
-# Hofmann, Armin
+## Hofmann, Armin
 
-# Holder, Will
+## Holder, Will
 
-# Itten, Johannes
+## Itten, Johannes
 
-# Johnston, Edward
+## Johnston, Edward
 
-# Käch, Walter
+## Käch, Walter
 
-# Kent, Corita
+## Kent, Corita
 
-# Kim, Na
+## Kim, Na
 
-# Klee, Paul
+## Klee, Paul
 
-# Lubalin, Herbert
+## Lubalin, Herbert
 
-# Lutz, Hans-Rudolf
+## Lutz, Hans-Rudolf
 
-# Martens, Karel
+## Martens, Karel
 
-# Matta-Clark, Gordon
+## Matta-Clark, Gordon
 
-# Meier, Hans Eduard
+## Meier, Hans Eduard
 
-# Moholy-Nagy, László
+## Moholy-Nagy, László
 
-# Müller-Brockmann, Josef
+## Müller-Brockmann, Josef
 
-# Munari, Bruno
+## Munari, Bruno
 
-# Nawrot, Karl
+## Nawrot, Karl
 
-# Neurath, Otto
+## Neurath, Otto
 
-# Noordzij, Gerrit
+## Noordzij, Gerrit
 
-# Novarese, Aldo
+## Novarese, Aldo
 
-# Rand, Paul
+## Rand, Paul
 
-# Ray, Man
+## Ray, Man
 
-# Renner, Paul
+## Renner, Paul
 
-# Ruder, Emil
+## Ruder, Emil
 
-# Saville, Peter
+## Saville, Peter
 
-# Scher, Paula
+## Scher, Paula
 
-# Schmidt, Helmut
+## Schmidt, Helmut
 
-# Schwitters, Kurt
+## Schwitters, Kurt
 
-# Sinister, Dexter
+## Sinister, Dexter
 
-# Tanaka, Ikko
+## Tanaka, Ikko
 
-# Tauber-Arp, Sophie
+## Tauber-Arp, Sophie
 
-# Team77
+## Team77
 
-# Troxler, Niklaus
+## Troxler, Niklaus
 
-# Tschichold, Jan
+## Tschichold, Jan
 
-# Unger, Gehard
+## Unger, Gehard
 
-# van Doesburg, Theo
+## van Doesburg, Theo
 
-# Vignelli, Massimo
+## Vignelli, Massimo
 
-# Von Arx, Peter
+## Von Arx, Peter
 
-# Weiner, Laurence
+## Weiner, Laurence
 
-# Wellington, Irene
+## Wellington, Irene
 
-# Weingart, Wolfgang
+## Weingart, Wolfgang
 
-# Widmer, Jean
+## Widmer, Jean
 
-# Zapf, Hermann
+## Zapf, Hermann
 
-# Zwart, Piet
+## Zwart, Piet

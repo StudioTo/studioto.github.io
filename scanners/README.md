@@ -1,14 +1,12 @@
 ---
+title: "Imprimantes"
+toc: true
 permalink: /scanners/
 redirect_from:
   - /use-scanner/
 ---
 
 # Imprimantes
-
-
-### &nbsp;
-
 
 |![](https://studioto.github.io/media/scanners/tech13.gif) |
 |:---:|

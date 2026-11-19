@@ -1,4 +1,6 @@
 ---
+title: "Anatomie des caractères"
+toc: false
 permalink: /eracom/briefs/character-anatomy/
 redirect_from:
   - /eracom/briefs/measure-fonts/
@@ -6,11 +8,7 @@ redirect_from:
 
 # Anatomie des caractères
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-# Brief
+## Brief
 
     ●   Regrouper, aligner et mesurer des glyphes
 
@@ -61,13 +59,13 @@ redirect_from:
         Mettre en couleur la partie isolée
         Ajouter la légende (le nom de la partie) à côté de la partie
 
-# Ressources
+## Ressources
 
 ✉️ Fichier Illustrator (caractères)  
 ✉️ Fichier InDesign (mesures)   
 📎 [Mesures du caractère](../../../character-measures/)  
 
-# Objectifs
+## Objectifs
 
 ✅ Connaître l’anatomie des caractères (C1)  
 ✅ Rassembler les caractères d’une même police (C3)  
@@ -75,6 +73,6 @@ redirect_from:
 ✅ Espacer les caractères correctement dans le sens horizontal (C3)  
 ✅ Utiliser les outils pathfinder, rotation, les calques et les repères dans InDesign (C3)  
 
-# Évaluation
+## Évaluation
 
 📶 [Auto-évaluation (grille exercice)](../../../evaluation/)

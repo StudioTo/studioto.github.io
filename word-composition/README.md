@@ -1,4 +1,6 @@
 ---
+title: "Composition du mot"
+toc: true
 permalink: /word-composition/
 redirect_from:
   - /set-word-composition/
@@ -6,25 +8,31 @@ redirect_from:
 
 # Composition du mot
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Direction](#direction)
+- [Inter-lettrage](#inter-lettrage)
+
+<!-- /toc -->
+
 La composition du mot se réfère à l’organisation globale de ses lettres dans l’espace. Elle détermine le rythme visuel et la cohérence d’ensemble dans la lecture. En fonction du caractère choisi, les intervalles horizontales et verticales doivent être adaptées.
 
 → Le rythme dans la parole correspond à l’arrangement spatial dans l’écrit
   
-### &nbsp;
 
-# Direction  
+## Direction  
 
 |![](https://studioto.github.io/media/word-composition/0-mot35.gif) |
 |:---:|
 | En typographie occidentale, le sens de lecture se fait de gauche à droite et de haut en bas, mais il existe d’autres systèmes  |
 
-# Inter-lettrage  
+## Inter-lettrage  
 
 |![](https://studioto.github.io/media/word-composition/0-mot43.gif) |
 |:---:|
 | L’ajustement de l’espacement des lettres doit trouver un équilibre entre lisibilité et impact graphique |
 
-### Sources
+#### Sources
 
 - Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972 
 - Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  

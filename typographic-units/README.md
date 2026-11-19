@@ -1,4 +1,6 @@
 ---
+title: "Les unités typographiques"
+toc: true
 permalink: /typographic-units/
 redirect_from:
   - /see-units/
@@ -6,44 +8,48 @@ redirect_from:
 
 # Les unités typographiques
 
-- [La caractère](#le-caractere)
-- [Le mot](#le-mot)
-- [La ligne](#la-ligne)
-- [La colonne](#la-colonne)
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
-&nbsp;
+- [Le champ de la typographie](#le-champ-de-la-typographie)
+- [Les unités typographiques](#les-unités-typographiques-1)
+- [1. Le caractère](#le-caractere)
+- [2. Le mot](#le-mot)
+- [3. La ligne](#la-ligne)
+- [4. La colonne](#la-colonne)
 
-# Le champ de la typographie  
+<!-- /toc -->
+
+## Le champ de la typographie  
 
 |![](https://studioto.github.io/media/typographic-units/1-language_v217.gif)|
 |:---:|
 | La langue est notre principal moyen de communication : la typographie la rend lisible par des formes visuelles (images : Alva Noto) |
 
-# Les unités typographiques  
+## Les unités typographiques  
 
 |![](https://studioto.github.io/media/typographic-units/1-language_v252.gif)|
 |:---:|
 | Le message prend sa forme écrite grâce aux différentes unités de base de la typographie qui se combine pour former un ensemble cohérent |
 
-# 1. Le caractère {#le-caractere}  
+## 1. Le caractère {#le-caractere}  
 
 |![](https://studioto.github.io/media/typographic-units/1-language_v272.gif)|
 |:---:|
 | Les signes sont les particules élémentaires du langage écrit |
 
-# 2. Le mot {#le-mot}  
+## 2. Le mot {#le-mot}  
 
 |![](https://studioto.github.io/media/typographic-units/1-language_v279.gif)|
 |:---:|
 | Le mot est une combinaison de signes (lettres) |
 
-# 3. La ligne {#la-ligne}  
+## 3. La ligne {#la-ligne}  
 
 |![](https://studioto.github.io/media/typographic-units/1-language_v285.gif)|
 |:---:|
 | La ligne est constituée d’une séquence de mots séparés par des espaces |
 
-# 4. La colonne {#la-colonne}  
+## 4. La colonne {#la-colonne}  
 
 |![](https://studioto.github.io/media/typographic-units/1-language-typo-unit-column.gif)|
 |:---:|
@@ -51,7 +57,7 @@ redirect_from:
 
 
 
-### Sources
+#### Sources
 
 - Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
 - Adrian Frutiger, *Type Sign Symbol*, Zurich : ABC Verlag, 1980  

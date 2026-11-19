@@ -1,4 +1,6 @@
 ---
+title: "Programme"
+toc: true
 permalink: /program/
 redirect_from:
   - /evaluate-program/
@@ -6,13 +8,18 @@ redirect_from:
 
 # Programme
 
-&nbsp;
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Typographie S1 (GR-ID)](#typographie-s1-gr-id)
+- [Typographie S2 (GR)](#typographie-s2-gr)
+
+<!-- /toc -->
 
 |![](https://studioto.github.io/media/program/eracom_typo_teaser_manual.gif) |
 |:---:|
 | Aperçu des exercices réalisés en typographie |
 
-# Typographie S1 (GR-ID)
+## Typographie S1 (GR-ID)
 Le signe, le mot, la ligne et la colonne constituent les unités de base de la typographie. Chacune agit sur la lisibilité (dénotation) et l’expression (connotation) du message ; leur équilibre est essentiel pour mettre en forme une communication claire et impactante.
 
 - **Signe** (1 note)  
@@ -40,7 +47,7 @@ Le signe, le mot, la ligne et la colonne constituent les unités de base de la t
 	**Outil :** InDesign
 
 
-# Typographie S2 (GR)
+## Typographie S2 (GR)
 Apprendre à dessiner des caractères commence par la capacité à les déconstruire : analyser leur structure permet ensuite de les reconstruire avec cohérence et intention. Ce travail trouve des applications très concrète dans le domaine du design graphique, notamment la création de marque verbale ou d’identité visuelle.
 
 - **Lettrage** (1 note)  
@@ -62,7 +69,7 @@ Apprendre à dessiner des caractères commence par la capacité à les déconstr
 	**Outil :** InDesign
 
 
-<!-- # Prendre du plaisir	
+<!-- ## Prendre du plaisir	
 
 |:---:|
 | Il faut produire une idée pour pouvoir l'évaluer | -->

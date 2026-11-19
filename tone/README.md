@@ -1,4 +1,6 @@
 ---
+title: "Ton : Choisir le ou les caractère(s)"
+toc: true
 permalink: /tone/
 redirect_from:
   - /process-typeface/
@@ -6,28 +8,38 @@ redirect_from:
 
 # Ton :<br>Choisir le ou les caractère(s)
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Morphologie](#morphologie)
+- [Connotation](#connotation)
+- [Axes sémantiques](#axes-sémantiques)
+- [Typologie](#typologie)
+- [Gris de texte](#gris-de-texte)
+- [Contrastes](#contrastes)
+
+<!-- /toc -->
+
 - Quel ton ou registre sert le mieux le propos (avant même qu’il soit lu) ?  
 - Quels sont les axes sémantiques qui permettent de caractériser la thématique ?  
 
-## &nbsp;  
 
 Le choix du caractère typographique fixe le ton du message. Il s’agit d’articuler le rapport entre fond et forme, en tenant compte des connotations portées par la typographie.
   
 &nbsp;
 
-# Morphologie  
+## Morphologie  
 
 |![](https://studioto.github.io/media/tone/2-semiotique16.gif) |
 |:---:|
 | La morphologie des lettres se manifeste par des variations de style : italique (incliné), gras (épais), light (fin), etc. |
 
-# Connotation  
+## Connotation  
 
 |![](https://studioto.github.io/media/tone/0-mot15.gif) |
 |:---:|
 | Différentes formes de lettres sont associées à différentes valeurs culturelles : une linéale suggère la neutralité, une sérif classique évoque la tradition, une didone peut connoter le luxe, une script exprime la spontanéité, une gothique rappelle l’histoire médiévale, une géométrique suggère la modernité |
 
-# Axes sémantiques
+## Axes sémantiques
 
 •	Fort ↔ Faible  
 •	Dur ↔ Doux  
@@ -40,7 +52,7 @@ Le choix du caractère typographique fixe le ton du message. Il s’agit d’art
 •	Lisible ↔ Expressif  
 •	Formel ↔ Informel  
 
-# Typologie
+## Typologie
 
 •	Émotions : chaleureux, froid, joyeux, triste, rassurant, menaçant.  
 •	Société : prestigieux, populaire, féminin, masculin, enfantin, neutre.  
@@ -48,13 +60,13 @@ Le choix du caractère typographique fixe le ton du message. Il s’agit d’art
 •	Culture : moderne, classique, rétro, futuriste, artisanal, technologique.  
 •	Esthétique : élégant, brut, raffiné, décoratif, minimaliste, grotesque. 
 
-# Gris de texte  
+## Gris de texte  
 
 |![](https://studioto.github.io/media/tone/0-colonne20.gif) |
 |:---:|
 | Le gris de texte correspond à la densité visuelle produite par un bloc de texte. Un gris homogène favorise la lisibilité, tandis qu’un contraste marqué peut être utilisé à des fins expressives. |
 
-# Contrastes 
+## Contrastes 
 
 |![](https://studioto.github.io/media/tone/contraste_caracteres.gif) |
 |:---:|
@@ -87,6 +99,6 @@ Le choix du caractère typographique fixe le ton du message. Il s’agit d’art
 •	symétrie - asymétrie  
 •	minuscules - majuscules  
 
-### Sources
+#### Sources
 
 — Emil Ruder, *Typographie : Ein Gestaltungslehrbuch*. Teufen : Niggli, 1967  

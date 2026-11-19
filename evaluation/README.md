@@ -1,4 +1,6 @@
 ---
+title: "Critères d’évaluation"
+toc: true
 permalink: /evaluation/
 redirect_from:
   - /evaluate-criteria/
@@ -6,11 +8,14 @@ redirect_from:
 
 # Critères d’évaluation
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
-### &nbsp;
+- [Exercice](#exercice)
+- [Projet](#projet)
 
+<!-- /toc -->
 
-# Exercice
+## Exercice
 
 <div class="markdown-body">
   <style>
@@ -233,7 +238,7 @@ redirect_from:
   </table>
 </div>
 
-# Projet
+## Projet
 
 <div class="markdown-body">
   <!-- ======================= TABLEAU PROJET ======================= -->
@@ -483,32 +488,32 @@ redirect_from:
   </script>
 </div>
 
-<!-- ### &nbsp;
+<!-- #### &nbsp;
 
 |![](https://studioto.github.io/media/evaluation/0-eval_process.jpg) |
 |:---:|
 | Processus: organisation, développement, production |  -->
 
 
-<!-- # Exercice technique  
+<!-- ## Exercice technique  
 
 |![](https://studioto.github.io/media/evaluation/eval28.gif) |
 |:---:|
 | Juste ou faux |  -->
 
-<!-- ## 6 pts Organisation (gestion)  
+<!-- ### 6 pts Organisation (gestion)  
 
 |![](https://studioto.github.io/media/evaluation/eval29.gif) |
 |:---:|
 | Autonomie, compréhension du brief, gestion du temps et du matériel | 
 
-## 6 pts Développement (quantité)  
+### 6 pts Développement (quantité)  
 
 |![](https://studioto.github.io/media/evaluation/eval34.gif) |
 |:---:|
 | Recherche, itérations, variété, regard critique | 
 
-## 6 pts Production (qualité)  
+### 6 pts Production (qualité)  
 
 |![](https://studioto.github.io/media/evaluation/eval_prod4.gif) |
 |:---:|

@@ -1,4 +1,6 @@
 ---
+title: "Composition de la ligne"
+toc: true
 permalink: /line-composition/
 redirect_from:
   - /set-line-composition/
@@ -20,7 +22,7 @@ La composition de la ligne se réfère à l’espacement vertical et horizontal 
 
 
 
-### Sources
+#### Sources
 
 - Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
 - Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  

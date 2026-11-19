@@ -1,4 +1,6 @@
 ---
+title: "Table des caractères"
+toc: true
 permalink: /character-table/
 redirect_from:
   - /index-glyphs/

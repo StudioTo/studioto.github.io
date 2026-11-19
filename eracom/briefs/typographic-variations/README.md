@@ -1,4 +1,6 @@
 ---
+title: "Variations typographiques"
+toc: false
 permalink: /eracom/briefs/typographic-variations/
 redirect_from:
   - /eracom/briefs/vary-fonts/
@@ -6,11 +8,7 @@ redirect_from:
 
 # Variations typographiques
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-# Brief
+## Brief
 
     ●  Créer un specimen pour une police de caractères
     
@@ -85,20 +83,20 @@ redirect_from:
     Classification anatomique -->
 
 
-# Ressources
+## Ressources
 
 ✉️ Polices attribuées  
 📎 [Variations du caractère](../../../character-variations/)  
 📎 [Classification historique](../../../historical-classification/)  
 📎 [Classification anatomique](../../../anatomical-classification/)  
 
-# Objectifs
+## Objectifs
 
 ✅ Connaître les variations des caractères (C1)  
 ✅ Trouver et activer les fonctionnalités OpenType d’une police (C3)  
 ✅ Trouver et activer tous les glyphes du character set d’une police (C3)  
 ✅ Utiliser les blocs texte et les repères dans InDesign (C3)  
 
-# Évaluation
+## Évaluation
 
 📶 [Auto-évaluation](../../../evaluation/)

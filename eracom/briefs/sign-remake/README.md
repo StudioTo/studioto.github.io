@@ -1,4 +1,6 @@
 ---
+title: "Remake sign"
+toc: false
 permalink: /eracom/briefs/sign-remake/
 redirect_from:
   - /eracom/briefs/remake-sign/
@@ -6,11 +8,7 @@ redirect_from:
 
 # Remake sign
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-# Brief
+## Brief
 
     ●   Reconstruire un signe graphique en tracés vectoriels
 
@@ -53,7 +51,7 @@ redirect_from:
             - une seule forme, un seul fond, pas de contour
 
 
-# Ressources
+## Ressources
 
 ✉️ Gazette de Lausanne (pdf)  
 📎 [Échelle d’iconicité](../../../iconicity)  
@@ -62,13 +60,13 @@ redirect_from:
 📎 [Checklists](../../../checklists/)   -->
 
 
-# Objectifs
+## Objectifs
 
 ✅ Connaître les différents niveaux d’iconicité (C1)  
 ✅ Connaître les standards du dessin vectoriel (C1)  
 ✅ Utiliser les outils plume, formes primitites et pathfinder (C3)  
 ✅ Produire 3 niveaux de représentations graphiques différents d’un même objet (C3)  
 
-# Évaluation
+## Évaluation
 
 📶 [Auto-évaluation (grille exercice)](../../../evaluation/)

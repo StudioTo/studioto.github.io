@@ -1,4 +1,6 @@
 ---
+title: "Articulation de la ligne"
+toc: true
 permalink: /line-articulation/
 redirect_from:
   - /set-line-articulation/
@@ -14,7 +16,7 @@ L’articulation de la ligne concerne la manière de mettre en relief certains m
 |:---:|
 | Différents moyens de mettre en évidence |
 
-### Sources  
+#### Sources  
 
 - Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
 - Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  

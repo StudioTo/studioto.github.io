@@ -1,4 +1,6 @@
 ---
+title: "Remake layout"
+toc: false
 permalink: /eracom/briefs/layout-remake/
 redirect_from:
   - /eracom/briefs/remake-layout/
@@ -6,11 +8,7 @@ redirect_from:
 
 # Remake layout
 
-&nbsp;
-&nbsp;
-&nbsp;
-
-# Brief
+## Brief
 
     ●   Recomposer entièrement une page de journal
 
@@ -89,7 +87,7 @@ créer et positionner des blocs textes
 trouver des oeuvres dans la collection du MoMA pour remplacer les images
 créer les éléments graphiques (filets) -->
 
-# Regex
+## Regex
 
     :;!?
 
@@ -101,19 +99,19 @@ créer les éléments graphiques (filets) -->
     rechercher:     (\«)(\s)(.+?)( )(\»)
     remplacer:      $1~<$3~<$5
 
-# Ressources
+## Ressources
 
 ✉️ Gazette de Lausanne (pdf)  
 📎 [Collection du MoMA (images)](https://www.moma.org/collection/works/?classifications=any&date_begin=Pre-1850&date_end=2026&include_uncataloged_works=false&on_view=false&q=swimming+pool&recent_acquisitions=false&with_images=true)  
 📎 [Checklists](../../../checklists/)  
 
-# Objectifs
+## Objectifs
 
 ✅ Reconnaître les polices de caractères  
 ✅ Connaître les règles de la composition typographique  
 ✅ Comprendre la grille de mise en page d’une publication donnée  
 ✅ Produire une mise en page dans InDesign selon les règles de l’art (grille, styles, microtypographie)   
 
-# Évaluation
+## Évaluation
 
 📶 [Auto-évaluation (grille exercice)](../../../evaluation/)

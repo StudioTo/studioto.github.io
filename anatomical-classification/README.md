@@ -1,4 +1,6 @@
 ---
+title: "Classification Anatomique"
+toc: true
 permalink: /anatomical-classification/
 redirect_from:
   - /classify-typefaces-shapes/
@@ -6,16 +8,15 @@ redirect_from:
 
 # Classification Anatomique
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
 - [Tableau](#tableau)
 - [Squelette - Graisse - Enveloppe](#squelette-graisse-enveloppe)
-- [Squelette Dynamique](#squelette-dynamique)
-- [Squelette Statique](#squelette-statique)
-- [Squelette Géométrique](#squelette-geometrique)
 - [Combinaisons](#combinaisons)
-  
-&nbsp;
 
-# Tableau {#tableau}
+<!-- /toc -->
+
+## Tableau {#tableau}
 
 |![](https://studioto.github.io/media/anatomical-classification/era_typ_class_01.jpg) |
 |:---:|
@@ -25,7 +26,7 @@ redirect_from:
 |:---:|
 | Classification ramifiée basée sur l’anatomie des caractères | 
 
-# Squelette - Graisse - Enveloppe {#squelette-graisse-enveloppe}
+## Squelette - Graisse - Enveloppe {#squelette-graisse-enveloppe}
 
 |![](https://studioto.github.io/media/anatomical-classification/1-anatomique.gif) |
 |:---:|
@@ -50,7 +51,7 @@ Squelette
           └── Ornements
 ```
 
-## Squelette Dynamique {#squelette-dynamique}
+### Squelette Dynamique {#squelette-dynamique}
 
 |![](https://studioto.github.io/media/anatomical-classification/typo_classification_1_dynamique.gif) |
 |:---:|
@@ -59,7 +60,7 @@ Squelette
 Vocabulaire sémiotique :
 *convivial, ouvert, accessible, flexible, naturel, démocratique, chaleureux, accueillant, personnel, intemporel*
 
-## Squelette Statique {#squelette-statique}
+### Squelette Statique {#squelette-statique}
 
 |![](https://studioto.github.io/media/anatomical-classification/typo_classification_2_statique.gif) |
 |:---:|
@@ -68,7 +69,7 @@ Vocabulaire sémiotique :
 Vocabulaire sémiotique :
 *rationnel, ordonné, réservé, noble, élégant, sérieux, rigide, correct, rigoureux, autoritaire*
 
-## Squelette Géométrique {#squelette-geometrique}
+### Squelette Géométrique {#squelette-geometrique}
 
 |![](https://studioto.github.io/media/anatomical-classification/typo_classification_3_geometrique.gif) |
 |:---:|
@@ -77,7 +78,7 @@ Vocabulaire sémiotique :
 Vocabulaire sémiotique :
 *géométrique, simple, technique, moderne, fonctionnel, informel, systématique, sobre, construit, épuré*
 
-# Combinaisons {#combinaisons}
+## Combinaisons {#combinaisons}
 
 |![](https://studioto.github.io/media/anatomical-classification/pair_fonts.gif) |
 |:---:|
@@ -111,7 +112,7 @@ Ce système est un point de départ, il n’y a pas de règles absolues en mati�
 |:---:|
 | Différents principes \| Différents contrastes & terminaisons           |
 
-### Sources
+#### Sources
 
 - Indra Kupferschmid, *Buchstaben kommen selten allein : Typografie-Handbuch*, Sulgen : Niggli, 2004  
 - Gerrit Noordzij, *The Stroke : Theory of Writing*, London : Hyphen Press, 2005  

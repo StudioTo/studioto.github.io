@@ -1,4 +1,6 @@
 ---
+title: "Perception"
+toc: true
 permalink: /gestalt/
 redirect_from:
   - /see-gestalt/
@@ -6,9 +8,20 @@ redirect_from:
 
 # Perception
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Similarité](#similarité)
+- [Proximité](#proximité)
+- [Continuité](#continuité)
+- [Prégnance](#prégnance)
+- [Clôture](#clôture)
+- [Figure-Fond](#figure-fond)
+
+<!-- /toc -->
+
 La Gestalt (ou psychologie de la forme) étudie les conditions de la perception visuelle : comment le cerveau reconnaît, organise et assemble les formes pour produire du sens. Elle repose sur une idée centrale souvent résumée par la formule ***le tout est plus que la somme des parties***. Plutôt que de percevoir des éléments isolés, la perception construit spontanément des ensembles organisés. En design graphique, ces principes permettent de structurer l’information, guider le regard et améliorer la lisibilité.
 
-# Similarité
+## Similarité
 
 |![](https://studioto.github.io/media/gestalt/4-gestalt2.gif)|
 |:---:|
@@ -18,7 +31,7 @@ La Gestalt (ou psychologie de la forme) étudie les conditions de la perception 
 |:---:|
 | NBC |
 
-# Proximité
+## Proximité
 
 |![](https://studioto.github.io/media/gestalt/4-gestalt13.gif)|
 |:---:|
@@ -28,7 +41,7 @@ La Gestalt (ou psychologie de la forme) étudie les conditions de la perception 
 |:---:|
 | Adidas |
 
-# Continuité
+## Continuité
 
 |![](https://studioto.github.io/media/gestalt/4-gestalt19.gif)|
 |:---:|
@@ -38,7 +51,7 @@ La Gestalt (ou psychologie de la forme) étudie les conditions de la perception 
 |:---:|
 | Amazon |
 
-# Prégnance
+## Prégnance
 
 |![](https://studioto.github.io/media/gestalt/4-gestalt7.gif)|
 |:---:|
@@ -48,7 +61,7 @@ La Gestalt (ou psychologie de la forme) étudie les conditions de la perception 
 |:---:|
 | Nike |
 
-# Clôture
+## Clôture
 
 |![](https://studioto.github.io/media/gestalt/4-gestalt30.gif)|
 |:---:|
@@ -58,7 +71,7 @@ La Gestalt (ou psychologie de la forme) étudie les conditions de la perception 
 |:---:|
 | USA Network |
 
-# Figure-Fond
+## Figure-Fond
 
 |![](https://studioto.github.io/media/gestalt/4-gestalt35.gif)|
 |:---:|
@@ -71,7 +84,7 @@ La Gestalt (ou psychologie de la forme) étudie les conditions de la perception 
 
 
 
-<!-- ### Sources
+<!-- #### Sources
 
 - Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  
 - Adrian Frutiger, *Type Sign Symbol*, Zurich: ABC Verlag, 1980  

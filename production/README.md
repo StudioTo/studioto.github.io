@@ -1,4 +1,6 @@
 ---
+title: "Production : Délivrer une / des proposition(s)"
+toc: true
 permalink: /production/
 redirect_from:
   - /process-delivery/
@@ -6,8 +8,7 @@ redirect_from:
 
 # Production :<br>Délivrer une / des proposition(s)
 
-
-### Fichier
+#### Fichier
 
 ```
 ✓ Le format du document est correct
@@ -21,7 +22,7 @@ redirect_from:
 ✓ Le noir est uniforme
 ```
 
-### Impression
+#### Impression
 
 ```
 ✓ Le format du document est correct
@@ -32,7 +33,7 @@ redirect_from:
 ✓ La reliure est propre
 ```
 
-### Présentation
+#### Présentation
 
 ```
 ✓ Je connais les contraintes du brief

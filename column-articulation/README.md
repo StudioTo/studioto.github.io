@@ -1,4 +1,6 @@
 ---
+title: "Articulation de la lecture"
+toc: true
 permalink: /column-articulation/
 redirect_from:
   - /set-column-articulation/
@@ -14,7 +16,7 @@ L’articulation de la lecture désigne la manière dont le texte est structuré
 |:---:|
 | Texte brut → Texte structuré |
 
-### Sources
+#### Sources
 
 - Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
 - Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  

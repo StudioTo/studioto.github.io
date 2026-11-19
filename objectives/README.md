@@ -1,10 +1,25 @@
 ---
+title: "Objectifs"
+toc: true
 permalink: /objectives/
 redirect_from:
   - /evaluate-objectives/
 ---
 
 # Objectifs
+
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Connaître le vocabulaire de la typographie](#connaître-le-vocabulaire-de-la-typographie)
+- [Connaître les systèmes de classification des caractères](#connaître-les-systèmes-de-classification-des-caractères)
+- [Comprendre les unités typographiques](#comprendre-les-unités-typographiques)
+- [Comprendre les niveaux de typographie](#comprendre-les-niveaux-de-typographie)
+- [Comprendre la tension entre lisibilité et impact visuel](#comprendre-la-tension-entre-lisibilité-et-impact-visuel)
+- [Savoir faire des choix typographiques pertinents](#savoir-faire-des-choix-typographiques-pertinents)
+- [Maîtriser la composition typographique](#maîtriser-la-composition-typographique)
+- [Développer un regard critique et créatif](#développer-un-regard-critique-et-créatif)
+
+<!-- /toc -->
 
 « La typographie est soumise à un but précis : le message imprimé. Elle ne peut d’aucune manière se libérer de cette sujétion. L’ouvrage imprimé qui ne peut être lu devient un non-sens. »
 
@@ -14,45 +29,45 @@ Emil Ruder, 1967
 
 <!-- Chaque jour, de plus en plus d'informations visuelles et textuelles sont produites, ce qui représente un défi pour tous les designers qui font usage de la typographiques. Ce cours porte sur les méthodes d'organisation et de conception de l'information textuelle en fonction de son contenu et de son contexte, ainsi que sur les formats dans lesquels cette information est transmise au lecteur. Le terme «typographie» couvre dans notre cas tout le spectre de la communication visuelle qui implique un message écrit, y compris, par exemple, la conception de publications, d'affiches, de logos et de symboles. -->
 
-# Connaître le vocabulaire de la typographie
+## Connaître le vocabulaire de la typographie
 
 Identifier et utiliser avec précision les termes techniques de la discipline. 
 Comprendre ce vocabulaire permet de décrire, d’analyser et de communiquer clairement autour des choix typographiques.
 
-# Connaître les systèmes de classification des caractères
+## Connaître les systèmes de classification des caractères
 
 Reconnaître les grandes familles de caractères et leurs particularités stylistiques.
 Savoir situer un caractère dans cette classification aide à orienter les choix graphiques et à justifier leur pertinence.
 
-# Comprendre les unités typographiques
+## Comprendre les unités typographiques
 
 Comprendre que la typographie assemble des unités prédéterminés (signe, mot, ligne, colonne) pour créer un tout porteur de sens.  
 Identifier comment la combinaison et l’ordre des ces unités influencent la signification.
 
-# Comprendre les niveaux de typographie
+## Comprendre les niveaux de typographie
 
 Microtypographie : détails des signes, des mots, des lignes et des espaces.  
 Macrotypographie : organisation de l’espace du format, des colonnes, de la grille, des hiérarchies.
 
-# Comprendre la tension entre lisibilité et impact visuel
+## Comprendre la tension entre lisibilité et impact visuel
 
 Reconnaître que la forme sert avant tout la réception optimale du message.  
 Dépasser l’esthétisme pour privilégier la fonction.
 
-# Savoir faire des choix typographiques pertinents
+## Savoir faire des choix typographiques pertinents
 
 Comprendre que chaque caractère porte une tonalité et influence la perception du texte.  
 Assumer que la neutralité absolue n’existe pas ; toute typographie convoie un sens.
 
-# Maîtriser la composition typographique
+## Maîtriser la composition typographique
 
 Acquérir la connaissance et la maîtrise des outils, techniques et règles permettant de concevoir et réaliser des compositions typographiques professionnelles.
 
-# Développer un regard critique et créatif
+## Développer un regard critique et créatif
 
 Adapter les solutions aux contextes et contraintes spécifiques.
 
-<!-- # Exercice technique  
+<!-- ## Exercice technique  
 
 |![](https://studioto.github.io/media/objectives/eval28.gif) |
 |:---:|

@@ -1,4 +1,6 @@
 ---
+title: "Mise en page"
+toc: true
 permalink: /page-layout/
 redirect_from:
   - /set-column-layout/
@@ -14,7 +16,7 @@ La mise en page consiste à organiser la zone de lecture (les colonnes) dans le 
 |:---:|
 | Zone de texte + Folio + Section |
 
-### Sources
+#### Sources
 
 - Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
 - Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  

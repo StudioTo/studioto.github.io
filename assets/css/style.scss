@@ -66,34 +66,82 @@ a:focus,
   text-decoration: none;
 }
 
-/* ---------- Titres ---------- */
+/* ---------- Titres ----------
+   toutes les valeurs en px entiers (texte courant du thème = 16px)
+   #   titre du site (StudioTo) et titre de chaque page : 32px, gras ; le titre de page en italique
+   ##  sections (listées dans la table des matières) : 26px, gras (20 % plus petit que #)
+   ### et suivants : gras, taille décroissante */
 
-/* ---------- Tailles ----------
-   toutes les valeurs en px entiers (texte courant du thème = 16px) */
-
-/* # (h1, dont le titre du site StudioTo) et ## (h2) : même taille */
 .markdown-body h1,
-.markdown-body h2 {
-  font-size: 32px;
-  line-height: 40px;
-  padding-bottom: 10px;
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  font-weight: 700;
+  font-style: normal;
 }
 
 .markdown-body h1 {
-  font-weight: 700;
-}
-
-/* titre propre à chaque page (premier # sous StudioTo) : italique,
-   même graisse et même taille que StudioTo */
-html:not([data-page="/"]) .markdown-body > h1:first-child + h1 {
   font-size: 32px;
-  font-weight: 700;
-  font-style: italic;
+  line-height: 40px;
 }
 
-/* ## (h2) : regular, pas de gras */
+/* titre propre à chaque page (premier # sous StudioTo) : italique */
+html:not([data-page="/"]) .markdown-body > h1:first-child + h1 {
+  margin: 0;
+  padding: 7px 0;
+  font-style: italic;
+  border-bottom: var(--line);
+  cursor: pointer;             /* clic : retour à la table des matières */
+}
+
 .markdown-body h2 {
-  font-weight: 400;
+  margin: 48px 0 16px;
+  padding-bottom: 7px;
+  font-size: 26px;
+  line-height: 32px;
+  border-bottom: var(--line);
+}
+
+.markdown-body h3 { margin: 32px 0 16px; font-size: 22px; line-height: 28px; }
+.markdown-body h4 { margin: 24px 0 16px; font-size: 19px; line-height: 28px; }
+.markdown-body h5,
+.markdown-body h6 { margin: 24px 0 16px; font-size: 16px; line-height: 24px; }
+
+/* table des matières (générée au commit) : entre le titre et le contenu,
+   même dessin que l'index de l'accueil : une ligne grise sous chaque entrée */
+html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul {
+  margin: 0 0 48px;
+  padding: 0;
+  list-style: none;
+}
+
+html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul > li {
+  margin: 0;
+  padding: 7px 0;
+  font-size: 20px;
+  line-height: 30px;
+  border-bottom: var(--line);
+}
+
+/* sans table des matières : même espace entre le titre et le contenu */
+html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + :not(ul) {
+  margin-top: 24px;
+}
+
+/* titres de section : arrivent sous l'en-tête collant (lien de la table des matières) */
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6,
+.markdown-body [id] {
+  scroll-margin-top: calc(var(--sticky-h, 119px) + 16px);
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 /* texte courant des pages : 20 % plus grand (16px → 19px) ;
@@ -116,6 +164,7 @@ html:not([data-page="/"]) .markdown-body th p {
    texte d'introduction et intitulés de groupe (**Communication visuelle**, etc.) :
    même style, 20 % plus grands que le texte courant (19px), sans gras */
 html[data-page="/"] .markdown-body > p {
+  margin-top: 16px;
   font-size: 19px;
   line-height: 28px;
 }
@@ -136,11 +185,34 @@ html[data-page="/"] .markdown-body > p > strong:only-child {
   --line-gap: 7px;             /* espace identique au-dessus et au-dessous de chaque ligne */
 }
 
-/* titre du site (StudioTo) : ligne dessous, même espace dessus et dessous */
+/* ---------- En-tête collant ----------
+   StudioTo reste en haut de l'écran ; dessous, le titre de la page (pages)
+   ou la barre de recherche (accueil). Hauteurs mesurées par head-custom.html :
+   --sticky-top = hauteur de StudioTo, --sticky-h = hauteur totale */
+
+/* titre du site (StudioTo) : ligne dessous */
 .markdown-body > h1:first-child {
-  margin-bottom: var(--line-gap);
-  padding-bottom: var(--line-gap);
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  margin: 0;
+  padding: 16px 0 var(--line-gap);   /* une fois collé : 16px d'air au-dessus de StudioTo */
+  background: #fff;
   border-bottom: var(--line);
+}
+
+html:not([data-page="/"]) .markdown-body > h1:first-child + h1 {
+  position: sticky;
+  top: var(--sticky-top, 64px);
+  z-index: 2;
+  background: #fff;
+}
+
+html[data-page="/"] .index-tools {
+  position: sticky;
+  top: calc(var(--sticky-top, 64px) - 1px);   /* recouvre la ligne de StudioTo : pas de double ligne */
+  z-index: 2;
+  background: #fff;
 }
 
 /* accueil : le # &nbsp; d'espacement ne trace pas de ligne */

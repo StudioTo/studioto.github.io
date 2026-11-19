@@ -1,4 +1,6 @@
 ---
+title: "Classification Historique"
+toc: true
 permalink: /historical-classification/
 redirect_from:
   - /classify-typefaces-history/
@@ -6,29 +8,21 @@ redirect_from:
 
 # Classification Historique
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Tableau](#tableau)
+- [Timeline](#timeline)
 - [Incises](#incises)
 - [Scripts](#scripts)
-	- [Script Onciale](#script-onciale)
-	- [Script Interrompu *Fractures*](#script-fracture)
-	- [Script Cursif *Chancellerie*](#script-chancellerie)
-	- [Script Cursif *Main Ronde*](#script-main-ronde)
 - [Sérifs](#serifs)
-	- [Sérif Humaniste *Humanes-Garaldes*](#serif-humaniste)
-	- [Sérif Transitionnelle *Réales*](#serif-transitionnelle)
-	- [Sérif Rationnelle *Didones*](#serif-rationnelle)
-- [Slab-Sérifs](#slab-serifs)
-	- [Slab Rationnelle *Mécanes*](#slab-rationnelle)
-- [Sans-Sérifs](#sans-serifs)
-	- [Sans Rationnelle *Grotesques*](#sans-rationnelle)
-	- [Sans Humaniste *Humanes*](#sans-humaniste)
-	- [Sans Construite *Géométriques*](#sans-construite)
-	- [Sans Rationnelle *Néo-Grotesques*](#sans-rationnelle-neo)
 - [Expressives](#expressives)
+- [Slab-Sérifs](#slab-serifs)
+- [Sans-Sérifs](#sans-serifs)
 - [Hybrides](#hybrides)
-  
-## &nbsp;
 
-# Tableau
+<!-- /toc -->
+
+## Tableau
 
 |![](https://studioto.github.io/media/historical-classification/1-historique0.jpg) |
 |:---:|
@@ -42,7 +36,7 @@ redirect_from:
 |:---:|
 | L'outil utilisé pour écrire définit certains aspects de la forme des signes |  -->
 
-# Timeline
+## Timeline
 
 |![](https://studioto.github.io/media/historical-classification/1-2-formes.jpg) |
 |:---:|
@@ -52,9 +46,9 @@ redirect_from:
 |:---:|
 | Evolution des formes de l’écriture | 
 
-# [Incises](https://studioto.github.io/typography-history/#%EF%B8%8F-incises) {#incises}
+## [Incises](https://studioto.github.io/typography-history/#%EF%B8%8F-incises) {#incises}
 
-## Lapidaire {#lapidaire}
+### Lapidaire {#lapidaire}
 
 <!-- | Période | Technique | Squelette | Vox | 
 |:---:|:---:|
@@ -80,9 +74,9 @@ redirect_from:
 |:---:|
 | Ie siècle av. J.-C. |  
 
-# [Scripts](https://studioto.github.io/typography-history/#%EF%B8%8F-onciales) {#scripts}
+## [Scripts](https://studioto.github.io/typography-history/#%EF%B8%8F-onciales) {#scripts}
 
-## Script Onciale / Manuaires {#script-onciale}
+### Script Onciale / Manuaires {#script-onciale}
 
 <!-- | Squelette | Graisse | Enveloppe | Vox |
 |:---:|:---:|:---:|
@@ -174,7 +168,7 @@ redirect_from:
 |:---:|
 | XIe — XIIe siècle | 
 
-## Script Brisé / Fractures {#script-fracture}
+### Script Brisé / Fractures {#script-fracture}
 
 | Dans les caractères fractures — également appelés « gothique » — certaines ou toutes les parties rondes des lettres sont « brisées » en traits droits. Ce style s’est progressivement développé dans les régions médiévales afin que les scribes puissent copier les manuscrits plus rapidement qu’avec la main minuscule carolingienne qui était courante auparavant. Alors que les empattements humanistes ont supplanté la lettre noire en Europe du Sud au cours de la Renaissance, le style lettre noire — en particulier le Fraktur — a continué à être largement utilisé dans les pays germanophones jusqu’au milieu du XXe siècle.  |
 
@@ -214,9 +208,9 @@ redirect_from:
 |:---:|
 | XIVe siècle | 
 
-# [Sérifs](https://studioto.github.io/typography-history/#%EF%B8%8F-humanes) {#serifs}
+## [Sérifs](https://studioto.github.io/typography-history/#%EF%B8%8F-humanes) {#serifs}
 
-## Sérif Humaniste / Humanes-Garaldes {#serif-humaniste}
+### Sérif Humaniste / Humanes-Garaldes {#serif-humaniste}
 
 | Squelette | Graisse | Enveloppe |
 |:---:|:---:|:---:|
@@ -230,7 +224,7 @@ redirect_from:
 |:---:|
 | XVe — XVIe siècle | 
 
-<!-- ## Sérifs Cursives / Italiques {#serifs-italiques} -->
+<!-- ### Sérifs Cursives / Italiques {#serifs-italiques} -->
 
 | Humaniste cursive (italique) | 
 |:---:|
@@ -250,7 +244,7 @@ redirect_from:
 |:---:|
 | XVIe — XVIIe siècle | 
 
-## Script Chancellerie {#script-chancellerie}
+### Script Chancellerie {#script-chancellerie}
 
 |  L’écriture de chancellerie — parfois également appelée « chancelleresque » — trouve son origine dans la calligraphie à plume large de la période de la Renaissance. Elle est basée sur l’écriture cursive des XVe et XVIe siècles développée en Italie, d’où le terme alternatif d’« italique ». Des maîtres calligraphes comme Arrighi, Palatino et Tagliente ont publié des manuels d’écriture pour alimenter la « main italique ». |
 
@@ -266,7 +260,7 @@ redirect_from:
 |:---:|
 | 1531 | 
 
-## Script Main Ronde {#script-main-ronde}
+### Script Main Ronde {#script-main-ronde}
 
 |  L’écriture à main ronde est basée sur la calligraphie à stylo pointu et est liée aux périodes de style baroque et classique. Elle a été développée en Angleterre à la fin du XVIIe siècle et s’est largement répandue en Europe et en Amérique du Nord par la suite, propagée par des maîtres de l’écriture tels que Shelley, Bickham ou Snell. |
 
@@ -276,7 +270,7 @@ redirect_from:
 |:---:|
 | 1712 | 
 
-## Sérif Transitionnelle / Réales {#serif-transitionnelle}
+### Sérif Transitionnelle / Réales {#serif-transitionnelle}
 
 | Squelette | Graisse | Enveloppe |
 |:---:|:---:|:---:|
@@ -302,7 +296,7 @@ redirect_from:
 |:---:|
 | Milieu du XVIIIe siècle | 
 
-## Sérif Rationnelle / Didones {#serif-rationnelle}
+### Sérif Rationnelle / Didones {#serif-rationnelle}
 
 | Squelette | Graisse | Enveloppe |
 |:---:|:---:|:---:|
@@ -334,9 +328,9 @@ redirect_from:
 |:---:|
 | 1816 | 
 
-# [Expressives](https://studioto.github.io/typography-history/#%EF%B8%8F-expressives) {#expressives}
+## [Expressives](https://studioto.github.io/typography-history/#%EF%B8%8F-expressives) {#expressives}
 
-## Ornemental / Display {#slab-display}
+### Ornemental / Display {#slab-display}
 
 |  Il existe une histoire riche et abondante de caractères d’affichage décoratifs et ornementés à empattement plat conçus au 19e et au début du 20e siècle pour des affiches et d’autres travaux à façon. Ces caractères étaient particulièrement florissants aux États-Unis et étaient généralement produits sous forme de caractères en bois, car les grands corps devenaient trop lourds, trop chers et trop difficiles à couler en métal. |
 
@@ -346,9 +340,9 @@ redirect_from:
 |:---:|
 | 1821 | 
 
-# [Slab-Sérifs](https://studioto.github.io/typography-history/#%EF%B8%8F-mécanes) {#slab-serifs}
+## [Slab-Sérifs](https://studioto.github.io/typography-history/#%EF%B8%8F-mécanes) {#slab-serifs}
 
-## Slab Rationnelle / Mécanes {#slab-rationnelle}
+### Slab Rationnelle / Mécanes {#slab-rationnelle}
 
 | Squelette | Graisse | Enveloppe |
 |:---:|:---:|:---:|
@@ -362,9 +356,9 @@ redirect_from:
 |:---:|
 | 1844 | 
 
-# [Sans-Sérifs](https://studioto.github.io/typography-history/#%EF%B8%8F-grotesques) {#sans-serifs}
+## [Sans-Sérifs](https://studioto.github.io/typography-history/#%EF%B8%8F-grotesques) {#sans-serifs}
 
-## Sans Rationnelle / Grotesques {#sans-rationnelle}
+### Sans Rationnelle / Grotesques {#sans-rationnelle}
 
 | Squelette | Graisse | Enveloppe |
 |:---:|:---:|:---:|
@@ -378,7 +372,7 @@ redirect_from:
 |:---:|
 | 1898 | 
 
-## Sans Humaniste / Humanes {#sans-humaniste}
+### Sans Humaniste / Humanes {#sans-humaniste}
 
 | Squelette | Graisse | Enveloppe |
 |:---:|:---:|:---:|
@@ -392,7 +386,7 @@ redirect_from:
 |:---:|
 | 1927 | 
 
-## Sans Construite / Géométriques {#sans-construite}
+### Sans Construite / Géométriques {#sans-construite}
 
 | Squelette | Graisse | Enveloppe |
 |:---:|:---:|:---:|
@@ -412,7 +406,7 @@ redirect_from:
 |:---:|
 | 1931 | 
 
-## Sans Rationnelle / Néo-Grotesques {#sans-rationnelle-neo}
+### Sans Rationnelle / Néo-Grotesques {#sans-rationnelle-neo}
 
 | Squelette | Graisse | Enveloppe |
 |:---:|:---:|:---:|
@@ -450,9 +444,9 @@ redirect_from:
 |:---:|
 | 1970 | 
 
-# [Hybrides](https://studioto.github.io/typography-history/#%EF%B8%8F-hybrides) {#hybrides}
+## [Hybrides](https://studioto.github.io/typography-history/#%EF%B8%8F-hybrides) {#hybrides}
 
-## Superfamille {#hybride-superfamille}
+### Superfamille {#hybride-superfamille}
 
 | Les caractères hybrides cherchent à combiner dans une même famille plusieurs principes de construction typographique. Ils proposent souvent un système avec des variations de terminaisons (de sans-sérif à sérif par ex.) et de contrastes (contrasté à linéaire) de manière à donner plusieurs voix stylistiques à un seul squelette.  |
 
@@ -464,7 +458,7 @@ redirect_from:
 
 
 
-### Sources
+#### Sources
 
 - Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
 - Indra Kupferschmid, *Buchstaben kommen selten allein : Typografie-Handbuch*, Sulgen : Niggli, 2004  

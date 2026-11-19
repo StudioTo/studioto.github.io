@@ -1,4 +1,6 @@
 ---
+title: "Icône-Symbole"
+toc: true
 permalink: /icon-symbol/
 redirect_from:
   - /symbolize-development/
@@ -6,35 +8,43 @@ redirect_from:
 
 # Icône-Symbole
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Signe](#signe)
+- [Icône vs Symbole](#icône-vs-symbole)
+- [Valeur symbolique](#valeur-symbolique)
+- [Séquence de symboles](#séquence-de-symboles)
+
+<!-- /toc -->
+
 L’icône est un signe orienté vers l’usage (dénotation), le symbole est un signe orienté vers le sens (connotation).
   
-### &nbsp;
 
-# Signe
+## Signe
 
 |![](https://studioto.github.io/media/icon-symbol/1-language_v215.jpg)|
 |:---:|
 | Le langage est un système de signes permettent d’exprimer des idées, des émotions ou des informations |
 
-# Icône vs Symbole
+## Icône vs Symbole
 
 |![](https://studioto.github.io/media/icon-symbol/sigle_symbole.jpg) |
 |:---:|
 | Sigle (téléphone) vs Symbole (le futur) |
 
-# Valeur symbolique
+## Valeur symbolique
 
 |![](https://studioto.github.io/media/icon-symbol/developpement.jpg) |
 |:---:|
 | La valeur symbolique d’un signe individuel reste souvent cachée et insignifiante. |
 
-# Séquence de symboles
+## Séquence de symboles
 
 |![](https://studioto.github.io/media/icon-symbol/developpement2.gif) |
 |:---:|
 | La présentation d’une séquence de signes ou leur confrontation permet cependant de conférer aux signes une valeur narrative, voire figurative. |
 
-### Sources
+#### Sources
 
 - **Adrian Frutiger**  
   *Type, Sign, Symbol*, 1980

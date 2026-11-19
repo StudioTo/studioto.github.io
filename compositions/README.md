@@ -1,4 +1,6 @@
 ---
+title: "Compositions (2e vague) : Sélectionner les pistes principales et ajuster les détails techniques"
+toc: true
 permalink: /compositions/
 redirect_from:
   - /process-compositions/
@@ -10,7 +12,6 @@ redirect_from:
 - Comment associer les différentes variations (paramètres) pour créer une proposition cohérente et pertinente ?  
 - Est-ce possible de simplifier (un paramètre à la fois) ?  
 
-## &nbsp;  
 
 La mise en forme consiste à sélectionner une ou plusieurs variations en fonction de leur pertinence vis-à-vis du sujet. Il est alors possible d’en combiner plusieurs à la fois. A ce stade, il est important de ne pas simplement reprendre une variation telle quelle, mais de la questionner et d’en dériver plusieurs versions. La mise en forme apporte ainsi une réponse cohérente au cadre défini par les contraintes du projet. 
   
@@ -22,7 +23,7 @@ La mise en forme consiste à sélectionner une ou plusieurs variations en foncti
 
 <!--
 
-# Contrastes  
+## Contrastes  
 
 |![](links/) |
 |:---:|
@@ -45,19 +46,19 @@ organique et symetrie-asymetrie. Les caracteres obliques cor-respondent à l'éc
 14 Contrastes concentrique-excentrique et fermé-ouvert.
 15 Contrastes minuscules-majuscules et dynamique-statique.
 
-# Hiérarchies  
+## Hiérarchies  
 
 |![](links/) |
 |:---:|
 | Abc |
 
-# Grille  
+## Grille  
 
 |![](links/) |
 |:---:|
 | Abc |
 
-# Coins  
+## Coins  
 
 |![](links/) |
 |:---:|
@@ -66,7 +67,7 @@ organique et symetrie-asymetrie. Les caracteres obliques cor-respondent à l'éc
 
 -->
 
-<!-- ### Sources
+<!-- #### Sources
 
 - Karl Gerstner, *Kompendium für Alphabeten: Systematik der Schrift*, Sulgen/Frankfurt: Arthur Niggli, 1972 
 - Ruedi Rüegg, *Basic Typography: Design with Letters / Typografische Grundlagen mit Schrift*, Zurich: Delta & Spes, 1980  

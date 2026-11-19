@@ -1,4 +1,6 @@
 ---
+title: "Iconicité"
+toc: true
 permalink: /iconicity/
 redirect_from:
   - /see-iconicity/
@@ -6,19 +8,20 @@ redirect_from:
 
 # Iconicité
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
 - [Figuration-Abstraction](#figuration-abstraction)
 - [Mot-Image](#mot-image)
 - [Isotype](#isotype)
 - [Échelle d’iconicité](#wileman-iconicite)
-<!-- - [Échelle d’iconicité de Moles](#wileman-iconicite) -->
 
-&nbsp;
+<!-- /toc -->
 
 |![](https://studioto.github.io/media/iconicity/ecriture/evolution_alphabet.jpg)|
 |:---:|
 | Hans-Rudolf Lutz, Évolution de l’écriture dans *Ausbildung in typografischer Gestaltung*, 1980  |
 
-# Figuration-Abstraction {#figuration-abstraction}
+## Figuration-Abstraction {#figuration-abstraction}
 
 |![](https://studioto.github.io/media/iconicity/figuration-abstraction/pablo-picasso-etude-taureau.jpg)|
 |:---:|
@@ -28,13 +31,13 @@ redirect_from:
 |:---:|
 | Theo Van Doesburg, *La vache*, 1918 |
 
-# Mot-Image {#mot-image}
+## Mot-Image {#mot-image}
 
 |![](https://studioto.github.io/media/iconicity/mot-image/mots_images_magritte.jpg)|
 |:---:|
 | René Magritte, *Les mots et les images*, 1929 |
 
-# Isotype {#isotype}
+## Isotype {#isotype}
 
 |![](https://studioto.github.io/media/iconicity/isotype/isotypes.jpg)|
 |:---:|
@@ -44,7 +47,7 @@ redirect_from:
 |:---:|
 | Otto Neurath, Marie Neurath, Gerd Arntz, *How Long Do Animals Live ?*, 1939 |
 
-# Échelle d’iconicité {#wileman-iconicite}
+## Échelle d’iconicité {#wileman-iconicite}
 
 |![](https://studioto.github.io/media/iconicity/echelle-iconicite/wileman/iconicite_ralph_e_wileman.gif)|
 |:---:|
@@ -79,7 +82,7 @@ redirect_from:
 11. Symbole abstrait
 12. Symbole tacite
 
-<!-- # Échelle d’iconicité de Moles {#moles-iconicite}
+<!-- ## Échelle d’iconicité de Moles {#moles-iconicite}
 
 |![](links/1-Language_v2116.jpg)|
 |:---:|
@@ -91,7 +94,7 @@ redirect_from:
  -->
 
 
-<!-- ### Sources
+<!-- #### Sources
 
 - Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich: Hans-Rudolf Lutz Verlag, 1980  
 - Wileman

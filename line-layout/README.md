@@ -1,4 +1,6 @@
 ---
+title: "Mise en forme de la ligne"
+toc: true
 permalink: /line-layout/
 redirect_from:
   - /set-line-layout/
@@ -8,7 +10,6 @@ redirect_from:
 
 La mise en forme de la ligne se réfère à l’organisation globale des mots dans l’espace. Elle détermine le rythme visuel et la cohérence d’ensemble.
   
-### &nbsp;
 
 |![](https://studioto.github.io/media/line-layout/0-ligne27.gif) |
 |:---:|
@@ -16,7 +17,7 @@ La mise en forme de la ligne se réfère à l’organisation globale des mots da
 
 
 
-### Sources
+#### Sources
 
 - Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
 - Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  

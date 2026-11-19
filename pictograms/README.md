@@ -1,4 +1,6 @@
 ---
+title: "Index des pictogrammes"
+toc: true
 permalink: /pictograms/
 redirect_from:
   - /index-pictos/
@@ -6,10 +8,13 @@ redirect_from:
 
 # Index des pictogrammes
 
-### &nbsp;
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Munich Olympic Games](#munich-olympic-games)
 
-# Munich Olympic Games
+<!-- /toc -->
+
+## Munich Olympic Games
 
 |![](https://studioto.github.io/media/pictograms/1-language_v277.jpg)|
 |:---:|
