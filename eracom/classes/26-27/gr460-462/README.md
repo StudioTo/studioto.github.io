@@ -39,7 +39,7 @@ toc: false
 
 ## 06.10.2026
 
-⚠️ Rendu noté ex. 1.1.-1.4.  
+⚠️ Évaluation ex. 1.1.-1.4.  
 [📄 2. Mot : logotype](../../../briefs/word-image/)
 
 ## 13.10.2026
@@ -54,7 +54,7 @@ toc: false
 
 ## 17.11.2026
 
-⚠️ Rendu noté ex. 2  
+⚠️ Évaluation ex. 2  
 📖 Il faut prendre votre exemplaire du *Guide du typographe romand*  
 [📄 3. Ligne : appliquer correctement les règles de composition typographiques](../../../briefs/typographic-spelling/)
 
@@ -66,7 +66,7 @@ toc: false
 
 ## 01.12.2026
 
-⚠️ Rendu noté ex. 3  
+⚠️ Évaluation ex. 3  
 4\. Colonne : optimiser la lisibilité de textes dans différents formats
 
 ## 08.12.2026
@@ -83,4 +83,4 @@ toc: false
 
 ## 19.01.2027
 
-⚠️ Rendu noté ex. 4
+⚠️ Évaluation ex. 4

@@ -46,7 +46,7 @@ toc: false
 
 ## 26.10.2026
 
-⚠️ Rendu noté ex. 1.1.-1.4.  
+⚠️ Évaluation ex. 1.1.-1.4.  
 [📄 2. Mot : logotype](../../../briefs/word-image/)
 
 <!-- 2\. Mot: choisir une police pour un logo  
@@ -60,7 +60,7 @@ toc: false
 
 ## 23.11.2026
 
-⚠️ Rendu noté ex. 2  
+⚠️ Évaluation ex. 2  
 📖 Il faut prendre votre exemplaire du *Guide du typographe romand*  
 3\. Ligne : appliquer correctement les règles de composition typographiques
 
@@ -72,7 +72,7 @@ toc: false
 
 ## 14.12.2026
 
-⚠️ Rendu noté ex. 3  
+⚠️ Évaluation ex. 3  
 4\. Colonne : optimiser la lisibilité de textes dans différents formats
 
 ## 21.12.2026
@@ -85,4 +85,4 @@ toc: false
 
 ## 18.01.2027
 
-⚠️ Rendu noté ex. 4
+⚠️ Évaluation ex. 4

@@ -39,7 +39,7 @@ toc: false
 
 ## 06.10.2026
 
-⚠️ Rendu noté ex. 1.1.-1.4.  
+⚠️ Évaluation ex. 1.1.-1.4.  
 [📄 2. Mot : animation d’un logo](../../../briefs/logo-animation/)
 
 ## 13.10.2026
@@ -56,7 +56,7 @@ toc: false
 
 ## 10.11.2026
 
-⚠️ Rendu noté ex. 2  
+⚠️ Évaluation ex. 2  
 [📄 3. Ligne : adaptation d’un poster](../../../briefs/responsive-poster/)
 
 ## 17.11.2026
@@ -67,7 +67,7 @@ toc: false
 
 ## 08.12.2026
 
-⚠️ Rendu noté ex. 3  
+⚠️ Évaluation ex. 3  
 4\. Colonne : générique de film
 
 ## 15.12.2026
@@ -82,4 +82,4 @@ toc: false
 
 ## 19.01.2027
 
-⚠️ Rendu noté ex. 4
+⚠️ Évaluation ex. 4
