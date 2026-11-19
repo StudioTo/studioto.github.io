@@ -1,9 +1,9 @@
 ---
-title: "ID462 Typographie Sem. 1 2026-2027"
+title: "Eracom ID462 Typographie Sem. 1 2026-2027"
 toc: false
 ---
 
-# ID462 Typographie Sem. 1 2026-2027
+# Eracom ID462 Typographie Sem. 1 2026-2027
 
 ## 18.08.2026
 
@@ -23,39 +23,41 @@ toc: false
 ## 08.09.2026
 
 [📄 1.2. Lettre : ex. anatomie](../../../briefs/character-anatomy/)  
-[🎥 1.2. Lettre : ex. anatomie](https://kdrive.t-o.studio/app/share/105447/f07dd011-b056-4c66-9198-bc86bc22a2d0)  
+[🎥 1.2. Lettre : ex. anatomie](https://kdrive.t-o.studio/app/share/105447/f07dd011-b056-4c66-9198-bc86bc22a2d0)
 
 ## 15.09.2026
 
 [📄 1.3. Lettre : ex. optique](../../../briefs/optical-illusions/)  
-[🎥 1.3. Lettre : ex. optique](https://kdrive.t-o.studio/app/share/105447/da8e83b9-5bfb-4dbb-b79d-8e3465db38c5)  
+[🎥 1.3. Lettre : ex. optique](https://kdrive.t-o.studio/app/share/105447/da8e83b9-5bfb-4dbb-b79d-8e3465db38c5)
 
 ## 22.09.2026
 
 [📄 1.4. Lettre : ex. variations](../../../briefs/typographic-variations/)  
-[🎥 1.4. Lettre : ex. variations](https://kdrive.t-o.studio/app/share/105447/5a9ed82e-e136-49fa-aa89-013db7cdb4be)  
+[🎥 1.4. Lettre : ex. variations](https://kdrive.t-o.studio/app/share/105447/5a9ed82e-e136-49fa-aa89-013db7cdb4be)
 
 ## 29.09.2026
 
-## 06.10.2026 (rendu noté ex. 1.1.-1.4.)
+## 06.10.2026
 
-[📄 2. Mot : animation d’un logo](../../../briefs/logo-animation/) 
+⚠️ Rendu noté ex. 1.1.-1.4.  
+[📄 2. Mot : animation d’un logo](../../../briefs/logo-animation/)
 
 ## 13.10.2026
 
 ## 20.10.2026
 
-## 27.10.2026 
+## 27.10.2026
 
 ⬆️
 
-## 03.11.2026 
+## 03.11.2026
 
 ⬆️
 
-## 10.11.2026 (rendu noté ex. 2)
+## 10.11.2026
 
-[📄 3. Ligne : adaptation d’un poster](../../../briefs/responsive-poster/) 
+⚠️ Rendu noté ex. 2  
+[📄 3. Ligne : adaptation d’un poster](../../../briefs/responsive-poster/)
 
 ## 17.11.2026
 
@@ -63,8 +65,9 @@ toc: false
 
 ## 01.12.2026
 
-## 08.12.2026 (rendu noté ex. 3)
+## 08.12.2026
 
+⚠️ Rendu noté ex. 3  
 4\. Colonne : générique de film
 
 ## 15.12.2026
@@ -77,4 +80,6 @@ toc: false
 
 ## 12.01.2027
 
-## 19.01.2027 (rendu noté ex. 4)
+## 19.01.2027
+
+⚠️ Rendu noté ex. 4
