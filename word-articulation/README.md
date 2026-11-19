@@ -10,9 +10,12 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Introduction](#introduction)
 - [Sources](#sources)
 
 <!-- /toc -->
+
+## Introduction
 
 L’articulation du mot concerne la manière dont les lettres interagissent à l’intérieur d’un même mot. Elle prend en compte les effets de liaison, de séparation ou de mise en valeur. Elle module ainsi la séquence des lettres en insérant des nuances dans le flux de lecture.
 

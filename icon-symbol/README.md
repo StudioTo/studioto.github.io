@@ -10,6 +10,7 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Introduction](#introduction)
 - [Signe](#signe)
 - [Icône vs Symbole](#icône-vs-symbole)
 - [Valeur symbolique](#valeur-symbolique)
@@ -17,6 +18,8 @@ redirect_from:
 - [Sources](#sources)
 
 <!-- /toc -->
+
+## Introduction
 
 L’icône est un signe orienté vers l’usage (dénotation), le symbole est un signe orienté vers le sens (connotation).
   

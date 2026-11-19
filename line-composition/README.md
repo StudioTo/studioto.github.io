@@ -10,9 +10,12 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Introduction](#introduction)
 - [Sources](#sources)
 
 <!-- /toc -->
+
+## Introduction
 
 La composition de la ligne se réfère à l’espacement vertical et horizontal entre les mots qui régit la fluidité de lecture. Selon la police et le contexte, le règlage de ces intervalles peut renforcer soit la lisiblité, soit l’impact graphique.
   

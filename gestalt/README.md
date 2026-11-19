@@ -10,6 +10,7 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Introduction](#introduction)
 - [Similarité](#similarité)
 - [Proximité](#proximité)
 - [Continuité](#continuité)
@@ -18,6 +19,8 @@ redirect_from:
 - [Figure-Fond](#figure-fond)
 
 <!-- /toc -->
+
+## Introduction
 
 La Gestalt (ou psychologie de la forme) étudie les conditions de la perception visuelle : comment le cerveau reconnaît, organise et assemble les formes pour produire du sens. Elle repose sur une idée centrale souvent résumée par la formule ***le tout est plus que la somme des parties***. Plutôt que de percevoir des éléments isolés, la perception construit spontanément des ensembles organisés. En design graphique, ces principes permettent de structurer l’information, guider le regard et améliorer la lisibilité.
 

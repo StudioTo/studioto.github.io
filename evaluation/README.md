@@ -31,7 +31,7 @@ redirect_from:
       vertical-align: middle;
     }
     .markdown-body thead tr {
-      background: #f6f8fa;
+      background: #fff;
     }
     .markdown-body th { text-align: left; }
     .markdown-body .eval-table { table-layout: fixed; }
@@ -39,7 +39,7 @@ redirect_from:
     /* Lignes de critère */
     .markdown-body .eval-table .crit-row td {
       position: relative;
-      background: #eaeef2;
+      background: #fff;
       text-align: center;
     }
     .markdown-body .eval-table .crit-title { font-weight: 700; }
@@ -60,8 +60,8 @@ redirect_from:
       vertical-align: middle;
       background: #ffffff;
     }
-    .markdown-body .eval-table td.note-cell.note-good { background: #dafbe1; }
-    .markdown-body .eval-table td.note-cell.note-bad  { background: #ffebe9; }
+    .markdown-body .eval-table td.note-cell.note-good,
+    .markdown-body .eval-table td.note-cell.note-bad { background: #fff; }   /* pas de fond de couleur dans les tableaux */
     .markdown-body .note-cell .note-meta {
       margin-top: 8px;
       font-size: 12px;

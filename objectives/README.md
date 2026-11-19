@@ -10,6 +10,7 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Introduction](#introduction)
 - [Connaître le vocabulaire de la typographie](#connaître-le-vocabulaire-de-la-typographie)
 - [Connaître les systèmes de classification des caractères](#connaître-les-systèmes-de-classification-des-caractères)
 - [Comprendre les unités typographiques](#comprendre-les-unités-typographiques)
@@ -20,6 +21,8 @@ redirect_from:
 - [Développer un regard critique et créatif](#développer-un-regard-critique-et-créatif)
 
 <!-- /toc -->
+
+## Introduction
 
 « La typographie est soumise à un but précis : le message imprimé. Elle ne peut d’aucune manière se libérer de cette sujétion. L’ouvrage imprimé qui ne peut être lu devient un non-sens. »
 

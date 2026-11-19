@@ -107,7 +107,7 @@ body {
 /* titre propre à chaque page (premier # sous StudioTo) : italique, regular */
 html:not([data-page="/"]) .markdown-body > h1:first-child + h1 {
   margin: 0;
-  padding: 7px 0;
+  padding: 5px 0 9px;          /* capitales centrées entre les lignes grises (voir ## ci-dessous) */
   font-style: italic;
   font-weight: 400;
   border-bottom: var(--line);
@@ -115,8 +115,11 @@ html:not([data-page="/"]) .markdown-body > h1:first-child + h1 {
 }
 
 .markdown-body h2 {
-  margin: 41px 0 16px;         /* 41 + 7 = 48px au-dessus du texte du titre, comme avant */
-  padding: 7px 0;              /* même boîte que StudioTo et le titre de page : 7 + 40 + 7 entre les lignes */
+  margin: 43px 0 16px;         /* 43 + 5 = 48px au-dessus du texte du titre */
+  /* capitales centrées entre les lignes grises : New Computer Modern à 32px / 40px,
+     milieu des capitales à 22.5px sous le haut de la ligne de texte (au lieu de 20) ;
+     5 + 40 + 9 = 54px entre les lignes, milieu des capitales à 27.5px (milieu de la boîte : 27px) */
+  padding: 5px 0 9px;
   font-size: 32px;
   line-height: 40px;
   font-weight: 400;

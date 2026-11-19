@@ -10,9 +10,12 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Introduction](#introduction)
 - [Sources](#sources)
 
 <!-- /toc -->
+
+## Introduction
 
 L’articulation de la lecture désigne la manière dont le texte est structuré pour guider l’œil du lecteur. Hiérarchies visuelles, alinéas, retours à la ligne et espacements permettent de distinguer les niveaux d’importance et de faciliter la compréhension.
   

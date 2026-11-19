@@ -116,7 +116,7 @@ function showTip(cell) {
     const line = (tag, txt) => '<div class="gm-lang"><span>' + tag + ' :</span><span>' + esc(txt) + '</span></div>';
     const langs = (ch ? line("CH", ch) : "") + (fr ? line("FR", fr) : "") + (enal ? line("EN", enal) : "");
     const mac = it[9] ? '<div>Mac : ' + keysHTML(it[9]) + '</div>' : "";
-    tip.innerHTML = '<div>' + uplus(cp) + '</div>' + mac + '<div>' + esc(title(en)) + '</div>'
+    tip.innerHTML = '<div>' + uplus(cp) + ' ' + esc(title(en)) + '</div>' + mac
                   + (langs ? '<div class="gm-gap"></div>' + langs : "");
     tip.classList.add("open");
     const r = cell.getBoundingClientRect(), t = tip.getBoundingClientRect();

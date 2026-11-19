@@ -10,6 +10,7 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Introduction](#introduction)
 - [Mirroir de page](#mirroir-de-page)
 - [Zone de texte](#zone-de-texte)
 - [Marges](#marges)
@@ -19,6 +20,8 @@ redirect_from:
 - [Sources](#sources)
 
 <!-- /toc -->
+
+## Introduction
 
 La macro-typographie désigne l’organisation globale d’un texte dans l’espace du format.
 

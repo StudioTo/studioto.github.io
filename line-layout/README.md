@@ -10,9 +10,12 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Introduction](#introduction)
 - [Sources](#sources)
 
 <!-- /toc -->
+
+## Introduction
 
 La mise en forme de la ligne se réfère à l’organisation globale des mots dans l’espace. Elle détermine le rythme visuel et la cohérence d’ensemble.
   

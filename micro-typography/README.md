@@ -10,6 +10,7 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Introduction](#introduction)
 - [⌨️ Caractères](#️-caractères)
 - [🖱️ Glyphes](#️-glyphes)
 - [Checklist](#checklist)
@@ -24,6 +25,8 @@ redirect_from:
 - [Sources](#sources)
 
 <!-- /toc -->
+
+## Introduction
 
 La micro-typographie concerne le soin apporté aux détails fins du contenu texte.
 

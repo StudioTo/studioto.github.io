@@ -10,6 +10,7 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Introduction](#introduction)
 - [Mots / Ligne](#mots-ligne)
 - [Inter-ligne](#inter-ligne)
 - [Division en colonnes](#division-en-colonnes)
@@ -18,6 +19,8 @@ redirect_from:
 - [Sources](#sources)
 
 <!-- /toc -->
+
+## Introduction
 
 La composition des colonnes concerne l’organisation du texte en largeur et en hauteur au sein de la zone de texte.
 

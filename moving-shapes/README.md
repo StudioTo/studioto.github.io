@@ -10,9 +10,12 @@ redirect_from:
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
+- [Introduction](#introduction)
 - [Sources](#sources)
 
 <!-- /toc -->
+
+## Introduction
 
 En animation, le nombre d’images construit le temps, l’ampleur des changements détermine la vitesse, la variation des formes produit le mouvement et la continuité visuelle assure les transitions.
   
