@@ -16,10 +16,10 @@ Ressources for *graphic design* from Tancrède Ottiger : *[graphic](https://t-
 | Titre | Tag | |
 |---|---|---|
 | [Gestalt](/gestalt) | #communication visuelle | 👁️‍🗨️ |
-| [Iconicité](/iconicity) | #communication visuelle | 🚸 |
-| [Sémiotique](/semiotics) | #communication visuelle | 🏷️ |
 | [Lire-Voir](/read-see) | #communication visuelle | 👀 |
+| [Iconicité](/iconicity) | #communication visuelle | 🚸 |
 | [Icône-Symbole](/icon-symbol) | #communication visuelle | 🚸 |
+| [Sémiotique](/semiotics) | #communication visuelle | 🏷️ |
 | [Histoire de la typographie](/typography-history) | #histoire | ✍🏻 |
 | [Classification anatomique](/anatomical-classification) | #classification typographique | 🦴 |
 | [Classification historique](/historical-classification) | #classification typographique | 🕰️ |
@@ -57,7 +57,7 @@ Ressources for *graphic design* from Tancrède Ottiger : *[graphic](https://t-
 | [Pictogrammes](/pictograms) | #références | 📙 |
 | [Bibliographie](/bibliography) | #références | 📚 |
 | [Vocabulaire](/vocabulary) | #références | 🌐 |
-| [Table des caractères](/character-table) | #références | 📓 |
+| [Table des caractères](/character-table) | #références | 📋 |
 | [Outils](/tools) | #technique | 🛃 |
 | [Checklists](/checklists) | #technique | 🛂 |
 | [Imprimantes](/printers) | #technique | 🛜 |
