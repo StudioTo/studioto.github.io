@@ -196,6 +196,17 @@ html:not([data-page="/"]) .markdown-body th p {
   line-height: 24px;
 }
 
+/* notes [^1] : une ligne par note, sans espace entre elles */
+.markdown-body .footnotes ol {
+  margin: 0;
+}
+
+.markdown-body .footnotes li,
+.markdown-body .footnotes li + li,
+.markdown-body .footnotes p {
+  margin: 0;
+}
+
 /* ---------- Listes ----------
    même retrait partout (24px), quelle que soit la taille du texte ;
    puces dessinées en CSS pour qu'elles soient alignées dans toutes les listes */
