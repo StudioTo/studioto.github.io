@@ -1,40 +1,12 @@
 ---
 title: "Règles"
-toc: true
+toc: false
 permalink: /rules/
 redirect_from:
   - /evaluate-rules/
 ---
 
 # Règles
-
-<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
-
-- [Vouvoiement](#vouvoiement)
-- [Respect](#respect)
-- [Écoute](#écoute)
-- [Silence](#silence)
-- [Téléphone ⚠️](#téléphone-️)
-- [Participation](#participation)
-- [Ponctualité](#ponctualité)
-- [Organisation](#organisation)
-- [Sauvegarde ⚠️](#sauvegarde-️)
-- [Devoir](#devoir)
-- [Soin](#soin)
-- [Concentration ⚠️](#concentration-️)
-- [Responsabilité](#responsabilité)
-- [Question](#question)
-- [Proactivité](#proactivité)
-- [Absence ⚠️](#absence-️)
-- [Absence Prévue](#absence-prévue)
-- [Absence Imprévue](#absence-imprévue)
-- [Evaluation ⚠️](#evaluation-️)
-- [Retard](#retard)
-- [Rendu Partiel](#rendu-partiel)
-- [Non Rendu](#non-rendu)
-- [Sources](#sources)
-
-<!-- /toc -->
 
 |![](https://studioto.github.io/media/rules/0-eval2.gif) |
 |:---:|

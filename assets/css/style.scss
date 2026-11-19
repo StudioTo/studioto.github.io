@@ -66,9 +66,25 @@ a:focus,
   text-decoration: none;
 }
 
+/* ---------- Interlignages : une taille = un interlignage, sur tout le site ----------
+   32px → 40px   titres (StudioTo, titre de page, ##)
+   22px → 28px   ###
+   20px → 30px   index : titres de page, recherche
+   19px → 23px   texte courant (1.2), ####, intro de l'accueil
+   16px → 24px   légendes, table des matières, sources, notes, tags, #####, ######, texte du thème */
+html,
+body {
+  line-height: 24px;
+}
+
+/* listes : pas d'espace en plus entre les éléments, l'interlignage seul les sépare */
+.markdown-body li + li {
+  margin-top: 0;
+}
+
 /* ---------- Titres ----------
    toutes les valeurs en px entiers (texte courant du thème = 16px)
-   #   titre du site (StudioTo) et titre de chaque page : 32px, gras ; le titre de page en italique
+   #   titre du site (StudioTo) : 32px, gras ; titre de chaque page : 32px, italique regular
    ##  sections (listées dans la table des matières) : 32px comme #, regular
    ### et suivants : gras, taille décroissante */
 
@@ -87,11 +103,12 @@ a:focus,
   line-height: 40px;
 }
 
-/* titre propre à chaque page (premier # sous StudioTo) : italique */
+/* titre propre à chaque page (premier # sous StudioTo) : italique, regular */
 html:not([data-page="/"]) .markdown-body > h1:first-child + h1 {
   margin: 0;
   padding: 7px 0;
   font-style: italic;
+  font-weight: 400;
   border-bottom: var(--line);
   cursor: pointer;             /* clic : retour à la table des matières */
 }
@@ -115,7 +132,7 @@ html:not([data-page="/"]) .markdown-body .footnotes li {
 }
 
 .markdown-body h3 { margin: 32px 0 16px; font-size: 22px; line-height: 28px; }
-.markdown-body h4 { margin: 24px 0 16px; font-size: 19px; line-height: 28px; }
+.markdown-body h4 { margin: 24px 0 16px; font-size: 19px; line-height: 23px; }
 .markdown-body h5,
 .markdown-body h6 { margin: 24px 0 16px; font-size: 16px; line-height: 24px; }
 
@@ -163,14 +180,14 @@ html {
   scroll-behavior: smooth;
 }
 
-/* texte courant des pages : 20 % plus grand (16px → 19px) ;
+/* texte courant des pages : 20 % plus grand (16px → 19px), interlignage 1.2 (22.8 → 23px) ;
    les légendes sous les images (cellules de tableau) restent à 16px */
 html:not([data-page="/"]) .markdown-body p,
 html:not([data-page="/"]) .markdown-body li,
 html:not([data-page="/"]) .markdown-body dd,
 html:not([data-page="/"]) .markdown-body dt {
   font-size: 19px;
-  line-height: 28px;
+  line-height: 23px;
 }
 
 html:not([data-page="/"]) .markdown-body td p,
@@ -254,10 +271,10 @@ html:not([data-page="/"]) .markdown-body table:not(:has(tr > :nth-child(2))) img
   max-width: min(980px, calc(100vw - 32px));
 }
 
-/* plusieurs images côte à côte : même hauteur (celle de la plus basse), recadrées au centre ;
-   hauteur calculée par head-custom.html */
-html:not([data-page="/"]) .markdown-body table img.cover {
-  object-fit: cover;
+/* plusieurs images côte à côte : chaque image entière (contain), centrée verticalement dans sa cellule */
+html:not([data-page="/"]) .markdown-body table th:has(img),
+html:not([data-page="/"]) .markdown-body table td:has(img) {
+  vertical-align: middle;
 }
 
 /* ---------- Emojis des titres et de la table des matières : tout à droite, comme dans l'index
@@ -285,7 +302,7 @@ html:not([data-page="/"]) .markdown-body table img.cover {
 html[data-page="/"] .markdown-body > p {
   margin-top: 16px;
   font-size: 19px;
-  line-height: 28px;
+  line-height: 23px;
 }
 
 html[data-page="/"] .markdown-body > p > strong:only-child {
@@ -420,6 +437,7 @@ html[data-page="/"] .markdown-body table td:nth-child(1) {
 
 html[data-page="/"] .markdown-body table td:nth-child(2) {
   font-size: var(--index-tag-size);
+  line-height: 24px;           /* 16px → 24px, comme partout ; la ligne garde 30px (titre à 20px) */
 }
 
 /* emoji : tout à droite, toujours présent (taille fixe, la hauteur de ligne ne bouge pas),
