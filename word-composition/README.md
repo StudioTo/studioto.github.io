@@ -1,12 +1,12 @@
 ---
-title: "Composition"
+title: "Mot : Composition"
 toc: true
 permalink: /word-composition/
 redirect_from:
   - /set-word-composition/
 ---
 
-# Composition
+# Mot : Composition
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

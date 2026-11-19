@@ -24,18 +24,18 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Classification anatomique](/anatomical-classification) | #classification typographique | 🦴 |
 | [Classification historique](/historical-classification) | #classification typographique | 🕰️ |
 | [Unités typographiques](/typographic-units) | #unités typographiques | 🔎 |
-| [Anatomie](/character-anatomy) | #unités typographiques, #caractère | 🍖 |
-| [Mesures](/character-measures) | #unités typographiques, #caractère | ↕️ |
-| [Optique](/character-optics) | #unités typographiques, #caractère | 🔼 |
-| [Variations](/character-variations) | #unités typographiques, #caractère | 🔀 |
-| [Texture](/word-texture) | #unités typographiques, #mot | 🎨 |
-| [Graphie](/word-case) | #unités typographiques, #mot | 🔡 |
-| [Articulation](/word-articulation) | #unités typographiques, #mot | 📶 |
-| [Composition](/word-composition) | #unités typographiques, #mot | ↔️ |
-| [Orthographe typographique (micro)](/micro-typography) | #unités typographiques, #ligne | 🖍️ |
-| [Ligne](/line) | #unités typographiques, #ligne | ↔️ |
-| [Lisibilité (macro)](/macro-typography) | #unités typographiques, #colonne | 🔎 |
-| [Colonne](/column) | #unités typographiques, #colonne | ↔️ |
+| [Caractère : Anatomie](/character-anatomy) | #unités typographiques | 🍖 |
+| [Caractère : Mesures](/character-measures) | #unités typographiques | ↕️ |
+| [Caractère : Optique](/character-optics) | #unités typographiques | 🔼 |
+| [Caractère : Variations](/character-variations) | #unités typographiques | 🔀 |
+| [Mot : Texture](/word-texture) | #unités typographiques | 🎨 |
+| [Mot : Graphie](/word-case) | #unités typographiques | 🔡 |
+| [Mot : Articulation](/word-articulation) | #unités typographiques | 📶 |
+| [Mot : Composition](/word-composition) | #unités typographiques | ↔️ |
+| [Ligne : Orthographe typographique (micro)](/micro-typography) | #unités typographiques | 🖍️ |
+| [Ligne : Composition](/line) | #unités typographiques | ↔️ |
+| [Colonne : Lisibilité (macro)](/macro-typography) | #unités typographiques | 🔎 |
+| [Colonne : Composition](/column) | #unités typographiques | ↔️ |
 | [Formes en mouvement](/moving-shapes) | #animation | 📽️ |
 | [Construction des caractères](/character-construction) | #glyphes | ✏️ |
 | [Numérisation de croquis](/sketch-digitization) | #glyphes | 📸 |

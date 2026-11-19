@@ -1,12 +1,12 @@
 ---
-title: "Graphie"
+title: "Mot : Graphie"
 toc: true
 permalink: /word-case/
 redirect_from:
   - /set-word-case/
 ---
 
-# Graphie
+# Mot : Graphie
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

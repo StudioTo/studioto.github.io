@@ -1,5 +1,5 @@
 ---
-title: "Colonne"
+title: "Colonne : Composition"
 toc: true
 permalink: /column/
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
   - /set-column-layout/
 ---
 
-# Colonne
+# Colonne : Composition
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

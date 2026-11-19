@@ -1,12 +1,12 @@
 ---
-title: "Variations"
+title: "Caractère : Variations"
 toc: true
 permalink: /character-variations/
 redirect_from:
   - /study-sign-variations/
 ---
 
-# Variations
+# Caractère : Variations
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

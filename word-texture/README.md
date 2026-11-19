@@ -1,12 +1,12 @@
 ---
-title: "Texture"
+title: "Mot : Texture"
 toc: true
 permalink: /word-texture/
 redirect_from:
   - /set-word-texture/
 ---
 
-# Texture
+# Mot : Texture
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

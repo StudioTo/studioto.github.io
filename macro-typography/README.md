@@ -1,12 +1,12 @@
 ---
-title: "Lisibilité (macro)"
+title: "Colonne : Lisibilité (macro)"
 toc: true
 permalink: /macro-typography/
 redirect_from:
   - /set-macro-typo/
 ---
 
-# Lisibilité (macro)
+# Colonne : Lisibilité (macro)
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

@@ -1,12 +1,12 @@
 ---
-title: "Articulation"
+title: "Mot : Articulation"
 toc: true
 permalink: /word-articulation/
 redirect_from:
   - /set-word-articulation/
 ---
 
-# Articulation
+# Mot : Articulation
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 

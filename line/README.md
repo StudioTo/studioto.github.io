@@ -1,5 +1,5 @@
 ---
-title: "Ligne"
+title: "Ligne : Composition"
 toc: true
 permalink: /line/
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
   - /set-line-layout/
 ---
 
-# Ligne
+# Ligne : Composition
 
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
