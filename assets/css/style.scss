@@ -173,7 +173,7 @@ html:not([data-page="/"]) .markdown-body .footnotes li {
 .markdown-body h6 { margin: 24px 0 16px; font-size: 16px; line-height: 20px; }
 
 /* table des matières (générée au commit) : entre le titre et le contenu,
-   même taille que les légendes sous les images (16px), puces ▸ ;
+   même taille que les légendes sous les images (16px), tirets — ;
    pas de ligne entre les entrées, une ligne sous la table, même espace dessus et dessous */
 html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul {
   margin: 0 0 48px;
@@ -190,7 +190,7 @@ html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul > li {
 }
 
 html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + ul > li::before {
-  content: "▸";
+  content: "—";
   left: -24px;
   top: 0;
   width: 24px;
