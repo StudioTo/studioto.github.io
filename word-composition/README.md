@@ -12,6 +12,7 @@ redirect_from:
 
 - [Direction](#direction)
 - [Inter-lettrage](#inter-lettrage)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -32,8 +33,8 @@ La composition du mot se réfère à l’organisation globale de ses lettres dan
 |:---:|
 | L’ajustement de l’espacement des lettres doit trouver un équilibre entre lisibilité et impact graphique |
 
-#### Sources
+## Sources
 
-- Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972 
-- Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
-- Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  
+- [Gerstner, Karl, *Kompendium für Alphabeten : Systematik der Schrift*. Sulgen/Frankfurt : Arthur Niggli, 1972](/bibliography/#gerstner-1972)
+- [Rüegg, Ruedi, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*. Zurich : Delta & Spes, 1980](/bibliography/#ruegg-1980)
+- [Hochuli, Jost, *Le détail en typographie*. London : Hyphen Press, 2005 \[éd. orig. 1987\]](/bibliography/#hochuli-2005)

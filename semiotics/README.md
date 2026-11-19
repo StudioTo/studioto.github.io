@@ -18,6 +18,7 @@ redirect_from:
 - [Explicite vs Implicite](#explicite-vs-implicite)
 - [Axes sémantiques](#axes-semantiques)
 - [Typologie](#typologie)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -103,10 +104,10 @@ redirect_from:
 •	Esthétique : élégant, brut, raffiné, décoratif, minimaliste, grotesque.  
 
 
-#### Sources
+## Sources
 
-- Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich : Hans-Rudolf Lutz Verlag, 1980  
-- Abraham Moles, *Les sciences de l’imprécis : Échelles d’iconicité*, Paris : Seuil, 1990  
-- Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972  
-- Adrian Frutiger, *Type Sign Symbol*, Zurich : ABC Verlag, 1980  
+- [Lutz, Hans-Rudolf, *Ausbildung in typografischer Gestaltung*. Zurich : Hans-Rudolf Lutz Verlag, 1980](/bibliography/#lutz-1980)
+- [Moles, Abraham, *Les sciences de l’imprécis : Échelles d’iconicité*. Paris : Seuil, 1990](/bibliography/#moles-1990)
+- [Gerstner, Karl, *Kompendium für Alphabeten : Systematik der Schrift*. Sulgen/Frankfurt : Arthur Niggli, 1972](/bibliography/#gerstner-1972)
+- [Frutiger, Adrian, *Type Sign Symbol*. Zurich : ABC Verlag, 1980](/bibliography/#frutiger-1980)
 

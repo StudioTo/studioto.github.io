@@ -13,6 +13,7 @@ redirect_from:
 - [Textuel vs Pictural](#textuel-vs-pictural)
 - [Lisibilité des caractères](#lisibilite)
 - [Lisibilité vs Impact visuel](#lisibilite-vs-impact)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -56,11 +57,11 @@ redirect_from:
 
 
 
-#### Sources
+## Sources
 
-- Hans-Rudolf Lutz, *Ausbildung in typografischer Gestaltung*, Zurich : Hans-Rudolf Lutz Verlag, 1980 
-- Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972  
-- Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005
+- [Lutz, Hans-Rudolf, *Ausbildung in typografischer Gestaltung*. Zurich : Hans-Rudolf Lutz Verlag, 1980](/bibliography/#lutz-1980)
+- [Gerstner, Karl, *Kompendium für Alphabeten : Systematik der Schrift*. Sulgen/Frankfurt : Arthur Niggli, 1972](/bibliography/#gerstner-1972)
+- [Hochuli, Jost, *Le détail en typographie*. London : Hyphen Press, 2005 \[éd. orig. 1987\]](/bibliography/#hochuli-2005)
 
 
 <!--

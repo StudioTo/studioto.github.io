@@ -16,6 +16,7 @@ redirect_from:
 - [Typologie](#typologie)
 - [Gris de texte](#gris-de-texte)
 - [Contrastes](#contrastes)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -99,6 +100,6 @@ Le choix du caractère typographique fixe le ton du message. Il s’agit d’art
 •	symétrie - asymétrie  
 •	minuscules - majuscules  
 
-#### Sources
+## Sources
 
-— Emil Ruder, *Typographie : Ein Gestaltungslehrbuch*. Teufen : Niggli, 1967  
+- [Ruder, Emil, *Typographie : Ein Gestaltungslehrbuch*. Teufen : Niggli, 1967](/bibliography/#ruder-1967)

@@ -32,6 +32,7 @@ redirect_from:
 - [Retard](#retard)
 - [Rendu Partiel](#rendu-partiel)
 - [Non Rendu](#non-rendu)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -105,9 +106,9 @@ Il est primordial de rendre le travail au moment du rendu, même si il n’est p
 ## Non Rendu
 Un travail est considéré comme non rendu si il n’est pas rendu à la date mentionnée sur le brief et se retrouve sanctionné par un 1.
 
-#### Sources
+## Sources
 
-[^1]: Cavandoli, Osvaldo, *La Linea*, Italie : Cavandoli / Gamma Film, 1969.
+[^1]: [Cavandoli, Osvaldo, *La Linea*. Italie : Cavandoli / Gamma Film, 1969](/bibliography/#cavandoli-1969)
 
 <!-- |![](links/Eval28.gif) |
 |:---:|

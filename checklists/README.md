@@ -13,6 +13,7 @@ redirect_from:
 - [💻 InDesign](#-indesign)
 - [🔎 Micro-Typo](#-micro-typo)
 - [📐 Dessin vectoriel](#-dessin-vectoriel)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -112,12 +113,9 @@ redirect_from:
 - abc
 --->
 
-#### Sources
+## Sources
 
-- **ECAL/ Ecole Cantonale d’art de Lausanne**  
-  Harry Bloch, Pierrick Brégeon & Philippe Karrer  
-  *Gas for my Cadillac Manuel et quelques trucs de mise en page pour InDesign*, 2013
-- **François Rappo**  
-  *Checklist — micro-typographie*, 2009
+- [ECAL/ Ecole Cantonale d’art de Lausanne, Harry Bloch, Pierrick Brégeon & Philippe Karrer, *Gas for my Cadillac : Manuel et quelques trucs de mise en page pour InDesign*. Lausanne : ECAL, 2013](/bibliography/#ecal-2013)
+- [Rappo, François, *Checklist — micro-typographie*. Lausanne : ECAL, 2009](/bibliography/#rappo-2009)
 
-[^1]: Adrian Frutiger, *Type, Sign, Symbol*, 1980
+[^1]: [Frutiger, Adrian, *Type Sign Symbol*. Zurich : ABC Verlag, 1980](/bibliography/#frutiger-1980)

@@ -16,6 +16,7 @@ redirect_from:
 - [Illusion de contraste](#illusion-de-contraste)
 - [Illusion de position](#illusion-de-position)
 - [Formes → Caractères](#formes--caracteres)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -106,11 +107,11 @@ Les règles optiques qui s’appliquent aux formes primitives s’appliquent aus
 | Transposition des formes primaires aux caractères           |
 
 
-#### Sources
+## Sources
 
-- Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  
-- Jonathan Hoefler, *Typographic Illusions*, www.typography.com  
-- Anton Studer, *Is What I See What I Get ? — Math & Optics in Type Design*, www.typographica.org  
+- [Hochuli, Jost, *Le détail en typographie*. London : Hyphen Press, 2005 \[éd. orig. 1987\]](/bibliography/#hochuli-2005)
+- [Hoefler, Jonathan, *Typographic Illusions*. www.typography.com](/bibliography/#hoefler-web)
+- [Studer, Anton, *Is What I See What I Get ? — Math & Optics in Type Design*. www.typographica.org](/bibliography/#studer-web)
 
-[^1]: Franz Carl Müller-Lyer, *Müller-Lyer Illusion*, 1889
+[^1]: [Müller-Lyer, Franz Carl, *Müller-Lyer Illusion*, 1889](/bibliography/#muller-lyer-1889)
 

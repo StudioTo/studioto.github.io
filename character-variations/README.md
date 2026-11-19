@@ -13,6 +13,7 @@ redirect_from:
 - [Graisse](#graisse)
 - [Largeur](#largeur)
 - [Inclinaison](#inclinaison)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -67,7 +68,7 @@ Les italiques sont disponibles en complément des polices roman (droites), c’e
 L’italique est utilisé pour mettre en évidence certains éléments dans le texte.
 
 
-#### Sources
+## Sources
 
-- Adrian Frutiger, *Type Sign Symbol*, Zurich : ABC Verlag, 1980  
-- Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
+- [Frutiger, Adrian, *Type Sign Symbol*. Zurich : ABC Verlag, 1980](/bibliography/#frutiger-1980)
+- [Rüegg, Ruedi, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*. Zurich : Delta & Spes, 1980](/bibliography/#ruegg-1980)

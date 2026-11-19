@@ -18,6 +18,7 @@ redirect_from:
 - [6. Nuance](#6-nuance)
 - [7. Vérification](#7-vérification)
 - [8. Export](#8-export)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -98,9 +99,9 @@ redirect_from:
 
 
 
-#### Sources
+## Sources
 
-- Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
-- Indra Kupferschmid, *Buchstaben kommen selten allein : Typografie-Handbuch*, Sulgen : Niggli, 2004  
-- Robert Bringhurst, *The Elements of Typographic Style*, Vancouver : Hartley & Marks, 1992   
-- Gerrit Noordzij, *The Stroke : Theory of Writing*, London : Hyphen Press, 2005   
+- [Rüegg, Ruedi, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*. Zurich : Delta & Spes, 1980](/bibliography/#ruegg-1980)
+- [Kupferschmid, Indra, *Buchstaben kommen selten allein : Typografie-Handbuch*. Sulgen : Niggli, 2004](/bibliography/#kupferschmid-2004)
+- [Bringhurst, Robert, *The Elements of Typographic Style*. Vancouver : Hartley & Marks, 1992](/bibliography/#bringhurst-1992)
+- [Noordzij, Gerrit, *The Stroke : Theory of Writing*. London : Hyphen Press, 2005](/bibliography/#noordzij-2005)

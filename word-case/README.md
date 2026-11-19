@@ -12,6 +12,7 @@ redirect_from:
 
 - [Casse](#casse)
 - [Ponctuation](#ponctuation)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -35,9 +36,9 @@ La graphie désigne la manière dont un mot est écrit. Les mots sont des combin
 
 
 
-#### Sources
+## Sources
 
-- Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972 
-- Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
-- Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  
+- [Gerstner, Karl, *Kompendium für Alphabeten : Systematik der Schrift*. Sulgen/Frankfurt : Arthur Niggli, 1972](/bibliography/#gerstner-1972)
+- [Rüegg, Ruedi, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*. Zurich : Delta & Spes, 1980](/bibliography/#ruegg-1980)
+- [Hochuli, Jost, *Le détail en typographie*. London : Hyphen Press, 2005 \[éd. orig. 1987\]](/bibliography/#hochuli-2005)
 

@@ -14,6 +14,7 @@ redirect_from:
 - [Squelette](#squelette)
 - [Graisse](#graisse)
 - [Enveloppe](#enveloppe)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -87,10 +88,10 @@ redirect_from:
 |:---:|
 | Variation de l’effet général appliqué au dessin (outline, inline, hachure, ombre, gravure)           |
 
-#### Sources
+## Sources
 
-- Indra Kupferschmid, *Buchstaben kommen selten allein : Typografie-Handbuch*, Sulgen : Niggli, 2004  
-- Gerrit Noordzij, *The Stroke : Theory of Writing*, London : Hyphen Press, 2005  
-- Adrian Frutiger, *Type Sign Symbol*, Zurich : ABC Verlag, 1980  
-- Walter Käch, *Die Gezeichnete Schrift*, Zürich : [s.n.], 1949  
-- Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972  
+- [Kupferschmid, Indra, *Buchstaben kommen selten allein : Typografie-Handbuch*. Sulgen : Niggli, 2004](/bibliography/#kupferschmid-2004)
+- [Noordzij, Gerrit, *The Stroke : Theory of Writing*. London : Hyphen Press, 2005](/bibliography/#noordzij-2005)
+- [Frutiger, Adrian, *Type Sign Symbol*. Zurich : ABC Verlag, 1980](/bibliography/#frutiger-1980)
+- [Käch, Walter, *Die Gezeichnete Schrift*. Zürich : \[s.n.\], 1949](/bibliography/#kach-1949)
+- [Gerstner, Karl, *Kompendium für Alphabeten : Systematik der Schrift*. Sulgen/Frankfurt : Arthur Niggli, 1972](/bibliography/#gerstner-1972)

@@ -1,6 +1,6 @@
 ---
 title: "Bibliographie"
-toc: true
+toc: false
 permalink: /bibliography/
 redirect_from:
   - /index-books/
@@ -8,121 +8,118 @@ redirect_from:
 
 # Bibliographie
 
-<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+<!--
+  Bibliographie globale : seule source des références du site.
+  Une référence = un titre ## avec une clé {#auteur-année}, puis la référence.
+  Pour citer dans une page : [](/bibliography/#clé)  → le texte est rempli au commit,
+  et mis à jour dans toutes les pages quand la référence change ici.
+-->
 
-- [Baudin, Fernand, et John Dreyfus](#baudin-fernand-et-john-dreyfus)
-- [Bringhurst, Robert](#bringhurst-robert)
-- [Frutiger, Adrian](#frutiger-adrian)
-- [Frutiger, Adrian](#frutiger-adrian-1)
-- [ECAL/ Ecole Cantonale d’art de Lausanne](#ecal-ecole-cantonale-dart-de-lausanne)
-- [Gerstner, Karl](#gerstner-karl)
-- [Gerstner, Karl](#gerstner-karl-1)
-- [Haettenschweiler, Walter](#haettenschweiler-walter)
-- [Hochuli, Jost](#hochuli-jost)
-- [Hofmann, Armin](#hofmann-armin)
-- [Hoefler, Jonathan](#hoefler-jonathan)
-- [Käch, Walter](#käch-walter)
-- [Kupferschmid, Indra](#kupferschmid-indra)
-- [Lutz, Hans-Rudolf](#lutz-hans-rudolf)
-- [Lutz, Hans-Rudolf](#lutz-hans-rudolf-1)
-- [Müller-Brockmann, Josef](#müller-brockmann-josef)
-- [Müller-Brockmann, Josef](#müller-brockmann-josef-1)
-- [Moles, Abraham](#moles-abraham)
-- [Neurath, Otto](#neurath-otto)
-- [Noordzij, Gerrit](#noordzij-gerrit)
-- [Paim, Nina](#paim-nina)
-- [Rietveld Academie](#rietveld-academie)
-- [Ruder, Emil](#ruder-emil)
-- [Rüegg, Ruedi](#rüegg-ruedi)
-- [Studer, Anton](#studer-anton)
-- [Tschichold, Jan](#tschichold-jan)
-- [Tschichold, Jan](#tschichold-jan-1)
+## Arx, Peter von {#von-arx-1983}
+*Film + Design : Die elementaren Phänomene und Dimensionen des Films im gestalterischen Unterricht*. Haupt, 1983
 
-<!-- /toc -->
+## Baudin, Fernand, et John Dreyfus {#baudin-1973}
+*Dossier A-Z 73*. Andenne : Rémy Magermans, 1973
 
-## Baudin, Fernand, et John Dreyfus  
-*Dossier A-Z 73*. Andenne : Rémy Magermans, 1973  
+## Bringhurst, Robert {#bringhurst-1992}
+*The Elements of Typographic Style*. Vancouver : Hartley & Marks, 1992
 
-## Bringhurst, Robert  
-*The Elements of Typographic Style*. Vancouver : Hartley & Marks, 1992  
+## Cavandoli, Osvaldo {#cavandoli-1969}
+*La Linea*. Italie : Cavandoli / Gamma Film, 1969
 
-## Frutiger, Adrian  
-*Type Sign Symbol*. Zurich : ABC Verlag, 1980  
-
-## Frutiger, Adrian  
-*Des signes et des hommes*. Zurich : ABC Verlag, 1990  
-
-## ECAL/ Ecole Cantonale d’art de Lausanne  
+## ECAL/ Ecole Cantonale d’art de Lausanne {#ecal-2013}
 Harry Bloch, Pierrick Brégeon & Philippe Karrer  
-*Gas for my Cadillac : Manuel et quelques trucs de mise en page pour InDesign*. Lausanne : ECAL, 2013  
+*Gas for my Cadillac : Manuel et quelques trucs de mise en page pour InDesign*. Lausanne : ECAL, 2013
 
-## Gerstner, Karl  
-*Designing Programmes*. Baden : Lars Müller Publishers, 2007 [1ʳᵉ éd. 1964]  
+## Frutiger, Adrian {#frutiger-1980}
+*Type Sign Symbol*. Zurich : ABC Verlag, 1980
 
-## Gerstner, Karl  
-*Kompendium für Alphabeten : Systematik der Schrift*. Sulgen/Frankfurt : Arthur Niggli, 1972  
+## Frutiger, Adrian {#frutiger-1990}
+*Des signes et des hommes*. Zurich : ABC Verlag, 1990
 
-## Haettenschweiler, Walter  
-*Typographische Layouts*. Luzern : Th. Krämer Verlag, 1961  
+## Gerstner, Karl {#gerstner-2007}
+*Designing Programmes*. Baden : Lars Müller Publishers, 2007 [1ʳᵉ éd. 1964]
 
-## Hochuli, Jost  
-*Le détail en typographie*. London : Hyphen Press, 2005 [éd. orig. 1987]  
+## Gerstner, Karl {#gerstner-1972}
+*Kompendium für Alphabeten : Systematik der Schrift*. Sulgen/Frankfurt : Arthur Niggli, 1972
 
-## Hofmann, Armin  
-*Graphic Design Manual : Principles and Practice*. Zurich : ABC Verlag, 1965  
+## Haettenschweiler, Walter {#haettenschweiler-1961}
+*Typographische Layouts*. Luzern : Th. Krämer Verlag, 1961
 
-## Hoefler, Jonathan  
-*Typographic Illusions*. www.typography.com  
+## Hochuli, Jost {#hochuli-2005}
+*Le détail en typographie*. London : Hyphen Press, 2005 [éd. orig. 1987]
 
-## Käch, Walter  
-*Die Gezeichnete Schrift*. Zürich : [s.n.], 1949  
+## Hoefler, Jonathan {#hoefler-web}
+*Typographic Illusions*. www.typography.com
 
-## Kupferschmid, Indra  
-*Buchstaben kommen selten allein : Typografie-Handbuch*. Sulgen : Niggli, 2004  
+## Hofmann, Armin {#hofmann-1965}
+*Graphic Design Manual : Principles and Practice*. Zurich : ABC Verlag, 1965
 
-## Lutz, Hans-Rudolf  
-*Ausbildung in typografischer Gestaltung*. Zurich : Hans-Rudolf Lutz Verlag, 1980  
+## Käch, Walter {#kach-1949}
+*Die Gezeichnete Schrift*. Zürich : [s.n.], 1949
 
-## Lutz, Hans-Rudolf  
-*Typoundso*. Zurich : Hans-Rudolf Lutz Verlag, 1990–1996  
+## Kupferschmid, Indra {#kupferschmid-2004}
+*Buchstaben kommen selten allein : Typografie-Handbuch*. Sulgen : Niggli, 2004
 
-## Müller-Brockmann, Josef  
-*Grid Systems in Graphic Design : A Visual Communication Manual for Graphic Designers, Typographers and Three Dimensional Designers*. Zurich : Niggli, 1981  
+## Levit, Briar {#levit-2017}
+*Graphic Means, A History of Graphic Design Production*, 2017
 
-## Müller-Brockmann, Josef  
-*Geschichte der visuellen Kommunikation*. Teufen : Niggli, 1971  
+## Lutz, Hans-Rudolf {#lutz-1980}
+*Ausbildung in typografischer Gestaltung*. Zurich : Hans-Rudolf Lutz Verlag, 1980
 
-## Moles, Abraham  
-*Les sciences de l’imprécis : Échelles d’iconicité*. Paris : Seuil, 1990  
+## Lutz, Hans-Rudolf {#lutz-1990}
+*Typoundso*. Zurich : Hans-Rudolf Lutz Verlag, 1990–1996
 
-## Neurath, Otto  
-*Des hiéroglyphiques à l’Isotype : Une autobiographie visuelle*. Paris : B42, 2012 [éd. orig. 2010, MIT Press]  
+## Moles, Abraham {#moles-1990}
+*Les sciences de l’imprécis : Échelles d’iconicité*. Paris : Seuil, 1990
 
-## Noordzij, Gerrit  
-*The Stroke : Theory of Writing*. London : Hyphen Press, 2005  
+## Müller-Brockmann, Josef {#muller-brockmann-1981}
+*Grid Systems in Graphic Design : A Visual Communication Manual for Graphic Designers, Typographers and Three Dimensional Designers*. Zurich : Niggli, 1981
 
-## Paim, Nina  
-*Taking a Line for a Walk : Assignments in design education*. Leipzig : Spector Books, 2016  
+## Müller-Brockmann, Josef {#muller-brockmann-1971}
+*Geschichte der visuellen Kommunikation*. Teufen : Niggli, 1971
 
-## Rietveld Academie  
-*Typography Manual*. Amsterdam : initiated by Laurenz Brunner and designed by the 2nd year Graphic Design Department, 2010  
+## Müller-Lyer, Franz Carl {#muller-lyer-1889}
+*Müller-Lyer Illusion*, 1889
 
-## Ruder, Emil  
-*Typographie : Ein Gestaltungslehrbuch*. Teufen : Niggli, 1967  
+## Neurath, Otto {#neurath-2012}
+*Des hiéroglyphiques à l’Isotype : Une autobiographie visuelle*. Paris : B42, 2012 [éd. orig. 2010, MIT Press]
 
-## Rüegg, Ruedi  
-*Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*. Zurich : Delta & Spes, 1980  
+## Noordzij, Gerrit {#noordzij-2005}
+*The Stroke : Theory of Writing*. London : Hyphen Press, 2005
 
-## Studer, Anton  
-*Is What I See What I Get ? — Math & Optics in Type Design*. www.typographica.org  
+## Noto, Alva, et Anne-James Chaton {#noto-chaton-2011}
+*Uni Acronym*, 2011
 
-## Tschichold, Jan  
-*Asymmetric Typography*. London : Faber & Faber, 1967 [éd. orig. 1935]  
+## Paim, Nina {#paim-2016}
+*Taking a Line for a Walk : Assignments in design education*. Leipzig : Spector Books, 2016
 
-## Tschichold, Jan  
-*Livre et typographie*. Paris : Allia, 1994 [éd. orig. 1948]  
+## Rappo, François {#rappo-2009}
+*Checklist — micro-typographie*. Lausanne : ECAL, 2009
 
+## Rietveld Academie {#rietveld-academie-2010}
+*Typography Manual*. Amsterdam : initiated by Laurenz Brunner and designed by the 2nd year Graphic Design Department, 2010
 
+## Ruder, Emil {#ruder-1967}
+*Typographie : Ein Gestaltungslehrbuch*. Teufen : Niggli, 1967
+
+## Rüegg, Ruedi {#ruegg-1980}
+*Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*. Zurich : Delta & Spes, 1980
+
+## Studer, Anton {#studer-web}
+*Is What I See What I Get ? — Math & Optics in Type Design*. www.typographica.org
+
+## Tschichold, Jan {#tschichold-1967}
+*Asymmetric Typography*. London : Faber & Faber, 1967 [éd. orig. 1935]
+
+## Tschichold, Jan {#tschichold-1994}
+*Livre et typographie*. Paris : Allia, 1994 [éd. orig. 1948]
+
+## Voegeli, Jonas {#voegeli-web}
+www.voegeli.info
+
+## Wellington, Irene {#wellington-1920}
+*The Foundational Hand*, 1920
 
 <!--
 

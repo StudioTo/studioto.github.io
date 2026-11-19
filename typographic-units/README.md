@@ -16,6 +16,7 @@ redirect_from:
 - [2. Le mot](#le-mot)
 - [3. La ligne](#la-ligne)
 - [4. La colonne](#la-colonne)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -57,13 +58,13 @@ redirect_from:
 
 
 
-#### Sources
+## Sources
 
-- Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
-- Adrian Frutiger, *Type Sign Symbol*, Zurich : ABC Verlag, 1980  
-- Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972  
-- Alva Noto & Anne-James Chaton, *Uni Acronym*, 2011
-- Jonas Voegeli, www.voegeli.info
+- [Rüegg, Ruedi, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*. Zurich : Delta & Spes, 1980](/bibliography/#ruegg-1980)
+- [Frutiger, Adrian, *Type Sign Symbol*. Zurich : ABC Verlag, 1980](/bibliography/#frutiger-1980)
+- [Gerstner, Karl, *Kompendium für Alphabeten : Systematik der Schrift*. Sulgen/Frankfurt : Arthur Niggli, 1972](/bibliography/#gerstner-1972)
+- [Noto, Alva, et Anne-James Chaton, *Uni Acronym*, 2011](/bibliography/#noto-chaton-2011)
+- [Voegeli, Jonas, www.voegeli.info](/bibliography/#voegeli-web)
 
 
 <!--

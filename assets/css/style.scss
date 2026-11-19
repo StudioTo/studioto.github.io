@@ -69,7 +69,7 @@ a:focus,
 /* ---------- Titres ----------
    toutes les valeurs en px entiers (texte courant du thème = 16px)
    #   titre du site (StudioTo) et titre de chaque page : 32px, gras ; le titre de page en italique
-   ##  sections (listées dans la table des matières) : 26px, gras (20 % plus petit que #)
+   ##  sections (listées dans la table des matières) : 32px comme #, regular
    ### et suivants : gras, taille décroissante */
 
 .markdown-body h1,
@@ -99,9 +99,19 @@ html:not([data-page="/"]) .markdown-body > h1:first-child + h1 {
 .markdown-body h2 {
   margin: 48px 0 16px;
   padding-bottom: 7px;
-  font-size: 26px;
-  line-height: 32px;
+  font-size: 32px;
+  line-height: 40px;
+  font-weight: 400;
   border-bottom: var(--line);
+}
+
+/* Sources (## Sources) et notes [^1] : taille des légendes sous les images */
+html:not([data-page="/"]) .markdown-body h2#sources + ul > li,
+html:not([data-page="/"]) .markdown-body .footnotes,
+html:not([data-page="/"]) .markdown-body .footnotes p,
+html:not([data-page="/"]) .markdown-body .footnotes li {
+  font-size: 16px;
+  line-height: 24px;
 }
 
 .markdown-body h3 { margin: 32px 0 16px; font-size: 22px; line-height: 28px; }

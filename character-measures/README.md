@@ -15,6 +15,7 @@ redirect_from:
 - [Surfaces](#surfaces)
 - [Casse](#casse)
 - [Morphologie](#morphologie)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -210,7 +211,7 @@ redirect_from:
 |:---:|
 | La queue est une extension qui s’étend en dehors de la lettre, comme dans le « Q » ou le « J »           |
 
-#### Sources
+## Sources
 
-- Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  
-- Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980 
+- [Hochuli, Jost, *Le détail en typographie*. London : Hyphen Press, 2005 \[éd. orig. 1987\]](/bibliography/#hochuli-2005)
+- [Rüegg, Ruedi, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*. Zurich : Delta & Spes, 1980](/bibliography/#ruegg-1980)

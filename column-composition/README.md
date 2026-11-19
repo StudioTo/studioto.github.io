@@ -15,6 +15,7 @@ redirect_from:
 - [Division en colonnes](#division-en-colonnes)
 - [Alignement](#alignement)
 - [Drapeau](#drapeau)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -64,10 +65,10 @@ La composition des colonnes concerne l’organisation du texte en largeur et en 
 | Le drapeau désigne l’ajustement du bord irrégulier du texte non justifié par un travail d’espacement, de césure et de retour à la ligne |
 
 
-#### Sources
+## Sources
 
-- Ruedi Rüegg, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*, Zurich : Delta & Spes, 1980  
-- Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  
-- Karl Gerstner, *Kompendium für Alphabeten : Systematik der Schrift*, Sulgen/Frankfurt : Arthur Niggli, 1972  
-- Karl Gerstner, *Designing Programmes*, Baden : Lars Müller Publishers, 2007 [1ʳᵉ éd. 1964]  
-- Josef Müller-Brockmann, *Grid Systems in Graphic Design : A Visual Communication Manual for Graphic Designers, Typographers and Three Dimensional Designers*, Zurich : Niggli, 1981  
+- [Rüegg, Ruedi, *Basic Typography : Design with Letters / Typografische Grundlagen mit Schrift*. Zurich : Delta & Spes, 1980](/bibliography/#ruegg-1980)
+- [Hochuli, Jost, *Le détail en typographie*. London : Hyphen Press, 2005 \[éd. orig. 1987\]](/bibliography/#hochuli-2005)
+- [Gerstner, Karl, *Kompendium für Alphabeten : Systematik der Schrift*. Sulgen/Frankfurt : Arthur Niggli, 1972](/bibliography/#gerstner-1972)
+- [Gerstner, Karl, *Designing Programmes*. Baden : Lars Müller Publishers, 2007 \[1ʳᵉ éd. 1964\]](/bibliography/#gerstner-2007)
+- [Müller-Brockmann, Josef, *Grid Systems in Graphic Design : A Visual Communication Manual for Graphic Designers, Typographers and Three Dimensional Designers*. Zurich : Niggli, 1981](/bibliography/#muller-brockmann-1981)

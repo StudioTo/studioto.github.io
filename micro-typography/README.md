@@ -21,6 +21,7 @@ redirect_from:
 - [Chiffres](#chiffres)
 - [Symboles](#symboles)
 - [Substitutions](#substitutions)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -244,8 +245,8 @@ Chicago Manual of Style
 
 
 
-#### Sources
+## Sources
  
-- Jost Hochuli, *Le détail en typographie*, London : Hyphen Press, 2005 [éd. orig. 1987]  
-- François Rappo, *Checklist — micro-typographie*, Lausanne : ECAL, 2009  
-- ECAL/ Ecole Cantonale d’art de Lausanne, Harry Bloch, Pierrick Brégeon & Philippe Karrer, *Gas for my Cadillac : Manuel et quelques trucs de mise en page pour InDesign*, Lausanne : ECAL, 2013  
+- [Hochuli, Jost, *Le détail en typographie*. London : Hyphen Press, 2005 \[éd. orig. 1987\]](/bibliography/#hochuli-2005)
+- [Rappo, François, *Checklist — micro-typographie*. Lausanne : ECAL, 2009](/bibliography/#rappo-2009)
+- [ECAL/ Ecole Cantonale d’art de Lausanne, Harry Bloch, Pierrick Brégeon & Philippe Karrer, *Gas for my Cadillac : Manuel et quelques trucs de mise en page pour InDesign*. Lausanne : ECAL, 2013](/bibliography/#ecal-2013)

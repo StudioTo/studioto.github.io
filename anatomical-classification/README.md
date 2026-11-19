@@ -13,6 +13,7 @@ redirect_from:
 - [Tableau](#tableau)
 - [Squelette - Graisse - Enveloppe](#squelette-graisse-enveloppe)
 - [Combinaisons](#combinaisons)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -112,7 +113,7 @@ Ce système est un point de départ, il n’y a pas de règles absolues en mati�
 |:---:|
 | Différents principes \| Différents contrastes & terminaisons           |
 
-#### Sources
+## Sources
 
-- Indra Kupferschmid, *Buchstaben kommen selten allein : Typografie-Handbuch*, Sulgen : Niggli, 2004  
-- Gerrit Noordzij, *The Stroke : Theory of Writing*, London : Hyphen Press, 2005  
+- [Kupferschmid, Indra, *Buchstaben kommen selten allein : Typografie-Handbuch*. Sulgen : Niggli, 2004](/bibliography/#kupferschmid-2004)
+- [Noordzij, Gerrit, *The Stroke : Theory of Writing*. London : Hyphen Press, 2005](/bibliography/#noordzij-2005)

@@ -8,6 +8,12 @@ redirect_from:
 
 # Animation de symboles
 
+<!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
+
+- [Sources](#sources)
+
+<!-- /toc -->
+
 En animation, le nombre d’images construit le temps, l’ampleur des changements détermine la vitesse, la variation des formes produit le mouvement et la continuité visuelle assure les transitions.
   
 
@@ -29,7 +35,6 @@ Vitesse = écart de changement
 Mouvement = variation
 Transition = continuité visuelle -->
 
-#### Sources
+## Sources
 
-- **Peter von Arx**  
-  *Film + Design : Die elementaren Phänomene und Dimensionen des Films im gestalterischen Unterricht*, Haupt, 1983
+- [Arx, Peter von, *Film + Design : Die elementaren Phänomene und Dimensionen des Films im gestalterischen Unterricht*. Haupt, 1983](/bibliography/#von-arx-1983)

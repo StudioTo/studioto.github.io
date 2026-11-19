@@ -14,6 +14,7 @@ redirect_from:
 - [Icône vs Symbole](#icône-vs-symbole)
 - [Valeur symbolique](#valeur-symbolique)
 - [Séquence de symboles](#séquence-de-symboles)
+- [Sources](#sources)
 
 <!-- /toc -->
 
@@ -44,7 +45,6 @@ L’icône est un signe orienté vers l’usage (dénotation), le symbole est un
 |:---:|
 | La présentation d’une séquence de signes ou leur confrontation permet cependant de conférer aux signes une valeur narrative, voire figurative. |
 
-#### Sources
+## Sources
 
-- **Adrian Frutiger**  
-  *Type, Sign, Symbol*, 1980
+- [Frutiger, Adrian, *Type Sign Symbol*. Zurich : ABC Verlag, 1980](/bibliography/#frutiger-1980)
