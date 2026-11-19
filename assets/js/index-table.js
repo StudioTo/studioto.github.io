@@ -122,9 +122,16 @@
       if (e.metaKey || e.ctrlKey) window.open(link.href, "_blank", "noopener");
       else link.click();
     });
-    // survol de la ligne : le titre prend une couleur aléatoire comme un lien survolé
-    r.addEventListener("mouseenter", function () { link.dispatchEvent(new MouseEvent("mouseover", { bubbles: true })); });
-    r.addEventListener("mouseleave", function () { link.dispatchEvent(new MouseEvent("mouseout", { bubbles: true })); });
+    // survol de la ligne : le titre prend une couleur aléatoire comme un lien survolé ;
+    // sur un #tag, le titre redevient noir (le clic recherche le tag, il n'ouvre pas la page)
+    function titleOn() { link.dispatchEvent(new MouseEvent("mouseover", { bubbles: true })); }
+    function titleOff() { link.dispatchEvent(new MouseEvent("mouseout", { bubbles: true })); }
+    r.addEventListener("mouseenter", titleOn);
+    r.addEventListener("mouseleave", titleOff);
+    r.querySelectorAll("a.index-tag").forEach(function (t) {
+      t.addEventListener("mouseenter", titleOff);
+      t.addEventListener("mouseleave", function (e) { if (r.contains(e.relatedTarget)) titleOn(); });
+    });
   });
 
 })();
