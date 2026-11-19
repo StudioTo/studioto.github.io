@@ -22,15 +22,15 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [*Histoire de la typographie*](/typography-history) | #histoire, #timeline | ✍🏻 |
 | [Classification anatomique](/anatomical-classification) | #classification typographique | 🦴 |
 | [Classification historique](/historical-classification) | #classification typographique | 🕰️ |
-| [Unités typographiques](/typographic-units) | #unités typographiques | 📐 |
+| [Unités typographiques](/typographic-units) | #unités typographiques | 🔗 |
 | [Caractère : anatomie](/character-anatomy) | #unités typographiques | 🍖 |
-| [Caractère : mesures](/character-measures) | #unités typographiques | ↕️ |
-| [Caractère : optique](/character-optics) | #unités typographiques | 🔼 |
-| [Caractère : variations](/character-variations) | #unités typographiques | 🔀 |
+| [Caractère : mesures](/character-measures) | #unités typographiques | 📏 |
+| [Caractère : optique](/character-optics) | #unités typographiques | 👓 |
+| [Caractère : variations](/character-variations) | #unités typographiques | 🎛️ |
 | [Mot : texture](/word-texture) | #unités typographiques | 🎨 |
-| [Mot : graphie](/word-case) | #unités typographiques | 🔡 |
-| [Mot : articulation](/word-articulation) | #unités typographiques | 📶 |
-| [Mot : composition](/word-composition) | #unités typographiques | ↔️ |
+| [Mot : graphie](/word-case) | #unités typographiques | ⌨️ |
+| [Mot : articulation](/word-articulation) | #unités typographiques | 🪚 |
+| [Mot : composition](/word-composition) | #unités typographiques | 🕹️ |
 | [Ligne : orthographe typographique (micro)](/line-micro-typography) | #unités typographiques | 🦠 |
 | [Ligne : composition](/line-composition) | #unités typographiques | ↔️ |
 | [Colonne : lisibilité (macro)](/column-macro-typography) | #unités typographiques | 🌎 |
@@ -41,7 +41,7 @@ Ressources for graphic design from [Tancrède Ottiger](mailto:studioto@ik.me) 
 | [Dessin vectoriel](/vector-drawing) | #glyphes | 🖥️ |
 | [Interpolation vectorielle](/vector-interpolation) | #glyphes | 🎚️ |
 | [Dessin vectoriel *debug*](/vector-debug) | #glyphes | 🪲 |
-| [Organisation](/organization) | #processus de design | ✅ |
+| [Organisation](/organization) | #processus de design | ☑️ |
 | [Ton](/tone) | #processus de design | 🎹 |
 | [Variations](/variations) | #processus de design | 🎶 |
 | [Compositions](/compositions) | #processus de design | 🎼 |
