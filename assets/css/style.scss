@@ -97,8 +97,8 @@ html:not([data-page="/"]) .markdown-body > h1:first-child + h1 {
 }
 
 .markdown-body h2 {
-  margin: 48px 0 16px;
-  padding-bottom: 7px;
+  margin: 41px 0 16px;         /* 41 + 7 = 48px au-dessus du texte du titre, comme avant */
+  padding: 7px 0;              /* même boîte que StudioTo et le titre de page : 7 + 40 + 7 entre les lignes */
   font-size: 32px;
   line-height: 40px;
   font-weight: 400;
@@ -144,8 +144,13 @@ html:not([data-page="/"]) .markdown-body > h1:first-child + h1 + :not(ul) {
   margin-top: 24px;
 }
 
-/* titres de section : arrivent sous l'en-tête collant (lien de la table des matières) */
+/* titres de section : arrivent sous l'en-tête collant (lien de la table des matières) ;
+   un ## se place juste sous la ligne du titre de page : même espace entre les lignes */
 .markdown-body h2,
+.markdown-body h2[id] {        /* [id] : passe devant la règle générale ci-dessous */
+  scroll-margin-top: var(--sticky-h, 119px);
+}
+
 .markdown-body h3,
 .markdown-body h4,
 .markdown-body h5,
