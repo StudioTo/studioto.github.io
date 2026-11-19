@@ -71,7 +71,7 @@ a:focus,
    26px → 32px   ###
    21px → 26px   ####
    20px → 30px   index : titres de page, recherche
-   19px → 23px   texte courant (1.2), intro de l'accueil
+   19px → 25px   texte courant (1.3 : 24.7 arrondi), intro de l'accueil
    16px → 24px   légendes, table des matières, sources, notes, tags, #####, ######, texte du thème */
 html,
 body {
@@ -193,14 +193,14 @@ html {
   scroll-behavior: smooth;
 }
 
-/* texte courant des pages : 20 % plus grand (16px → 19px), interlignage 1.2 (22.8 → 23px) ;
+/* texte courant des pages : 20 % plus grand (16px → 19px), interlignage 1.3 (24.7 → 25px) ;
    les légendes sous les images (cellules de tableau) restent à 16px */
 html:not([data-page="/"]) .markdown-body p,
 html:not([data-page="/"]) .markdown-body li,
 html:not([data-page="/"]) .markdown-body dd,
 html:not([data-page="/"]) .markdown-body dt {
   font-size: 19px;
-  line-height: 23px;
+  line-height: 25px;
 }
 
 html:not([data-page="/"]) .markdown-body td p,
@@ -236,18 +236,23 @@ html:not([data-page="/"]) .markdown-body th p {
   position: relative;
 }
 
-/* puce : même rond de 5px dans toutes les listes, quelle que soit la taille du texte ;
-   centré sur la hauteur d'x : à 19px / 23px comme à 16px / 24px, le milieu de l'x
-   tombe à 15.3px sous le haut de la ligne (New Computer Modern, x = 431/1000) */
+/* puce : même rond de 5px dans toutes les listes, centré sur la hauteur d'x
+   (New Computer Modern, x = 431/1000) :
+   texte courant 19px / 25px → milieu de l'x à 16.4px → puce à 14px (centre 16.5px)
+   listes à 16px / 24px (sources) → milieu de l'x à 15.3px → puce à 13px (centre 15.5px) */
 .markdown-body ul > li:not(.task-list-item)::before {
   content: "";
   position: absolute;
   left: -17px;
-  top: 13px;
+  top: 14px;
   width: 5px;
   height: 5px;
   border-radius: 50%;
   background: currentColor;
+}
+
+html:not([data-page="/"]) .markdown-body h2#sources + ul > li::before {
+  top: 13px;
 }
 
 /* ---------- Tableaux : fond blanc partout, pas de lignes alternées ---------- */
@@ -342,7 +347,7 @@ html:not([data-page="/"]) .markdown-body table td:has(img) {
 html[data-page="/"] .markdown-body > p {
   margin-top: 16px;
   font-size: 19px;
-  line-height: 23px;
+  line-height: 25px;
 }
 
 html[data-page="/"] .markdown-body > p > strong:only-child {
