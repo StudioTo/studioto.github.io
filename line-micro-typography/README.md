@@ -12,8 +12,6 @@ redirect_from:
 <!-- toc : générée au commit (toc: false dans le front matter pour la retirer) -->
 
 - [Introduction](#introduction)
-- [Caractères](#caractères)
-- [Glyphes](#glyphes)
 - [Checklist](#checklist)
 - [Langue](#langue)
 - [Ponctuation](#ponctuation)
@@ -30,39 +28,6 @@ redirect_from:
 ## Introduction
 
 La micro-typographie concerne le soin apporté aux détails fins du contenu texte.
-
-## Caractères
-
-- [Langue](#langue)
-  - [Les guillemets](#les-guillemets)
-- [Ponctuation](#ponctuation)
-  - [L’apostrophe](#lapostrophe)
-  - [Le point, la virgule](#le-point-la-virgule)
-  - [Les points de suspension](#les-points-de-suspension)
-- [Espaces](#espaces)
-- [Césures](#cesures)
-- [Parenthèses](#parentheses)
-- [Chiffres](#chiffres)
-  - [Les fractions](#les-fractions)
-  - [Les opérations](#les-operations)
-  - [Les nombres](#les-nombres)
-  - [Les heures](#les-heures)
-  - [Les index](#les-index)
-- [Symboles](#symboles)
-  - [Arobase](#arobase)
-  - [Esperluette](#esperluette)
-  - [Devises](#devises)
-  - [Copyright](#copyright)
-  - [Flèches](#fleches)
-
-## Glyphes
-
-- [Substitutions](#substitutions)
-  - [Ligatures](#ligatures)
-  - [Les types de chiffres](#les-types-de-chiffres)
-  - [Formes sensibles à la casse](#formes-sensibles-a-la-casse-case)
-  - [Style stylistique](#stylistic-set)
-
 
 ## Checklist
 

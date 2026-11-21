@@ -65,7 +65,7 @@ redirect_from:
 
     .pill {
         font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
-        font-size: 31px; /* Computer Modern : hauteur d’x plus petite, 27 × 1,15 */
+        font-size: 26px; /* 31 px − 15 % */
         line-height: 35px;
         border: 0;
         padding: 6px 14px 10px; /* majuscules centrées en hauteur (Computer Modern : jambage supérieur plus haut) */
@@ -105,7 +105,7 @@ redirect_from:
         background: darkgrey;
         color: white;
         font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
-        font-size: 31px;
+        font-size: 26px; /* 31 px − 15 % */
         line-height: 51px;
         text-align: center;
         padding: 0;
@@ -121,7 +121,7 @@ redirect_from:
     /* couleurs des boutons */
     #hint-toggle { background: rgb(255, 204, 0); }
     #progress { background: rgb(0, 102, 255); }
-    div.title { background: black; padding-top: 7px; padding-bottom: 9px; } /* italique plus grand (1,15 em) : majuscules centrées */
+    div.title { background: black; font-size: 31px; padding-top: 7px; padding-bottom: 9px; } /* italique plus grand (1,15 em) : majuscules centrées */
     #hint-toggle:hover, #progress:hover, #glyphs:hover, #quit:hover { background: rgb(60, 60, 60); }
     /* nom : chaque lettre d'une couleur au hasard (le texte du champ est transparent, un calque affiche les lettres) */
     #name-input, .name-overlay { font-kerning: none; font-variant-ligatures: none; } /* lettres séparées : même approche des deux côtés */
@@ -135,7 +135,7 @@ redirect_from:
     .round:disabled { opacity: .35; cursor: default; background: darkgrey; }
     #hint-toggle, #back { position: absolute; left: 52px; bottom: 82px; z-index: 2; }
     #progress { position: absolute; right: 113px; bottom: 82px; z-index: 2; }
-    #glyphs { position: absolute; left: 113px; bottom: 82px; z-index: 2; font-size: 23px; background: rgb(255, 0, 0); } /* 52 + 51 + 10 */
+    #glyphs { position: absolute; left: 113px; bottom: 82px; z-index: 2; font-size: 20px; background: rgb(255, 0, 0); } /* 52 + 51 + 10 */
     #quit { position: absolute; right: 52px; bottom: 82px; z-index: 2; background: rgb(111, 238, 77); }
     .hint-text {
         position: absolute;
