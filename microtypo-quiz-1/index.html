@@ -12,8 +12,8 @@ redirect_from:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MicroTypo Quiz 1</title>
 <link rel="stylesheet" href="/assets/fonts/webcm/webcm.css">
-<link rel="preload" href="/assets/fonts/junicode/JunicodeVF-Roman.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="/assets/fonts/junicode/junicode.css">
+<link rel="preload" href="/assets/fonts/source-serif-4/SourceSerif4-Roman.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/fonts/source-serif-4/source-serif-4.css">
 <style>
     html, body { height: 100%; }
     body {
@@ -49,7 +49,7 @@ redirect_from:
         margin: 0;
         padding: 0 40px;
         text-align: center;
-        font-family: "Junicode", serif; /* texte à corriger : Junicode 2 (glyphes et fonctions OpenType) */
+        font-family: "Source Serif 4", serif; /* texte à corriger : Source Serif 4 (glyphes, fonctions OpenType, taille optique) */
         font-weight: 500; /* Medium */
         font-size: 150px;
         line-height: 1.2;
@@ -363,7 +363,7 @@ function fit() {
     const box = field.getBoundingClientRect();
     const lines = field.value.split("\n");
     const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
-    ctx.font = "500 100px Junicode, serif";
+    ctx.font = "500 100px 'Source Serif 4', serif";
     const widest = Math.max(1, ...lines.map(l => ctx.measureText(l).width));
     const byWidth = (box.width - 100) / widest * 100;
     const byHeight = (box.height - 200) / (lines.length * 1.2); // place pour le titre et les boutons
@@ -378,13 +378,13 @@ function fitName() {
     const box = inp.getBoundingClientRect();
     if (!box.width) return;
     const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
-    ctx.font = "500 100px Junicode, serif";
+    ctx.font = "500 100px 'Source Serif 4', serif";
     const w = Math.max(1, ctx.measureText(inp.value || inp.placeholder).width);
     const size = Math.max(20, Math.min(150, (box.width - 100) / w * 100, (box.height - 200) / 1.2));
     inp.style.fontSize = size + "px";
     $("name-overlay").style.fontSize = size + "px";
     // majuscules centrées en hauteur : le navigateur centre la ligne (jambages compris), on la décale de la différence
-    ctx.font = "500 " + size + "px Junicode, serif";
+    ctx.font = "500 " + size + "px 'Source Serif 4', serif";
     const H = ctx.measureText("H");
     const shift = H.actualBoundingBoxAscent / 2 - (H.fontBoundingBoxAscent - H.fontBoundingBoxDescent) / 2;
     for (const el of [$("name-input"), $("code-input"), $("name-overlay")]) {
@@ -420,14 +420,14 @@ function paintName() {
 let baselineY = 0, lockBaseline = null;
 function centerOnCapHeight(n) {
     const ctx = fit.ctx;
-    ctx.font = "500 " + fitSize + "px Junicode, serif";
+    ctx.font = "500 " + fitSize + "px 'Source Serif 4', serif";
     const capH = ctx.measureText("H").actualBoundingBoxAscent;
     // Les lignes de base sont mesurées sur une copie invisible du texte, avec la même mise en forme.
-    // Ainsi, si un caractère absent du Junicode est dessiné avec une police de secours
+    // Ainsi, si un caractère absent du Source Serif 4 est dessiné avec une police de secours
     // qui agrandit la ligne, le centrage en tient compte et le texte ne descend plus.
     const lines = field.value.split("\n");
     const mirror = centerOnCapHeight.mirror || (centerOnCapHeight.mirror = Object.assign(document.createElement("div"), {
-        style: "position:absolute;left:-99999px;top:0;visibility:hidden;white-space:pre;font-family:Junicode,serif;font-weight:500;line-height:1.2;padding:0;margin:0;border:0"
+        style: "position:absolute;left:-99999px;top:0;visibility:hidden;white-space:pre;font-family:'Source Serif 4',serif;font-weight:500;line-height:1.2;padding:0;margin:0;border:0"
     }));
     if (!mirror.parentNode) document.body.appendChild(mirror);
     mirror.style.fontSize = fitSize + "px";
@@ -819,13 +819,13 @@ $("finish").addEventListener("click", () => {
 
 // ---------- démarrage ----------
 (async function start() {
-    // Computer Modern (WebCM) et Junicode : chargés avant de mesurer ou dessiner les glyphes
+    // Computer Modern (WebCM) et Source Serif 4 : chargés avant de mesurer ou dessiner les glyphes
     if (document.fonts) {
         try {
             await Promise.all([
                 document.fonts.load("100px 'WebCM Serif 10'"),
                 document.fonts.load("italic 100px 'WebCM Serif 10'"),
-                document.fonts.load("500 100px Junicode")
+                document.fonts.load("500 100px 'Source Serif 4'")
             ]);
         } catch (e) {}
     }
