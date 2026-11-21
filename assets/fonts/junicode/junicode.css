@@ -1,0 +1,17 @@
+/*
+  Junicode 2 (Peter S. Baker), version 2.003, police variable
+  Source : https://github.com/psb1558/Junicode-font (dossier webfiles)
+  Licence : SIL Open Font License 1.1, voir LICENSE.txt dans ce dossier.
+
+  Axes : graisse (wght) 300–700, chasse (wdth) 75–125 %, agrandissement (ENLA) 0–100
+  Pour l’instant : romain seulement (l’italique existe : JunicodeVF-Italic.woff2).
+*/
+@font-face {
+  font-family: "Junicode";
+  src: url("JunicodeVF-Roman.woff2") format("woff2-variations"),
+       url("JunicodeVF-Roman.woff2") format("woff2");
+  font-weight: 300 700;
+  font-stretch: 75% 125%;
+  font-style: normal;
+  font-display: swap;
+}

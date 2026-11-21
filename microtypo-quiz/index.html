@@ -11,6 +11,8 @@ redirect_from:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MicroTypo Quiz</title>
 <link rel="stylesheet" href="/assets/fonts/webcm/webcm.css">
+<link rel="preload" href="/assets/fonts/junicode/JunicodeVF-Roman.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/fonts/junicode/junicode.css">
 <style>
     html, body { height: 100%; }
     body {
@@ -46,7 +48,8 @@ redirect_from:
         margin: 0;
         padding: 0 40px;
         text-align: center;
-        font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
+        font-family: "Junicode", serif; /* texte à corriger : Junicode 2 (glyphes et fonctions OpenType) */
+        font-weight: 400;
         font-size: 150px;
         line-height: 1.2;
         color: black;
@@ -142,7 +145,7 @@ redirect_from:
         z-index: 3;
         background: darkgrey;
         color: white;
-        padding: 8px 14px;
+        padding: 6px 14px 10px; /* majuscules centrées en hauteur, comme les boutons */
         line-height: 35px;
         box-sizing: border-box;
         min-height: 51px;
@@ -359,13 +362,13 @@ function fit() {
     const box = field.getBoundingClientRect();
     const lines = field.value.split("\n");
     const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
-    ctx.font = "100px 'WebCM Serif 10', serif";
+    ctx.font = "100px Junicode, serif";
     const widest = Math.max(1, ...lines.map(l => ctx.measureText(l).width));
     const byWidth = (box.width - 100) / widest * 100;
     const byHeight = (box.height - 200) / (lines.length * 1.2); // place pour le titre et les boutons
     fitSize = Math.max(20, Math.min(150, byWidth, byHeight));
     field.style.fontSize = fitSize + "px";
-    centerOnXHeight(lines.length);
+    centerOnCapHeight(lines.length);
 }
 
 // Champ du nom : taille adaptée à la largeur du cadre (texte saisi ou « Prénom Nom »)
@@ -374,11 +377,19 @@ function fitName() {
     const box = inp.getBoundingClientRect();
     if (!box.width) return;
     const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
-    ctx.font = "100px 'WebCM Serif 10', serif";
+    ctx.font = "100px Junicode, serif";
     const w = Math.max(1, ctx.measureText(inp.value || inp.placeholder).width);
     const size = Math.max(20, Math.min(150, (box.width - 100) / w * 100, (box.height - 200) / 1.2));
     inp.style.fontSize = size + "px";
     $("name-overlay").style.fontSize = size + "px";
+    // majuscules centrées en hauteur : le navigateur centre la ligne (jambages compris), on la décale de la différence
+    ctx.font = size + "px Junicode, serif";
+    const H = ctx.measureText("H");
+    const shift = H.actualBoundingBoxAscent / 2 - (H.fontBoundingBoxAscent - H.fontBoundingBoxDescent) / 2;
+    for (const el of [$("name-input"), $("code-input"), $("name-overlay")]) {
+        el.style.paddingTop = Math.max(0, 2 * shift) + "px";
+        el.style.paddingBottom = Math.max(0, -2 * shift) + "px";
+    }
 }
 
 const letterColors = [];
@@ -403,19 +414,19 @@ function paintName() {
     });
 }
 
-// Centre verticalement le bloc de texte sur la hauteur d'x (et non sur les capitales) :
-// le milieu de la hauteur d'x, entre la première et la dernière ligne, tombe au milieu du cadre.
+// Centre verticalement le bloc de texte sur la hauteur des capitales :
+// le milieu entre le haut des capitales de la 1re ligne et la ligne de base de la dernière tombe au milieu du cadre.
 let baselineY = 0, lockBaseline = null;
-function centerOnXHeight(n) {
+function centerOnCapHeight(n) {
     const ctx = fit.ctx;
-    ctx.font = fitSize + "px 'WebCM Serif 10', serif";
-    const xh = ctx.measureText("x").actualBoundingBoxAscent;
+    ctx.font = fitSize + "px Junicode, serif";
+    const capH = ctx.measureText("H").actualBoundingBoxAscent;
     // Les lignes de base sont mesurées sur une copie invisible du texte, avec la même mise en forme.
-    // Ainsi, si un caractère absent du Computer Modern (espace fine, etc.) est dessiné avec une police de secours
+    // Ainsi, si un caractère absent du Junicode est dessiné avec une police de secours
     // qui agrandit la ligne, le centrage en tient compte et le texte ne descend plus.
     const lines = field.value.split("\n");
-    const mirror = centerOnXHeight.mirror || (centerOnXHeight.mirror = Object.assign(document.createElement("div"), {
-        style: "position:absolute;left:-99999px;top:0;visibility:hidden;white-space:pre;font-family:'WebCM Serif 10',serif;line-height:1.2;padding:0;margin:0;border:0"
+    const mirror = centerOnCapHeight.mirror || (centerOnCapHeight.mirror = Object.assign(document.createElement("div"), {
+        style: "position:absolute;left:-99999px;top:0;visibility:hidden;white-space:pre;font-family:Junicode,serif;font-weight:400;line-height:1.2;padding:0;margin:0;border:0"
     }));
     if (!mirror.parentNode) document.body.appendChild(mirror);
     mirror.style.fontSize = fitSize + "px";
@@ -432,13 +443,13 @@ function centerOnXHeight(n) {
     const top = mirror.getBoundingClientRect().top;
     const first = marks[0].getBoundingClientRect().top - top;
     const last = marks[marks.length - 1].getBoundingClientRect().top - top;
-    const xMiddle = (first + last) / 2 - xh / 2;             // milieu de la hauteur d'x du bloc
+    const capMiddle = (first - capH + last) / 2;            // milieu du bloc, des capitales à la dernière ligne de base
     if (lockBaseline !== null) {
         // pendant la saisie : la 1re ligne de base reste exactement où elle était
         field.style.paddingTop = Math.max(0, lockBaseline - first) + "px";
         return;
     }
-    const pad = Math.max(0, field.clientHeight / 2 - xMiddle);
+    const pad = Math.max(0, field.clientHeight / 2 - capMiddle);
     field.style.paddingTop = pad + "px";
     baselineY = pad + first;
 }
@@ -792,7 +803,7 @@ field.addEventListener("input", () => {
     const before = fitSize;
     lockBaseline = baselineY;
     fit();
-    if (fitSize > before) { fitSize = before; field.style.fontSize = before + "px"; centerOnXHeight(field.value.split("\n").length); }
+    if (fitSize > before) { fitSize = before; field.style.fontSize = before + "px"; centerOnCapHeight(field.value.split("\n").length); }
     lockBaseline = null;
 });
 window.addEventListener("resize", () => { if (view === "menu" || view === "final") fitEnd(); if (view === "final") startPaint(); if (view === "question") fit(); if (view === "name") fitName(); sizeDots(); });
@@ -807,12 +818,13 @@ $("finish").addEventListener("click", () => {
 
 // ---------- démarrage ----------
 (async function start() {
-    // Computer Modern (WebCM) : chargé avant de dessiner les glyphes dans le canvas
+    // Computer Modern (WebCM) et Junicode : chargés avant de mesurer ou dessiner les glyphes
     if (document.fonts) {
         try {
             await Promise.all([
                 document.fonts.load("100px 'WebCM Serif 10'"),
-                document.fonts.load("italic 100px 'WebCM Serif 10'")
+                document.fonts.load("italic 100px 'WebCM Serif 10'"),
+                document.fonts.load("100px Junicode")
             ]);
         } catch (e) {}
     }
