@@ -66,61 +66,34 @@ permalink: /microtypo-quiz-2/
     .phrase .line-box { position: absolute; left: 40px; right: 40px; top: 0; white-space: pre; line-height: 1.2; }
     .phrase.done { color: grey; }
     .phrase .zone { text-decoration: underline dotted rgb(190, 190, 190); text-decoration-thickness: 2px; text-underline-offset: 0.12em; }
-    /* menu déroulant « Fonction », au-dessus de Check */
-    .fmenu {
+    /* menu des fonctions : étiquettes grises sous la phrase, au-dessus des boutons (ordre alphabétique des codes) */
+    .features {
         position: absolute;
-        left: 50%;
-        transform: translateX(-50%);
-        bottom: 83px; /* 10 px au-dessus de Check (dans le cadre : 143 − 60 de marge du bas) */
-        z-index: 4;
-    }
-    .fmenu > .pill { display: block; }
-    .flist {
-        position: absolute;
-        left: 50%;
-        transform: translateX(-50%);
-        bottom: 61px; /* au-dessus du bouton : 51 + 10 */
-        background: white;
-        border: 2px solid lightgrey;
-        border-radius: 4px;
-        padding: 6px 0;
-        max-height: calc(100vh - 340px);
-        overflow-y: auto;
-        white-space: nowrap;
-    }
-    .fitem {
+        left: 22px;
+        right: 22px;
+        bottom: 83px; /* 10 px au-dessus des boutons (dans le cadre : 143 − 60 de marge du bas) */
         display: flex;
-        align-items: baseline;
-        gap: 10px;
-        width: 100%;
-        box-sizing: border-box;
-        border: 0;
-        background: transparent;
-        text-align: left;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 6px;
+        z-index: 2;
+    }
+    .feat {
         font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
         font-size: 19px;
         line-height: 23px;
-        padding: 5px 16px;
+        padding: 6px 10px 8px; /* majuscules centrées en hauteur */
+        border: 0;
+        border-radius: 4px;
+        background: rgb(230, 230, 230);
         color: black;
         cursor: pointer;
     }
-    .fitem:hover, .fitem:focus-visible { background: rgb(240, 240, 240); outline: none; }
-    .fitem .tag { font-style: italic; min-width: 52px; } /* colonne des codes : le plus large (« lnum », « tnum ») tient dedans */
-    /* case à cocher : carré de 14 px, centré sur la hauteur des capitales */
-    .fitem .box {
-        flex: none;
-        width: 14px;
-        height: 14px;
-        box-sizing: border-box;
-        border: 1px solid rgb(208, 215, 222);
-        border-radius: 2px;
-        background: white no-repeat center / 10px 10px;
-        position: relative;
-        top: 1px;
-    }
-    .fitem[aria-checked="true"] .box {
-        background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 10'%3E%3Cpath d='M1 5.2L4 8L9 2' fill='none' stroke='black' stroke-width='1.6'/%3E%3C/svg%3E");
-    }
+    .feat .tag { font-style: italic; }
+    .feat[aria-pressed="true"] { background: black; color: white; }
+    .feat:disabled { cursor: default; }
+    .feat:not(:disabled):hover { background: rgb(60, 60, 60); color: white; }
+    body.flash-correct .feat, body.flash-wrong .feat { background: white; color: black; }
 
     .pill {
         font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
@@ -311,10 +284,7 @@ permalink: /microtypo-quiz-2/
 <!-- écran 2 : question -->
 <form id="question-screen" class="stage" hidden autocomplete="off">
     <div id="answer" class="field phrase" aria-live="polite"><div class="line-box" id="phrase"></div></div>
-    <div class="fmenu" id="features">
-        <div class="flist" id="flist" role="menu" aria-label="Fonctions OpenType" hidden></div>
-        <button type="button" class="pill" id="fbtn" aria-haspopup="true" aria-expanded="false">Fonction</button>
-    </div>
+    <div class="features" id="features" role="group" aria-label="Fonctions OpenType"></div>
 </form>
 
 <!-- écran 3 : score en cours (bouton %) -->
@@ -503,34 +473,25 @@ function fit() {
     phraseBox.style.fontSize = fitSize + "px";
     phraseBox.style.top = ((top + bottom) / 2 - capMiddle - field.clientTop) + "px";   // clientTop : trait du cadre
 }
-function setMenu(open) {
-    $("flist").hidden = !open;
-    $("fbtn").setAttribute("aria-expanded", open ? "true" : "false");
-}
 function renderFeatures(done) {
-    const list = $("flist");
-    list.textContent = "";
-    setMenu(false);
-    $("fbtn").disabled = done;
+    const box = $("features");
+    box.textContent = "";
     FEATURES.forEach(([tag, label]) => {
         const b = document.createElement("button");
         b.type = "button";
-        b.className = "fitem";
-        b.setAttribute("role", "menuitemcheckbox");
-        b.innerHTML = '<span class="box"></span><span class="tag">' + tag + "</span><span>" + label + "</span>";
-        b.setAttribute("aria-checked", selected.has(tag) ? "true" : "false");
+        b.className = "feat";
+        b.innerHTML = label + ' (<span class="tag">' + tag + "</span>)";
+        b.setAttribute("aria-pressed", selected.has(tag) ? "true" : "false");
+        b.disabled = done;
         b.addEventListener("click", () => {
             if (selected.has(tag)) selected.delete(tag); else selected.add(tag);
-            b.setAttribute("aria-checked", selected.has(tag) ? "true" : "false");
+            b.setAttribute("aria-pressed", selected.has(tag) ? "true" : "false");
             applyFeatures(phraseBox);
             fit();
         });
-        list.appendChild(b);
+        box.appendChild(b);
     });
 }
-$("fbtn").addEventListener("click", e => { e.stopPropagation(); setMenu($("flist").hidden); });
-$("flist").addEventListener("click", e => e.stopPropagation());
-document.addEventListener("click", () => setMenu(false));   // clic ailleurs : le menu se ferme
 
 // Champ du nom : taille adaptée à la largeur du cadre (texte saisi ou « Prénom Nom »)
 function fitName() {
@@ -831,7 +792,6 @@ async function check() {
     const i = state.current;
     if (busy || i >= N || solved.has(i)) return;
     busy = true;
-    setMenu(false);
     const text = canonical(selected);
     if (await isCorrect(i, text)) {
         state.answers[QUESTIONS[i][2]] = normalize(text);
@@ -919,9 +879,8 @@ $("back").addEventListener("click", () => goTo(resumeAt));
 $("hint-toggle").addEventListener("click", () => $("hint-text").classList.toggle("visible"));
 
 document.addEventListener("keydown", e => {
-    if (e.key === "Escape") setMenu(false);
     // Entrée = Check, même quand une fonction du menu a le focus (sinon Entrée la basculerait)
-    if (e.key === "Enter" && view === "question" && (!e.target.closest("button") || e.target.closest(".fitem"))) { e.preventDefault(); check(); }
+    if (e.key === "Enter" && view === "question" && (!e.target.closest("button") || e.target.closest(".feat"))) { e.preventDefault(); check(); }
 });
 window.addEventListener("resize", () => { if (view === "menu" || view === "final") fitEnd(); if (view === "final") startPaint(); if (view === "question") fit(); if (view === "name") fitName(); sizeDots(); });
 $("name-input").addEventListener("input", () => { fitName(); paintName(); });
