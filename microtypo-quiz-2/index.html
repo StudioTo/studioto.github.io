@@ -1,0 +1,915 @@
+---
+permalink: /microtypo-quiz-2/
+---
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MicroTypo Quiz 2</title>
+<link rel="stylesheet" href="/assets/fonts/webcm/webcm.css">
+<link rel="preload" href="/assets/fonts/source-serif-4/SourceSerif4-Roman.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/fonts/source-serif-4/source-serif-4.css">
+<style>
+    html, body { height: 100%; }
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
+        transition: background-color .1s ease;
+        text-align: center;
+        overflow: hidden;
+    }
+    body.flash-correct { background-color: rgb(111, 238, 77); }
+    body.flash-correct .field, body.flash-wrong .field { border-color: white; }
+    body.flash-correct .pill:not(.title), body.flash-wrong .pill:not(.title),
+    body.flash-correct .round:not(#hint-toggle):not(#progress):not(#quit), body.flash-wrong .round:not(#hint-toggle):not(#progress):not(#quit) { background: white !important; color: black; }
+    body.flash-correct .hint-text, body.flash-wrong .hint-text { background: white; color: black; }
+    /* sur le vert, les boutons colorés deviennent aussi blancs */
+    body.flash-correct div.title, body.flash-correct #hint-toggle, body.flash-correct #progress, body.flash-correct #quit { background: white !important; color: black; }
+    body.flash-correct .dot, body.flash-wrong .dot { background: white; border-color: white; }
+    body.flash-correct .dot.missed, body.flash-wrong .dot.missed,
+    body.flash-correct .dot.solved, body.flash-wrong .dot.solved { background: transparent; border-color: white; }
+    body.flash-correct .dot.solved::after, body.flash-wrong .dot.solved::after { background: white; }
+    body.flash-wrong { background-color: rgb(255, 0, 0); }
+
+    .stage {
+        position: absolute;
+        inset: 30px 30px 60px 30px;
+    }
+    .field {
+        box-sizing: border-box;
+        display: block;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0 40px;
+        text-align: center;
+        font-family: "Source Serif 4", serif; /* texte à corriger : Source Serif 4 (glyphes, fonctions OpenType, taille optique) */
+        font-weight: 500; /* Medium */
+        font-size: 150px;
+        line-height: 1.2;
+        color: black;
+        border: 2px solid lightgrey;
+        border-radius: 47.5px; /* concentrique aux boutons ronds : 25,5 + 20 d’écart + 2 de trait */
+        background: transparent;
+        resize: none;
+        outline: none;
+        white-space: pre;
+        overflow: auto;
+    }
+    .field[readonly] { color: grey; }
+
+    /* quiz 2 : la phrase d'exemple (non modifiable) et le menu des fonctions OpenType */
+    .phrase { position: relative; overflow: hidden; cursor: default; }
+    .phrase .line-box { position: absolute; left: 40px; right: 40px; top: 0; white-space: pre; line-height: 1.2; }
+    .phrase.done { color: grey; }
+    .phrase .zone { text-decoration: underline dotted rgb(190, 190, 190); text-decoration-thickness: 2px; text-underline-offset: 0.12em; }
+    .features {
+        position: absolute;
+        left: 52px;
+        right: 52px;
+        bottom: 143px; /* au-dessus des boutons : 82 + 51 + 10 */
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 6px;
+        z-index: 2;
+    }
+    .feat {
+        font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
+        font-size: 19px;
+        line-height: 23px;
+        padding: 6px 10px 8px; /* majuscules centrées en hauteur */
+        border: 0;
+        border-radius: 4px;
+        background: rgb(230, 230, 230);
+        color: black;
+        cursor: pointer;
+    }
+    .feat .tag { font-style: italic; }
+    .feat[aria-pressed="true"] { background: black; color: white; }
+    .feat:disabled { cursor: default; }
+    .feat:not(:disabled):hover { background: rgb(60, 60, 60); color: white; }
+    body.flash-correct .feat, body.flash-wrong .feat { background: white; color: black; }
+
+    .pill {
+        font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
+        font-size: 26px; /* 31 px − 15 % */
+        line-height: 35px;
+        border: 0;
+        padding: 6px 14px 10px; /* majuscules centrées en hauteur (Computer Modern : jambage supérieur plus haut) */
+        box-sizing: border-box;
+        min-height: 51px;
+        color: white;
+        border-radius: 4px;
+        background-color: darkgrey;
+    }
+    button.pill:hover, .round:hover { cursor: pointer; background-color: black; }
+
+    div.title {
+        position: absolute;
+        top: 52px;
+        left: 50%;
+        transform: translateX(-50%);
+        z-index: 2;
+        pointer-events: none;
+    }
+
+    /* rangée de boutons */
+    .controls {
+        position: absolute;
+        bottom: 82px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        z-index: 2;
+    }
+    .round {
+        width: 51px;
+        height: 51px;
+        border-radius: 50%;
+        border: none;
+        background: darkgrey;
+        color: white;
+        font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
+        font-size: 26px; /* 31 px − 15 % */
+        line-height: 51px;
+        text-align: center;
+        padding: 0;
+        text-decoration: none;
+        display: inline-block;
+    }
+    .round span { display: inline-block; }
+    /* flèches, ‽, i, ×, U+ : glyphes du Computer Modern, centrés sur leur dessin réel (centerRoundGlyphs) */
+    .round .info { font-style: italic; }
+    div.title .serif { font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-style: italic; font-size: 1.15em; line-height: 1; } /* compense la hauteur d’x plus petite du Computer Modern */
+    .topbar { position: absolute; top: 52px; left: 50%; transform: translateX(-50%); display: flex; gap: 10px; z-index: 2; pointer-events: none; }
+    .topbar div.title { position: static; transform: none; }
+    /* couleurs des boutons */
+    #hint-toggle { background: rgb(255, 204, 0); }
+    #progress { background: rgb(0, 102, 255); }
+    div.title { background: black; font-size: 31px; padding-top: 7px; padding-bottom: 9px; } /* italique plus grand (1,15 em) : majuscules centrées */
+    #hint-toggle:hover, #progress:hover, #quit:hover { background: rgb(60, 60, 60); }
+    /* nom : chaque lettre d'une couleur au hasard (le texte du champ est transparent, un calque affiche les lettres) */
+    #name-input, .name-overlay { font-kerning: none; font-variant-ligatures: none; } /* lettres séparées : même approche des deux côtés */
+    #name-input { color: transparent; caret-color: black; }
+    #name-input::placeholder { color: darkgrey; }
+    .name-overlay { position: absolute; inset: 0; pointer-events: none; border-color: transparent; background: none;
+                    display: flex; align-items: center; justify-content: center; white-space: pre; }
+    .choice { display: flex; align-items: center; justify-content: center; gap: 10px; }
+    #start-back { position: absolute; left: 22px; bottom: 22px; z-index: 2; }
+    #name-screen .controls { bottom: 22px; } /* 20 px du trait du cadre, comme les autres boutons */
+    .round:disabled { opacity: .35; cursor: default; background: darkgrey; }
+    #hint-toggle, #back { position: absolute; left: 52px; bottom: 82px; z-index: 2; }
+    #progress { position: absolute; right: 113px; bottom: 82px; z-index: 2; }
+    #quit { position: absolute; right: 52px; bottom: 82px; z-index: 2; background: rgb(111, 238, 77); }
+    .hint-text {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        top: 115px; /* sous le titre MicroTypo : 52 + 53 + 10 */
+        z-index: 3;
+        background: darkgrey;
+        color: white;
+        padding: 6px 14px 10px; /* majuscules centrées en hauteur, comme les boutons */
+        line-height: 35px;
+        box-sizing: border-box;
+        min-height: 51px;
+        border-radius: 4px;
+        text-align: center;
+        font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
+        font-size: 31px;
+        display: none;
+        max-width: calc(100% - 240px);
+    }
+    .hint-text.visible { display: block; }
+    .hint-text { white-space: pre-line; font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-size: 19px; line-height: 23px; padding: 13px 14px 15px; } /* 31 px − 40 % ; majuscules centrées en hauteur */
+
+    /* barre de navigation : un point par question */
+    .dots {
+        position: absolute;
+        left: 30px;
+        right: 30px;
+        bottom: 10px;           /* centrée dans la marge du bas (60 px) */
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        align-content: center;
+        gap: var(--gap, 5px);
+        height: 40px;
+        z-index: 2;
+    }
+    .dot {
+        flex: none;
+        width: var(--d, 14px);
+        height: var(--d, 14px);
+        font-size: var(--d, 14px);
+        padding: 0;
+        border-radius: 50%;
+        border: max(1px, .14em) solid transparent;
+        background: lightgrey;
+        cursor: pointer;
+        box-sizing: border-box;
+        position: relative;
+    }
+    .dot.missed { background: transparent; border-color: lightgrey; }
+    .dot.solved { background: transparent; border-color: lightgrey; }
+    .dot.solved::after {
+        content: "";
+        position: absolute;
+        inset: 18%;
+        border-radius: 50%;
+        background: lightgrey;
+    }
+    .dot.current { outline: max(1px, .14em) solid black; outline-offset: max(1px, .07em); }
+    .dot:hover { border-color: black; }
+    .dots-break { flex-basis: 100%; height: 0; } /* plus de 100 questions : passage à la 2ᵉ ligne */
+    .dots.locked { pointer-events: none; } /* visibles mais pas cliquables pendant la saisie du nom */
+
+    /* écran de fin */
+    .end-text {
+        position: absolute;
+        inset: 30px 30px 60px 30px;
+        border: 2px solid lightgrey;
+        border-radius: 47.5px; /* concentrique aux boutons ronds : 25,5 + 20 d’écart + 2 de trait */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        overflow: hidden;
+        font-size: var(--fs, 60px);
+    }
+    .end-text p { font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-size: 1em; margin: 0; line-height: 1.2; }
+    .end-text .player-name { font-kerning: none; font-variant-ligatures: none; font-style: italic; margin-bottom: 1.2em; } /* une ligne vide après le nom */
+    #final-date { margin-top: 1.2em; } /* une ligne vide avant la date */
+    .end-text p.ref { user-select: all; -webkit-user-select: all; }
+    .end-text p.ref { font-size: max(11px, .33em); color: darkgrey; margin-top: 30px; font-family: "WebCM Serif 10", "Latin Modern Roman", serif; letter-spacing: .05em; }
+    /* dessin du nom en couleurs derrière le texte de l'écran final */
+    #paint { position: absolute; inset: 0; width: 100%; height: 100%; z-index: 0; pointer-events: none; }
+    #final-screen p { position: relative; z-index: 1;
+        text-shadow: 0 0 .08em white, 0 0 .08em white, 0 0 .15em white, 0 0 .25em white, 0 0 .4em white; } /* halo blanc : lisible sur le dessin */
+    #menu-screen p#save-code { font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-style: italic; font-size: 1em; color: black; letter-spacing: 0; margin-top: .5em; }
+    #final-screen p#final-ref { font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-style: italic; font-size: 1em; color: black; letter-spacing: 0; margin-top: 1.2em; }
+    .thin { display: inline-block; width: 0.16em; } /* espace fine insécable */
+    .end-buttons { margin-top: 40px; display: flex; gap: 10px; justify-content: center; }
+
+
+    [hidden] { display: none !important; }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+    <div class="title pill"><span class="serif">MicroTypo</span></div>
+</div>
+
+<!-- écran 1 : nom -->
+<form id="name-screen" class="stage" hidden autocomplete="off" novalidate>
+    <div id="choice" class="field choice">
+        <button type="button" class="pill" id="go-new">Commencer</button>
+        <button type="button" class="pill" id="go-resume">Reprendre</button>
+    </div>
+    <input id="name-input" class="field" type="text" placeholder="Prénom Nom" hidden>
+    <div id="name-overlay" class="field name-overlay" aria-hidden="true" hidden></div>
+    <input id="code-input" class="field" type="text" placeholder="Code" spellcheck="false" autocapitalize="off" autocorrect="off" hidden>
+    <button type="button" class="round" id="start-back" title="Retour" hidden><span>←</span></button>
+    <div class="controls" id="start-controls" hidden><button class="pill" type="submit" id="start-btn">Commencer</button></div>
+</form>
+
+<!-- écran 2 : question -->
+<form id="question-screen" class="stage" hidden autocomplete="off">
+    <div id="answer" class="field phrase" aria-live="polite"><div class="line-box" id="phrase"></div></div>
+    <div class="features" id="features" role="group" aria-label="Fonctions OpenType"></div>
+</form>
+
+<!-- écran 3 : score en cours (bouton %) -->
+<div id="menu-screen" class="end-text" hidden>
+    <p id="menu-score"></p>
+    <div class="end-buttons">
+        <button id="save" class="pill" type="button">Sauvegarder</button>
+        <button id="finish" class="pill" type="button">Terminer</button>
+    </div>
+    <p id="save-code" class="ref" hidden></p>
+</div>
+
+<!-- écran 4 : résultat final, sans aucun bouton -->
+<div id="final-screen" class="end-text" hidden>
+    <canvas id="paint" aria-hidden="true"></canvas>
+    <p id="final-name" class="player-name"></p>
+    <p id="final-score"></p>
+    <p id="final-date"></p>
+    <p id="final-ref" class="ref"></p>
+</div>
+
+<div id="quiz-ui" hidden>
+    <button type="button" class="round" id="hint-toggle" title="Indice"><span>‽</span></button>
+    <button type="button" class="round" id="back" title="Retour au quiz"><span>←</span></button>
+    <div class="hint-text" id="hint-text"></div>
+    <div class="controls" id="question-controls">
+        <button type="button" class="round" id="prev" title="Question précédente"><span>←</span></button>
+        <button type="button" class="pill" id="check">Check</button>
+        <button type="button" class="round" id="next" title="Question suivante"><span>→</span></button>
+    </div>
+    <button type="button" class="round" id="quit" title="Sauvegarder ou terminer"><span>×</span></button>
+    <button type="button" class="round" id="progress" title="Score"><span class="info">i</span></button>
+    <nav class="dots" id="dots"></nav>
+</div>
+
+<script>
+(function () {
+"use strict";
+
+// [phrase, indice, sel, empreinte de la réponse, numéro, fonctions actives au départ]
+// Les réponses ne sont pas dans ce fichier : seule une empreinte SHA-256 doublée l'est.
+const QUESTIONS = [["Une affiche fleurie","Ligatures: fi, fl","989195e34a8e","7186176b025c011c3fb80b028d1a02ba",1,""],["Le siège de l’[ONU]","Petites capitales: sigles","ffce52a4236a","f959ae12d7aa509a05215c10f0ccbd5c",2,""],["Au [IV]ᵉ siècle","Petites capitales: siècles en chiffres romains","060f41a3b0ab","014d4ef58f8dc23d4333675ca2888bce",3,""],["Victor [Hugo]","Petites capitales: nom de famille","60d761de5d0a","351067ca8bf95dcc6a6ee8bd06d443e8",4,""],["En 1789, la Révolution","Chiffres: dans le texte courant","a0a0dcc9af40","75d4860ec89f997dede36bcecbfda0a7",5,""],["MARS 2026","Chiffres: avec des capitales","c2c7b464e637",["1f147d97323f50d4ec4052f13495a81c","26956bed499eda5b325d3f757bd986fc"],6,"onum"],["1111\n8888","Chiffres: en colonnes","9e8fe086dc7a",["0c7998fc9a6477600bf87ee534f53b95","579aa494613e7db62837f420a1814358"],7,"pnum"],["1111 visiteurs","Chiffres: chasse proportionnelle dans le texte","9a7a2e36238a","159b1fba85d15919617e4497206750c9",8,""],["1/2 litre","Fractions","3aa67a2a24cd","c5c3a68e016fe3937eb9862bc33212e7",9,""],["M[me] Dupont","Abréviations: lettres supérieures","0b8402382507","2914a4968dacfaaae22e01f7da2d0a29",10,""],["le 1[er] mai","Abréviations: ordinaux","52165da2899d",["462e07b4c0313b80cf8448c6ca00aaba","d205f544caa6a836a69423ec54e0d749"],11,""],["H[2]O","Chimie: chiffres inférieurs","65f315c0e9d6","debc5f156df61e0f3ad7e8a067552481",12,""],["Code : 0O0O","Zéro: distinguer le chiffre 0 de la lettre O","7f0f9a3fa7e5","eff88d0d7c32d43be82589168aa8a081",13,""],["(PARIS-LONDRES)","Capitales: ponctuation adaptée","ed9087900ae6","e0a187a3dfea4d8ed5481b260925ee9e",14,""],["AVATAR","Crénage: approche entre les lettres","80057a22ff6e","199ba25d8b498906da355ae25a9b0848",15,""],["La [fiche officielle] de l’[OMS]","Ligatures et petites capitales","d10a1dcf5c31","7162a1cceec79d0dce489ced10e744c7",16,""],["[1/4] de la population de l’[UE]","Fractions et petites capitales","e21cd7abddec","5a042afb43dbfca8688996b78444cdfe",17,""],["(ÉDITION 2026)","Capitales: chiffres et ponctuation adaptés","e9a68f2b28d5",["14fd0e86d3c9f145a4cca638c4378f11","e08f2f03788ed54e14f5b13daf5b4acc"],18,"onum"],["VAT : 7,7 %","Crénage: approche entre les lettres","29ffc14125f8","14553e6b2146810c0c1957df3818d8b1",19,""]];
+
+const STORE = "microtypo-quiz-2";
+const $ = id => document.getElementById(id);
+const N = QUESTIONS.length;
+
+// ---------- état ----------
+let state = { name: "", answers: {}, visited: {}, current: 0, finished: 0, claimed: [] };
+const solved = new Set();
+
+function save() {
+    try { localStorage.setItem(STORE, JSON.stringify(state)); } catch (e) {}
+}
+function load() {
+    try {
+        const s = JSON.parse(localStorage.getItem(STORE) || "{}");
+        if (s && typeof s === "object") {
+            state.name = typeof s.name === "string" ? s.name : "";
+            state.answers = s.answers && typeof s.answers === "object" ? s.answers : {};
+            state.visited = s.visited && typeof s.visited === "object" ? s.visited : {};
+            state.current = Number.isInteger(s.current) ? Math.max(0, Math.min(s.current, N)) : 0;
+            state.finished = Number.isFinite(s.finished) ? s.finished : 0;
+            state.claimed = Array.isArray(s.claimed) ? s.claimed.filter(Number.isInteger) : [];
+            state.colors = Array.isArray(s.colors) ? s.colors.filter(c => typeof c === "string") : null;
+        }
+    } catch (e) {}
+}
+
+// ---------- vérification ----------
+// Même normalisation que lors de la génération : NFC, espace fine = espace fine insécable,
+// retours à la ligne Windows, lignes vides finales.
+function normalize(t) {
+    return t.normalize("NFC").replace(/ /g, " ").replace(/\r\n?/g, "\n").replace(/\n+$/, "");
+}
+async function sha256(text) {
+    const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
+    return Array.from(new Uint8Array(buf), b => b.toString(16).padStart(2, "0")).join("");
+}
+async function isCorrect(i, text) {
+    const [, , salt, check] = QUESTIONS[i];
+    const proof = await sha256(salt + "|" + normalize(text));
+    return [].concat(check).includes((await sha256(proof)).slice(0, 32));   // une ou plusieurs réponses justes
+}
+// Le score est recalculé à chaque chargement : une réponse n'est comptée
+// que si elle redonne l'empreinte. Modifier le stockage ne sert à rien sans les bonnes réponses.
+async function verifyAll() {
+    solved.clear();
+    const clean = {};
+    for (let i = 0; i < N; i++) {
+        const salt = QUESTIONS[i][2];
+        const t = state.answers[salt];
+        if (typeof t === "string" && await isCorrect(i, t)) { solved.add(i); clean[salt] = t; }
+    }
+    state.answers = clean;
+    // questions réussies reprises d'un code de sauvegarde (par numéro fixe)
+    QUESTIONS.forEach((q, i) => { if (state.claimed.includes(q[4])) solved.add(i); });
+    save();
+}
+
+// ---------- affichage ----------
+// Fonctions OpenType du menu : [code, nom français]
+const FEATURES = [
+    ["liga", "Ligatures standard"],
+    ["smcp", "Petites capitales"],
+    ["c2sc", "Capitales en petites capitales"],
+    ["onum", "Chiffres elzéviriens"],
+    ["lnum", "Chiffres alignés"],
+    ["pnum", "Chiffres proportionnels"],
+    ["tnum", "Chiffres tabulaires"],
+    ["frac", "Fractions"],
+    ["sups", "Exposants"],
+    ["subs", "Indices"],
+    ["sinf", "Inférieurs scientifiques"],
+    ["ordn", "Ordinaux"],
+    ["zero", "Zéro barré"],
+    ["case", "Formes sensibles à la casse"],
+    ["kern", "Crénage"]
+];
+const field = $("answer");
+const phraseBox = $("phrase");
+let fitSize = 150;
+let selected = new Set();
+const canonical = set => [...set].sort().join(" ");
+const featureCSS = set => FEATURES.map(([t]) => '"' + t + '" ' + (set.has(t) ? 1 : 0)).join(", ");
+
+// La phrase : les fonctions s'appliquent à toute la phrase, ou seulement aux zones [entre crochets]
+function buildPhrase(target, text) {
+    target.textContent = "";
+    const parts = text.includes("[") ? text.split(/(\[[^\]]*\])/) : ["[" + text + "]"];
+    parts.forEach(p => {
+        if (!p) return;
+        const span = document.createElement("span");
+        if (p[0] === "[") { span.className = "zone-on" + (text.includes("[") ? " zone" : ""); span.textContent = p.slice(1, -1); }
+        else span.textContent = p;
+        target.appendChild(span);
+    });
+}
+function applyFeatures(target) {
+    const off = featureCSS(new Set()), on = featureCSS(selected);
+    target.querySelectorAll("span").forEach(sp => sp.style.fontFeatureSettings = sp.classList.contains("zone-on") ? on : off);
+}
+// Copie invisible, mise en forme comme la phrase : sert à mesurer largeur et lignes de base
+function mirrorOf(text) {
+    const m = mirrorOf.el || (mirrorOf.el = Object.assign(document.createElement("div"), {
+        style: "position:absolute;left:-99999px;top:0;visibility:hidden;white-space:pre;font-family:'Source Serif 4',serif;font-weight:500;line-height:1.2;padding:0;margin:0;border:0"
+    }));
+    if (!m.parentNode) document.body.appendChild(m);
+    m.innerHTML = "";
+    const marks = text.split("\n").map(line => {
+        const row = document.createElement("div");
+        const mark = document.createElement("span");
+        mark.style.cssText = "display:inline-block;width:0;height:0;vertical-align:baseline";
+        row.appendChild(mark);
+        const inner = document.createElement("span");
+        inner.style.display = "inline-block";
+        buildPhrase(inner, line || "\u200b");
+        row.appendChild(inner);
+        m.appendChild(row);
+        return { mark, inner };
+    });
+    applyFeatures(m);
+    return { m, marks };
+}
+// Taille : la plus grande possible entre le titre et le menu ; centrage en hauteur sur les capitales
+function fit() {
+    const text = QUESTIONS[state.current][0];
+    const box = field.getBoundingClientRect();
+    if (!box.width) return;
+    const titleBottom = document.querySelector(".topbar").getBoundingClientRect().bottom - box.top;
+    const menuTop = $("features").getBoundingClientRect().top - box.top;
+    const top = titleBottom + 10, bottom = menuTop - 10;
+    const { m, marks } = mirrorOf(text);
+    m.style.fontSize = "100px";
+    const widest = Math.max(1, ...marks.map(k => k.inner.getBoundingClientRect().width));
+    const lines = marks.length;
+    fitSize = Math.max(20, Math.min(150, (box.width - 100) / widest * 100, (bottom - top) / (lines * 1.2)));
+    m.style.fontSize = fitSize + "px";
+    const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
+    ctx.font = "500 " + fitSize + "px 'Source Serif 4', serif";
+    const capH = ctx.measureText("H").actualBoundingBoxAscent;
+    const mTop = m.getBoundingClientRect().top;
+    const first = marks[0].mark.getBoundingClientRect().top - mTop;
+    const last = marks[lines - 1].mark.getBoundingClientRect().top - mTop;
+    const capMiddle = (first - capH + last) / 2;   // des capitales de la 1re ligne à la dernière ligne de base
+    phraseBox.style.fontSize = fitSize + "px";
+    phraseBox.style.top = ((top + bottom) / 2 - capMiddle - field.clientTop) + "px";   // clientTop : trait du cadre
+}
+function renderFeatures(done) {
+    const box = $("features");
+    box.textContent = "";
+    FEATURES.forEach(([tag, label]) => {
+        const b = document.createElement("button");
+        b.type = "button";
+        b.className = "feat";
+        b.innerHTML = label + ' (<span class="tag">' + tag + "</span>)";
+        b.setAttribute("aria-pressed", selected.has(tag) ? "true" : "false");
+        b.disabled = done;
+        b.addEventListener("click", () => {
+            if (selected.has(tag)) selected.delete(tag); else selected.add(tag);
+            b.setAttribute("aria-pressed", selected.has(tag) ? "true" : "false");
+            applyFeatures(phraseBox);
+            fit();
+        });
+        box.appendChild(b);
+    });
+}
+
+// Champ du nom : taille adaptée à la largeur du cadre (texte saisi ou « Prénom Nom »)
+function fitName() {
+    const inp = $("code-input").hidden ? $("name-input") : $("code-input");
+    const box = inp.getBoundingClientRect();
+    if (!box.width) return;
+    const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
+    ctx.font = "500 100px 'Source Serif 4', serif";
+    const w = Math.max(1, ctx.measureText(inp.value || inp.placeholder).width);
+    const size = Math.max(20, Math.min(150, (box.width - 100) / w * 100, (box.height - 200) / 1.2));
+    inp.style.fontSize = size + "px";
+    $("name-overlay").style.fontSize = size + "px";
+    // majuscules centrées en hauteur : le navigateur centre la ligne (jambages compris), on la décale de la différence
+    ctx.font = "500 " + size + "px 'Source Serif 4', serif";
+    const H = ctx.measureText("H");
+    const shift = H.actualBoundingBoxAscent / 2 - (H.fontBoundingBoxAscent - H.fontBoundingBoxDescent) / 2;
+    for (const el of [$("name-input"), $("code-input"), $("name-overlay")]) {
+        el.style.paddingTop = Math.max(0, 2 * shift) + "px";
+        el.style.paddingBottom = Math.max(0, -2 * shift) + "px";
+    }
+}
+
+const letterColors = [];
+// couleurs pop uniquement
+const POP = ["#ff0090", "#ff2a00", "#ff8a00", "#ffd400", "#7dff00", "#00e05a", "#00d5ff", "#0066ff", "#7a00ff", "#e600ff"];
+let lastPop = -1;
+const randomColor = () => {
+    let k; do { k = Math.floor(Math.random() * POP.length); } while (k === lastPop); // jamais deux fois la même à la suite
+    lastPop = k; return POP[k];
+};
+function paintName() {
+    const v = $("name-input").value;
+    while (letterColors.length < v.length) letterColors.push(randomColor());
+    letterColors.length = v.length;
+    const o = $("name-overlay");
+    o.innerHTML = "";
+    [...v].forEach((c, i) => {
+        const span = document.createElement("span");
+        span.textContent = c;
+        span.style.color = letterColors[i];
+        o.appendChild(span);
+    });
+}
+
+// Centre verticalement le bloc de texte sur la hauteur des capitales :
+// le milieu entre le haut des capitales de la 1re ligne et la ligne de base de la dernière tombe au milieu du cadre.
+// Centre les glyphes des boutons ronds (←, →, ‽, i, ×, U+) sur leur dessin réel, en hauteur et en largeur.
+function centerRoundGlyphs() {
+    const ctx = document.createElement("canvas").getContext("2d");
+    document.querySelectorAll(".round span").forEach(span => {
+        const cs = getComputedStyle(span);
+        ctx.font = cs.fontStyle + " " + cs.fontWeight + " " + cs.fontSize + " " + cs.fontFamily;
+        const m = ctx.measureText(span.textContent);
+        const ref = ctx.measureText("H");
+        const H = parseFloat(getComputedStyle(span.parentElement).lineHeight);
+        const baseline = (H - (ref.fontBoundingBoxAscent + ref.fontBoundingBoxDescent)) / 2 + ref.fontBoundingBoxAscent;
+        const glyphMiddle = baseline - (m.actualBoundingBoxAscent - m.actualBoundingBoxDescent) / 2;
+        const dx = m.width / 2 - (m.actualBoundingBoxRight - m.actualBoundingBoxLeft) / 2;
+        span.style.transform = "translate(" + dx.toFixed(2) + "px, " + (H / 2 - glyphMiddle).toFixed(2) + "px)";
+    });
+}
+
+function renderDots() {
+    const dots = $("dots");
+    dots.innerHTML = "";
+    QUESTIONS.forEach((q, i) => {
+        const b = document.createElement("button");
+        b.type = "button";
+        b.className = "dot";
+        if (solved.has(i)) b.classList.add("solved");
+        else if (state.visited[q[2]]) b.classList.add("missed");
+        if (i === state.current && view === "question") b.classList.add("current");
+        b.title = (i + 1) + ". " + q[1] + (solved.has(i) ? " (réussie)" : "");
+        b.addEventListener("click", () => goTo(i));
+        dots.appendChild(b);
+        if (N > 100 && i === Math.ceil(N / 2) - 1) {
+            const br = document.createElement("span");
+            br.className = "dots-break";
+            dots.appendChild(br);
+        }
+    });
+    sizeDots();
+}
+
+// Une ligne jusqu'à 100 questions, deux lignes égales au-delà (ex. 120 → 60 / 60).
+// 14 px au maximum, plus petits s'il y a beaucoup de questions.
+function sizeDots() {
+    const dots = $("dots");
+    const w = dots.getBoundingClientRect().width;
+    if (!w) return;
+    const perLine = N > 100 ? Math.ceil(N / 2) : N;
+    const d = Math.max(2, Math.min(N > 100 ? 12 : 14, w / (perLine * 1.36)));
+    dots.style.setProperty("--d", d + "px");
+    dots.style.setProperty("--gap", d * 0.36 + "px");
+}
+
+let view = "name";
+function show(v) {
+    view = v;
+    $("name-screen").hidden = v !== "name";
+    if (v === "name") requestAnimationFrame(fitName);
+    $("question-screen").hidden = v !== "question";
+    $("menu-screen").hidden = v !== "menu";
+    $("final-screen").hidden = v !== "final";
+    $("quiz-ui").hidden = false;
+    $("progress").hidden = v === "name" || v === "final";
+    $("quit").hidden = v === "name" || v === "final";
+    $("features").hidden = v !== "question";
+    $("dots").classList.toggle("locked", v === "name" || v === "final");
+    $("question-controls").hidden = v !== "question";
+    $("hint-toggle").hidden = v !== "question";
+    $("back").hidden = v !== "menu";
+    $("hint-text").classList.remove("visible");
+}
+
+let keyNav = false; // vrai quand on navigue au clavier : le champ ne prend pas le focus
+function renderQuestion() {
+    const i = state.current;
+    const [faux, hint] = QUESTIONS[i];
+    const done = solved.has(i);
+    // fonctions déjà actives au départ (6e élément), ou la bonne réponse si la question est réussie
+    const start = done ? (state.answers[QUESTIONS[i][2]] ?? QUESTIONS[i][5] ?? "") : (QUESTIONS[i][5] ?? "");
+    selected = new Set(start.split(" ").filter(Boolean));
+    buildPhrase(phraseBox, faux);
+    applyFeatures(phraseBox);
+    field.classList.toggle("done", done);
+    renderFeatures(done);
+    $("check").hidden = done;
+    // espace fine avant le deux-points (dessinée, comme dans « Score : »), puis retour à la ligne
+    const esc = t => t.replace(/[&<>]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[c]);
+    $("hint-text").innerHTML = esc(hint).replace(/\s*:\s*/, '<span class="thin"></span>:\n')
+                                       .replace(/\*([^*]+)\*/g, "<em>$1</em>");   // *mot* → italique
+    $("prev").disabled = i === 0;
+    show("question");
+    renderDots();
+    fit();
+    keyNav = false;
+}
+
+let resumeAt = 0;
+// Note suisse : 1 + 5 × points / total, arrondie au dixième
+const grade = () => (Math.round((1 + 5 * solved.size / N) * 10) / 10).toFixed(1);
+const scoreHTML = () => 'Score<span class="thin"></span>:<br>' + solved.size + " / " + N
+    + '<br>Note<span class="thin"></span>:<br>' + String(grade()).replace(".", ",");
+
+// Écrans de score : la taille du texte s'adapte à la fenêtre (entre le titre et les boutons)
+function fitEnd() {
+    const box = document.querySelector(".end-text:not([hidden])");
+    if (!box) return;
+    box.style.setProperty("--fs", "60px");
+    const kids = [...box.children].filter(k => !k.hidden && k.tagName !== "CANVAS");
+    if (!kids.length) return;
+    const top = Math.min(...kids.map(k => k.getBoundingClientRect().top));
+    const bottom = Math.max(...kids.map(k => k.getBoundingClientRect().bottom));
+    let wide = 0;
+    kids.filter(k => k.tagName === "P").forEach(k => {
+        const r = document.createRange(); r.selectNodeContents(k);
+        wide = Math.max(wide, r.getBoundingClientRect().width);
+    });
+    const availH = box.clientHeight - 2 * 135;   // place du titre en haut et des boutons en bas
+    const availW = box.clientWidth - 80;
+    const k = Math.min(1, availH / (bottom - top), availW / Math.max(1, wide));
+    box.style.setProperty("--fs", Math.max(12, 60 * k) + "px");
+}
+
+let menuMode = "info";   // "info" (ℹ) : score et note seuls · "exit" (×) : Sauvegarder / Terminer seuls
+function renderMenu() {
+    state.current = N;
+    save();
+    $("menu-score").innerHTML = scoreHTML();
+    $("menu-score").hidden = menuMode === "exit";   // × : pas de score ni de note
+    $("save-code").hidden = true;
+    document.querySelector("#menu-screen .end-buttons").hidden = menuMode !== "exit";   // ℹ : pas de boutons
+    show("menu");
+    renderDots();
+    fitEnd();
+}
+
+const LEET = { a: "4", e: "3", i: "1", o: "0" };
+const UNLEET = { "4": "a", "3": "e", "1": "i", "0": "o" };
+function nameCode(n) {
+    const t = n.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim().replace(/\s+/g, "_");
+    return [...t].filter(c => /[a-z0-9_]/.test(c)).reverse().map(c => LEET[c] || c).join("");
+}
+function ref(n, k) { return nameCode(n) + [...String(k)].reverse().join(""); }
+
+// Code de sauvegarde : nom encodé + "-" + questions réussies (une marque par numéro fixe, base 32)
+const B32 = "0123456789abcdefghjkmnpqrstvwxyz";
+function saveCode() {
+    const ids = QUESTIONS.filter((q, i) => solved.has(i)).map(q => q[4]);
+    const max = Math.max(0, ...ids), bits = new Array(Math.ceil(max / 5) * 5).fill(0);
+    ids.forEach(id => bits[id - 1] = 1);
+    let out = "";
+    for (let k = 0; k < bits.length; k += 5) out += B32[parseInt(bits.slice(k, k + 5).join(""), 2)];
+    return nameCode(state.name) + "-" + (out.replace(/0+$/, "") || "0");
+}
+function readCode(code) {
+    const m = code.trim().toLowerCase().match(/^([a-z0-9_]+)-([0-9a-z]+)$/);
+    if (!m || [...m[2]].some(c => !B32.includes(c))) return null;
+    const name = [...m[1]].reverse().map(c => UNLEET[c] || c).join("").replace(/_/g, " ")
+        .replace(/(^|\s)([a-z])/g, (x, a, c) => a + c.toUpperCase());
+    const ids = [];
+    [...m[2]].forEach((c, k) => {
+        const v = B32.indexOf(c);
+        for (let b = 0; b < 5; b++) if (v & (16 >> b)) ids.push(k * 5 + b + 1);
+    });
+    return { name, ids };
+}
+function renderFinal() {
+    const d = new Date(state.finished), p = n => String(n).padStart(2, "0");
+    $("final-name").textContent = state.name;
+    $("final-score").innerHTML = scoreHTML();
+    $("final-ref").textContent = ref(state.name, solved.size);
+    $("final-date").innerHTML = d.getFullYear() + "." + p(d.getMonth() + 1) + "." + p(d.getDate())
+        + "<br>" + p(d.getHours()) + ":" + p(d.getMinutes());
+    show("final");
+    renderDots();
+    fitEnd();
+    startPaint();
+}
+
+// ---------- le nom en couleurs, qui suit la souris comme un pinceau ----------
+let paintReady = false, lastPt = null;
+function nameColors() {
+    const n = [...state.name];
+    let c = state.colors && state.colors.length === n.length ? state.colors : null;
+    if (!c) { c = n.map(randomColor); state.colors = c; save(); }   // partie reprise par code : couleurs au hasard
+    return c;
+}
+function stamp(ctx, x, y) {
+    const letters = [...state.name], colors = nameColors();
+    const widths = letters.map(l => ctx.measureText(l).width);
+    let cx = x - widths.reduce((a, b) => a + b, 0) / 2;
+    letters.forEach((l, i) => { ctx.fillStyle = colors[i]; ctx.fillText(l, cx, y); cx += widths[i]; });
+}
+function paintCtx() {
+    const cv = $("paint"), box = $("final-screen"), dpr = window.devicePixelRatio || 1;
+    const ctx = cv.getContext("2d");
+    const fs = parseFloat(getComputedStyle($("final-name")).fontSize);
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    ctx.font = "italic " + fs + "px 'WebCM Serif 10', serif";
+    ctx.textBaseline = "alphabetic";
+    ctx.fontKerning = "none";
+    return { ctx, box, fs };
+}
+function startPaint() {
+    const cv = $("paint"), box = $("final-screen"), dpr = window.devicePixelRatio || 1;
+    cv.width = box.clientWidth * dpr; cv.height = box.clientHeight * dpr;
+    const { ctx, fs } = paintCtx();
+    // premier nom en couleurs : exactement derrière le nom en noir (même ligne de base)
+    const name = $("final-name"), bb = box.getBoundingClientRect();
+    const mark = document.createElement("span");                       // repère posé sur la ligne de base du nom
+    mark.style.cssText = "display:inline-block;width:0;height:0;vertical-align:baseline";
+    name.appendChild(mark);
+    const baseline = mark.getBoundingClientRect().top - bb.top - box.clientTop;   // le canevas commence à l’intérieur du trait du cadre
+    mark.remove();
+    const range = document.createRange(); range.selectNodeContents(name);
+    const tr = range.getBoundingClientRect();
+    stamp(ctx, tr.left - bb.left - box.clientLeft + tr.width / 2, baseline);
+    lastPt = null;
+    if (!paintReady) {
+        paintReady = true;
+        box.addEventListener("pointermove", e => {
+            if (view !== "final") return;
+            const { ctx, fs } = paintCtx(), r = box.getBoundingClientRect();
+            const mm = ctx.measureText("x");
+            const pt = { x: e.clientX - r.left - box.clientLeft, y: e.clientY - r.top - box.clientTop + mm.actualBoundingBoxAscent / 2 };
+            // trait continu : on remplit l'espace depuis la dernière position
+            const from = lastPt || pt, d = Math.hypot(pt.x - from.x, pt.y - from.y), step = Math.max(2, fs / 12);
+            for (let t = step; t <= d; t += step) stamp(ctx, from.x + (pt.x - from.x) * t / d, from.y + (pt.y - from.y) * t / d);
+            stamp(ctx, pt.x, pt.y);
+            lastPt = pt;
+        });
+        box.addEventListener("pointerleave", () => { lastPt = null; });
+        // clic : efface le dessin et repart du nom en couleurs
+        box.addEventListener("pointerdown", () => { if (view === "final") startPaint(); });
+    }
+}
+
+function goTo(i) {
+    if (view === "question" && state.current < N) {
+        state.visited[QUESTIONS[state.current][2]] = 1;
+        resumeAt = state.current; // pour revenir au jeu depuis l'écran du score
+    }
+    state.current = i;
+    save();
+    if (state.finished) return renderFinal();
+    if (i >= N) renderMenu(); else renderQuestion();
+}
+
+function flash(kind) {
+    document.body.classList.add("flash-" + kind);
+    setTimeout(() => document.body.classList.remove("flash-" + kind), 100);
+}
+
+let busy = false;
+async function check() {
+    const i = state.current;
+    if (busy || i >= N || solved.has(i)) return;
+    busy = true;
+    const text = canonical(selected);
+    if (await isCorrect(i, text)) {
+        state.answers[QUESTIONS[i][2]] = normalize(text);
+        solved.add(i);
+        flash("correct");
+        save();
+        // question suivante non réussie, sinon écran de fin
+        let next = -1;
+        for (let k = 1; k <= N; k++) { const j = (i + k) % N; if (!solved.has(j)) { next = j; break; } }
+        setTimeout(() => { busy = false; goTo(next === -1 ? N : next); }, 150);
+    } else {
+        state.visited[QUESTIONS[i][2]] = 1;
+        save();
+        flash("wrong");
+        renderDots();
+        busy = false;
+    }
+}
+
+// ---------- événements ----------
+let startMode = "choice";
+function setStart(mode) {
+    startMode = mode;
+    $("choice").hidden = mode !== "choice";
+    $("name-input").hidden = mode !== "new";
+    $("name-overlay").hidden = mode !== "new";
+    $("code-input").hidden = mode !== "resume";
+    $("start-back").hidden = mode === "choice";
+    $("start-controls").hidden = mode === "choice";
+    $("start-btn").textContent = mode === "resume" ? "Reprendre" : "Commencer";
+    if (mode === "resume" && !$("code-input").value && state.name) $("code-input").value = saveCode();
+    const inp = mode === "new" ? $("name-input") : mode === "resume" ? $("code-input") : null;
+    if (inp) { requestAnimationFrame(fitName); inp.focus(); }
+}
+$("go-new").addEventListener("click", () => setStart("new"));
+$("go-resume").addEventListener("click", () => setStart("resume"));
+$("start-back").addEventListener("click", () => setStart("choice"));
+$("name-screen").addEventListener("submit", e => {
+    e.preventDefault();
+    if (startMode === "new") {
+        const name = $("name-input").value.trim();
+        if (!name || !nameCode(name)) return flash("wrong");
+        state = { name, answers: {}, visited: {}, current: 0, finished: 0, claimed: [], colors: letterColors.slice() };
+        solved.clear();
+        save();
+        goTo(0);
+    } else if (startMode === "resume") {
+        const r = readCode($("code-input").value);
+        if (!r) return flash("wrong");
+        // même joueur sur le même navigateur : on garde aussi les réponses enregistrées
+        const keep = state.name && nameCode(state.name) === nameCode(r.name);
+        state = { name: keep ? state.name : r.name, answers: keep ? state.answers : {}, visited: keep ? state.visited : {},
+                  current: 0, finished: 0, claimed: r.ids, colors: keep ? state.colors : null };
+        verifyAll().then(() => {
+            let first = 0;
+            while (first < N && solved.has(first)) first++;
+            flash("correct");
+            goTo(first);
+        });
+    }
+});
+$("save").addEventListener("click", async () => {
+    const code = saveCode();
+    $("save-code").textContent = code;
+    $("save-code").hidden = false;
+    fitEnd();
+    try {
+        await navigator.clipboard.writeText(code);
+        $("save").textContent = "Copié";
+        setTimeout(() => { $("save").textContent = "Sauvegarder"; }, 2000);
+    } catch (e) {}
+});
+$("question-screen").addEventListener("submit", e => { e.preventDefault(); check(); });
+$("check").addEventListener("click", check);
+$("prev").addEventListener("click", () => { keyNav = true; $("prev").blur(); goTo(Math.max(0, state.current - 1)); });
+$("next").addEventListener("click", () => { keyNav = true; $("next").blur(); goTo(state.current + 1); });
+function openMenu(mode) {
+    if (view === "menu" && menuMode === mode) return goTo(resumeAt);   // 2e clic : retour au quiz
+    menuMode = mode;
+    if (view === "menu") renderMenu(); else goTo(N);
+}
+$("progress").addEventListener("click", () => openMenu("info"));
+$("quit").addEventListener("click", () => openMenu("exit"));
+$("back").addEventListener("click", () => goTo(resumeAt));
+$("hint-toggle").addEventListener("click", () => $("hint-text").classList.toggle("visible"));
+
+document.addEventListener("keydown", e => {
+    // Entrée = Check, même quand une fonction du menu a le focus (sinon Entrée la basculerait)
+    if (e.key === "Enter" && view === "question" && (!e.target.closest("button") || e.target.closest(".feat"))) { e.preventDefault(); check(); }
+});
+window.addEventListener("resize", () => { if (view === "menu" || view === "final") fitEnd(); if (view === "final") startPaint(); if (view === "question") fit(); if (view === "name") fitName(); sizeDots(); });
+$("name-input").addEventListener("input", () => { fitName(); paintName(); });
+$("code-input").addEventListener("input", fitName);
+
+$("finish").addEventListener("click", () => {
+    state.finished = Date.now();
+    save();
+    renderFinal();
+});
+
+// ---------- démarrage ----------
+(async function start() {
+    // Computer Modern (WebCM) et Source Serif 4 : chargés avant de mesurer ou dessiner les glyphes
+    if (document.fonts) {
+        try {
+            await Promise.all([
+                document.fonts.load("100px 'WebCM Serif 10'"),
+                document.fonts.load("italic 100px 'WebCM Serif 10'"),
+                document.fonts.load("500 100px 'Source Serif 4'")
+            ]);
+        } catch (e) {}
+    }
+    if (document.fonts) document.fonts.ready.then(centerRoundGlyphs); else centerRoundGlyphs();
+    load();
+    await verifyAll();
+    if (state.finished) { renderFinal(); return; }
+    show("name"); setStart("choice"); renderDots();
+})();
+})();
+</script>
+</body>
+</html>
