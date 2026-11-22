@@ -63,7 +63,7 @@ permalink: /microtypo-quiz-2/
 
     /* quiz 2 : la phrase d'exemple (non modifiable) et le menu des fonctions OpenType */
     .phrase { position: relative; overflow: hidden; cursor: default; }
-    .phrase .line-box { position: absolute; left: 40px; right: 40px; top: 0; white-space: pre; line-height: 1.2; }
+    .phrase .line-box { position: absolute; left: 40px; right: 40px; top: 0; white-space: pre; line-height: 1.2; text-align: center; }
     .phrase.done { color: grey; }
     .phrase .zone { text-decoration: underline dotted rgb(190, 190, 190); text-decoration-thickness: 2px; text-underline-offset: 0.12em; }
     /* menu des fonctions : étiquettes grises empilées à gauche, défilant dans le cadre arrondi (sous le bouton jaune) */
@@ -84,6 +84,20 @@ permalink: /microtypo-quiz-2/
     }
     .features::-webkit-scrollbar { display: none; }
     .feat { flex: none; text-align: left; }
+    /* nom complet de la fonction : bulle au survol, à droite de l'étiquette */
+    .ftip {
+        position: fixed;
+        z-index: 5;
+        font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
+        font-size: 19px;
+        line-height: 23px;
+        padding: 6px 10px 8px;
+        border-radius: 4px;
+        background: rgb(60, 60, 60);
+        color: white;
+        white-space: nowrap;
+        pointer-events: none;
+    }
     .feat {
         font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
         font-size: 19px;
@@ -331,7 +345,7 @@ permalink: /microtypo-quiz-2/
 
 // [phrase, indice, sel, empreinte de la réponse, numéro, fonctions actives au départ]
 // Les réponses ne sont pas dans ce fichier : seule une empreinte SHA-256 doublée l'est.
-const QUESTIONS = [["Une affiche fleurie","Ligatures: fi, fl","989195e34a8e","7186176b025c011c3fb80b028d1a02ba",1,""],["Le siège de l’[ONU]","Petites capitales: sigles","ffce52a4236a","f959ae12d7aa509a05215c10f0ccbd5c",2,""],["Au [IV]ᵉ siècle","Petites capitales: siècles en chiffres romains","060f41a3b0ab","014d4ef58f8dc23d4333675ca2888bce",3,""],["Victor [Hugo]","Petites capitales: nom de famille","60d761de5d0a","351067ca8bf95dcc6a6ee8bd06d443e8",4,""],["En 1789, la Révolution","Chiffres: dans le texte courant","a0a0dcc9af40","75d4860ec89f997dede36bcecbfda0a7",5,""],["MARS 2026","Chiffres: avec des capitales","c2c7b464e637",["1f147d97323f50d4ec4052f13495a81c","26956bed499eda5b325d3f757bd986fc"],6,"onum"],["1111\n8888","Chiffres: en colonnes","9e8fe086dc7a",["0c7998fc9a6477600bf87ee534f53b95","579aa494613e7db62837f420a1814358"],7,"pnum"],["1111 visiteurs","Chiffres: chasse proportionnelle dans le texte","9a7a2e36238a","159b1fba85d15919617e4497206750c9",8,""],["1/2 litre","Fractions","3aa67a2a24cd","c5c3a68e016fe3937eb9862bc33212e7",9,""],["M[me] Dupont","Abréviations: lettres supérieures","0b8402382507","2914a4968dacfaaae22e01f7da2d0a29",10,""],["le 1[er] mai","Abréviations: ordinaux","52165da2899d",["462e07b4c0313b80cf8448c6ca00aaba","d205f544caa6a836a69423ec54e0d749"],11,""],["H[2]O","Chimie: chiffres inférieurs","65f315c0e9d6","debc5f156df61e0f3ad7e8a067552481",12,""],["Code : 0O0O","Zéro: distinguer le chiffre 0 de la lettre O","7f0f9a3fa7e5","eff88d0d7c32d43be82589168aa8a081",13,""],["(PARIS-LONDRES)","Capitales: ponctuation adaptée","ed9087900ae6","e0a187a3dfea4d8ed5481b260925ee9e",14,""],["AVATAR","Crénage: approche entre les lettres","80057a22ff6e","199ba25d8b498906da355ae25a9b0848",15,""],["La [fiche officielle] de l’[OMS]","Ligatures et petites capitales","d10a1dcf5c31","7162a1cceec79d0dce489ced10e744c7",16,""],["[1/4] de la population de l’[UE]","Fractions et petites capitales","e21cd7abddec","5a042afb43dbfca8688996b78444cdfe",17,""],["(ÉDITION 2026)","Capitales: chiffres et ponctuation adaptés","e9a68f2b28d5",["14fd0e86d3c9f145a4cca638c4378f11","e08f2f03788ed54e14f5b13daf5b4acc"],18,"onum"],["VAT : 7,7 %","Crénage: approche entre les lettres","29ffc14125f8","14553e6b2146810c0c1957df3818d8b1",19,""]];
+const QUESTIONS = [["« Le silence éternel de ces espaces infinis m’effraie. »\nBlaise Pascal, Pensées","Ligatures: fi, ff, fl","efc65fc7df65","6c46d416febc69898d0257a41f2cae8a",1,""],["La Suisse est membre de l’[ONU], de l’[OMC], de l’[OCDE]\net de l’[AELE], mais ni de l’[UE] ni de l’[OTAN].","Petites capitales: sigles","5af57a528e28","2cac8cf7ba685266341661aa99457f08",2,""],["Au début du [XVI]ᵉ siècle, Alde Manuce imprime à Venise\nle premier livre entièrement composé en italique.","Petites capitales: siècles en chiffres romains","64889d88a969","46e14b965f74e73f4453ef5a536f38f4",3,""],["« Il faut cultiver notre jardin. »\n[Voltaire]","Petites capitales: nom de l’auteur d’une citation","164a0c27ad6d","ea8a916d7ac675f91cf26ac12410a2be",4,""],["Le 14 juillet 1789, les Parisiens prennent la Bastille.\nTrois ans plus tard, le 21 septembre 1792,\nla Convention abolit la royauté.","Chiffres: dans le texte courant","6eece99e0388","83cae344cbc731b68bb55bd2a41e6632",5,""],["DÉPARTS\t\n07.32\tGENÈVE AÉROPORT\n08.04\tZURICH HB\n09.16\tBERNE\n10.45\tLUGANO","Chiffres: avec des capitales","4c5ac29c5193",["5830b49a1a95932e6511a0874816054e","32788c83d297cb70818058aecfb6ef86"],6,"onum"],["Pain\t4.20\nGruyère AOP\t12.80\nVin du Lavaux\t18.50\nTotal\t35.50","Chiffres: en colonnes, pour additionner","a6b2f9f99115",["fac0872639a19f131b434340e3d5b0e8","0d9124a888f785a370909cde65dcdee3"],7,"pnum"],["Votation communale : 2418 bulletins rentrés,\n1309 oui, 977 non et 132 blancs.","Chiffres: chasse proportionnelle dans le texte courant","59cfce8df4d0","18fdc377e491dca88950bb28ae1211aa",8,"tnum"],["Pâte à crêpes (4 personnes) :\n250 g de farine\n[1/2] litre de lait\n4 œufs\n[1/4] de cuillère à café de sel\n50 g de beurre fondu","Fractions","e5e4ec2b478c","0624be7855f6bfc6f482ab206a6691f0",9,""],["Invités du souper :\nM[me] Beyoncé Knowles-Carter\nM. Shawn Carter (Jay-Z)\nM[me] Stefani Germanotta (Lady Gaga)\nM. Marshall Mathers (Eminem)\nD[r] Dre","Abréviations: lettres supérieures","c85936612d77",["8c8782b381fcf13311d2da9d6156f5cc","a07ee8ca069663f9c876307c391a9c5e"],10,""],["Tournée d’été :\n1[er] juin\tBerne\n2 juin\tZurich\n1[er] juillet\tGenève\n1[er] août\tLausanne","Abréviations: le 1ᵉʳ du mois","0422ac125c8f",["412b1d2225591e309f315e956732d8bc","bb706be103762c921a6bd2a661e8ca08"],11,""],["Minium : Pb[3]O[4]\nGlucose : C[6]H[12]O[6]\nAcide sulfurique : H[2]SO[4]","Chimie: chiffres inférieurs","afc85331cb9b",["c604c56e5553e2a0f3666ced2605f140","2d93189700244990c329b30d629e5f34"],12,""],["Comme l’écrit Hochuli[1], le détail[2]\nfait la qualité d’un texte[3].","Appels de note: chiffres supérieurs","2b276913b3a5","94ec3ac164afbbb096c4c69f58f38310",13,""],["Nº de série :\n0O8B-OO50-D0O1\n80O0-OB0O-0D08","Zéro: distinguer le chiffre 0 de la lettre O","52809ff9939c","119f98c37763882e867d2b730d88d218",14,""],["LIGNES DIRECTES :\nGENÈVE–PARIS (TGV)\nBÂLE–BRUXELLES (ICE)\nZURICH–MILAN (EC)","Capitales: ponctuation adaptée","958871aeb6c8","848dab791c2dd95b867f70dae19e0d23",15,""],["(5 + 2) − 78 × 198 = −15 437","Mathématiques: chiffres alignés et signes centrés","98eef12b3da8",["814f5537365a778c8fe9ceec3883f0d3","a211ce89ce7cd55df5e08697e55b6008"],16,"onum"],["AVATAR, TOUT VA BIEN\nTableau, Vers, Wagon, Ypres","Crénage: paires critiques","8adb13ab169c","59c6474241fba1f96f3ae95182398b1d",17,""],["L’[OMS] publie chaque année une [fiche officielle]\nsur la grippe saisonnière.","Ligatures et petites capitales","7c7f7eda4f05","bebb06a4c5d20601ec44ebcbcf33e3f5",18,""],["Environ [1/5] de la population de l’[UE] a plus de 65 ans.","Fractions et petites capitales","f7ed7d71aad2","e1dfaf74ecf31d62f3a030411300e32e",19,""],["CATALOGUE DE L’EXPOSITION\n(ÉDITION 2026–2027)","Capitales: chiffres et ponctuation adaptés","fe054cffcc7b",["86601b9365104ae6a6b1753890743c24","fb7d902b912c634f65fc9ad025ec5686"],20,"onum"]];
 
 const STORE = "microtypo-quiz-2";
 const $ = id => document.getElementById(id);
@@ -417,16 +431,60 @@ const canonical = set => [...set].sort().join(" ");
 const featureCSS = set => FEATURES.map(([t]) => '"' + t + '" ' + (set.has(t) ? 1 : 0)).join(", ");
 
 // La phrase : les fonctions s'appliquent à toute la phrase, ou seulement aux zones [entre crochets]
-function buildPhrase(target, text) {
-    target.textContent = "";
-    const parts = text.includes("[") ? text.split(/(\[[^\]]*\])/) : ["[" + text + "]"];
+function buildPhrase(target, text, zones) {
+    const parts = zones ? text.split(/(\[[^\]]*\])/) : ["[" + text + "]"];
     parts.forEach(p => {
         if (!p) return;
         const span = document.createElement("span");
-        if (p[0] === "[") { span.className = "zone-on" + (text.includes("[") ? " zone" : ""); span.textContent = p.slice(1, -1); }
+        if (p[0] === "[") { span.className = "zone-on" + (zones ? " zone" : ""); span.textContent = p.slice(1, -1); }
         else span.textContent = p;
         target.appendChild(span);
     });
+}
+// Lignes (\n) ; si la phrase contient des tabulations (\t) : tableau, colonnes de chiffres alignées à droite
+const NUMERIC = /^[\s\d.,:’'%+−–=×()\/CHF-]*\d[\s\d.,:’'%+−–=×()\/CHF-]*$/;
+function buildContent(target, text) {
+    target.textContent = "";
+    const zones = text.includes("[");
+    const marks = [], widthEls = [];
+    const mark = () => {
+        const s = document.createElement("span");
+        s.className = "bl";
+        s.style.cssText = "display:inline-block;width:0;height:0;vertical-align:baseline";
+        marks.push(s);
+        return s;
+    };
+    const lines = text.split("\n");
+    if (text.includes("\t")) {
+        const n = Math.max(...lines.map(l => l.split("\t").length));
+        const grid = document.createElement("div");
+        grid.style.cssText = "display:inline-grid;grid-template-columns:repeat(" + n + ",auto);column-gap:0.6em;text-align:left";
+        lines.forEach(l => {
+            const cells = l.split("\t");
+            for (let c = 0; c < n; c++) {
+                const cell = document.createElement("div");
+                const t = cells[c] ?? "";
+                if (NUMERIC.test(t)) cell.style.textAlign = "right";
+                if (c === 0) cell.appendChild(mark());
+                buildPhrase(cell, t || "​", zones);
+                grid.appendChild(cell);
+            }
+        });
+        target.appendChild(grid);
+        widthEls.push(grid);
+    } else {
+        lines.forEach(l => {
+            const row = document.createElement("div");
+            row.appendChild(mark());
+            const inner = document.createElement("span");
+            inner.style.display = "inline-block";
+            buildPhrase(inner, l || "​", zones);
+            row.appendChild(inner);
+            target.appendChild(row);
+            widthEls.push(inner);
+        });
+    }
+    return { marks, widthEls };
 }
 function applyFeatures(target) {
     const off = featureCSS(new Set()), on = featureCSS(selected);
@@ -438,21 +496,9 @@ function mirrorOf(text) {
         style: "position:absolute;left:-99999px;top:0;visibility:hidden;white-space:pre;font-family:'Source Serif 4',serif;font-weight:500;line-height:1.2;padding:0;margin:0;border:0"
     }));
     if (!m.parentNode) document.body.appendChild(m);
-    m.innerHTML = "";
-    const marks = text.split("\n").map(line => {
-        const row = document.createElement("div");
-        const mark = document.createElement("span");
-        mark.style.cssText = "display:inline-block;width:0;height:0;vertical-align:baseline";
-        row.appendChild(mark);
-        const inner = document.createElement("span");
-        inner.style.display = "inline-block";
-        buildPhrase(inner, line || "\u200b");
-        row.appendChild(inner);
-        m.appendChild(row);
-        return { mark, inner };
-    });
+    const built = buildContent(m, text);
     applyFeatures(m);
-    return { m, marks };
+    return { m, ...built };
 }
 // Taille : la plus grande possible entre le titre et le menu ; centrage en hauteur sur les capitales
 function fit() {
@@ -463,33 +509,56 @@ function fit() {
     const controlsTop = $("check").getBoundingClientRect().top - box.top;
     const menuRight = $("features").getBoundingClientRect().right - box.left;
     const top = titleBottom + 10, bottom = controlsTop - 10;
-    const left = menuRight + 40, right = box.width - 40;       // la phrase occupe la place à droite des étiquettes
+    const margin = menuRight + 40;                              // marges égales : la phrase reste centrée dans le cadre
+    const left = margin, right = box.width - margin;
     phraseBox.style.left = left + "px";
     phraseBox.style.right = (box.width - right) + "px";
-    const { m, marks } = mirrorOf(text);
+    const { m, marks, widthEls } = mirrorOf(text);
     m.style.fontSize = "100px";
-    const widest = Math.max(1, ...marks.map(k => k.inner.getBoundingClientRect().width));
+    const widest = Math.max(1, ...widthEls.map(el => el.getBoundingClientRect().width));
     const lines = marks.length;
     fitSize = Math.max(20, Math.min(150, (right - left) / widest * 100, (bottom - top) / (lines * 1.2)));
     m.style.fontSize = fitSize + "px";
+    // la taille optique (opsz) change les chasses selon la taille : on réajuste en mesurant à la taille obtenue
+    for (let k = 0; k < 3; k++) {
+        const w = Math.max(1, ...widthEls.map(el => el.getBoundingClientRect().width));
+        if (w <= right - left + 0.5) break;
+        fitSize = Math.max(20, fitSize * (right - left) / w - 0.5);
+        m.style.fontSize = fitSize + "px";
+    }
     const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
     ctx.font = "500 " + fitSize + "px 'Source Serif 4', serif";
     const capH = ctx.measureText("H").actualBoundingBoxAscent;
     const mTop = m.getBoundingClientRect().top;
-    const first = marks[0].mark.getBoundingClientRect().top - mTop;
-    const last = marks[lines - 1].mark.getBoundingClientRect().top - mTop;
+    const first = marks[0].getBoundingClientRect().top - mTop;
+    const last = marks[lines - 1].getBoundingClientRect().top - mTop;
     const capMiddle = (first - capH + last) / 2;   // des capitales de la 1re ligne à la dernière ligne de base
     phraseBox.style.fontSize = fitSize + "px";
     phraseBox.style.top = ((top + bottom) / 2 - capMiddle - field.clientTop) + "px";   // clientTop : trait du cadre
 }
+const tip = Object.assign(document.createElement("div"), { className: "ftip", hidden: true });
+document.body.appendChild(tip);
+function showTip(b, label) {
+    const r = b.getBoundingClientRect();
+    tip.textContent = label;
+    tip.style.left = Math.round(r.right + 6) + "px";
+    tip.style.top = Math.round(r.top) + "px";
+    tip.hidden = false;
+}
+function hideTip() { tip.hidden = true; }
+$("features").addEventListener("scroll", hideTip);
 function renderFeatures(done) {
+    hideTip();
     const box = $("features");
     box.textContent = "";
     FEATURES.forEach(([tag, label]) => {
         const b = document.createElement("button");
         b.type = "button";
         b.className = "feat";
-        b.innerHTML = label + ' (<span class="tag">' + tag + "</span>)";
+        b.innerHTML = '<span class="tag">' + tag + "</span>";
+        b.setAttribute("aria-label", label + " (" + tag + ")");
+        b.addEventListener("mouseenter", () => showTip(b, label));
+        b.addEventListener("mouseleave", hideTip);
         b.setAttribute("aria-pressed", selected.has(tag) ? "true" : "false");
         b.disabled = done;
         b.addEventListener("click", () => {
@@ -624,7 +693,7 @@ function renderQuestion() {
     // fonctions déjà actives au départ (6e élément), ou la bonne réponse si la question est réussie
     const start = done ? (state.answers[QUESTIONS[i][2]] ?? QUESTIONS[i][5] ?? "") : (QUESTIONS[i][5] ?? "");
     selected = new Set(start.split(" ").filter(Boolean));
-    buildPhrase(phraseBox, faux);
+    buildContent(phraseBox, faux);
     applyFeatures(phraseBox);
     field.classList.toggle("done", done);
     renderFeatures(done);
