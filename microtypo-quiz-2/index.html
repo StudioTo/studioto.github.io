@@ -66,18 +66,24 @@ permalink: /microtypo-quiz-2/
     .phrase .line-box { position: absolute; left: 40px; right: 40px; top: 0; white-space: pre; line-height: 1.2; }
     .phrase.done { color: grey; }
     .phrase .zone { text-decoration: underline dotted rgb(190, 190, 190); text-decoration-thickness: 2px; text-underline-offset: 0.12em; }
-    /* menu des fonctions : étiquettes grises sous la phrase, au-dessus des boutons (ordre alphabétique des codes) */
+    /* menu des fonctions : étiquettes grises empilées à gauche, défilant dans le cadre arrondi (sous le bouton jaune) */
     .features {
         position: absolute;
-        left: 22px;
-        right: 22px;
-        bottom: 83px; /* 10 px au-dessus des boutons (dans le cadre : 143 − 60 de marge du bas) */
+        left: 20px;
+        top: 0;
+        bottom: 0;
+        box-sizing: border-box;
+        padding: 20px 0 102px; /* en bas : de quoi faire remonter la dernière étiquette au-dessus du bouton jaune */
         display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
+        flex-direction: column;
+        align-items: flex-start;
         gap: 6px;
-        z-index: 2;
+        overflow-y: auto;
+        scrollbar-width: none;
+        z-index: 1;
     }
+    .features::-webkit-scrollbar { display: none; }
+    .feat { flex: none; text-align: left; }
     .feat {
         font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
         font-size: 19px;
@@ -283,8 +289,7 @@ permalink: /microtypo-quiz-2/
 
 <!-- écran 2 : question -->
 <form id="question-screen" class="stage" hidden autocomplete="off">
-    <div id="answer" class="field phrase" aria-live="polite"><div class="line-box" id="phrase"></div></div>
-    <div class="features" id="features" role="group" aria-label="Fonctions OpenType"></div>
+    <div id="answer" class="field phrase" aria-live="polite"><div class="line-box" id="phrase"></div><div class="features" id="features" role="group" aria-label="Fonctions OpenType"></div></div>
 </form>
 
 <!-- écran 3 : score en cours (bouton %) -->
@@ -455,13 +460,17 @@ function fit() {
     const box = field.getBoundingClientRect();
     if (!box.width) return;
     const titleBottom = document.querySelector(".topbar").getBoundingClientRect().bottom - box.top;
-    const menuTop = $("features").getBoundingClientRect().top - box.top;
-    const top = titleBottom + 10, bottom = menuTop - 10;
+    const controlsTop = $("check").getBoundingClientRect().top - box.top;
+    const menuRight = $("features").getBoundingClientRect().right - box.left;
+    const top = titleBottom + 10, bottom = controlsTop - 10;
+    const left = menuRight + 40, right = box.width - 40;       // la phrase occupe la place à droite des étiquettes
+    phraseBox.style.left = left + "px";
+    phraseBox.style.right = (box.width - right) + "px";
     const { m, marks } = mirrorOf(text);
     m.style.fontSize = "100px";
     const widest = Math.max(1, ...marks.map(k => k.inner.getBoundingClientRect().width));
     const lines = marks.length;
-    fitSize = Math.max(20, Math.min(150, (box.width - 100) / widest * 100, (bottom - top) / (lines * 1.2)));
+    fitSize = Math.max(20, Math.min(150, (right - left) / widest * 100, (bottom - top) / (lines * 1.2)));
     m.style.fontSize = fitSize + "px";
     const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
     ctx.font = "500 " + fitSize + "px 'Source Serif 4', serif";
