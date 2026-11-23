@@ -67,7 +67,7 @@ toc: false
 ## 23.11.2026
 
 ⚠️ Évaluation ex. 2  
-📖 *Guide du typographe romand*  
+📖 Guide du typographe romand  
 📄 3\. Ligne : appliquer correctement les règles de composition typographiques
 
 ## 30.11.2026
