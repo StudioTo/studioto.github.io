@@ -106,7 +106,7 @@ a:focus,
    20px → 30px   index : titres de page, recherche
    19px → 25px   texte courant (1.3 : 24.7 arrondi), intro de l'accueil
    23px → 30px   police mono (code, blocs de texte préformaté)
-   19px → 25px   briefs (mono, même taille que le texte courant)
+   17px → 25px   briefs (mono, texte courant − 10 %, interlignage du texte courant)
    16px → 20px   (24 − 15 %, arrondi) légendes, table des matières, sources, notes, tags, #####, ######, texte du thème */
 html,
 body {
@@ -420,7 +420,7 @@ html:not([data-page="/"]) .markdown-body .brief {
   margin: 0 0 24px;
   padding: 16px;
   font-family: var(--font-mono);
-  font-size: 19px;             /* = texte courant */
+  font-size: 17px;             /* texte courant 19px − 10 % = 17.1 → 17px */
   line-height: 25px;
   background: #f2f2f2;
   border-radius: 6px;
@@ -520,7 +520,7 @@ html:not([data-page="/"]) .markdown-body .brief blockquote::before {
 }
 
 /* liens dans les briefs : soulignés, trait 20 % plus bas que celui de la police
-   (WebCM Mono 10 : underlinePosition −130/1000 × 19px = 2.5px → × 1.2 = 3px) */
+   (WebCM Mono 10 : underlinePosition −130/1000 × 17px = 2.2px → × 1.2 = 2.7 → 3px) */
 html:not([data-page="/"]) .markdown-body .brief a,
 html:not([data-page="/"]) .markdown-body .brief a:hover {
   text-decoration: underline;
