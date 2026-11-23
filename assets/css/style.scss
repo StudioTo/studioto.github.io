@@ -519,10 +519,12 @@ html:not([data-page="/"]) .markdown-body .brief blockquote::before {
   pointer-events: none;
 }
 
-/* liens dans les briefs : soulignés */
+/* liens dans les briefs : soulignés, trait 20 % plus bas que celui de la police
+   (WebCM Mono 10 : underlinePosition −130/1000 × 19px = 2.5px → × 1.2 = 3px) */
 html:not([data-page="/"]) .markdown-body .brief a,
 html:not([data-page="/"]) .markdown-body .brief a:hover {
   text-decoration: underline;
+  text-underline-offset: 3px;
 }
 
 /* listes à cocher (- [ ] en Markdown) : case dans le retrait de 24px, à la place de la puce,
