@@ -10,9 +10,7 @@ toc: false
 Appliquer les règles de microtypographie  
 Travail individuel
 
-→ [Microtypo Quiz 1](../../../microtypo-quiz-1/)
-
-1. Compléter le quiz de microtypo en se basant sur le Guide du typographe romand
+1. Compléter le [quiz de microtypo 1](../../../microtypo-quiz-1/) en se basant sur le Guide du typographe romand
 1. Envoyer une capture d’écran du score à la fin du cours
 
 ## Ressources
