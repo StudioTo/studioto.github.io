@@ -11,7 +11,8 @@ Appliquer les règles de microtypographie
 Travail individuel
 
 1. Compléter le [quiz de microtypo 1](../../../microtypo-quiz-1/) en se basant sur le Guide du typographe romand
-1. Envoyer une capture d’écran du score à la fin du cours
+2. Prenez une capture d’écran de votre résultat (backup)
+3. Envoyer votre résultat
 
 ## Ressources
 
