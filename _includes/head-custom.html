@@ -190,17 +190,22 @@
   })();
 </script>
 <script>
-  // ---------- liens : seuls les liens vers d'autres sites s'ouvrent dans un nouvel onglet
-  // (les pages de studioto restent dans le même onglet ; exception : le bouton U+ du quiz,
-  //  qui a déjà target="_blank" dans microtypo-quiz-1/index.html)
+  // ---------- liens : tous s'ouvrent dans un nouvel onglet, sauf
+  //   – le titre du site (StudioTo) : retour à l'index, même onglet
+  //   – sur l'index : les liens vers les pages du site, même onglet
+  //   – les renvois dans la page elle-même (#…, table des matières, notes)
   (function () {
+    var home = document.documentElement.getAttribute("data-page") === "/";
     function setup() {
       document.querySelectorAll(".markdown-body a[href]").forEach(function (a) {
         var href = a.getAttribute("href");
         if (!href || href.charAt(0) === "#" || /^(mailto|tel|javascript):/i.test(href)) return;
         var u;
         try { u = new URL(a.href, location.href); } catch (e) { return; }
-        if (u.origin === location.origin) return;          // lien interne : même onglet
+        var internal = u.origin === location.origin;
+        if (internal && u.pathname === location.pathname) return;                  // même page
+        if (internal && a.parentElement && a.parentElement.tagName === "H1" && u.pathname === "/") return;  // StudioTo
+        if (internal && home) return;                                               // index → pages
         a.target = "_blank";
         a.rel = "noopener";
       });
