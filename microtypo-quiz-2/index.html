@@ -315,7 +315,7 @@
     <p id="save-code" class="ref" hidden></p>
 </div>
 
-<!-- écran 4 : résultat final, sans aucun bouton -->
+<!-- écran 4 : résultat final, code de vérification, bouton Envoyer (mail) -->
 <div id="final-screen" class="end-text" hidden>
     <canvas id="paint" aria-hidden="true"></canvas>
     <p id="final-name" class="player-name"></p>
@@ -323,6 +323,7 @@
     <p id="final-date"></p>
     <p id="final-ref" class="ref"></p>
 </div>
+<div class="controls" id="final-controls" hidden><button type="button" class="pill" id="send">Envoyer</button></div>
 
 <div id="quiz-ui" hidden>
     <button type="button" class="round" id="hint-toggle" title="Indice"><span>‽</span></button>
@@ -344,14 +345,14 @@
 
 // [phrase, indice, sel, empreinte de la réponse, numéro, fonctions actives au départ]
 // Les réponses ne sont pas dans ce fichier : seule une empreinte SHA-256 doublée l'est.
-const QUESTIONS = [["« Le silence éternel de ces espaces infinis m’effraie. »\nBlaise Pascal, Pensées","Ligatures: fi, ff, fl","efc65fc7df65","6c46d416febc69898d0257a41f2cae8a",1,""],["La Suisse est membre de l’[ONU], de l’[OMC], de l’[OCDE]\net de l’[AELE], mais ni de l’[UE] ni de l’[OTAN].","Petites capitales: sigles","5af57a528e28","2cac8cf7ba685266341661aa99457f08",2,""],["Au début du [XVI]ᵉ siècle, Alde Manuce imprime à Venise\nle premier livre entièrement composé en italique.","Petites capitales: siècles en chiffres romains","64889d88a969","46e14b965f74e73f4453ef5a536f38f4",3,""],["« Il faut cultiver notre jardin. »\n[Voltaire]","Petites capitales: nom de l’auteur d’une citation","164a0c27ad6d","ea8a916d7ac675f91cf26ac12410a2be",4,""],["Le 14 juillet 1789, les Parisiens prennent la Bastille.\nTrois ans plus tard, le 21 septembre 1792,\nla Convention abolit la royauté.","Chiffres: dans le texte courant","6eece99e0388","83cae344cbc731b68bb55bd2a41e6632",5,""],["Votation communale : 2418 bulletins rentrés,\n1309 oui, 977 non et 132 blancs.","Chiffres: chasse proportionnelle dans le texte courant","3c122fe5aaa3",["7055db2f1a9b7794b169bd3dff3f6046","495992532b6812dfbe67b4290bcf19e4"],6,""],["En 1307, deux Konrad Blarer apparaissent comme témoins ;\nles actes de 1299 à 1316 ne disent pas duquel il s’agit.","Chiffres: elzéviriens et proportionnels dans le texte courant","5acc8cf7bacb","68816e7a4e4c77e4170b0f80cc383a47",7,""],["Pâte à crêpes (4 personnes) :\n250 g de farine\n[1/2] litre de lait\n4 œufs\n[1/4] de cuillère à café de sel\n50 g de beurre fondu","Fractions","782cd94425ae","731da377369efdfa35a3e27cd40114cb",8,""],["Invités du souper :\nM[me] Beyoncé Knowles-Carter\nM. Shawn Carter (Jay-Z)\nM[me] Stefani Germanotta (Lady Gaga)\nM. Marshall Mathers (Eminem)\nD[r] Dre","Abréviations: lettres supérieures","98e85f029a72",["96b1f96dcfbd43918ef4ae845a681c6b","f99e89639601850512f4d46fbfb112c4"],9,""],["1[er] juin\tBerne\n2 juin\tZurich\n1[er] juillet\tGenève\n1[er] août\tLausanne","Abréviations: le 1ᵉʳ du mois","6e012836fbf2",["6752a984b246175ba93ca5e91976c974","db603a8625653093d62112353598c195"],10,""],["Ingrédients :\nEau gazéifiée (CO[2])\nSucre (C[12]H[22]O[11])\nColorant : caramel E150d\nAcidifiant : acide phosphorique (H[3]PO[4])\nArômes naturels, dont caféine (C[8]H[10]N[4]O[2])","Chimie: chiffres inférieurs","647537fe5c68",["63bbf708fd9c9ea6553f50c5d5caa9f5","306491374c37c76f309c7cd3a82ddddd"],11,""],["Comme l’écrit Hochuli[1], le détail[2]\nfait la qualité d’un texte[3].","Appels de note: chiffres supérieurs","d9f3f2208835","ad0f5cfd413f252cfe8a0ec27799af76",12,""],["Nº de série :\n0O8B-OO50-D0O1\n80O0-OB0O-0D08","Zéro: distinguer le chiffre 0 de la lettre O","be5d9fcd40c3","bd56881c6c783aac2baf8f3b4e168195",13,""],["GENÈVE–PARIS (TGV)\nBÂLE–BRUXELLES (ICE)\nZURICH–MILAN (EC)","Capitales: ponctuation adaptée","2b9bb8f26f64","d791808fd24cf0e259fbe95d0f54df74",14,""],["DÉPARTS\t\nLONDRES\tGATE B1\nNEW YORK\tGATE B12\nTOKYO\tGATE C27\nDUBAÏ\tGATE A3","Capitales: chiffres à la hauteur des capitales","d7d303e3e958",["f9a5a17efcd7f6baf53657591949f6ee","3b421b32ca32b2cbab5237f0696a3cf5"],15,""],["(5 + 2) − 78 × 198 = −15 437","Mathématiques: chiffres alignés et signes centrés","98eef12b3da8",["a211ce89ce7cd55df5e08697e55b6008","814f5537365a778c8fe9ceec3883f0d3"],16,""],["AVATAR, TOUT VA BIEN\nTableau, Vers, Wagon, Ypres","Crénage: paires critiques","8adb13ab169c","59c6474241fba1f96f3ae95182398b1d",17,""],["L’ATELIER, T’AS VU ? Y’A PLUS RIEN !","Crénage: apostrophes entre capitales","0ac2f501d506","8a49044fcb1abd679baf992e0afc09a6",18,""],["L’[OMS] publie chaque année une [fiche officielle]\nsur la grippe saisonnière.","Ligatures et petites capitales","8e7e226e9c51","221fe89c31044a4e8d30817e80b71bb1",19,""],["Environ [1/5] de la population de l’[UE] a plus de 65 ans.","Fractions et petites capitales","583fae35dbaa","be3305706e24d24bab140bf5292dc1ac",20,""],["CATALOGUE DE L’EXPOSITION\n(ÉDITION 2026–2027)","Capitales: chiffres et ponctuation adaptés","9852e4a3d91b",["947332f2e92eac8076613029518b6821","f42cb33d0a56bafab239d9c284adb8e9"],21,""]];
+const QUESTIONS = [["« Le silence éternel de ces espaces infinis m’effraie. »\nBlaise Pascal, Pensées","Ligatures: fi, ff, fl","efc65fc7df65","6c46d416febc69898d0257a41f2cae8a",1,"","8d6828d14ce4ecb067a4cd94d5ccdb1c"],["La Suisse est membre de l’[ONU], de l’[OMC], de l’[OCDE]\net de l’[AELE], mais ni de l’[UE] ni de l’[OTAN].","Petites capitales: sigles","5af57a528e28","2cac8cf7ba685266341661aa99457f08",2,"","5469dd2349231fef8d6f602b4565bfb4"],["Au début du [XVI]ᵉ siècle, Alde Manuce imprime à Venise\nle premier livre entièrement composé en italique.","Petites capitales: siècles en chiffres romains","64889d88a969","46e14b965f74e73f4453ef5a536f38f4",3,"","a26eea156b2a0ad147f0e86d9b95dae6"],["« Il faut cultiver notre jardin. »\n[Voltaire]","Petites capitales: nom de l’auteur d’une citation","164a0c27ad6d","ea8a916d7ac675f91cf26ac12410a2be",4,"","2601d7b46e04a87caf5e7b6b1830fca5"],["Le 14 juillet 1789, les Parisiens prennent la Bastille.\nTrois ans plus tard, le 21 septembre 1792,\nla Convention abolit la royauté.","Chiffres: dans le texte courant","6eece99e0388","83cae344cbc731b68bb55bd2a41e6632",5,"","5867f4537a73f67ad0cbc6afc528d538"],["Votation communale : 2418 bulletins rentrés,\n1309 oui, 977 non et 132 blancs.","Chiffres: chasse proportionnelle dans le texte courant","3c122fe5aaa3",["7055db2f1a9b7794b169bd3dff3f6046","495992532b6812dfbe67b4290bcf19e4"],6,"",["38a22c46feaaffa3ba617846b971341f","a68b5e16afa38ed8a7219303f34f3c5b"]],["En 1307, deux Konrad Blarer apparaissent comme témoins ;\nles actes de 1299 à 1316 ne disent pas duquel il s’agit.","Chiffres: elzéviriens et proportionnels dans le texte courant","5acc8cf7bacb","68816e7a4e4c77e4170b0f80cc383a47",7,"","d35e4474892de98694571ae5053e0700"],["Pâte à crêpes (4 personnes) :\n250 g de farine\n[1/2] litre de lait\n4 œufs\n[1/4] de cuillère à café de sel\n50 g de beurre fondu","Fractions","782cd94425ae","731da377369efdfa35a3e27cd40114cb",8,"","1001619d461a148fdef726bdb1f2a08a"],["Invités du souper :\nM[me] Beyoncé Knowles-Carter\nM. Shawn Carter (Jay-Z)\nM[me] Stefani Germanotta (Lady Gaga)\nM. Marshall Mathers (Eminem)\nD[r] Dre","Abréviations: lettres supérieures","98e85f029a72",["96b1f96dcfbd43918ef4ae845a681c6b","f99e89639601850512f4d46fbfb112c4"],9,"",["a0330b2462d7b71448b77892d801b2ca","9b0b0a8d59bb34ad442f239e9d1200ca"]],["1[er] juin\tBerne\n2 juin\tZurich\n1[er] juillet\tGenève\n1[er] août\tLausanne","Abréviations: le 1ᵉʳ du mois","6e012836fbf2",["6752a984b246175ba93ca5e91976c974","db603a8625653093d62112353598c195"],10,"",["77673c66c96f118dda99b121eb0717fb","67a5a73c3a7e391a4060691995a23ff2"]],["Ingrédients :\nEau gazéifiée (CO[2])\nSucre (C[12]H[22]O[11])\nColorant : caramel E150d\nAcidifiant : acide phosphorique (H[3]PO[4])\nArômes naturels, dont caféine (C[8]H[10]N[4]O[2])","Chimie: chiffres inférieurs","647537fe5c68",["63bbf708fd9c9ea6553f50c5d5caa9f5","306491374c37c76f309c7cd3a82ddddd"],11,"",["1077cc757aeb61f14e788154a8bbbdd8","469273c7cd2b56551f28ee75ba263abc"]],["Comme l’écrit Hochuli[1], le détail[2]\nfait la qualité d’un texte[3].","Appels de note: chiffres supérieurs","d9f3f2208835","ad0f5cfd413f252cfe8a0ec27799af76",12,"","011573aeb7682d81fc0b34992eeced5f"],["Nº de série :\n0O8B-OO50-D0O1\n80O0-OB0O-0D08","Zéro: distinguer le chiffre 0 de la lettre O","be5d9fcd40c3","bd56881c6c783aac2baf8f3b4e168195",13,"","56051b14f3cb71a044763e98ef105dea"],["GENÈVE–PARIS (TGV)\nBÂLE–BRUXELLES (ICE)\nZURICH–MILAN (EC)","Capitales: ponctuation adaptée","2b9bb8f26f64","d791808fd24cf0e259fbe95d0f54df74",14,"","f01cdfedd118267f7c47c1e23cca71ed"],["DÉPARTS\t\nLONDRES\tGATE B1\nNEW YORK\tGATE B12\nTOKYO\tGATE C27\nDUBAÏ\tGATE A3","Capitales: chiffres à la hauteur des capitales","d7d303e3e958",["f9a5a17efcd7f6baf53657591949f6ee","3b421b32ca32b2cbab5237f0696a3cf5"],15,"",["d57e6c20eb06d7008375733a1d112fd4","a193f2e0a891646d1eb81b3ddbb227a3"]],["(5 + 2) − 78 × 198 = −15 437","Mathématiques: chiffres alignés et signes centrés","98eef12b3da8",["a211ce89ce7cd55df5e08697e55b6008","814f5537365a778c8fe9ceec3883f0d3"],16,"",["46224a9356126e6f8bccd9d1c31d2541","d57905f4f590d8dd7b733a3bb9431ec0"]],["AVATAR, TOUT VA BIEN\nTableau, Vers, Wagon, Ypres","Crénage: paires critiques","8adb13ab169c","59c6474241fba1f96f3ae95182398b1d",17,"","187658cfd5a240133042427e03e5d39a"],["L’ATELIER, T’AS VU ? Y’A PLUS RIEN !","Crénage: apostrophes entre capitales","0ac2f501d506","8a49044fcb1abd679baf992e0afc09a6",18,"","965eaf929ebacee88171e93ad6006535"],["L’[OMS] publie chaque année une [fiche officielle]\nsur la grippe saisonnière.","Ligatures et petites capitales","8e7e226e9c51","221fe89c31044a4e8d30817e80b71bb1",19,"","2d416a38370ea9d24f9b9b6d9c763951"],["Environ [1/5] de la population de l’[UE] a plus de 65 ans.","Fractions et petites capitales","583fae35dbaa","be3305706e24d24bab140bf5292dc1ac",20,"","57b446127bf690c1212ac8813ff786d4"],["CATALOGUE DE L’EXPOSITION\n(ÉDITION 2026–2027)","Capitales: chiffres et ponctuation adaptés","9852e4a3d91b",["947332f2e92eac8076613029518b6821","f42cb33d0a56bafab239d9c284adb8e9"],21,"",["20e0dc3e3d87653913098428c0bb5910","1833654fb2292c90ffb4d4d6a6217b8c"]]];
 
 const STORE = "microtypo-quiz-2";
 const $ = id => document.getElementById(id);
 const N = QUESTIONS.length;
 
 // ---------- état ----------
-let state = { name: "", answers: {}, visited: {}, current: 0, finished: 0, claimed: [] };
+let state = { name: "", answers: {}, visited: {}, current: 0, finished: 0, claimed: [], carry: "0" };
 const solved = new Set();
 
 function save() {
@@ -367,6 +368,7 @@ function load() {
             state.current = Number.isInteger(s.current) ? Math.max(0, Math.min(s.current, N)) : 0;
             state.finished = Number.isFinite(s.finished) ? s.finished : 0;
             state.claimed = Array.isArray(s.claimed) ? s.claimed.filter(Number.isInteger) : [];
+            state.carry = typeof s.carry === "string" && /^[0-9a-f]{1,13}$/.test(s.carry) ? s.carry : "0";
             state.colors = Array.isArray(s.colors) ? s.colors.filter(c => typeof c === "string") : null;
         }
     } catch (e) {}
@@ -385,12 +387,33 @@ async function sha256(text) {
 async function isCorrect(i, text) {
     const [, , salt, check] = QUESTIONS[i];
     const proof = await sha256(salt + "|" + normalize(text));
-    return [].concat(check).includes((await sha256(proof)).slice(0, 32));   // une ou plusieurs réponses justes
+    const k = [].concat(check).indexOf((await sha256(proof)).slice(0, 32));   // une ou plusieurs réponses justes
+    if (k < 0) return false;
+    await learn(i, proof, k);
+    return true;
+}
+
+// ---------- code de vérification ----------
+// Chaque question a un secret, caché dans la page : on ne peut le lire (masque XOR) qu'avec la bonne réponse.
+// Le code = n° du quiz - nom encodé - questions réussies - empreinte (XOR des secrets, liée au nom, 50 bits).
+// La page de contrôle (avec la clé de l'enseignant) recalcule l'empreinte : un code modifié est invalide.
+const QUIZ = 2;
+const MAIL = "studioto@ik.me", MAIL_SUBJECT = "MicroTypo 2 Score";
+const MASK_AT = 6;      // position des masques dans chaque question
+const M50 = (1n << 50n) - 1n;
+const vals = new Map();   // numéro fixe de la question → part de l'empreinte
+function xorHex(a, b) { return [...a].map((c, j) => (parseInt(c, 16) ^ parseInt(b[j], 16)).toString(16)).join(""); }
+async function learn(i, proof, k) {
+    const q = QUESTIONS[i], m = [].concat(q[MASK_AT] || [])[k];
+    if (!m) return;
+    const secret = xorHex(m, (await sha256("mask|" + proof)).slice(0, 32));
+    vals.set(q[4], BigInt("0x" + (await sha256(secret + "|" + nameCode(state.name))).slice(0, 13)) & M50);
 }
 // Le score est recalculé à chaque chargement : une réponse n'est comptée
 // que si elle redonne l'empreinte. Modifier le stockage ne sert à rien sans les bonnes réponses.
 async function verifyAll() {
     solved.clear();
+    vals.clear();
     const clean = {};
     for (let i = 0; i < N; i++) {
         const salt = QUESTIONS[i][2];
@@ -686,6 +709,7 @@ function show(v) {
     $("question-controls").hidden = v !== "question";
     $("hint-toggle").hidden = v !== "question";
     $("back").hidden = v !== "menu";
+    $("final-controls").hidden = v !== "final";
     $("hint-text").classList.remove("visible");
 }
 
@@ -755,12 +779,11 @@ function renderMenu() {
 const LEET = { a: "4", e: "3", i: "1", o: "0" };
 const UNLEET = { "4": "a", "3": "e", "1": "i", "0": "o" };
 function nameCode(n) {
-    const t = n.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim().replace(/\s+/g, "_");
+    const t = n.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().trim().replace(/[\s-]+/g, "_");   // espaces et traits d'union → _
     return [...t].filter(c => /[a-z0-9_]/.test(c)).reverse().map(c => LEET[c] || c).join("");
 }
-function ref(n, k) { return nameCode(n) + [...String(k)].reverse().join(""); }
-
-// Code de sauvegarde : nom encodé + "-" + questions réussies (une marque par numéro fixe, base 32)
+// Code de sauvegarde = code de fin : n° du quiz - nom encodé - questions réussies (une marque par numéro fixe,
+// base 32) - empreinte. Le même code sert à reprendre la partie et à vérifier le score.
 const B32 = "0123456789abcdefghjkmnpqrstvwxyz";
 function saveCode() {
     const ids = QUESTIONS.filter((q, i) => solved.has(i)).map(q => q[4]);
@@ -768,25 +791,31 @@ function saveCode() {
     ids.forEach(id => bits[id - 1] = 1);
     let out = "";
     for (let k = 0; k < bits.length; k += 5) out += B32[parseInt(bits.slice(k, k + 5).join(""), 2)];
-    return nameCode(state.name) + "-" + (out.replace(/0+$/, "") || "0");
+    let x = BigInt("0x" + state.carry);   // part reprise d'un code
+    QUESTIONS.forEach((q, i) => { if (solved.has(i) && !state.claimed.includes(q[4]) && vals.has(q[4])) x ^= vals.get(q[4]); });
+    let tag = "";
+    for (let k = 9; k >= 0; k--) tag += B32[Number((x >> BigInt(5 * k)) & 31n)];
+    return QUIZ + "-" + nameCode(state.name) + "-" + (out.replace(/0+$/, "") || "0") + "-" + tag;
 }
 function readCode(code) {
-    const m = code.trim().toLowerCase().match(/^([a-z0-9_]+)-([0-9a-z]+)$/);
-    if (!m || [...m[2]].some(c => !B32.includes(c))) return null;
-    const name = [...m[1]].reverse().map(c => UNLEET[c] || c).join("").replace(/_/g, " ")
+    const m = code.trim().toLowerCase().match(/^(\d+)-([a-z0-9_]+)-([0-9a-z]+)-([0-9a-z]{10})$/);
+    if (!m || +m[1] !== QUIZ || [...m[3] + m[4]].some(c => !B32.includes(c))) return null;
+    const name = [...m[2]].reverse().map(c => UNLEET[c] || c).join("").replace(/_/g, " ")
         .replace(/(^|\s)([a-z])/g, (x, a, c) => a + c.toUpperCase());
     const ids = [];
-    [...m[2]].forEach((c, k) => {
+    [...m[3]].forEach((c, k) => {
         const v = B32.indexOf(c);
         for (let b = 0; b < 5; b++) if (v & (16 >> b)) ids.push(k * 5 + b + 1);
     });
-    return { name, ids };
+    let x = 0n;
+    for (const c of m[4]) x = (x << 5n) | BigInt(B32.indexOf(c));
+    return { name, ids, carry: x.toString(16) };
 }
 function renderFinal() {
     const d = new Date(state.finished), p = n => String(n).padStart(2, "0");
     $("final-name").textContent = state.name;
     $("final-score").innerHTML = scoreHTML();
-    $("final-ref").textContent = ref(state.name, solved.size);
+    $("final-ref").textContent = saveCode();
     $("final-date").innerHTML = d.getFullYear() + "." + p(d.getMonth() + 1) + "." + p(d.getDate())
         + "<br>" + p(d.getHours()) + ":" + p(d.getMinutes());
     show("final");
@@ -916,7 +945,7 @@ $("name-screen").addEventListener("submit", e => {
     if (startMode === "new") {
         const name = $("name-input").value.trim();
         if (!name || !nameCode(name)) return flash("wrong");
-        state = { name, answers: {}, visited: {}, current: 0, finished: 0, claimed: [], colors: letterColors.slice() };
+        state = { name, answers: {}, visited: {}, current: 0, finished: 0, claimed: [], carry: "0", colors: letterColors.slice() };
         solved.clear();
         save();
         goTo(0);
@@ -926,7 +955,7 @@ $("name-screen").addEventListener("submit", e => {
         // même joueur sur le même navigateur : on garde aussi les réponses enregistrées
         const keep = state.name && nameCode(state.name) === nameCode(r.name);
         state = { name: keep ? state.name : r.name, answers: keep ? state.answers : {}, visited: keep ? state.visited : {},
-                  current: 0, finished: 0, claimed: r.ids, colors: keep ? state.colors : null };
+                  current: 0, finished: 0, claimed: r.ids, carry: r.carry, colors: keep ? state.colors : null };
         verifyAll().then(() => {
             let first = 0;
             while (first < N && solved.has(first)) first++;
@@ -968,6 +997,14 @@ window.addEventListener("resize", () => { if (view === "menu" || view === "final
 $("name-input").addEventListener("input", () => { fitName(); paintName(); });
 $("code-input").addEventListener("input", fitName);
 
+// Envoyer : mail à l'enseignant avec nom, score, note, date et code de vérification
+$("send").addEventListener("click", () => {
+    const d = new Date(state.finished), p = n => String(n).padStart(2, "0");
+    const body = "Nom : " + state.name + "\nScore : " + solved.size + " / " + N + "\nNote : " + String(grade()).replace(".", ",")
+        + "\nDate : " + d.getFullYear() + "." + p(d.getMonth() + 1) + "." + p(d.getDate()) + " " + p(d.getHours()) + ":" + p(d.getMinutes())
+        + "\nCode : " + saveCode() + "\n";
+    location.href = "mailto:" + MAIL + "?subject=" + encodeURIComponent(MAIL_SUBJECT) + "&body=" + encodeURIComponent(body);
+});
 $("finish").addEventListener("click", () => {
     state.finished = Date.now();
     save();
