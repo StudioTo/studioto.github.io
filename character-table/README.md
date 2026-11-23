@@ -28,6 +28,7 @@ toc: false
 #gm .gm-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 8px; margin-bottom: 16px; }
 #gm .gm-cell { position: relative; overflow: hidden; height: 152px; box-sizing: border-box; padding: 8px 6px; display: flex; flex-direction: column; align-items: center; justify-content: space-between; background: #fff; border: 1px solid var(--gm-border); border-radius: 6px; cursor: pointer; user-select: none; -webkit-user-select: none; transition: background-color .15s ease, border-color .15s ease; }
 #gm .gm-cell:hover { background: var(--gm-hover); border-color: #d1d5da; }
+#gm .gm-cell:hover .gm-code, #gm .gm-cell:hover .gm-name { color: #fff; }   /* survol : petits textes en blanc sur la couleur, le glyphe reste noir */
 #gm .gm-code { font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 11px; line-height: 1; color: var(--gm-muted); }
 #gm .gm-glyph { position: absolute; left: 50%; top: calc(50% - 6px); transform: translate(-50%, -50%); width: max-content; text-align: center; pointer-events: none; font-size: 60px; line-height: 1; color: var(--gm-text); white-space: pre; }
 #gm .gm-name { width: 100%; font-size: 11px; line-height: 1.25; text-align: center; color: var(--gm-muted); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
@@ -267,7 +268,7 @@ if (location.hash.startsWith("#gm-")) {
 })();
 </script>
 <script>
-// survol d'un caractère : fond de la case en couleur aléatoire, différente à chaque fois ; le glyphe reste noir
+// survol d'un caractère : fond de la case en couleur aléatoire, différente à chaque fois ; le glyphe reste noir, U+… et le nom passent en blanc (CSS)
 (function () {
   var main = document.getElementById("gm-main");
   if (!main) return;
