@@ -1,16 +1,16 @@
 ---
-title: "L’orthographe de la typographie"
+title: "Microtypographie : composition"
 toc: false
 permalink: /eracom/briefs/typographic-spelling/
 redirect_from:
   - /eracom/briefs/typeset-phrase/
 ---
 
-# L’orthographe de la typographie
+# Microtypographie : composition
 
 ## Brief
 
-**Appliquer les règles de microtypographie**
+Appliquer les règles de microtypographie
 
 [Microtypo Quiz 1](../../../microtypo-quiz-1/)
 
