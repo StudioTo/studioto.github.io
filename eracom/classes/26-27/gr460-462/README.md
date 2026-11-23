@@ -22,17 +22,17 @@ toc: false
 
 ## 08.09.2026
 
-[📄 1.2. Lettre : ex. anatomie](../../../briefs/character-anatomy/)  
+[📄 1.2. Lettre : ex. anatomie](../../../briefs/typeface-anatomy/)  
 [🎥 1.2. Lettre : ex. anatomie](https://kdrive.t-o.studio/app/share/105447/f07dd011-b056-4c66-9198-bc86bc22a2d0)
 
 ## 15.09.2026
 
-[📄 1.3. Lettre : ex. optique](../../../briefs/optical-illusions/)  
+[📄 1.3. Lettre : ex. optique](../../../briefs/typeface-illusions/)  
 [🎥 1.3. Lettre : ex. optique](https://kdrive.t-o.studio/app/share/105447/da8e83b9-5bfb-4dbb-b79d-8e3465db38c5)
 
 ## 22.09.2026
 
-[📄 1.4. Lettre : ex. variations](../../../briefs/typographic-variations/)  
+[📄 1.4. Lettre : ex. variations](../../../briefs/typeface-variations/)  
 [🎥 1.4. Lettre : ex. variations](https://kdrive.t-o.studio/app/share/105447/5a9ed82e-e136-49fa-aa89-013db7cdb4be)
 
 ## 29.09.2026
@@ -40,7 +40,7 @@ toc: false
 ## 06.10.2026
 
 ⚠️ Évaluation ex. 1.1.-1.4.  
-[📄 2. Mot : logotype](../../../briefs/word-image/)
+[📄 2. Mot : logotype](../../../briefs/logo-typesetting/)
 
 ## 13.10.2026
 
@@ -60,7 +60,7 @@ toc: false
 
 ⚠️ Évaluation ex. 2  
 📖 *Guide du typographe romand*  
-[📄 3. Ligne : appliquer correctement les règles de composition typographiques](../../../briefs/typographic-spelling/)
+[📄 3. Ligne : appliquer correctement les règles de composition typographiques](../../../briefs/microtypography-caracters/)
 
 ## 24.11.2026
 

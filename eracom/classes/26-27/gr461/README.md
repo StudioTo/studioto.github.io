@@ -23,12 +23,12 @@ toc: false
 
 ## 07.9.2026
 
-[📄 1.2. Lettre : ex. anatomie](../../../briefs/character-anatomy/)  
+[📄 1.2. Lettre : ex. anatomie](../../../briefs/typeface-anatomy/)  
 [🎥 1.2. Lettre : ex. anatomie](https://kdrive.t-o.studio/app/share/105447/e110f401-2145-4708-8a8b-5f65e6f2f8e8)
 
 ## 14.9.2026
 
-[📄 1.3. Lettre : ex. optique](../../../briefs/optical-illusions/)  
+[📄 1.3. Lettre : ex. optique](../../../briefs/typeface-illusions/)  
 [🎥 1.3. Lettre : ex. optique](https://kdrive.t-o.studio/app/share/105447/155dbcb3-d74b-4ea6-93eb-8c909eaa13ea)
 
 ## 21.9.2026
@@ -37,7 +37,7 @@ toc: false
 
 ## 28.9.2026
 
-[📄 1.4. Lettre : ex. variations](../../../briefs/typographic-variations/)  
+[📄 1.4. Lettre : ex. variations](../../../briefs/typeface-variations/)  
 [🎥 1.4. Lettre : ex. variations](https://kdrive.t-o.studio/app/share/105447/dceb99f5-3aaf-4ccb-b88d-0f298e5cc65d)
 
 ## 05.10.2026
@@ -53,7 +53,7 @@ toc: false
 ## 26.10.2026
 
 ⚠️ Évaluation ex. 1.1.-1.4.  
-[📄 2. Mot : logotype](../../../briefs/word-image/)
+[📄 2. Mot : logotype](../../../briefs/logo-typesetting/)
 
 <!-- 2\. Mot: choisir une police pour un logo  
 📖 Robert Bringhurst, *The Elements of Typographic Style* (pour une fonte) -->
