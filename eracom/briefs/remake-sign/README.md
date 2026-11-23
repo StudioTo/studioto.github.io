@@ -51,6 +51,7 @@ toc: false
 
 ✉️ Gazette de Lausanne (pdf)  
 📎 [Échelle d’iconicité](../../../iconicity)  
+📎 [Dessin vectoriel](../../../vector-drawing)
 <!-- 📎 [Pathfinder](https://www.youtube.com/watch?v=QQhsnG6eGvg)  
 📎 [Plume]()  
 📎 [Checklists](../../../checklists/)   -->
