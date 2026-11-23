@@ -214,7 +214,7 @@
         white-space: nowrap; overflow: hidden; text-overflow: ellipsis;   /* toujours une seule ligne */
     }
     .hint-text.visible { display: block; }
-    .hint-text { white-space: nowrap; font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-size: 19px; line-height: 23px; padding: 13px 14px 15px; } /* 31 px − 40 % ; majuscules centrées en hauteur */
+    .hint-text { white-space: nowrap; font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-size: 26px; line-height: 35px; padding: 6px 14px 10px; } /* même taille que Check (26px), majuscules centrées comme les boutons */
 
     /* barre de navigation : un point par question */
     .dots {
@@ -726,7 +726,7 @@ function show(v) {
 function fitHint() {
     const h = $("hint-text");
     if (!h.classList.contains("visible")) return;
-    let size = 19;
+    let size = 26;   // comme le bouton Check
     h.style.fontSize = size + "px";
     while (h.scrollWidth > h.clientWidth && size > 12) h.style.fontSize = (--size) + "px";
 }

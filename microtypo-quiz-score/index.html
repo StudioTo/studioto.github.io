@@ -7,48 +7,42 @@
 <title>MicroTypo Score</title>
 <link rel="stylesheet" href="/assets/fonts/webcm/webcm.css">
 <style>
-    /* Contrôle des codes de vérification des quiz MicroTypo (page non référencée).
-       Le code reçu par mail est recalculé avec la clé de l'enseignant (gardée dans ce navigateur seulement) :
-       il donne le nom et le score, ou « Code invalide » si une seule lettre a été changée. */
-    html, body { margin: 0; min-height: 100%; }
-    body { font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-size: 19px; line-height: 25px; color: black; text-align: center; }
-    .title { display: inline-block; margin: 52px 0 0; padding: 7px 14px 9px; border-radius: 4px; background: black; color: white;
-             font-size: 31px; line-height: 35px; font-style: italic; }
-    .frame { box-sizing: border-box; margin: 30px; padding: 30px; border: 2px solid lightgrey; border-radius: 48px; text-align: left; }
-    label { display: block; margin: 0 0 10px; color: darkgrey; }
-    input, textarea { box-sizing: border-box; width: 100%; margin: 0 0 30px; padding: 10px 16px; font: inherit; font-size: 23px; line-height: 30px;
-                      border: 2px solid lightgrey; border-radius: 24px; outline: none; background: transparent; }
-    input:focus, textarea:focus { border-color: darkgrey; }
-    textarea { height: 200px; resize: vertical; white-space: pre; }
-    .pill { font: inherit; font-size: 26px; line-height: 35px; min-height: 51px; padding: 6px 14px 10px; border: 0; border-radius: 4px;
-            color: white; background: darkgrey; cursor: pointer; }
-    .pill:hover { background: black; }
-    #key-msg { margin: -20px 0 30px; color: darkgrey; }
-    #key-msg.bad { color: rgb(255, 0, 0); }
-    table { width: 100%; border-collapse: collapse; }
-    th, td { padding: 8px 10px; border-bottom: 1px solid lightgrey; text-align: left; vertical-align: top; }
-    th { color: darkgrey; font-weight: normal; }
-    .num { text-align: right; white-space: nowrap; }
-    td.code { font-size: 15px; color: darkgrey; word-break: break-all; }
-    tr.bad td { color: rgb(255, 0, 0); }
-    tr.ok td:first-child::before { content: "✓ "; color: rgb(0, 170, 60); }
+    /* Contrôle d'un code de vérification MicroTypo (page non référencée).
+       On colle le code d'un élève : la page le recalcule avec la clé de l'enseignant (gardée dans ce navigateur
+       seulement) et affiche ce que l'élève a vu à la fin de sa partie (nom, score, note), ou « Code invalide ». */
+    html, body { margin: 0; height: 100%; }
+    body { font-family: "WebCM Serif 10", "Latin Modern Roman", serif; color: black; text-align: center; }
+    .frame { position: absolute; inset: 30px; border: 2px solid lightgrey; border-radius: 48px; display: flex; flex-direction: column; align-items: center; }
+    .title { margin-top: 20px; padding: 7px 14px 9px; border-radius: 4px; background: black; color: white; font-size: 31px; line-height: 35px; font-style: italic; }
+    input { box-sizing: border-box; width: min(720px, calc(100% - 80px)); margin-top: 20px; padding: 10px 16px; font: inherit; font-size: 23px; line-height: 30px;
+            text-align: center; border: 2px solid lightgrey; border-radius: 26px; outline: none; background: transparent; }
+    input:focus { border-color: darkgrey; }
+    input::placeholder { color: darkgrey; }
+    #key { width: min(420px, calc(100% - 80px)); }
+    #key-msg { margin: 10px 0 0; font-size: 19px; line-height: 23px; color: rgb(255, 0, 0); min-height: 23px; }
+    /* résultat : comme l'écran final du quiz */
+    #result { flex: 1; display: flex; flex-direction: column; justify-content: center; font-size: 60px; }
+    #result p { margin: 0; line-height: 1.2; }
+    #result #r-name { font-style: italic; margin-bottom: 1.2em; }   /* une ligne vide après le nom, comme à la fin du quiz */
+    #result #r-quiz { font-size: 23px; line-height: 30px; color: darkgrey; margin-top: 30px; }
+    #result.bad p { color: rgb(255, 0, 0); }
+    .thin { display: inline-block; width: 0.16em; }
+    [hidden] { display: none !important; }
 </style>
 </head>
 <body>
-<div class="title">MicroTypo Score</div>
-
 <div class="frame">
+    <div class="title">MicroTypo Score</div>
     <div id="key-box">
-        <label for="key">Clé de l’enseignant (dans les éditeurs privés, constante <i>QUIZ_KEY</i>) — gardée dans ce navigateur seulement</label>
-        <input id="key" type="password" autocomplete="off" spellcheck="false">
+        <input id="key" type="password" autocomplete="off" spellcheck="false" placeholder="Clé de l’enseignant">
         <p id="key-msg"></p>
     </div>
-    <label for="codes">Codes reçus par mail (un par ligne)</label>
-    <textarea id="codes" spellcheck="false" autocapitalize="off" autocorrect="off"></textarea>
-    <table id="out" hidden>
-        <thead><tr><th>Nom</th><th>Quiz</th><th class="num">Score</th><th class="num">Note</th><th>Code</th></tr></thead>
-        <tbody></tbody>
-    </table>
+    <input id="code" type="text" autocomplete="off" spellcheck="false" autocapitalize="off" autocorrect="off" placeholder="Code de l’élève">
+    <div id="result">
+        <p id="r-name"></p>
+        <p id="r-score"></p>
+        <p id="r-quiz"></p>
+    </div>
 </div>
 
 <script>
@@ -60,31 +54,35 @@ const STORE = "microtypo-score-key";
 const B32 = "0123456789abcdefghjkmnpqrstvwxyz";
 const UNLEET = { "4": "a", "3": "e", "1": "i", "0": "o" };
 const M50 = (1n << 50n) - 1n;
+const THIN = '<span class="thin"></span>';
 
 async function sha256(text) {
     const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
     return Array.from(new Uint8Array(buf), b => b.toString(16).padStart(2, "0")).join("");
 }
 let key = "", keyOk = false;
-async function setKey(k) {
+async function setKey(k, fromStore) {
     key = k.trim().toLowerCase();
     keyOk = key !== "" && (await sha256(await sha256(key))).slice(0, 16) === KEY_CHECK;
-    $("key-msg").className = keyOk || !key ? "" : "bad";
-    $("key-msg").textContent = !key ? "" : keyOk ? "Clé correcte." : "Clé incorrecte.";
-    if (keyOk) { try { localStorage.setItem(STORE, key); } catch (e) {} }
+    $("key-msg").textContent = key && !keyOk ? "Clé incorrecte." : "";
+    if (keyOk) {
+        try { localStorage.setItem(STORE, key); } catch (e) {}
+        $("key-box").hidden = true;           // clé connue : seul le champ du code reste
+        if (!fromStore) $("code").focus();
+    }
     run();
 }
 
-// questions de chaque quiz : lues dans la page du quiz (nombre total, pour la note)
-const quizzes = {};
-async function totalOf(q) {
-    if (!(q in quizzes)) {
-        quizzes[q] = fetch("/microtypo-quiz-" + q + "/").then(r => r.ok ? r.text() : "").then(t => {
+// nombre de questions du quiz : lu dans la page du quiz (pour la note, comme à la fin de la partie)
+const totals = {};
+function totalOf(q) {
+    if (!(q in totals)) {
+        totals[q] = fetch("/microtypo-quiz-" + q + "/").then(r => r.ok ? r.text() : "").then(t => {
             const m = t.match(/const QUESTIONS = (\[.*?\]);\n/s);
             return m ? JSON.parse(m[1]).length : 0;
         }).catch(() => 0);
     }
-    return quizzes[q];
+    return totals[q];
 }
 
 function readCode(code) {
@@ -112,44 +110,31 @@ async function verify(r) {
 
 let runId = 0;
 async function run() {
-    const id = ++runId;
-    const lines = $("codes").value.split("\n").map(l => l.trim()).filter(Boolean);
-    const rows = [];
-    for (const line of lines) {
-        const r = readCode(line);
-        const ok = r && keyOk && await verify(r);
-        const total = r ? await totalOf(r.quiz) : 0;
-        rows.push({ line, r, ok, total });
-    }
+    const id = ++runId, code = $("code").value.trim();
+    const res = $("result");
+    const show = (bad, name, score, quiz) => {
+        res.classList.toggle("bad", bad);
+        $("r-name").textContent = name; $("r-score").innerHTML = score; $("r-quiz").textContent = quiz;
+    };
+    if (!code) return show(false, "", "", "");
+    if (!keyOk) return show(true, "Clé manquante", "", "");
+    const r = readCode(code);
+    const ok = r && await verify(r);
     if (id !== runId) return;
-    const tb = $("out").querySelector("tbody");
-    tb.textContent = "";
-    for (const { line, r, ok, total } of rows) {
-        const tr = document.createElement("tr");
-        const cells = [];
-        if (!keyOk) { tr.className = "bad"; cells.push("Clé manquante ou incorrecte", "", "", ""); }
-        else if (!ok) { tr.className = "bad"; cells.push("Code invalide", r ? "MicroTypo " + r.quiz : "", "", ""); }
-        else {
-            tr.className = "ok";
-            const note = total ? (Math.round((1 + 5 * r.ids.length / total) * 10) / 10).toFixed(1).replace(".", ",") : "?";
-            cells.push(r.name, "MicroTypo " + r.quiz, r.ids.length + " / " + (total || "?"), note);
-        }
-        cells.push(line);
-        cells.forEach((c, k) => {
-            const td = document.createElement("td");
-            td.textContent = c;
-            if (k === 2 || k === 3) td.className = "num";
-            if (k === 4) td.className = "code";
-            tr.appendChild(td);
-        });
-        tb.appendChild(tr);
-    }
-    $("out").hidden = !rows.length;
+    if (!ok) return show(true, "Code invalide", "", "");
+    const total = await totalOf(r.quiz);
+    if (id !== runId) return;
+    const note = total ? (Math.round((1 + 5 * r.ids.length / total) * 10) / 10).toFixed(1).replace(".", ",") : "?";
+    // même présentation que l'écran final du quiz
+    show(false, r.name,
+        "Score" + THIN + ":<br>" + r.ids.length + " / " + (total || "?") + "<br>Note" + THIN + ":<br>" + note,
+        "MicroTypo " + r.quiz + " · code valide");
 }
 
-$("key").addEventListener("input", e => setKey(e.target.value));
-$("codes").addEventListener("input", run);
-try { const k = localStorage.getItem(STORE); if (k) { $("key").value = k; setKey(k); } } catch (e) {}
+$("key").addEventListener("input", e => setKey(e.target.value, false));
+$("code").addEventListener("input", run);
+try { const k = localStorage.getItem(STORE); if (k) { $("key").value = k; setKey(k, true); } } catch (e) {}
+$("code").focus();
 })();
 </script>
 </body>

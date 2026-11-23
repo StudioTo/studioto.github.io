@@ -106,7 +106,7 @@ a:focus,
    20px → 30px   index : titres de page, recherche
    19px → 25px   texte courant (1.3 : 24.7 arrondi), intro de l'accueil
    23px → 30px   police mono (code, blocs de texte préformaté)
-   17px → 25px   briefs (mono, texte courant − 10 %, interlignage du texte courant)
+   17px → 20px   briefs (mono, texte courant − 10 % ; interlignage 25px − 20 %)
    16px → 20px   (24 − 15 %, arrondi) légendes, table des matières, sources, notes, tags, #####, ######, texte du thème */
 html,
 body {
@@ -421,7 +421,7 @@ html:not([data-page="/"]) .markdown-body .brief {
   padding: 16px;
   font-family: var(--font-mono);
   font-size: 17px;             /* texte courant 19px − 10 % = 17.1 → 17px */
-  line-height: 25px;
+  line-height: 20px;           /* 25px − 20 % ; même interlignage pour toutes les lignes, italique compris */
   background: #f2f2f2;
   counter-reset: brief;
 }
@@ -437,7 +437,7 @@ html:not([data-page="/"]) .markdown-body .brief pre {
 }
 
 html:not([data-page="/"]) .markdown-body .brief > * {
-  margin: 0 0 25px;            /* une ligne vide entre les blocs, comme dans un bloc de code */
+  margin: 0 0 20px;            /* une ligne vide entre les blocs, comme dans un bloc de code */
 }
 
 html:not([data-page="/"]) .markdown-body .brief > :last-child {
@@ -492,6 +492,23 @@ html:not([data-page="/"]) .markdown-body .brief li + li,
 html:not([data-page="/"]) .markdown-body .brief li > ul {
   margin-top: 0;
   margin-bottom: 0;
+}
+
+/* tiret suivi d'une ligne vide (« - d. … », ligne vide, sous-liste) : le Markdown met le texte dans un <p>
+   aux marges de 16px ; ici une seule ligne vide (20px), comme partout dans le brief */
+html:not([data-page="/"]) .markdown-body .brief li > p {
+  margin: 0;
+}
+
+html:not([data-page="/"]) .markdown-body .brief li > p + ul,
+html:not([data-page="/"]) .markdown-body .brief li > p + ol,
+html:not([data-page="/"]) .markdown-body .brief li > p + p {
+  margin-top: 20px;
+}
+
+/* liste « aérée » (tirets séparés par des lignes vides) : la ligne vide reste entre les tirets */
+html:not([data-page="/"]) .markdown-body .brief li:has(> p) + li {
+  margin-top: 20px;
 }
 
 /* citation : en italique (le mono a un vrai italique), un cran plus loin que le reste ;
