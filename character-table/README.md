@@ -32,8 +32,12 @@ toc: false
 #gm .gm-code { font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace; font-size: 11px; line-height: 1; color: var(--gm-muted); }
 #gm .gm-glyph { position: absolute; left: 50%; top: calc(50% - 6px); transform: translate(-50%, -50%); width: max-content; text-align: center; pointer-events: none; font-size: 60px; line-height: 1; color: var(--gm-text); white-space: pre; }
 #gm .gm-name { width: 100%; font-size: 11px; line-height: 1.25; text-align: center; color: var(--gm-muted); overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
-#gm .gm-sp { display: inline-block; height: 1em; background: rgba(3, 102, 214, .15); vertical-align: middle; }
-#gm .gm-zw { font-size: 12px; font-weight: 600; color: var(--gm-muted); border: 1px dashed #d1d5da; border-radius: 6px; padding: 3px 6px; }
+#gm .gm-sp { display: inline-block; height: 1em; background: rgba(0, 0, 0, .1); vertical-align: middle; }   /* zone des espaces : gris, blanc au survol */
+#gm .gm-cell:hover .gm-sp { background: #fff; }
+/* sigle des caractères invisibles : bloc à part (plus dans la ligne de 60px du glyphe, qui le décalait vers le bas),
+   donc centré en hauteur dans la case comme les glyphes ; capitales centrées dans le cadre pointillé
+   (WebCM Serif 10 gras : ascendante 1133, descendante 295, capitales 686 → 1px plus haut : 2px en haut, 4px en bas) */
+#gm .gm-zw { display: block; font-size: 12px; line-height: 12px; font-weight: 600; color: var(--gm-muted); border: 1px dashed #d1d5da; border-radius: 6px; padding: 2px 6px 4px; }
 #gm .gm-cell.flash { background: #dcffe4; border-color: #34d058; }
 #gm .gm-cell.target { border-color: var(--gm-blue); box-shadow: 0 0 0 3px rgba(3, 102, 214, .3); }
 #gm-tip { display: none; position: fixed; z-index: 25; max-width: 360px; padding: 8px 12px; background: #fff; border: 1px solid var(--gm-border); border-radius: 6px; box-shadow: 0 8px 24px rgba(149, 157, 165, .2); pointer-events: none; font-size: 14px; line-height: 1.35; color: var(--gm-text); }
