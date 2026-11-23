@@ -67,11 +67,10 @@ Remake 1 page (images from Moma) -->
 ⚠️ Évaluation layout  
 [📄 Brief Remake Sign](../../../briefs/sign-remake/)  
 a) Échelle d’iconicité  
-b) Réaliser des esquisses de traduction graphique du niveau supérieur et du niveau inférieur
 
 ## 02.11.2026
 
-c) Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
+b) Réaliser des esquisses de traduction graphique du niveau supérieur et du niveau inférieur
 
 ## 09.11.2026
 
@@ -83,16 +82,16 @@ c) Traduire le signe de référence en dessin vectoriel, puis développer les de
 
 ## 23.11.2026
 
-d) Finaliser les tracés pour la production / la distribution
+c) Traduire le signe de référence en dessin vectoriel, puis développer les deux autres niveaux
 
 ## 30.11.2026
 
-⚠️ Évaluation signe
-
-<!-- Rendu publicité
-Remake logo -->
+d) Finaliser les tracés pour la production / la distribution
 
 ## 07.12.2026
+
+⚠️ Évaluation signe
+📄 Brief Remake Lettering
 
 ## 14.12.2026
 

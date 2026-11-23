@@ -59,19 +59,15 @@ toc: false
 ## 17.11.2026
 
 ⚠️ Évaluation ex. 2  
-📖 Il faut prendre votre exemplaire du *Guide du typographe romand*  
+📖 *Guide du typographe romand*  
 [📄 3. Ligne : appliquer correctement les règles de composition typographiques](../../../briefs/typographic-spelling/)
-
-<!-- 3\. Ligne: appliquer correctement les règles de composition typographiques   -->
-
-<!-- 📖 *Guide du typographe romand* (pour les guillemets) -->
 
 ## 24.11.2026
 
 ## 01.12.2026
 
 ⚠️ Évaluation ex. 3  
-4\. Colonne : optimiser la lisibilité de textes dans différents formats
+📄 4\. Colonne : optimiser la lisibilité de textes dans différents formats
 
 ## 08.12.2026
 

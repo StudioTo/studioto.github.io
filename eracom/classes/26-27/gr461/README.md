@@ -67,10 +67,8 @@ toc: false
 ## 23.11.2026
 
 ⚠️ Évaluation ex. 2  
-📖 Il faut prendre votre exemplaire du *Guide du typographe romand*  
-3\. Ligne : appliquer correctement les règles de composition typographiques
-
-<!-- 📖 *Guide du typographe romand* (pour les guillemets) -->
+📖 *Guide du typographe romand*  
+📄 3\. Ligne : appliquer correctement les règles de composition typographiques
 
 ## 30.11.2026
 
@@ -79,7 +77,7 @@ toc: false
 ## 14.12.2026
 
 ⚠️ Évaluation ex. 3  
-4\. Colonne : optimiser la lisibilité de textes dans différents formats
+📄 4\. Colonne : optimiser la lisibilité de textes dans différents formats
 
 ## 21.12.2026
 
