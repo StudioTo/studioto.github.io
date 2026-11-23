@@ -7,7 +7,7 @@ toc: false
 
 ## Brief
 
-Appliquer les règles de microtypographie
+Appliquer les règles de microtypographie  
 Travail individuel
 
   [Microtypo Quiz 1](../../../microtypo-quiz-1/)
