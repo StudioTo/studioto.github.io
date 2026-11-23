@@ -17,7 +17,7 @@ Appliquer les règles de microtypographie
 1. Compléter le quiz de microtypo en se basant sur le Guide du typographe romand
 1. Envoyer une capture d’écran du score à la fin du cours
 
-⚠️ travail individuel
+ travail individuel
 
 ## Ressources
 
