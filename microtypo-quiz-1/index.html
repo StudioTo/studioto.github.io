@@ -120,6 +120,12 @@
     #progress { background: rgb(0, 102, 255); }
     div.title { background: black; font-size: 31px; padding-top: 7px; padding-bottom: 9px; } /* italique plus grand (1,15 em) : majuscules centrées */
     #hint-toggle:hover, #progress:hover, #glyphs:hover, #quit:hover { background: rgb(60, 60, 60); }
+    /* Commencer vert, Reprendre bleu ; menu × : Sauvegarder jaune, Terminer rouge (mêmes couleurs que les boutons ronds) */
+    #go-new { background-color: rgb(111, 238, 77); }
+    #go-resume { background-color: rgb(0, 102, 255); }
+    #save { background-color: rgb(255, 204, 0); }
+    #finish { background-color: rgb(255, 0, 0); }
+    #go-new:hover, #go-resume:hover, #save:hover, #finish:hover { background-color: rgb(60, 60, 60); }
     /* nom : chaque lettre d'une couleur au hasard (le texte du champ est transparent, un calque affiche les lettres) */
     #name-input, .name-overlay { font-kerning: none; font-variant-ligatures: none; } /* lettres séparées : même approche des deux côtés */
     #name-input { color: transparent; caret-color: black; }
@@ -151,10 +157,11 @@
         font-family: "WebCM Serif 10", "Latin Modern Roman", serif;
         font-size: 31px;
         display: none;
-        max-width: calc(100% - 240px);
+        max-width: calc(100% - 80px);   /* 40px de chaque côté du cadre */
+        white-space: nowrap; overflow: hidden; text-overflow: ellipsis;   /* toujours une seule ligne */
     }
     .hint-text.visible { display: block; }
-    .hint-text { white-space: pre-line; font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-size: 19px; line-height: 23px; padding: 13px 14px 15px; } /* 31 px − 40 % ; majuscules centrées en hauteur */
+    .hint-text { white-space: nowrap; font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-size: 19px; line-height: 23px; padding: 13px 14px 15px; } /* 31 px − 40 % ; majuscules centrées en hauteur */
 
     /* barre de navigation : un point par question */
     .dots {
@@ -586,9 +593,19 @@ function show(v) {
     $("hint-toggle").hidden = v !== "question";
     $("back").hidden = v !== "menu";
     $("final-controls").hidden = v !== "final";
-    $("hint-text").classList.remove("visible");
+    $("hint-text").classList.toggle("visible", hintShown && v === "question");   // indice : seulement sur les questions
 }
 
+// indice trop long pour une ligne : texte réduit (px entiers) jusqu'à tenir dans la largeur
+function fitHint() {
+    const h = $("hint-text");
+    if (!h.classList.contains("visible")) return;
+    let size = 19;
+    h.style.fontSize = size + "px";
+    while (h.scrollWidth > h.clientWidth && size > 12) h.style.fontSize = (--size) + "px";
+}
+window.addEventListener("resize", fitHint);
+let hintShown = true;   // indice affiché par défaut ; le bouton jaune le cache
 let keyNav = false; // vrai quand on navigue au clavier : le champ ne prend pas le focus
 function renderQuestion() {
     const i = state.current;
@@ -599,8 +616,9 @@ function renderQuestion() {
     $("check").hidden = done;
     // espace fine avant le deux-points (dessinée, comme dans « Score : »), puis retour à la ligne
     const esc = t => t.replace(/[&<>]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[c]);
-    $("hint-text").innerHTML = esc(hint).replace(/\s*:\s*/, '<span class="thin"></span>:\n')
+    $("hint-text").innerHTML = esc(hint).replace(/\s*:\s*/, '<span class="thin"></span>: ')
                                        .replace(/\*([^*]+)\*/g, "<em>$1</em>");   // *mot* → italique
+    fitHint();
     $("prev").disabled = i === 0;
     show("question");
     renderDots();
@@ -842,9 +860,7 @@ $("save").addEventListener("click", async () => {
     $("save-code").hidden = false;
     fitEnd();
     try {
-        await navigator.clipboard.writeText(code);
-        $("save").textContent = "Copié";
-        setTimeout(() => { $("save").textContent = "Sauvegarder"; }, 2000);
+        await navigator.clipboard.writeText(code);   // copié d'office, le bouton ne change pas
     } catch (e) {}
 });
 $("question-screen").addEventListener("submit", e => { e.preventDefault(); check(); });
@@ -859,7 +875,12 @@ function openMenu(mode) {
 $("progress").addEventListener("click", () => openMenu("info"));
 $("quit").addEventListener("click", () => openMenu("exit"));
 $("back").addEventListener("click", () => goTo(resumeAt));
-$("hint-toggle").addEventListener("click", () => $("hint-text").classList.toggle("visible"));
+$("hint-toggle").addEventListener("click", () => {
+    hintShown = !hintShown;
+    $("hint-text").classList.toggle("visible", hintShown);
+    fitHint();
+    if (view === "question" && typeof refitAfterHint === "function") refitAfterHint();
+});
 
 field.addEventListener("keydown", e => {
     if (e.key !== "Enter") return;
