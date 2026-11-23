@@ -1,9 +1,6 @@
 ---
 title: "L’image du mot"
 toc: false
-permalink: /eracom/briefs/word-image/
-redirect_from:
-  - /eracom/briefs/typeset-word/
 ---
 
 # L’image du mot

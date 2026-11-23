@@ -22,17 +22,17 @@ toc: false
 
 ## 08.09.2026
 
-[📄 1.2. Lettre : ex. anatomie](../../../briefs/character-anatomy/)  
+[📄 1.2. Lettre : ex. anatomie](../../../briefs/typeface-anatomy/)  
 [🎥 1.2. Lettre : ex. anatomie](https://kdrive.t-o.studio/app/share/105447/f07dd011-b056-4c66-9198-bc86bc22a2d0)
 
 ## 15.09.2026
 
-[📄 1.3. Lettre : ex. optique](../../../briefs/optical-illusions/)  
+[📄 1.3. Lettre : ex. optique](../../../briefs/typeface-illusions/)  
 [🎥 1.3. Lettre : ex. optique](https://kdrive.t-o.studio/app/share/105447/da8e83b9-5bfb-4dbb-b79d-8e3465db38c5)
 
 ## 22.09.2026
 
-[📄 1.4. Lettre : ex. variations](../../../briefs/typographic-variations/)  
+[📄 1.4. Lettre : ex. variations](../../../briefs/typeface-variations/)  
 [🎥 1.4. Lettre : ex. variations](https://kdrive.t-o.studio/app/share/105447/5a9ed82e-e136-49fa-aa89-013db7cdb4be)
 
 ## 29.09.2026
@@ -61,7 +61,7 @@ toc: false
 ## 10.11.2026
 
 ⚠️ Évaluation ex. 2  
-[📄 3. Ligne : adaptation d’un poster](../../../briefs/responsive-poster/)
+[📄 3. Ligne : adaptation d’un poster](../../../briefs/poster-responsive/)
 
 ## 17.11.2026
 

@@ -1,9 +1,6 @@
 ---
 title: "Illusions d’optique"
 toc: false
-permalink: /eracom/briefs/optical-illusions/
-redirect_from:
-  - /eracom/briefs/balance-fonts/
 ---
 
 # Illusions d’optique

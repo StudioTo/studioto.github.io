@@ -1,9 +1,6 @@
 ---
 title: "Variations typographiques"
 toc: false
-permalink: /eracom/briefs/typographic-variations/
-redirect_from:
-  - /eracom/briefs/vary-fonts/
 ---
 
 # Variations typographiques

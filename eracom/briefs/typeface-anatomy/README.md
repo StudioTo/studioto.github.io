@@ -1,9 +1,6 @@
 ---
 title: "Anatomie des caractères"
 toc: false
-permalink: /eracom/briefs/character-anatomy/
-redirect_from:
-  - /eracom/briefs/measure-fonts/
 ---
 
 # Anatomie des caractères

@@ -1,9 +1,6 @@
 ---
 title: "Animation d’un logo"
 toc: false
-permalink: /eracom/briefs/logo-animation/
-redirect_from:
-  - /eracom/briefs/animate-logo/
 ---
 
 # Animation d’un logo

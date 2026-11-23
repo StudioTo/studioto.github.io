@@ -1,9 +1,6 @@
 ---
 title: "Classification typographique"
 toc: false
-permalink: /eracom/briefs/typeface-classification/
-redirect_from:
-  - /eracom/briefs/classify-fonts/
 ---
 
 # Classification typographique

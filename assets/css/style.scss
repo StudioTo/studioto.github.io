@@ -423,7 +423,6 @@ html:not([data-page="/"]) .markdown-body .brief {
   font-size: 17px;             /* texte courant 19px − 10 % = 17.1 → 17px */
   line-height: 25px;
   background: #f2f2f2;
-  border-radius: 6px;
   counter-reset: brief;
 }
 

@@ -1,9 +1,6 @@
 ---
 title: "Responsive poster"
 toc: false
-permalink: /eracom/briefs/responsive-poster/
-redirect_from:
-  - /eracom/briefs/adapt-poster/
 ---
 
 # Responsive poster

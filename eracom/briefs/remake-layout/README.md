@@ -1,9 +1,6 @@
 ---
 title: "Remake layout"
 toc: false
-permalink: /eracom/briefs/layout-remake/
-redirect_from:
-  - /eracom/briefs/remake-layout/
 ---
 
 # Remake layout

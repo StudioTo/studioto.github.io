@@ -1,10 +1,6 @@
 ---
 title: "Accueil Eracom"
 toc: false
-permalink: /eracom/briefs/welcome/
-redirect_from:
-  - /eracom/briefs/typography/
-  - /eracom/briefs/introduce-typography/
 ---
 
 # Accueil Eracom

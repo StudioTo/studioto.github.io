@@ -1,9 +1,6 @@
 ---
 title: "Remake sign"
 toc: false
-permalink: /eracom/briefs/sign-remake/
-redirect_from:
-  - /eracom/briefs/remake-sign/
 ---
 
 # Remake sign

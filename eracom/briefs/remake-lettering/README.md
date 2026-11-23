@@ -1,9 +1,6 @@
 ---
 title: "Remake lettering"
 toc: false
-permalink: /eracom/briefs/lettering-remake/
-redirect_from:
-  - /eracom/briefs/remake-lettering/
 ---
 
 # Remake lettering

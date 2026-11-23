@@ -1,9 +1,6 @@
 ---
 title: "Microtypographie : composition"
 toc: false
-permalink: /eracom/briefs/typographic-spelling/
-redirect_from:
-  - /eracom/briefs/typeset-phrase/
 ---
 
 # Microtypographie : composition
