@@ -68,7 +68,7 @@ toc: false
 
 ⚠️ Évaluation ex. 2  
 📖 Guide du typographe romand  
-📄 3\. Ligne : appliquer correctement les règles de composition typographiques
+[📄 3. Ligne : appliquer correctement les règles de composition typographiques](../../../briefs/microtypography-caracters/)
 
 ## 30.11.2026
 
