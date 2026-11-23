@@ -90,7 +90,7 @@ d) Finaliser les tracés pour la production / la distribution
 
 ## 07.12.2026
 
-⚠️ Évaluation signe
+⚠️ Évaluation signe  
 📄 Brief Remake Lettering
 
 ## 14.12.2026
