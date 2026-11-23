@@ -1,9 +1,6 @@
 ---
 title: "Mot : graphie"
 toc: true
-permalink: /word-case/
-redirect_from:
-  - /set-word-case/
 ---
 
 # Mot : graphie

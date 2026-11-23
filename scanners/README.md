@@ -1,9 +1,6 @@
 ---
 title: "Imprimantes"
 toc: true
-permalink: /scanners/
-redirect_from:
-  - /use-scanner/
 ---
 
 # Imprimantes

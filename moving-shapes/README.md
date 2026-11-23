@@ -1,9 +1,6 @@
 ---
 title: "Formes en mouvement"
 toc: true
-permalink: /moving-shapes/
-redirect_from:
-  - /symbolize-animation/
 ---
 
 # Formes en mouvement

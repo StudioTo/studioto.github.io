@@ -1,9 +1,6 @@
 ---
 title: "Dessin vectoriel"
 toc: true
-permalink: /vector-drawing/
-redirect_from:
-  - /type-vectorize/
 ---
 
 # Dessin vectoriel

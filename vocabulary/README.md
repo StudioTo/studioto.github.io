@@ -1,9 +1,6 @@
 ---
 title: "Vocabulaire"
 toc: false
-permalink: /vocabulary/
-redirect_from:
-  - /index-definitions/
 ---
 
 # Vocabulaire

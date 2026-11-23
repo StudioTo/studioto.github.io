@@ -1,14 +1,6 @@
 ---
 title: "Colonne : composition"
 toc: true
-permalink: /column-composition/
-redirect_from:
-  - /column/
-  - /set-column-composition/
-  - /column-articulation/
-  - /set-column-articulation/
-  - /page-layout/
-  - /set-column-layout/
 ---
 
 # Colonne : composition

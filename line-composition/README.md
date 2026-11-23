@@ -1,14 +1,6 @@
 ---
 title: "Ligne : composition"
 toc: true
-permalink: /line-composition/
-redirect_from:
-  - /line/
-  - /set-line-composition/
-  - /line-articulation/
-  - /set-line-articulation/
-  - /line-layout/
-  - /set-line-layout/
 ---
 
 # Ligne : composition

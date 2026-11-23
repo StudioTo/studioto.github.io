@@ -1,9 +1,6 @@
 ---
 title: "Mot : composition"
 toc: true
-permalink: /word-composition/
-redirect_from:
-  - /set-word-composition/
 ---
 
 # Mot : composition

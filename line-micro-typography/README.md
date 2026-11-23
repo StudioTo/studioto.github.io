@@ -1,10 +1,6 @@
 ---
 title: "Ligne : orthographe typographique (micro)"
 toc: true
-permalink: /line-micro-typography/
-redirect_from:
-  - /micro-typography/
-  - /set-micro-typo/
 ---
 
 # Ligne : orthographe typographique (micro)

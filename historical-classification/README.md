@@ -1,9 +1,6 @@
 ---
 title: "Classification historique"
 toc: true
-permalink: /historical-classification/
-redirect_from:
-  - /classify-typefaces-history/
 ---
 
 # Classification historique

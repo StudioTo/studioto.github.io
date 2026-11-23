@@ -1,9 +1,6 @@
 ---
 title: "Rendus"
 toc: true
-permalink: /submission/
-redirect_from:
-  - /evaluate-deliverable/
 ---
 
 # Rendus

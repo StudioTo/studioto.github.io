@@ -1,11 +1,6 @@
 ---
 title: "Iconicité"
 toc: true
-permalink: /iconicity/
-redirect_from:
-  - /see-iconicity/
-  - /icon-symbol/
-  - /symbolize-development/
 ---
 
 # Iconicité

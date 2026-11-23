@@ -1,9 +1,6 @@
 ---
 title: "Unités typographiques"
 toc: true
-permalink: /typographic-units/
-redirect_from:
-  - /see-units/
 ---
 
 # Unités typographiques

@@ -1,9 +1,6 @@
 ---
 title: "Variations"
 toc: true
-permalink: /variations/
-redirect_from:
-  - /process-variations/
 ---
 
 # Variations

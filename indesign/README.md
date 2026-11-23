@@ -1,9 +1,6 @@
 ---
 title: "InDesign"
 toc: true
-permalink: /indesign/
-redirect_from:
-  - /use-indesign/
 ---
 
 # InDesign

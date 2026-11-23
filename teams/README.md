@@ -1,9 +1,6 @@
 ---
 title: "Teams"
 toc: true
-permalink: /teams/
-redirect_from:
-  - /use-teams/
 ---
 
 # Teams

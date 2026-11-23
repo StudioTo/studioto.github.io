@@ -1,9 +1,6 @@
 ---
 title: "Évaluation"
 toc: true
-permalink: /evaluation/
-redirect_from:
-  - /evaluate-criteria/
 ---
 
 # Évaluation

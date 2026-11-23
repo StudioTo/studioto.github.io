@@ -1,9 +1,6 @@
 ---
 title: "Production"
 toc: true
-permalink: /production/
-redirect_from:
-  - /process-delivery/
 ---
 
 # Production

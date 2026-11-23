@@ -1,9 +1,6 @@
 ---
 title: "Programme"
 toc: true
-permalink: /program/
-redirect_from:
-  - /evaluate-program/
 ---
 
 # Programme

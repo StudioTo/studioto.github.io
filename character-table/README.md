@@ -1,9 +1,6 @@
 ---
 title: "Table des caractères"
 toc: false
-permalink: /character-table/
-redirect_from:
-  - /index-glyphs/
 ---
 
 # Table des caractères

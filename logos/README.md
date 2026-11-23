@@ -1,9 +1,6 @@
 ---
 title: "Logos"
 toc: false
-permalink: /logos/
-redirect_from:
-  - /index-logos/
 ---
 
 # Logos

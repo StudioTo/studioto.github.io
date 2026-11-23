@@ -1,9 +1,6 @@
 ---
 title: "Caractère : anatomie"
 toc: true
-permalink: /character-anatomy/
-redirect_from:
-  - /study-sign-shapes/
 ---
 
 # Caractère : anatomie

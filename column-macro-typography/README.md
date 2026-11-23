@@ -1,10 +1,6 @@
 ---
 title: "Colonne : lisibilité (macro)"
 toc: true
-permalink: /column-macro-typography/
-redirect_from:
-  - /macro-typography/
-  - /set-macro-typo/
 ---
 
 # Colonne : lisibilité (macro)

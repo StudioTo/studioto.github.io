@@ -1,9 +1,6 @@
 ---
 title: "Numérisation de croquis"
 toc: true
-permalink: /sketch-digitization/
-redirect_from:
-  - /type-digitize/
 ---
 
 # Numérisation de croquis

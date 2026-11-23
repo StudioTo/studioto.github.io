@@ -1,9 +1,6 @@
 ---
 title: "Règles"
 toc: false
-permalink: /rules/
-redirect_from:
-  - /evaluate-rules/
 ---
 
 # Règles

@@ -1,9 +1,6 @@
 ---
 title: "Outils"
 toc: true
-permalink: /tools/
-redirect_from:
-  - /use-material/
 ---
 
 # Outils

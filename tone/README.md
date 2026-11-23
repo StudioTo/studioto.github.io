@@ -1,9 +1,6 @@
 ---
 title: "Ton"
 toc: true
-permalink: /tone/
-redirect_from:
-  - /process-typeface/
 ---
 
 # Ton

@@ -1,9 +1,6 @@
 ---
 title: "Organisation"
 toc: true
-permalink: /organization/
-redirect_from:
-  - /process-constraints/
 ---
 
 # Organisation

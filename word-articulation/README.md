@@ -1,9 +1,6 @@
 ---
 title: "Mot : articulation"
 toc: true
-permalink: /word-articulation/
-redirect_from:
-  - /set-word-articulation/
 ---
 
 # Mot : articulation

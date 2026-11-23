@@ -1,9 +1,6 @@
 ---
 title: "Pictogrammes"
 toc: false
-permalink: /pictograms/
-redirect_from:
-  - /index-pictos/
 ---
 
 # Pictogrammes

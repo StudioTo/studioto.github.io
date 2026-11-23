@@ -1,9 +1,6 @@
 ---
 title: "Evolution de l’architecture"
 toc: true
-permalink: /architecture-evolution/
-redirect_from:
-  - /track-architecture-evolution/
 ---
 
 # Evolution de l’architecture

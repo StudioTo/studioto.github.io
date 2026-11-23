@@ -1,9 +1,6 @@
 ---
 title: "Lire-Voir"
 toc: true
-permalink: /read-see/
-redirect_from:
-  - /see-read/
 ---
 
 # Lire-Voir

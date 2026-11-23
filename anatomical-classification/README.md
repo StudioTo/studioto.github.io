@@ -1,9 +1,6 @@
 ---
 title: "Classification anatomique"
 toc: true
-permalink: /anatomical-classification/
-redirect_from:
-  - /classify-typefaces-shapes/
 ---
 
 # Classification anatomique

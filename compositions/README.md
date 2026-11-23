@@ -1,9 +1,6 @@
 ---
 title: "Compositions"
 toc: true
-permalink: /compositions/
-redirect_from:
-  - /process-compositions/
 ---
 
 # Compositions

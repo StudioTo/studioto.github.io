@@ -1,9 +1,6 @@
 ---
 title: "Interpolation vectorielle"
 toc: true
-permalink: /vector-interpolation/
-redirect_from:
-  - /type-interpolate/
 ---
 
 # Interpolation vectorielle

@@ -1,9 +1,6 @@
 ---
 title: "Objectifs"
 toc: true
-permalink: /objectives/
-redirect_from:
-  - /evaluate-objectives/
 ---
 
 # Objectifs
@@ -33,7 +30,7 @@ Emil Ruder, 1967
 
 ## Connaître le vocabulaire de la typographie
 
-Identifier et utiliser avec précision les termes techniques de la discipline. 
+Identifier et utiliser avec précision les termes techniques de la discipline.  
 Comprendre ce vocabulaire permet de décrire, d’analyser et de communiquer clairement autour des choix typographiques.
 
 ## Connaître les systèmes de classification des caractères

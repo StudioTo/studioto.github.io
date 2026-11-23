@@ -1,9 +1,6 @@
 ---
 title: "Designers"
 toc: false
-permalink: /designers/
-redirect_from:
-  - /index-designers/
 ---
 
 # Designers

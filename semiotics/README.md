@@ -1,9 +1,6 @@
 ---
 title: "Sémiotique"
 toc: true
-permalink: /semiotics/
-redirect_from:
-  - /see-signs/
 ---
 
 # Sémiotique

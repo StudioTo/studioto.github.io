@@ -1,9 +1,6 @@
 ---
 title: "Histoire de la typographie"
 toc: false
-permalink: /typography-history/
-redirect_from:
-  - /track-writing-evolution/
 ---
 
 # Histoire de la typographie

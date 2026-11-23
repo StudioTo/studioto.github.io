@@ -1,9 +1,6 @@
 ---
 title: "Mot : texture"
 toc: true
-permalink: /word-texture/
-redirect_from:
-  - /set-word-texture/
 ---
 
 # Mot : texture

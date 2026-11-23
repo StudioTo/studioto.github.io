@@ -1,9 +1,6 @@
 ---
 title: "Méthode"
 toc: true
-permalink: /method/
-redirect_from:
-  - /evaluate-method/
 ---
 
 # Méthode

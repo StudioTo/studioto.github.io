@@ -1,9 +1,6 @@
 ---
 title: "Caractère : optique"
 toc: true
-permalink: /character-optics/
-redirect_from:
-  - /study-sign-optics/
 ---
 
 # Caractère : optique

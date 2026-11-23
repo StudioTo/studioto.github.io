@@ -1,9 +1,6 @@
 ---
 title: "Bibliographie"
 toc: false
-permalink: /bibliography/
-redirect_from:
-  - /index-books/
 ---
 
 # Bibliographie

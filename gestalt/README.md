@@ -1,9 +1,6 @@
 ---
 title: "Perception"
 toc: true
-permalink: /gestalt/
-redirect_from:
-  - /see-gestalt/
 ---
 
 # Perception

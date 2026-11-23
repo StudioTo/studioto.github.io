@@ -1,9 +1,6 @@
 ---
 title: "Specimens"
 toc: false
-permalink: /specimens/
-redirect_from:
-  - /index-specimens/
 ---
 
 # Specimens

@@ -1,9 +1,6 @@
 ---
 title: "Checklists"
 toc: true
-permalink: /checklists/
-redirect_from:
-  - /check-export/
 ---
 
 # Checklists

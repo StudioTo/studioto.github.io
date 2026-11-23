@@ -1,9 +1,6 @@
 ---
 title: "Dessin vectoriel debug"
 toc: true
-permalink: /vector-debug/
-redirect_from:
-  - /type-debug/
 ---
 
 # Dessin vectoriel *debug*
