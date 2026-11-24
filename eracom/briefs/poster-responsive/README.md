@@ -14,7 +14,7 @@ toc: false
 - sélectionner les polices avec Font Goggles
 - installer les polices choisies dans le livre des polices (double clic sur les fichiers OTF > installer)
 
-1. Recomposer le poster au plus proche de la référence
+2. Recomposer le poster au plus proche de la référence
 
 - logiciel : Figma
 - orientation : portrait
@@ -34,7 +34,7 @@ toc: false
 ⚠️ recomposition, pas de vectorisation dynamique «en un clic»  
 ⚠️ respecter les polices, les couleurs, les proportions, les alignements
 
-1. Dupliquer et adapter le poster au format page d’accueil web
+3. Dupliquer et adapter le poster au format page d’accueil web
 
 - logiciel : Figma
 - orientation : paysage
@@ -45,7 +45,7 @@ toc: false
 
 ⚠️ recomposistion, pas de déformation «en un clic»
 
-🎁  Question bonus : animer la transition du format poster au format web
+4. animer la transition du format poster au format web
 
 ## Ressources
 
