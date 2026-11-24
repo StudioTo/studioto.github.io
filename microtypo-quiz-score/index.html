@@ -27,8 +27,12 @@
     .pill { font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-size: 26px; line-height: 35px; border: 0;
             padding: 6px 14px 10px; box-sizing: border-box; min-height: 51px; color: white; border-radius: 4px; background-color: darkgrey; }
     button.pill:hover, .round:hover { cursor: pointer; background-color: black; }
-    div.title { position: absolute; top: 52px; left: 50%; transform: translateX(-50%); z-index: 2; pointer-events: none;
-                font-size: 31px; line-height: 35px; padding: 7px 14px 9px; background: black; font-style: italic; }
+    /* titre comme dans les quiz : « MicroTypo » blanc sur noir + 2ᵉ bouton « Score » (contour noir, fond blanc, romain noir),
+       le groupe centré dans la largeur de la fenêtre */
+    .topbar { position: absolute; top: 52px; left: 50%; transform: translateX(-50%); display: flex; gap: 10px; z-index: 2; pointer-events: none; }
+    div.title { background: black; font-size: 31px; padding: 7px 14px 9px; }
+    div.title .serif { font-style: italic; font-size: 1.15em; line-height: 1; }
+    div.title.sub { background: white; color: black; border: 2px solid black; font-style: normal; padding: 4px 12px 8px; }
     .controls { position: absolute; bottom: 22px; left: 50%; transform: translateX(-50%); z-index: 2; }   /* 20 px du trait du cadre, comme dans le quiz */
     .round { position: absolute; left: 22px; bottom: 22px; z-index: 2; width: 51px; height: 51px; border-radius: 50%; border: 0; padding: 0;
              background: darkgrey; color: white; font-family: "WebCM Serif 10", "Latin Modern Roman", serif; font-size: 26px; line-height: 51px; }
@@ -43,10 +47,13 @@
 </style>
 </head>
 <body>
-<div class="title pill">MicroTypo Score</div>
+<div class="topbar">
+    <div class="title pill"><span class="serif">MicroTypo</span></div>
+    <div class="title pill sub">Score</div>
+</div>
 
 <form id="stage" class="stage" autocomplete="off" novalidate>
-    <input id="key" class="field" type="password" placeholder="Clé" spellcheck="false" autocapitalize="off" autocorrect="off">
+    <input id="key" class="field" type="password" placeholder="Password" spellcheck="false" autocapitalize="off" autocorrect="off">
     <input id="code" class="field" type="text" placeholder="Code" spellcheck="false" autocapitalize="off" autocorrect="off" hidden>
     <div id="result" class="end-text" hidden>
         <p id="r-name"></p>

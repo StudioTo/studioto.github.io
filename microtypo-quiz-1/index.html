@@ -119,6 +119,10 @@
     #hint-toggle { background: rgb(255, 204, 0); }
     #progress { background: rgb(0, 102, 255); }
     div.title { background: black; font-size: 31px; padding-top: 7px; padding-bottom: 9px; } /* italique plus grand (1,15 em) : majuscules centrées */
+    /* 2ᵉ bouton du titre (n° du quiz, plus tard son titre ; « Score ») : même hauteur, contour noir, fond blanc, romain noir
+       (51px = 2 de contour + 4 + 35 + 8 + 2 ; capitales centrées : Computer Modern descend de 2px dans la ligne) */
+    div.title.sub { background: white; color: black; border: 2px solid black; font-style: normal; padding: 4px 12px 8px; }
+    body.flash-correct div.title.sub, body.flash-wrong div.title.sub { background: white !important; color: black; }
     #hint-toggle:hover, #progress:hover, #glyphs:hover, #quit:hover { background: rgb(60, 60, 60); }
     /* Commencer vert, Reprendre bleu ; menu × : Sauvegarder jaune, Terminer rouge (mêmes couleurs que les boutons ronds) */
     #go-new { background-color: rgb(111, 238, 77); }
@@ -238,7 +242,8 @@
 <body>
 
 <div class="topbar">
-    <div class="title pill"><span class="serif">MicroTypo1</span></div>
+    <div class="title pill"><span class="serif">MicroTypo</span></div>
+    <div class="title pill sub">1</div>
 </div>
 
 <!-- écran 1 : nom -->
