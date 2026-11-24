@@ -237,7 +237,6 @@ function searchGlyphs(qRaw) {
     const seqHits = q0 ? index.filter(x => x.seqs.includes(q0)).sort((a, b) => a.seqs.length - b.seqs.length) : [];
     const abbr = /^[A-Za-z]{2,6}$/.test(q0)
         ? [...new Set(q0)].flatMap(c => index.filter(x => x.sup && x.seqs.includes(c))) : [];
-    seqHits.push(...abbr.filter(x => !seqHits.includes(x)));
     const q = norm(q0);
     if (!q) return seqHits.concat(codeHits.filter(x => !seqHits.includes(x)));
     const words = q.split(" ");
@@ -254,8 +253,14 @@ function searchGlyphs(qRaw) {
         scored.push([s, x.en.length, x]);
     }
     scored.sort((a, b) => a[0] - b[0] || a[1] - b[1]);
+    // lettres en exposant d'une abréviation (Mme → ᴹ ᵐ ᵉ) : seulement si ce n'est pas un mot qui nomme un glyphe
+    // (« espace » trouve les espaces, sans les lettres e s p a c e en exposant)
+    const wordHit = scored.length && scored[0][0] <= 2;
+    const abbrHits = abbr.filter(x => !seqHits.includes(x));
     const rest = codeHits.concat(scored.map(s => s[2]));
-    return seqHits.concat(rest.filter(x => !seqHits.includes(x)));
+    const head = wordHit ? seqHits : seqHits.concat(abbrHits);
+    const drop = wordHit ? abbrHits : [];   // un mot : pas de lettres séparées dans les résultats
+    return head.concat(rest.filter(x => !head.includes(x) && !drop.includes(x)));
 }
 const input = $("gm-search"), results = $("gm-results");
 let current = [], active = 0;
