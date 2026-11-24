@@ -8,9 +8,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>MicroTypo Quiz 2</title>
 <link rel="stylesheet" href="/assets/fonts/webcm/webcm.css">
-<link rel="preload" href="/assets/fonts/libertinus/LibertinusSerif-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/source-serif-4/SourceSerif4-Roman.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/fonts/source-serif-4/source-serif-4.css">
 <style>
-    @font-face { font-family: "Libertinus Serif"; src: url("/assets/fonts/libertinus/LibertinusSerif-Regular.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: block; } /* Libertinus Serif, SIL Open Font License 1.1 */
     html, body { height: 100%; }
     body {
         margin: 0;
@@ -45,8 +45,8 @@
         margin: 0;
         padding: 0 40px;
         text-align: center;
-        font-family: "Libertinus Serif", serif; /* texte à corriger : Libertinus Serif (OFL), presque toutes les fonctions OpenType */
-        font-weight: 400;
+        font-family: "Source Serif 4", serif; /* texte à corriger : Source Serif 4 (glyphes, fonctions OpenType, taille optique) */
+        font-weight: 500; /* Medium */
         font-size: 150px;
         line-height: 1.2;
         color: black;
@@ -61,13 +61,15 @@
     .field[readonly] { color: grey; }
 
     /* quiz 2 : la phrase d'exemple (non modifiable) et le menu des fonctions OpenType */
-    .phrase { position: relative; overflow: hidden; cursor: default; }
+    .phrase { position: relative; overflow: hidden; cursor: text; -webkit-user-select: text; user-select: text; }
+    .phrase.done { cursor: default; }
+    .feat.all .tag { font-style: normal; }
+    ::highlight(hint) { background-color: Highlight; color: HighlightText; }   /* pré-sélection de l'indice */
     .phrase .line-box { position: absolute; left: 40px; right: 40px; top: 0; white-space: pre; line-height: 1.2; text-align: center; }
     .phrase.done { color: grey; }
     /* paragraphe (ligne de plus de 80 signes) : retours à la ligne automatiques, aligné à gauche */
     .wrapmode { white-space: pre-wrap !important; text-align: left !important; }
     .wrapmode .ri { display: inline !important; }
-    .phrase .zone { text-decoration: underline dotted rgb(190, 190, 190); text-decoration-thickness: 2px; text-underline-offset: 0.12em; }
     /* menu des fonctions : étiquettes grises empilées à gauche, défilant dans le cadre arrondi (sous le bouton jaune) */
     .features {
         position: absolute;
@@ -113,7 +115,7 @@
     }
     .feat .tag { font-style: italic; }
     .feat[aria-pressed="true"] { background: black; color: white; }
-    .feat:disabled { cursor: default; }
+    .feat:disabled { cursor: default; opacity: .35; }   /* grisé : rien de sélectionné (ou question réussie) */
     .feat:not(:disabled):hover { background: black; color: white; }   /* survol : noir (comme les autres boutons) */
     body.flash-correct .feat, body.flash-wrong .feat { background: white; color: black; }
 
@@ -358,9 +360,9 @@
 (function () {
 "use strict";
 
-// [phrase, indice, sel, empreinte de la réponse, numéro, fonctions actives au départ]
+// [phrase, indice (plages des signes à corriger), sel, empreinte des glyphes attendus, numéro, fonctions actives au départ (sur tout le texte), masques]
 // Les réponses ne sont pas dans ce fichier : seule une empreinte SHA-256 doublée l'est.
-const QUESTIONS = [["Selon l’Office fédéral de la statistique, l’inflation a atteint 0,6 % sur un an en avril 2026, son niveau le plus élevé depuis décembre 2024. Cette hausse se justifie surtout par la flambée des carburants liée au conflit au Moyen-Orient : le diesel affiche une progression de 19,3 % et le mazout de 35,5 %. Les loyers, en hausse de 1,4 % sur un an, pèsent eux aussi sur le budget des ménages. Ces chiffres restent toutefois dans la fourchette de 0 à 2 % que la Banque nationale suisse assimile à la stabilité des prix. Face à ce souffle inflationniste, la BNS pourrait néanmoins relever son taux directeur au second semestre.","Ligatures: fi, fl, ff, ffi, ffl","0d79e8626c43","90d5bd2bd00178af1aef336437374a82",1,"","fc267e6b72392d7408c4d6b0fbd5d2e2"],["C’est icy un livre de bonne foy, lecteur. Il t’advertit dés l’entree, que je ne m’y suis proposé aucune fin, que domestique et privee : je n’y ay eu nulle consideration de ton service, ny de ma gloire. Que si j’eusse esté parmy ces nations qu’on dit vivre encore souz la douce liberté des premieres loix de nature, je t’asseure que je m’y fusse tres-volontiers peint tout entier, et tout nud. Ainsi, lecteur, je suis moy-mesme la matiere de mon livre : ce n’est pas raison que tu employes ton loisir en un subject si frivole et si vain.","Ligatures historiques: ct, st","d32281310b51","bcbf83d1d58f3a0f849d0941e03bc688",2,"","4ff798d360e7a78176e976df076d4e69"],["Le Chat, la Belette et le petit Lapin\n\nDu palais d’un jeune Lapin\nDame Belette un beau matin\nS’empara ; c’est une rusée.\nLe Maître étant absent, ce lui fut chose aisée.\nElle porta chez lui ses pénates un jour","Ligatures discrétionnaires: ch, tt","56f18f89ce1d","e03c12877f7106ea765b3b75c475ada3",3,"","fdb2e84e497e2f45c430c9643a2b6fd6"],["La Suisse a adhéré à l’[ONU] après une votation populaire ; Genève accueille aussi le siège de l’[OMS], de l’[OMC], de l’[OIT] et du [CICR], et Bâle celui de la [BRI]. La Suisse est membre de l’[OCDE] et de l’[AELE], mais elle n’appartient ni à l’[UE] ni à l’[OTAN] : ses relations avec l’Union reposent sur des accords bilatéraux, négociés secteur par secteur.","Petites capitales: sigles","3fe6962905fc","c84615e0bf6e5d47c530cc0c45355c37",4,"","ae815612a4a6a2c0355183dffd518798"],["Au milieu du [XV]ᵉ siècle, Gutenberg met au point à Mayence l’imprimerie à caractères mobiles. Au début du [XVI]ᵉ siècle, Alde Manuce imprime à Venise le premier livre entièrement composé en italique : les classiques latins tiennent désormais dans un petit volume que l’on emporte partout. Au [XVIII]ᵉ siècle, Pierre-Simon Fournier publie son Manuel typographique, et au [XIX]ᵉ siècle la presse mécanique transforme le métier.","Petites capitales: siècles en chiffres romains","d61c829f284c","e9c1c799ba87656bf15ddbf1039c514a",5,"","9c426f6ce66de80b2ad35b77d6dfb82a"],["« Après les choses qui sont de première nécessité pour la vie, rien n’est plus précieux que les livres. L’art typographique qui les produit rend des services importants et procure des secours infinis à la société. Il sert à instruire le citoyen, à étendre le progrès des sciences et des arts, à nourrir et cultiver l’esprit et à élever l’âme : son devoir est d’être le commissionnaire et l’interprète général de la sagesse et de la vérité ; en un mot, c’est le peintre de l’esprit. »\n[Pierre-Simon Fournier]","Petites capitales: nom de l’auteur d’une citation","a3bd0f224f0c","5f0c1817969b5b5cbb4c9a38817f9678",6,"","145ea45f778a9fea6faef67c02a2e4f1"],["Le 8 mars 2026, Lausanne élit son Conseil communal, soit 100 sièges répartis à la proportionnelle. Sur 92 385 électeurs inscrits, 42 266 cartes de vote sont reçues. On compte 31 332 bulletins rentrés : 1 533 nuls, 348 blancs et 29 451 valables, pour un taux de participation de 33,91 %. Le même jour, au premier tour de l’élection à la Municipalité, 37 923 bulletins sont rentrés et la majorité absolue est fixée à 18 912 suffrages ; aucun candidat ne l’atteint.","Chiffres: proportionnels dans le texte courant","2ca3a1db03da",["e9452c90421f978bc1547b372057799a","274b0354a20b67036b52002e76939f8b"],7,"",["8e3e5db3de15df796dd432cf150f8226","bd6a0d896f27031a622234be44c4c7dc"]],["Électeurs inscrits\t92 385\nCartes de vote reçues\t42 266\nBulletins rentrés\t31 332\nBulletins nuls\t1 533\nBulletins blancs\t348\nBulletins valables\t29 451\nTaux de participation\t33,91 %","Chiffres: tabulaires dans une liste","01cc97ebc048",["86b77f7b5321233c57733cc8ea91c5fa","bda87975d0df3bc7947633689ad0d4c4","e2fab6524b949d526cbd3dc352a02939","e8457da6dca218f963533574ba15757b"],8,"pnum",["317cb888cdab3788afe460ca4675b6d9","eead2a4f1c94cace1409ee420b5435fb","49c275bf7d1988c8ace3b9840797101e","45d9d07df3ccee87c8ac298379895020"]],["Le 14 juillet 1789, les Parisiens prennent la Bastille. Trois ans plus tard, le 21 septembre 1792, la Convention abolit la royauté ; le roi est exécuté le 21 janvier 1793. Le 18 brumaire an VIII, soit le 9 novembre 1799, un coup d’État porte Bonaparte au pouvoir. Sacré empereur le 2 décembre 1804, il abdique en 1814, revient en 1815 pour cent jours, puis meurt en exil à Sainte-Hélène en 1821.","Chiffres: elzéviriens proportionnels dans le texte courant","0faedec68bb2","974052f6d57afece562a4a54922dc9be",9,"","eeba53b58979c3a36ce6169659752d89"],["14.07.1789\tPrise de la Bastille\n21.09.1792\tAbolition de la royauté\n21.01.1793\tExécution de Louis XVI\n09.11.1799\tCoup d’État du 18 Brumaire\n02.12.1804\tSacre de Napoléon\n06.04.1814\tAbdication\n20.03.1815\tDébut des Cent-Jours\n05.05.1821\tMort de Bonaparte à Sainte-Hélène","Chiffres: elzéviriens tabulaires dans une liste","422b25aab934",["1ce41b6d186b791f2a4e8009f4ee72ef","8e093fdcd6c8e419922710e930fc7bb5"],10,"pnum",["1ce6ad3b19b5c89e4fb687010ae15893","ddeb9f11a8632eabeee81e27732a869d"]],["Pâte à crêpe\n\n4 œufs\n[1/2] c. à thé (2,5 ml) de sel\n2 tasses (500 ml) de farine tout usage\n2 tasses (500 ml) de lait (1 %)\n[1/4] tasse (60 ml) d’huile végétale","Fractions","87c7fca46cb8","78b9e2cd2ead746d46ef384de06c2a40",11,"","e9cd1a5b08e958a44a8f1566aa6c7c05"],["Conseil fédéral 2026\nM. Guy Parmelin\nM. Ignazio Cassis\nM[me] Karin Keller-Sutter\nM[me] Elisabeth Baume-Schneider\nM. Albert Rösti\nM. Beat Jans\nM. Martin Pfister","Abréviations: lettres supérieures","75b90401c2cb","f560ad088445d651444e9cf785fbd24a",12,"","f8850eafdfbc650cdd2a6749e59fcf9a"],["Date\tJour férié\n1[er] janvier\tNouvel An\n2 janvier\tSaint-Berchtold\n1[er] mars\tInstauration de la République\n1[er] mai\tFête du travail\n1[er] août\tFête nationale","Abréviations: le 1ᵉʳ du mois","52dd3bbe9c1e","1f76d6247e7023ad949a88c76dac1a99",13,"","598cad96c9e6a0a135f83495d08a3b98"],["Ingrédients : eau gazéifiée (CO[2]), sucre (C[12]H[22]O[11]), colorant : caramel E150d, acidifiant : acide phosphorique (H[3]PO[4]), arômes naturels, dont caféine (C[8]H[10]N[4]O[2]).","Chimie: chiffres inférieurs","176ad3ba0403","3b8d5b1627f3d2d9e91c0a1342df0688",14,"","e9022c8073f676fdafbf9c7448a73005"],["En novembre 1915, Albert Einstein présente à l’Académie de Prusse la théorie de la relativité générale[1] : la gravitation n’y est plus une force, mais une courbure de l’espace-temps. La théorie explique aussitôt l’avance du périhélie de Mercure, de 43 secondes d’arc par siècle[2], que la mécanique de Newton laissait inexpliquée. Le 29 mai 1919, lors d’une éclipse totale de Soleil, Arthur Eddington mesure la déviation de la lumière des étoiles par le Soleil[3]. Le 14 septembre 2015, les détecteurs LIGO enregistrent pour la première fois des ondes gravitationnelles[4], prédites par Einstein dès 1916.","Appels de note: chiffres supérieurs","aceebab15450","2158b3cacba5b0ee1a260685271c7fec",15,"","7f30856cad5d94d297b58e795e3ae820"],["Licence\tNº de série\tClé d’activation\nPoste 1\t0O8B-OO50-D0O1\t80O0-OB0O-0D08\nPoste 2\tB0O8-0D0O-O8B0\tO0D8-B80O-0O0B\nPoste 3\tD0O8-8B0O-O0D0\tB8O0-0OD8-0B0O\nPoste 4\tO8D0-B0O0-8OB0\tD0B8-O80O-B00D\nPoste 5\t0BO8-D00O-B8O0\tO8B0-0D8O-O0B8\nPoste 6\t8O0B-O0DB-0O8D\t0O0D-B8O8-D0OB","Zéro: distinguer le chiffre 0 de la lettre O","8d367c5fff0a","79faa76686711d13e2b9c325abcc1e1d",16,"","db7fcc1f515e1fa84481d44c8d3bc500"],["HEURE\tTRAIN\tDESTINATION\tVOIE\n15:14\tIR 95\tBRIG\t3\n15:16\tIR 90\tGENÈVE-AÉROPORT\t8\n15:17\tIC 1\tST. GALLEN\t1\n15:23\tIR 15\tGENÈVE-AÉROPORT\t5\n15:34\tIC 5\tRORSCHACH\t4","Capitales: ponctuation et chiffres adaptés","2d259f95f02a","a07523ff264c7656dfb719415d023910",17,"","c852a99429800027c7196c7d64418a67"],["HEURE\tVOL\tDESTINATION\tPORTE\n09:05\tKL1930\tAMSTERDAM\tA4\n09:15\tLH1213\tFRANCFORT\tA2\n09:50\tSK1610\tCOPENHAGUE\tD23\n09:55\tIB1276\tMADRID\tD22","Capitales: chiffres à la hauteur des capitales","2e00f1a98bd4",["8ddd60282bc8cc787d3cc6889fa3fa6a","40c02fee239d7995d693e1288ed5de21"],18,"",["eca9385ab293c860a27772e031c29c87","e521a1537839ffdf15e21f7246c1002d"]],["PHOTO ELYSÉE (LAUSANNE)\nMODÈLE ANIMAL\n200 ANS DE PHOTOGRAPHIE\n4.12.2026–4.4.2027","Capitales: chiffres et ponctuation adaptés","acfd26529c44",["1235ea2069d1a5644484ba8ac13c39aa","cf21068b917cc1f3cde32677a7979115"],19,"",["073eb070b46fc936dd417798fa3941be","4f622314e04df38e820884250350384e"]],["Mobilis 2 zones\tHebdo\tMensuel\tAnnuel\nJunior (6–25 ans)\t28.–\t55.–\t495.–\nAdulte\t39.–\t78.–\t702.–\nSenior (AVS)\t36.–\t71.–\t639.–","Chiffres: elzéviriens dans un tableau","3b73019968db",["708997978222355b023751b1364f2629","2a5e10e9748f5e811f825457bdfe6fca"],20,"",["763039412666e5e41ffd00871df598cf","28b11893e4bda1a2ad5c0f13fe9f7ffe"]],["La norme [ISO 216] définit les formats de papier de la série A. Le [A0] mesure un mètre carré ; chaque format suivant s’obtient en coupant le précédent en deux dans sa longueur, si bien que le rapport entre les côtés reste toujours √2. Le [A4], 210 × 297 mm, est le format courant des lettres et des documents ; le [A3] en est le double, le [A5] la moitié. Cette norme reprend la [DIN 476], publiée en Allemagne en 1922.","Petites capitales: sigles avec chiffres","b2ea4d0f8401",["26bde2f7177277e23a9da4835c0d16df","101d378a20b8d80c5fea2e9d35c92fbb"],21,"",["3133879f7991b1a692afb913cb10a562","9729f3231450dd2e5e191b7a282212f3"]]];
+const QUESTIONS = [["Selon l’Office fédéral de la statistique, l’inflation a atteint 0,6 % sur un an en avril 2026, son niveau le plus élevé depuis décembre 2024. Cette hausse se justifie surtout par la flambée des carburants liée au conflit au Moyen-Orient : le diesel affiche une progression de 19,3 % et le mazout de 35,5 %. Les loyers, en hausse de 1,4 % sur un an, pèsent eux aussi sur le budget des ménages. Ces chiffres restent toutefois dans la fourchette de 0 à 2 % que la Banque nationale suisse assimile à la stabilité des prix. Face à ce souffle inflationniste, la BNS pourrait néanmoins relever son taux directeur au second semestre.",[[9,12],[46,48],[163,165],[182,184],[216,218],[250,253],[400,402],[532,535],[539,541]],"0d79e8626c43","111f3f7c22bf5150e42f86b2f7e58905",1,"","5d25528d6dd58003f85a4717aeb97539"],["La Suisse a adhéré à l’ONU après une votation populaire ; Genève accueille aussi le siège de l’OMS, de l’OMC, de l’OIT et du CICR, et Bâle celui de la BRI. La Suisse est membre de l’OCDE et de l’AELE, mais elle n’appartient ni à l’UE ni à l’OTAN : ses relations avec l’Union reposent sur des accords bilatéraux, négociés secteur par secteur.",[[23,26],[95,98],[105,108],[115,118],[125,129],[151,154],[182,186],[195,199],[231,233],[241,245]],"e912a6674271","b43e1a090f843c22fbcdf360532319c7",2,"","2b925b0db53191adeb6db7ae5be05c18"],["Au milieu du XVᵉ siècle, Gutenberg met au point à Mayence l’imprimerie à caractères mobiles. Au début du XVIᵉ siècle, Alde Manuce imprime à Venise le premier livre entièrement composé en italique : les classiques latins tiennent désormais dans un petit volume que l’on emporte partout. Au XVIIIᵉ siècle, Pierre-Simon Fournier publie son Manuel typographique, et au XIXᵉ siècle la presse mécanique transforme le métier.",[[13,15],[105,108],[289,294],[365,368]],"323b1639cd21","076c6d697d9e0441869782703f250aa3",3,"","1ef910625c9b2b4362682fe37adcc78a"],["« Après les choses qui sont de première nécessité pour la vie, rien n’est plus précieux que les livres. L’art typographique qui les produit rend des services importants et procure des secours infinis à la société. Il sert à instruire le citoyen, à étendre le progrès des sciences et des arts, à nourrir et cultiver l’esprit et à élever l’âme : son devoir est d’être le commissionnaire et l’interprète général de la sagesse et de la vérité ; en un mot, c’est le peintre de l’esprit. »\nPierre-Simon Fournier",[[484,490],[491,496],[497,505]],"3cfbeb3e3a4e","20529a6e6eee944c6973fcf80438b719",4,"","e1d2f9f01ff534720d6bfddede86c4fb"],["Le 8 mars 2026, Lausanne élit son Conseil communal, soit 100 sièges répartis à la proportionnelle. Sur 92 385 électeurs inscrits, 42 266 cartes de vote sont reçues. On compte 31 332 bulletins rentrés : 1 533 nuls, 348 blancs et 29 451 valables, pour un taux de participation de 33,91 %. Le même jour, au premier tour de l’élection à la Municipalité, 37 923 bulletins sont rentrés et la majorité absolue est fixée à 18 912 suffrages ; aucun candidat ne l’atteint.",[[3,4],[10,14],[57,60],[103,105],[106,109],[130,132],[133,136],[175,177],[178,181],[202,203],[204,207],[214,217],[228,230],[231,234],[278,280],[281,283],[350,352],[353,356],[415,417],[418,421]],"f8112a1f4f4c",["5d86e7d0560e656d97b1213d3b46a829","5d86e7d0560e656d97b1213d3b46a829"],5,"",["c278d907e03f319eb4037fb8d4daa2b6","c278d907e03f319eb4037fb8d4daa2b6"]],["Électeurs inscrits\t92 385\nCartes de vote reçues\t42 266\nBulletins rentrés\t31 332\nBulletins nuls\t1 533\nBulletins blancs\t348\nBulletins valables\t29 451\nTaux de participation\t33,91 %",[[19,21],[22,25],[48,50],[51,54],[73,75],[76,79],[95,96],[97,100],[118,121],[141,143],[144,147],[170,172],[173,175]],"fdff28a17870",["7edc22dc1a32bfdfd0a34e7247274ca9","7edc22dc1a32bfdfd0a34e7247274ca9","7edc22dc1a32bfdfd0a34e7247274ca9","7edc22dc1a32bfdfd0a34e7247274ca9"],6,"pnum",["13a09cd6ee374ac7b5dd711e226d457d","13a09cd6ee374ac7b5dd711e226d457d","13a09cd6ee374ac7b5dd711e226d457d","13a09cd6ee374ac7b5dd711e226d457d"]],["Le 14 juillet 1789, les Parisiens prennent la Bastille. Trois ans plus tard, le 21 septembre 1792, la Convention abolit la royauté ; le roi est exécuté le 21 janvier 1793. Le 18 brumaire an VIII, soit le 9 novembre 1799, un coup d’État porte Bonaparte au pouvoir. Sacré empereur le 2 décembre 1804, il abdique en 1814, revient en 1815 pour cent jours, puis meurt en exil à Sainte-Hélène en 1821.",[[3,5],[14,18],[80,82],[93,97],[155,157],[166,170],[175,177],[204,205],[215,219],[282,283],[293,297],[313,317],[330,334],[390,394]],"b7bcb3ddaec2","7f8e1e6ca6de04a7cbeaea994624a5fe",7,"","ada89184e3fccfc6cced9d19900b5a40"],["14.07.1789\tPrise de la Bastille\n21.09.1792\tAbolition de la royauté\n21.01.1793\tExécution de Louis XVI\n09.11.1799\tCoup d’État du 18 Brumaire\n02.12.1804\tSacre de Napoléon\n06.04.1814\tAbdication\n20.03.1815\tDébut des Cent-Jours\n05.05.1821\tMort de Bonaparte à Sainte-Hélène",[[0,2],[3,5],[6,10],[32,34],[35,37],[38,42],[67,69],[70,72],[73,77],[101,103],[104,106],[107,111],[127,129],[139,141],[142,144],[145,149],[168,170],[171,173],[174,178],[190,192],[193,195],[196,200],[222,224],[225,227],[228,232]],"a804116c554c",["62f17ed8b429c46f1e1a8ae327e311db","62f17ed8b429c46f1e1a8ae327e311db"],8,"pnum",["0f9645fefd7dbe2512c8f6d3a2cb4247","0f9645fefd7dbe2512c8f6d3a2cb4247"]],["Pâte à crêpe\n\n4 œufs\n1/2 c. à thé (2,5 ml) de sel\n2 tasses (500 ml) de farine tout usage\n2 tasses (500 ml) de lait (1 %)\n1/4 tasse (60 ml) d’huile végétale",[[21,24],[121,124]],"283dfb701dc1","768f0b1227d08851af22f4d221c7c29a",9,"","8192b9a403557eb23e6bf7cdcf869421"],["Ingrédients : eau gazéifiée (CO2), sucre (C12H22O11), colorant : caramel E150d, acidifiant : acide phosphorique (H3PO4), arômes naturels, dont caféine (C8H10N4O2).",[[31,32],[43,45],[46,48],[49,51],[114,115],[117,118],[153,154],[155,157],[158,159],[160,161]],"c25a963ae8ea","5b96f27436e2ed636e45218cb16030ae",10,"","ff682d0676d70faa87351709eb10fc28"],["En novembre 1915, Albert Einstein présente à l’Académie de Prusse la théorie de la relativité générale1 : la gravitation n’y est plus une force, mais une courbure de l’espace-temps. La théorie explique aussitôt l’avance du périhélie de Mercure, de 43 secondes d’arc par siècle2, que la mécanique de Newton laissait inexpliquée. Le 29 mai 1919, lors d’une éclipse totale de Soleil, Arthur Eddington mesure la déviation de la lumière des étoiles par le Soleil3. Le 14 septembre 2015, les détecteurs LIGO enregistrent pour la première fois des ondes gravitationnelles4, prédites par Einstein dès 1916.",[[102,103],[276,277],[457,458],[564,565]],"3ac40077d88d","12be58e98197b0705fee987cc8859cc1",11,"","1c31f6102734d0329f4ea4127fa5d1b6"],["Licence\tNº de série\tClé d’activation\nPoste 1\t0O8B-OO50-D0O1\t80O0-OB0O-0D08\nPoste 2\tB0O8-0D0O-O8B0\tO0D8-B80O-0O0B\nPoste 3\tD0O8-8B0O-O0D0\tB8O0-0OD8-0B0O\nPoste 4\tO8D0-B0O0-8OB0\tD0B8-O80O-B00D\nPoste 5\t0BO8-D00O-B8O0\tO8B0-0D8O-O0B8\nPoste 6\t8O0B-O0DB-0O8D\t0O0D-B8O8-D0OB",[[45,46],[53,54],[56,57],[61,62],[63,64],[67,68],[70,71],[72,73],[84,85],[88,89],[90,91],[96,97],[99,100],[105,106],[108,109],[110,111],[122,123],[128,129],[132,133],[134,135],[139,140],[141,142],[146,147],[148,149],[162,163],[165,166],[167,168],[172,173],[175,176],[181,182],[185,187],[197,198],[203,205],[210,211],[215,216],[217,218],[223,224],[237,238],[241,242],[245,246],[250,251],[252,253],[261,262]],"7e5e69339dec","00cd78d530af2f860bd0307764846f64",12,"","a8a872c4e536571bc04dbedec1a47ff2"],["HEURE\tTRAIN\tDESTINATION\tVOIE\n15:14\tIR 95\tBRIG\t3\n15:16\tIR 90\tGENÈVE-AÉROPORT\t8\n15:17\tIC 1\tST. GALLEN\t1\n15:23\tIR 15\tGENÈVE-AÉROPORT\t5\n15:34\tIC 5\tRORSCHACH\t4",[[29,31],[32,34],[38,40],[46,47],[48,50],[51,53],[57,59],[66,67],[76,77],[78,80],[81,83],[87,88],[100,101],[102,104],[105,107],[111,113],[120,121],[130,131],[132,134],[135,137],[141,142],[153,154]],"101d0041c560","fddf729a4cb61cfc50f716702b0a410c",13,"","78e281d01cf2986fc65b07ff99786a5e"],["HEURE\tVOL\tDESTINATION\tPORTE\n09:05\tKL1930\tAMSTERDAM\tA4\n09:15\tLH1213\tFRANCFORT\tA2\n09:50\tSK1610\tCOPENHAGUE\tD23\n09:55\tIB1276\tMADRID\tD22",[[28,30],[31,33],[36,40],[52,53],[54,56],[57,59],[62,66],[78,79],[80,82],[83,85],[88,92],[105,107],[108,110],[111,113],[116,120],[129,131]],"b26fbd2d8953",["a80625c2269a7f0426e4fe4a3f30a0ce","a80625c2269a7f0426e4fe4a3f30a0ce"],14,"",["18f2b215bbabe30493136cadd273a598","18f2b215bbabe30493136cadd273a598"]],["PHOTO ELYSÉE (LAUSANNE)\nMODÈLE ANIMAL\n200 ANS DE PHOTOGRAPHIE\n4.12.2026–4.4.2027",[[13,14],[22,23],[38,41],[62,63],[64,66],[67,73],[74,75],[76,80]],"9938a5eb78b9",["b1710ce644f695cb701c9e47f19b0829","b1710ce644f695cb701c9e47f19b0829"],15,"",["b4587877e3f403ebbceb0f178dd4c5e7","b4587877e3f403ebbceb0f178dd4c5e7"]],["Mobilis 2 zones\tHebdo\tMensuel\tAnnuel\nJunior (6–25 ans)\t28.–\t55.–\t495.–\nAdulte\t39.–\t78.–\t702.–\nSenior (AVS)\t36.–\t71.–\t639.–",[[8,9],[45,46],[47,49],[55,57],[60,62],[65,68],[78,80],[83,85],[88,91],[107,109],[112,114],[117,120]],"83a71c9acb68",["c2a0211c8f102167ed80b5e0cdf69f04","c2a0211c8f102167ed80b5e0cdf69f04"],16,"",["d9c353875ab8a64f48fea5f4096ea5f1","d9c353875ab8a64f48fea5f4096ea5f1"]],["La norme ISO 216 définit les formats de papier de la série A. Le A0 mesure un mètre carré ; chaque format suivant s’obtient en coupant le précédent en deux dans sa longueur, si bien que le rapport entre les côtés reste toujours √2. Le A4, 210 × 297 mm, est le format courant des lettres et des documents ; le A3 en est le double, le A5 la moitié. Cette norme reprend la DIN 476, publiée en Allemagne en 1922.",[[9,12],[13,16],[65,67],[235,237],[309,311],[333,335],[370,373],[374,377]],"2dc9614fc120",["c8629b397b80b7511d38a393ba91c618","c8629b397b80b7511d38a393ba91c618"],17,"",["9d136125443781d424c26a965f2813c6","9d136125443781d424c26a965f2813c6"]]];
 
 const STORE = "microtypo-quiz-2";
 const $ = id => document.getElementById(id);
@@ -399,9 +401,9 @@ async function sha256(text) {
     const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(text));
     return Array.from(new Uint8Array(buf), b => b.toString(16).padStart(2, "0")).join("");
 }
-async function isCorrect(i, text) {
-    const [, , salt, check] = QUESTIONS[i];
-    const proof = await sha256(salt + "|" + normalize(text));
+async function isCorrect(i, t) {
+    const [text, , salt, check] = QUESTIONS[i];
+    const proof = await sha256(salt + "|" + glyphString(text, decodeMasks(t, text.length)));   // glyphes obtenus
     const k = [].concat(check).indexOf((await sha256(proof)).slice(0, 32));   // une ou plusieurs réponses justes
     if (k < 0) return false;
     await learn(i, proof, k);
@@ -443,16 +445,16 @@ async function verifyAll() {
 
 // ---------- affichage ----------
 // Fonctions OpenType du menu : [code, nom français]
-const FEATURES = [   // ordre alphabétique des codes
+const FEATURES = [   // ordre alphabétique des codes (ne pas changer : les réponses enregistrées en dépendent)
     ["c2sc", "Capitales en petites capitales"],
     ["case", "Formes sensibles à la casse"],
-    ["dlig", "Ligatures discrétionnaires"],
     ["frac", "Fractions"],
-    ["hlig", "Ligatures historiques"],
     ["liga", "Ligatures standard"],
     ["lnum", "Chiffres alignés"],
     ["onum", "Chiffres elzéviriens"],
+    ["ordn", "Ordinaux"],
     ["pnum", "Chiffres proportionnels"],
+    ["sinf", "Inférieurs scientifiques"],
     ["smcp", "Petites capitales"],
     ["subs", "Indices"],
     ["sups", "Exposants"],
@@ -463,27 +465,44 @@ const OPPOSITE = { lnum: "onum", onum: "lnum", pnum: "tnum", tnum: "pnum" };
 const field = $("answer");
 const phraseBox = $("phrase");
 let fitSize = 150;
-let selected = new Set();
-const canonical = set => [...set].sort().join(" ");
-// le crénage est toujours actif (pas proposé aux élèves) ; les autres fonctions, activées ou non une à une
-const featureCSS = set => FEATURES.map(([t]) => '"' + t + '" ' + (set.has(t) ? 1 : 0)).join(", ") + ', "kern" 1';
+// La phrase, signe par signe : pour chaque signe, les fonctions actives (un bit par fonction, dans l'ordre de FEATURES).
+// L'élève sélectionne du texte puis active ou désactive une fonction sur la sélection (comme dans InDesign).
+let plain = "", cf = [];
+let sel = null;   // sélection courante : liste de plages [début, fin[ dans plain, ou null
+let hintOn = false;   // pré-sélection de l'indice (bouton jaune) affichée
+let qDone = false;
+const BIT = Object.fromEntries(FEATURES.map(([t], k) => [t, 1 << k]));
+const maskOf = str => String(str || "").split(" ").filter(Boolean).reduce((m, t) => m | (BIT[t] || 0), 0);
+// le crénage est toujours actif (pas proposé aux élèves) ; les autres fonctions : 0 ou 1 selon le signe
+const featureCSS = m => FEATURES.map(([t], k) => '"' + t + '" ' + ((m >> k) & 1)).join(", ") + ', "kern" 1';
+const isSep = i => plain[i] === "\n" || plain[i] === "\t";
 
-// La phrase : les fonctions s'appliquent à toute la phrase, ou seulement aux zones [entre crochets]
-function buildPhrase(target, text, zones) {
-    const parts = zones ? text.split(/(\[[^\]]*\])/) : ["[" + text + "]"];
-    parts.forEach(p => {
-        if (!p) return;
-        const span = document.createElement("span");
-        if (p[0] === "[") { span.className = "zone-on" + (zones ? " zone" : ""); span.textContent = p.slice(1, -1); }
-        else span.textContent = p;
-        target.appendChild(span);
-    });
+// Un morceau de texte (ligne ou cellule) : des spans de signes ayant les mêmes fonctions ; data-o = position dans plain
+function runs(target, seg, o) {
+    if (!seg) {
+        const z = document.createElement("span");
+        z.textContent = "​";
+        target.appendChild(z);
+        return;
+    }
+    let k = 0;
+    while (k < seg.length) {
+        const m = cf[o + k] || 0;
+        let e = k + 1;
+        while (e < seg.length && (cf[o + e] || 0) === m) e++;
+        const sp = document.createElement("span");
+        sp.dataset.o = o + k;
+        sp.textContent = seg.slice(k, e);
+        sp.style.fontFeatureSettings = featureCSS(m);
+        sp.style.fontKerning = "normal";
+        target.appendChild(sp);
+        k = e;
+    }
 }
 // Lignes (\n) ; si la phrase contient des tabulations (\t) : tableau, colonnes de chiffres alignées à droite (sauf la 1re colonne, à gauche)
 const NUMERIC = /^[\s\d.,:’'%+−–=×()\/CHF-]*\d[\s\d.,:’'%+−–=×()\/CHF-]*$/;
 function buildContent(target, text) {
     target.textContent = "";
-    const zones = text.includes("[");
     const marks = [], widthEls = [];
     const mark = () => {
         const s = document.createElement("span");
@@ -493,6 +512,7 @@ function buildContent(target, text) {
         return s;
     };
     const lines = text.split("\n");
+    let o = 0;
     if (text.includes("\t")) {
         const n = Math.max(...lines.map(l => l.split("\t").length));
         const grid = document.createElement("div");
@@ -504,7 +524,8 @@ function buildContent(target, text) {
                 const t = cells[c] ?? "";
                 if (c > 0 && NUMERIC.test(t)) cell.style.textAlign = "right";
                 if (c === 0) cell.appendChild(mark());
-                buildPhrase(cell, t || "​", zones);
+                runs(cell, t, o);
+                if (c < cells.length) o += t.length + 1;
                 grid.appendChild(cell);
             }
         });
@@ -517,7 +538,8 @@ function buildContent(target, text) {
             const inner = document.createElement("span");
             inner.className = "ri";
             inner.style.display = "inline-block";
-            buildPhrase(inner, l || "​", zones);
+            runs(inner, l, o);
+            o += l.length + 1;
             row.appendChild(inner);
             target.appendChild(row);
             widthEls.push(inner);
@@ -529,22 +551,13 @@ function buildContent(target, text) {
     (target.lastElementChild.tagName === "DIV" && !text.includes("\t") ? target.lastElementChild : target).appendChild(end);
     return { marks, widthEls, end };
 }
-function applyFeatures(target) {
-    const off = featureCSS(new Set()), on = featureCSS(selected);
-    target.querySelectorAll("span").forEach(sp => {
-        const zone = sp.classList.contains("zone-on");
-        sp.style.fontFeatureSettings = zone ? on : off;
-        sp.style.fontKerning = "normal";   // crénage toujours actif
-    });
-}
 // Copie invisible, mise en forme comme la phrase : sert à mesurer largeur et lignes de base
 function mirrorOf(text) {
     const m = mirrorOf.el || (mirrorOf.el = Object.assign(document.createElement("div"), {
-        style: "position:absolute;left:-99999px;top:0;visibility:hidden;white-space:pre;font-family:'Libertinus Serif',serif;font-weight:400;line-height:1.2;padding:0;margin:0;border:0"
+        style: "position:absolute;left:-99999px;top:0;visibility:hidden;white-space:pre;font-family:'Source Serif 4',serif;font-weight:500;line-height:1.2;padding:0;margin:0;border:0"
     }));
     if (!m.parentNode) document.body.appendChild(m);
     const built = buildContent(m, text);
-    applyFeatures(m);
     return { m, ...built };
 }
 // Taille : la plus grande possible entre le titre et le menu ; centrage en hauteur sur les capitales
@@ -595,7 +608,7 @@ function fit(keep) {
     if (keep && prev < fitSize) { fitSize = prev; m.style.fontSize = fitSize + "px"; }
     phraseBox.classList.toggle("wrapmode", wrap);
     const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
-    ctx.font = "400 " + fitSize + "px 'Libertinus Serif', serif";
+    ctx.font = "500 " + fitSize + "px 'Source Serif 4', serif";
     const capH = ctx.measureText("H").actualBoundingBoxAscent;
     const mTop = m.getBoundingClientRect().top;
     const first = marks[0].getBoundingClientRect().top - mTop;
@@ -615,34 +628,165 @@ function showTip(b, label) {
 }
 function hideTip() { tip.hidden = true; }
 $("features").addEventListener("scroll", hideTip);
-function renderFeatures(done) {
+// ---------- sélection ----------
+// sélection du navigateur → [début, fin[ dans plain (seulement les signes de la phrase)
+function readSel() {
+    const s = window.getSelection();
+    if (!s || !s.rangeCount || s.isCollapsed) return null;
+    const r = s.getRangeAt(0);
+    if (!phraseBox.contains(r.commonAncestorContainer)) return null;
+    let a = Infinity, b = -1;
+    phraseBox.querySelectorAll("span[data-o]").forEach(sp => {
+        const tn = sp.firstChild;
+        if (!tn || !r.intersectsNode(tn)) return;
+        const o = +sp.dataset.o;
+        const s0 = tn === r.startContainer ? r.startOffset : 0;
+        const e0 = tn === r.endContainer ? r.endOffset : tn.length;
+        if (e0 > s0) { a = Math.min(a, o + s0); b = Math.max(b, o + e0); }
+    });
+    return b > a ? [[a, b]] : null;
+}
+// après un changement, la même sélection est remise sur le texte reconstruit
+function rangeOf(a, b) {
+    const spans = [...phraseBox.querySelectorAll("span[data-o]")];
+    const first = spans.find(sp => +sp.dataset.o + sp.firstChild.length > a);
+    const last = [...spans].reverse().find(sp => +sp.dataset.o < b);
+    if (!first || !last) return null;
+    const r = document.createRange();
+    r.setStart(first.firstChild, Math.max(0, a - first.dataset.o));
+    r.setEnd(last.firstChild, Math.min(last.firstChild.length, b - last.dataset.o));
+    return r;
+}
+// pré-sélection de l'indice : plusieurs plages, dessinées en surbrillance (le navigateur ne sait sélectionner qu'une plage)
+function drawHint() {
+    if (!window.CSS || !CSS.highlights || typeof Highlight === "undefined") return;
+    if (!hintOn || !sel) { CSS.highlights.delete("hint"); return; }
+    CSS.highlights.set("hint", new Highlight(...sel.map(([a, b]) => rangeOf(a, b)).filter(Boolean)));
+}
+function clearHint() {
+    if (!hintOn) return;
+    hintOn = false;
+    drawHint();
+}
+// après un changement, la même sélection est remise sur le texte reconstruit
+function restoreSel() {
+    const s = window.getSelection();
+    if (!s) return;
+    if (hintOn) { if (s.rangeCount && phraseBox.contains(s.anchorNode)) s.removeAllRanges(); drawHint(); return; }
+    if (!sel) { if (s.rangeCount && phraseBox.contains(s.anchorNode)) s.removeAllRanges(); return; }
+    const r = rangeOf(sel[0][0], sel[0][1]);
+    if (!r) return;
+    s.removeAllRanges();
+    s.addRange(r);
+}
+function selectedIdx() {
+    const idx = [];
+    if (sel) sel.forEach(([a, b]) => { for (let i = a; i < b; i++) if (!isSep(i)) idx.push(i); });
+    return idx;
+}
+// boutons : grisés sans sélection ; noirs si toute la sélection a déjà la fonction
+function updateButtons() {
+    const idx = selectedIdx();
+    $("features").querySelectorAll(".feat").forEach(b => {
+        const tag = b.dataset.tag;
+        if (tag === "*") { b.disabled = qDone; return; }
+        b.disabled = qDone || !idx.length;
+        const on = idx.length > 0 && idx.every(i => cf[i] & BIT[tag]);
+        b.setAttribute("aria-pressed", on ? "true" : "false");
+    });
+}
+document.addEventListener("selectionchange", () => {
+    if (view !== "question") return;
+    const r = readSel();
+    if (hintOn && !r) return;   // la pré-sélection reste jusqu'à un clic dans le texte
+    if (r) clearHint();
+    sel = r;
+    updateButtons();
+});
+// clic dans le texte : la pré-sélection de l'indice disparaît (nouvelle sélection à la souris)
+phraseBox.addEventListener("mousedown", () => { if (hintOn) { clearHint(); sel = null; updateButtons(); } });
+function redraw() {
+    buildContent(phraseBox, plain);   // (la surbrillance de l'indice est redessinée par restoreSel)
+    fit(true);
+    restoreSel();
+    updateButtons();
+}
+function renderFeatures() {
     hideTip();
     const box = $("features");
     box.textContent = "";
-    FEATURES.forEach(([tag, label]) => {
+    const all = [["*", "Tout", "Sélectionner tout le texte"]].concat(FEATURES.map(([t, l]) => [t, t, l]));
+    all.forEach(([tag, text, label]) => {
         const b = document.createElement("button");
         b.type = "button";
-        b.className = "feat";
-        b.innerHTML = '<span class="tag">' + tag + "</span>";
-        b.setAttribute("aria-label", label + " (" + tag + ")");
+        b.className = "feat" + (tag === "*" ? " all" : "");
+        b.dataset.tag = tag;
+        b.innerHTML = '<span class="tag">' + text + "</span>";
+        b.setAttribute("aria-label", label + (tag === "*" ? "" : " (" + tag + ")"));
         b.addEventListener("mouseenter", () => showTip(b, label));
         b.addEventListener("mouseleave", hideTip);
-        b.setAttribute("aria-pressed", selected.has(tag) ? "true" : "false");
-        b.disabled = done;
+        b.addEventListener("mousedown", e => e.preventDefault());   // garde la sélection du texte
         b.addEventListener("click", () => {
-            if (selected.has(tag)) selected.delete(tag);
-            else {
-                selected.add(tag);
-                // fonctions opposées : en activer une désactive l'autre (lnum / onum, pnum / tnum)
-                const opp = OPPOSITE[tag];
-                if (opp && selected.delete(opp)) box.querySelectorAll(".feat").forEach(x => { if (x.textContent === opp) x.setAttribute("aria-pressed", "false"); });
-            }
-            b.setAttribute("aria-pressed", selected.has(tag) ? "true" : "false");
-            applyFeatures(phraseBox);
-            fit(true);
+            if (qDone) return;
+            if (tag === "*") { clearHint(); sel = plain.length ? [[0, plain.length]] : null; restoreSel(); updateButtons(); return; }
+            const idx = selectedIdx();
+            if (!idx.length) return;
+            const bit = BIT[tag], opp = OPPOSITE[tag] ? BIT[OPPOSITE[tag]] : 0;
+            const allOn = idx.every(i => cf[i] & bit);
+            // fonctions opposées : en activer une désactive l'autre (lnum / onum, pnum / tnum)
+            idx.forEach(i => { cf[i] = allOn ? (cf[i] & ~bit) : ((cf[i] | bit) & ~opp); });
+            redraw();
         });
         box.appendChild(b);
     });
+    updateButtons();
+}
+
+// ---------- rendu exact (HarfBuzz) ----------
+// La réponse est juste si les glyphes obtenus sont exactement ceux attendus (même moteur que lors de la génération)
+let HB = null, hbFont = null;
+async function loadShaper() {
+    HB = await import("/assets/js/harfbuzzjs/index.js");
+    const data = await (await fetch("/assets/fonts/source-serif-4/SourceSerif4-Roman-shaping.otf")).arrayBuffer();
+    hbFont = new HB.Font(new HB.Face(new HB.Blob(data)));
+}
+const SC = new Set(["c2sc", "smcp"]);
+function shapeSeg(seg, masks, o) {
+    if (!seg) return "";
+    const buf = new HB.Buffer();
+    buf.addText(seg);
+    buf.guessSegmentProperties();
+    const feats = ["kern"];
+    // petites capitales sur une apostrophe, une espace ou une ponctuation : ignorées (sélection un peu large tolérée)
+    const on = (k, t, i) => ((masks[o + i] >> k) & 1) && !(SC.has(t) && !/[\p{L}\p{N}]/u.test(seg[i]));
+    FEATURES.forEach(([t], k) => {
+        feats.push(t + "=0");
+        let i = 0;
+        while (i < seg.length) {
+            if (on(k, t, i)) {
+                let e = i;
+                while (e < seg.length && on(k, t, e)) e++;
+                feats.push(t + "[" + i + ":" + e + "]=1");
+                i = e;
+            } else i++;
+        }
+    });
+    HB.shape(hbFont, buf, feats.map(f => HB.Feature.fromString(f)));
+    return buf.getGlyphInfos().map(g => g.codepoint).join(",");
+}
+function glyphString(text, masks) {
+    const out = [];
+    let o = 0;
+    text.split("\n").forEach(line => line.split("\t").forEach(cell => { out.push(shapeSeg(cell, masks, o)); o += cell.length + 1; }));
+    return out.join("|");
+}
+// fonctions par signe, enregistrées en abrégé : « longueur:bits,longueur:bits,… »
+const encodeMasks = m => { const r = []; let k = 0; while (k < m.length) { let e = k; while (e < m.length && m[e] === m[k]) e++; r.push((e - k) + ":" + m[k]); k = e; } return r.join(","); };
+function decodeMasks(t, len) {
+    const m = [];
+    String(t).split(",").forEach(p => { const [n, v] = p.split(":").map(Number); for (let j = 0; j < n && m.length < len; j++) m.push(v | 0); });
+    while (m.length < len) m.push(0);
+    return m;
 }
 
 // Champ du nom : taille adaptée à la largeur du cadre (texte saisi ou « Prénom Nom »)
@@ -651,13 +795,13 @@ function fitName() {
     const box = inp.getBoundingClientRect();
     if (!box.width) return;
     const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
-    ctx.font = "400 100px 'Libertinus Serif', serif";
+    ctx.font = "500 100px 'Source Serif 4', serif";
     const w = Math.max(1, ctx.measureText(inp.value || inp.placeholder).width);
     const size = Math.max(20, Math.min(150, (box.width - 100) / w * 100, (box.height - 200) / 1.2));
     inp.style.fontSize = size + "px";
     $("name-overlay").style.fontSize = size + "px";
     // majuscules centrées en hauteur : le navigateur centre la ligne (jambages compris), on la décale de la différence
-    ctx.font = "400 " + size + "px 'Libertinus Serif', serif";
+    ctx.font = "500 " + size + "px 'Source Serif 4', serif";
     const H = ctx.measureText("H");
     const shift = H.actualBoundingBoxAscent / 2 - (H.fontBoundingBoxAscent - H.fontBoundingBoxDescent) / 2;
     for (const el of [$("name-input"), $("code-input"), $("name-overlay")]) {
@@ -769,26 +913,27 @@ function fitHint() {
     while (h.scrollWidth > h.clientWidth && size > 12) h.style.fontSize = (--size) + "px";
 }
 window.addEventListener("resize", fitHint);
-let hintShown = true;
+let hintShown = false;   // quiz 2 : pas d'indice écrit ; le bouton jaune pré-sélectionne les éléments à corriger
 const refitAfterHint = () => fit();   // indice affiché par défaut ; le bouton jaune le cache
 let keyNav = false; // vrai quand on navigue au clavier : le champ ne prend pas le focus
 function renderQuestion() {
     const i = state.current;
-    const [faux, hint] = QUESTIONS[i];
+    const [faux] = QUESTIONS[i];
     const done = solved.has(i);
-    // fonctions déjà actives au départ (6e élément), ou la bonne réponse si la question est réussie
-    const start = done ? (state.answers[QUESTIONS[i][2]] ?? QUESTIONS[i][5] ?? "") : (QUESTIONS[i][5] ?? "");
-    selected = new Set(start.split(" ").filter(Boolean));
-    buildContent(phraseBox, faux);
-    applyFeatures(phraseBox);
+    // fonctions déjà actives au départ (6e élément) sur tout le texte, ou la bonne réponse si la question est réussie
+    plain = faux;
+    const saved = done ? state.answers[QUESTIONS[i][2]] : null;
+    cf = saved ? decodeMasks(saved, plain.length) : new Array(plain.length).fill(maskOf(QUESTIONS[i][5]));
+    qDone = done;
+    sel = null;
+    hintOn = false;
+    drawHint();
+    const ws = window.getSelection();
+    if (ws) ws.removeAllRanges();
+    buildContent(phraseBox, plain);
     field.classList.toggle("done", done);
-    renderFeatures(done);
+    renderFeatures();
     $("check").hidden = done;
-    // espace fine avant le deux-points (dessinée, comme dans « Score : »), puis retour à la ligne
-    const esc = t => t.replace(/[&<>]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" })[c]);
-    $("hint-text").innerHTML = esc(hint).replace(/\s*:\s*/, '<span class="thin"></span>: ')
-                                       .replace(/\*([^*]+)\*/g, "<em>$1</em>");   // *mot* → italique
-    fitHint();
     $("prev").disabled = i === 0;
     show("question");
     renderDots();
@@ -962,9 +1107,9 @@ async function check() {
     const i = state.current;
     if (busy || i >= N || solved.has(i)) return;
     busy = true;
-    const text = canonical(selected);
+    const text = encodeMasks(cf);
     if (await isCorrect(i, text)) {
-        state.answers[QUESTIONS[i][2]] = normalize(text);
+        state.answers[QUESTIONS[i][2]] = text;
         solved.add(i);
         flash("correct");
         save();
@@ -1044,7 +1189,22 @@ function openMenu(mode) {
 $("progress").addEventListener("click", () => openMenu("info"));
 $("quit").addEventListener("click", () => openMenu("exit"));
 $("back").addEventListener("click", () => goTo(resumeAt));
+$("hint-toggle").addEventListener("mousedown", e => e.preventDefault());
 $("hint-toggle").addEventListener("click", () => {
+    // quiz 2 : indice = pré-sélection des éléments à corriger (2e clic : enlevée)
+    if (view === "question" && !qDone) {
+        const zones = QUESTIONS[state.current][1];
+        if (hintOn) { clearHint(); sel = null; }
+        else {
+            const s = window.getSelection();
+            if (s) s.removeAllRanges();
+            sel = Array.isArray(zones) && zones.length ? zones.map(z => z.slice()) : [[0, plain.length]];
+            hintOn = true;
+            drawHint();
+        }
+        updateButtons();
+        return;
+    }
     hintShown = !hintShown;
     $("hint-text").classList.toggle("visible", hintShown);
     fitHint();
@@ -1075,18 +1235,19 @@ $("finish").addEventListener("click", () => {
 
 // ---------- démarrage ----------
 (async function start() {
-    // Computer Modern (WebCM) et Libertinus Serif : chargés avant de mesurer ou dessiner les glyphes
+    // Computer Modern (WebCM) et Source Serif 4 : chargés avant de mesurer ou dessiner les glyphes
     if (document.fonts) {
         try {
             await Promise.all([
                 document.fonts.load("100px 'WebCM Serif 10'"),
                 document.fonts.load("italic 100px 'WebCM Serif 10'"),
-                document.fonts.load("400 100px 'Libertinus Serif'")
+                document.fonts.load("500 100px 'Source Serif 4'")
             ]);
         } catch (e) {}
     }
     if (document.fonts) document.fonts.ready.then(centerRoundGlyphs); else centerRoundGlyphs();
     load();
+    await loadShaper();   // HarfBuzz : vérifie les réponses glyphe par glyphe
     await verifyAll();
     if (state.finished) { renderFinal(); return; }
     show("name"); setStart("choice"); renderDots();
