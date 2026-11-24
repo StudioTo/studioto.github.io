@@ -64,6 +64,9 @@
     .phrase { position: relative; overflow: hidden; cursor: default; }
     .phrase .line-box { position: absolute; left: 40px; right: 40px; top: 0; white-space: pre; line-height: 1.2; text-align: center; }
     .phrase.done { color: grey; }
+    /* paragraphe (ligne de plus de 80 signes) : retours à la ligne automatiques, aligné à gauche */
+    .wrapmode { white-space: pre-wrap !important; text-align: left !important; }
+    .wrapmode .ri { display: inline !important; }
     .phrase .zone { text-decoration: underline dotted rgb(190, 190, 190); text-decoration-thickness: 2px; text-underline-offset: 0.12em; }
     /* menu des fonctions : étiquettes grises empilées à gauche, défilant dans le cadre arrondi (sous le bouton jaune) */
     .features {
@@ -357,7 +360,7 @@
 
 // [phrase, indice, sel, empreinte de la réponse, numéro, fonctions actives au départ]
 // Les réponses ne sont pas dans ce fichier : seule une empreinte SHA-256 doublée l'est.
-const QUESTIONS = [["« Le silence éternel de ces espaces infinis m’effraie. »\nBlaise Pascal, Pensées","Ligatures: fi, ff, fl","efc65fc7df65","6c46d416febc69898d0257a41f2cae8a",1,"","8d6828d14ce4ecb067a4cd94d5ccdb1c"],["La Suisse est membre de l’[ONU], de l’[OMC], de l’[OCDE]\net de l’[AELE], mais ni de l’[UE] ni de l’[OTAN].","Petites capitales: sigles","5af57a528e28","2cac8cf7ba685266341661aa99457f08",2,"","5469dd2349231fef8d6f602b4565bfb4"],["Au début du [XVI]ᵉ siècle, Alde Manuce imprime à Venise\nle premier livre entièrement composé en italique.","Petites capitales: siècles en chiffres romains","64889d88a969","46e14b965f74e73f4453ef5a536f38f4",3,"","a26eea156b2a0ad147f0e86d9b95dae6"],["« Il faut cultiver notre jardin. »\n[Voltaire]","Petites capitales: nom de l’auteur d’une citation","164a0c27ad6d","ea8a916d7ac675f91cf26ac12410a2be",4,"","2601d7b46e04a87caf5e7b6b1830fca5"],["Le 14 juillet 1789, les Parisiens prennent la Bastille.\nTrois ans plus tard, le 21 septembre 1792,\nla Convention abolit la royauté.","Chiffres: dans le texte courant","6eece99e0388","83cae344cbc731b68bb55bd2a41e6632",5,"","5867f4537a73f67ad0cbc6afc528d538"],["Votation communale : 2418 bulletins rentrés,\n1309 oui, 977 non et 132 blancs.","Chiffres: chasse proportionnelle dans le texte courant","3c122fe5aaa3",["7055db2f1a9b7794b169bd3dff3f6046","495992532b6812dfbe67b4290bcf19e4"],6,"",["38a22c46feaaffa3ba617846b971341f","a68b5e16afa38ed8a7219303f34f3c5b"]],["En 1307, deux Konrad Blarer apparaissent comme témoins ;\nles actes de 1299 à 1316 ne disent pas duquel il s’agit.","Chiffres: elzéviriens et proportionnels dans le texte courant","5acc8cf7bacb","68816e7a4e4c77e4170b0f80cc383a47",7,"","d35e4474892de98694571ae5053e0700"],["Pâte à crêpes (4 personnes) :\n250 g de farine\n[1/2] litre de lait\n4 œufs\n[1/4] de cuillère à café de sel\n50 g de beurre fondu","Fractions","782cd94425ae","731da377369efdfa35a3e27cd40114cb",8,"","1001619d461a148fdef726bdb1f2a08a"],["Invités du souper :\nM[me] Beyoncé Knowles-Carter\nM. Shawn Carter (Jay-Z)\nM[me] Stefani Germanotta (Lady Gaga)\nM. Marshall Mathers (Eminem)\nD[r] Dre","Abréviations: lettres supérieures","98e85f029a72",["96b1f96dcfbd43918ef4ae845a681c6b","f99e89639601850512f4d46fbfb112c4"],9,"",["a0330b2462d7b71448b77892d801b2ca","9b0b0a8d59bb34ad442f239e9d1200ca"]],["1[er] juin\tBerne\n2 juin\tZurich\n1[er] juillet\tGenève\n1[er] août\tLausanne","Abréviations: le 1ᵉʳ du mois","6e012836fbf2",["6752a984b246175ba93ca5e91976c974","db603a8625653093d62112353598c195"],10,"",["77673c66c96f118dda99b121eb0717fb","67a5a73c3a7e391a4060691995a23ff2"]],["Ingrédients :\nEau gazéifiée (CO[2])\nSucre (C[12]H[22]O[11])\nColorant : caramel E150d\nAcidifiant : acide phosphorique (H[3]PO[4])\nArômes naturels, dont caféine (C[8]H[10]N[4]O[2])","Chimie: chiffres inférieurs","647537fe5c68",["63bbf708fd9c9ea6553f50c5d5caa9f5","306491374c37c76f309c7cd3a82ddddd"],11,"",["1077cc757aeb61f14e788154a8bbbdd8","469273c7cd2b56551f28ee75ba263abc"]],["Comme l’écrit Hochuli[1], le détail[2]\nfait la qualité d’un texte[3].","Appels de note: chiffres supérieurs","d9f3f2208835","ad0f5cfd413f252cfe8a0ec27799af76",12,"","011573aeb7682d81fc0b34992eeced5f"],["Nº de série :\n0O8B-OO50-D0O1\n80O0-OB0O-0D08","Zéro: distinguer le chiffre 0 de la lettre O","be5d9fcd40c3","bd56881c6c783aac2baf8f3b4e168195",13,"","56051b14f3cb71a044763e98ef105dea"],["GENÈVE–PARIS (TGV)\nBÂLE–BRUXELLES (ICE)\nZURICH–MILAN (EC)","Capitales: ponctuation adaptée","2b9bb8f26f64","d791808fd24cf0e259fbe95d0f54df74",14,"","f01cdfedd118267f7c47c1e23cca71ed"],["DÉPARTS\t\nLONDRES\tGATE B1\nNEW YORK\tGATE B12\nTOKYO\tGATE C27\nDUBAÏ\tGATE A3","Capitales: chiffres à la hauteur des capitales","d7d303e3e958",["f9a5a17efcd7f6baf53657591949f6ee","3b421b32ca32b2cbab5237f0696a3cf5"],15,"",["d57e6c20eb06d7008375733a1d112fd4","a193f2e0a891646d1eb81b3ddbb227a3"]],["(5 + 2) − 78 × 198 = −15 437","Mathématiques: chiffres alignés et signes centrés","98eef12b3da8",["a211ce89ce7cd55df5e08697e55b6008","814f5537365a778c8fe9ceec3883f0d3"],16,"",["46224a9356126e6f8bccd9d1c31d2541","d57905f4f590d8dd7b733a3bb9431ec0"]],["AVATAR, TOUT VA BIEN\nTableau, Vers, Wagon, Ypres","Crénage: paires critiques","8adb13ab169c","59c6474241fba1f96f3ae95182398b1d",17,"","187658cfd5a240133042427e03e5d39a"],["L’ATELIER, T’AS VU ? Y’A PLUS RIEN !","Crénage: apostrophes entre capitales","0ac2f501d506","8a49044fcb1abd679baf992e0afc09a6",18,"","965eaf929ebacee88171e93ad6006535"],["L’[OMS] publie chaque année une [fiche officielle]\nsur la grippe saisonnière.","Ligatures et petites capitales","8e7e226e9c51","221fe89c31044a4e8d30817e80b71bb1",19,"","2d416a38370ea9d24f9b9b6d9c763951"],["Environ [1/5] de la population de l’[UE] a plus de 65 ans.","Fractions et petites capitales","583fae35dbaa","be3305706e24d24bab140bf5292dc1ac",20,"","57b446127bf690c1212ac8813ff786d4"],["CATALOGUE DE L’EXPOSITION\n(ÉDITION 2026–2027)","Capitales: chiffres et ponctuation adaptés","9852e4a3d91b",["947332f2e92eac8076613029518b6821","f42cb33d0a56bafab239d9c284adb8e9"],21,"",["20e0dc3e3d87653913098428c0bb5910","1833654fb2292c90ffb4d4d6a6217b8c"]],["Commune\tOui\tNon\nLausanne\t18 427\t9 316\nMorges\t4 108\t2 975\nNyon\t5 860\t3 041","Chiffres: elzéviriens dans un tableau","d7601a192933",["ddd049f97c0052eb00f6584121240213","d0e0ff049e7f9ec609e0b4f04029f95b"],22,"",["a0888712be481063584dd6c951fd30a9","816f7d8abe45bd6f3e3d8f83e97c562c"]],["Imprimez le dossier au format [A4], en noir et blanc.","Petites capitales: sigles avec chiffres","888f9c239cfe",["469844f95f2ac76e2c2b6845eba9ae53","3542cb5d5b32548836b66d14cce1c3f6"],23,"",["2a652aed7145d4eb861c35eb42d5142a","cbf23c26012b098a1829c8b1d917e2c3"]]];
+const QUESTIONS = [["Un jour qu’en prévision de son départ elle faisait des rangements dans un tiroir, elle se piqua les doigts à quelque chose. C’était un fil de fer de son bouquet de mariage. Les boutons d’oranger étaient jaunes de poussière, et les rubans de satin, à liséré d’argent, s’effiloquaient par le bord. Elle le jeta dans le feu. Il s’enflamma plus vite qu’une paille sèche. Puis ce fut comme un buisson rouge sur les cendres, et qui se rongeait lentement. Elle le regarda brûler. Les petites baies de carton éclataient, les fils d’archal se tordaient, le galon se fondait ; et les corolles de papier, racornies, se balançant le long de la plaque comme des papillons noirs, enfin s’envolèrent par la cheminée.","Ligatures: fi, fl, ffi","ae0eeef855d4","f01534216b96f5db7a221c1181e0dd72",1,"","943c0dd22e793efaf4721172c9cfcef9"],["La Suisse a adhéré à l’[ONU] après une votation populaire ; Genève accueille aussi le siège de l’[OMS], de l’[OMC], de l’[OIT] et du [CICR], et Bâle celui de la [BRI]. La Suisse est membre de l’[OCDE] et de l’[AELE], mais elle n’appartient ni à l’[UE] ni à l’[OTAN] : ses relations avec l’Union reposent sur des accords bilatéraux, négociés secteur par secteur.","Petites capitales: sigles","e912a6674271","56859ff26efa7bc57e06089c72b1f536",2,"","569fed0ca5c37b65b333c2875d147fff"],["Au milieu du [XV]ᵉ siècle, Gutenberg met au point à Mayence l’imprimerie à caractères mobiles. Au début du [XVI]ᵉ siècle, Alde Manuce imprime à Venise le premier livre entièrement composé en italique : les classiques latins tiennent désormais dans un petit volume que l’on emporte partout. Au [XVIII]ᵉ siècle, Pierre-Simon Fournier publie son Manuel typographique, et au [XIX]ᵉ siècle la presse mécanique transforme le métier.","Petites capitales: siècles en chiffres romains","323b1639cd21","7ebe211ca8e699535a61b3bed93e7be1",3,"","8f70222803390da97f09262666564e2e"],["« Cela est bien dit, répondit Candide,\nmais il faut cultiver notre jardin. »\n[Voltaire]","Petites capitales: nom de l’auteur d’une citation","e0dd42bd492f","c08fc5d4fe83edf889c9f30d6176f20d",4,"","263585918892a35c9c9901ee23f17301"],["Le 14 juillet 1789, les Parisiens prennent la Bastille. Trois ans plus tard, le 21 septembre 1792, la Convention abolit la royauté ; le roi est exécuté le 21 janvier 1793. Le 18 brumaire an VIII, soit le 9 novembre 1799, un coup d’État porte Bonaparte au pouvoir. Sacré empereur le 2 décembre 1804, il abdique en 1814, revient en 1815 pour cent jours, puis meurt en exil à Sainte-Hélène en 1821.","Chiffres: dans le texte courant","b4f66be0d761","0b99efd2108786307aa7a46ba861cf44",5,"","6bb98c8f47aa864b8b11da04b7645335"],["Le 8 mars 2026, Lausanne élit son Conseil communal, soit 100 sièges répartis à la proportionnelle. Sur 92 385 électeurs inscrits, 42 266 cartes de vote sont reçues. On compte 31 332 bulletins rentrés : 1 533 nuls, 348 blancs et 29 451 valables, pour un taux de participation de 33,91 %. Le même jour, au premier tour de l’élection à la Municipalité, 37 923 bulletins sont rentrés et la majorité absolue est fixée à 18 912 suffrages ; aucun candidat ne l’atteint.","Chiffres: chasse proportionnelle dans le texte courant","1cb4a087b9f0",["4b62d7f3920066dc5f7820edfc30f746","ea686891596d4cbf2c3d0b3843d72090"],6,"",["1ba7ffd1dbedf75848990a54e8c8dbfa","d5cc1dcad90979e6696cb5b296f2857a"]],["En 1329, Albrecht V von Hohenberg revint à Constance après son séjour à Paris. En 1307, deux Konrad Blarer apparaissent comme témoins. Lequel des deux est désigné dans les documents ultérieurs, de 1299 à 1316, reste incertain. En tout cas, aucun Konrad n’est attesté comme maire jusqu’en 1316. Un Konrad Blarer est toutefois mentionné parmi les conseillers en 1319, et…","Chiffres: elzéviriens et proportionnels dans le texte courant","c91f71f7ba81","0a1359dbbee7c7f43b85d41cc6e4e620",7,"","5826b3e19d3f9fa80c4aa4faeb78a59f"],["Crêpes de base\n4 œufs\n[1/2] c. à thé (2,5 ml) de sel\n2 tasses (500 ml) de farine tout usage\n2 tasses (500 ml) de lait (1 %)\n[1/4] tasse (60 ml) d’huile végétale","Fractions","e5421d8fd617","e0466b28699e1954a4465ed266b34783",8,"","dd84f337ada62862a26575f655c56f9f"],["Conseil fédéral 2026\t\nPrésident de la Confédération\tM. Guy Parmelin\nVice-président\tM. Ignazio Cassis\nConseillère fédérale\tM[me] Karin Keller-Sutter\nConseillère fédérale\tM[me] Elisabeth Baume-Schneider\nConseiller fédéral\tM. Albert Rösti\nConseiller fédéral\tM. Beat Jans\nConseiller fédéral\tM. Martin Pfister\nChancelier de la Confédération\tM. Viktor Rossi","Abréviations: lettres supérieures","1c0b99022d57",["87a97790040624413af42dc182fa844c","b6f88c5884ec76c471357ad370e6372e"],9,"",["46c1c3ab46b3cfeabafc2704ed4cd390","2352efeb2e722e7c37a661fbba8773b7"]],["Date\tJour férié\tOù\n1[er] janvier\tNouvel An\ttoute la Suisse\n2 janvier\tSaint-Berchtold\tplusieurs cantons\n1[er] mars\tInstauration de la République\tNeuchâtel\n1[er] mai\tFête du travail\tplusieurs cantons\n1[er] août\tFête nationale\ttoute la Suisse","Abréviations: le 1ᵉʳ du mois","e3ace9189c81",["736c47f6f2de1d6d57434bd547f42393","5cb63a65845a1cc43a48d8c8b2f2ab8b"],10,"",["351199bc3892e7ff7bac93a00003f997","f1d7ee1dbce77c34be43a10a575eb264"]],["Ingrédients :\nEau gazéifiée (CO[2])\nSucre (C[12]H[22]O[11])\nColorant : caramel E150d\nAcidifiant : acide phosphorique (H[3]PO[4])\nArômes naturels, dont caféine (C[8]H[10]N[4]O[2])","Chimie: chiffres inférieurs","647537fe5c68",["63bbf708fd9c9ea6553f50c5d5caa9f5","306491374c37c76f309c7cd3a82ddddd"],11,"",["1077cc757aeb61f14e788154a8bbbdd8","469273c7cd2b56551f28ee75ba263abc"]],["Jost Hochuli, typographe saint-gallois[1], a publié Le détail en typographie[2], un petit livre devenu une référence. Il y examine les réglages dont dépend la lisibilité d’un texte : approches des lettres, espaces entre les mots, longueur des lignes, interlignage[3]. Ces détails passent inaperçus quand ils sont justes ; mal réglés, ils fatiguent le lecteur sans qu’il sache pourquoi.","Appels de note: chiffres supérieurs","b80890f206fe","e44708ba180bdbb9f765820c8dae140a",12,"","c43caee9b7dea918c4156c613f79f9a2"],["Licence\tNº de série\tClé d’activation\nPoste 1\t0O8B-OO50-D0O1\t80O0-OB0O-0D08\nPoste 2\tB0O8-0D0O-O8B0\tO0D8-B80O-0O0B","Zéro: distinguer le chiffre 0 de la lettre O","854f38358b28","2ec75e9b7f2873585dfef17e8ca2d24a",13,"","b7cb12b2ed34c729615b20eac97fa6ae"],["LAUSANNE\tDÉPARTS\t\t\nHEURE\tTRAIN\tDESTINATION\tVOIE\n15:14\tIR 95\tBRIG\t3\n15:16\tIR 90\tGENÈVE-AÉROPORT\t8\n15:17\tIC 1\tST. GALLEN\t1\n15:23\tIR 15\tGENÈVE-AÉROPORT\t5\n15:34\tIC 5\tRORSCHACH\t4\n15:40\tIR 15\tLUZERN\t1\n15:46\tIC 1\tGENÈVE-AÉROPORT\t4\n15:48\tIR 90\tBRIG\t3","Capitales: ponctuation et chiffres adaptés","d60aa782678a","067f86e4b22dbe2dc9faa18f59dcf38b",14,"","84be9332fbb40638b706b6bfa8cd9676"],["GENÈVE AÉROPORT\tDÉPARTS\t\t\nHEURE\tVOL\tDESTINATION\tPORTE\n09:05\tKL1930\tAMSTERDAM\tA4\n09:15\tLH1213\tFRANCFORT\tA2\n09:50\tSK1610\tCOPENHAGUE\tD23\n09:55\tIB1276\tMADRID\tD22\n10:05\tBA727\tLONDRES (LHR)\tC51\n10:25\tLO418\tVARSOVIE\tA1\n10:35\tAF1643\tPARIS (CDG)\tF11","Capitales: chiffres à la hauteur des capitales","7958b7e698c5",["158e46be60610b08739a28becc469bf8","d778b7659e99bdd375356b3ffb5d3b4a"],15,"",["452fe516100fe363dc40df538da8f321","5a812cd82a04fc2b1f30ecf86fe393b0"]],["Calculer :\n(5 + 2) − 78 × 198 = −15 437\n(12 − 3 × 4) + 7 = 7\n−8 + 3 × (−2) = −14","Mathématiques: chiffres alignés et signes centrés","0696bb720b46",["e5242f38e7e5923f92226d8f679518f0","82a9cf433e1f2700a3473617aed5c464"],16,"",["0cf74d0e73fa8273c9ad82e756040e65","80c55b1a2950a0d1d80c964b811bb2c6"]],["Deux fois par an, l’[OMS] publie une [fiche officielle] sur la grippe saisonnière : elle y [fixe] la composition recommandée du vaccin, pour l’hémisphère nord puis pour l’hémisphère sud. En Suisse, l’[OFSP] [diffuse] ensuite ses recommandations aux médecins et aux pharmacies, et [affiche] chaque automne la campagne de vaccination.","Ligatures et petites capitales","ac415da9761f","5ef55ce1cb0e4fd8b23dddb51e6d80f7",17,"","06ea5ab157a6013da2a9e5a8e9856df8"],["Environ [1/5] de la population de l’[UE] a plus de soixante-cinq ans ; dans les pays les plus âgés, comme l’Italie ou le Portugal, la part approche [1/4]. En Suisse, membre de l’[AELE] mais pas de l’Union, la proportion est proche de la moyenne européenne.","Fractions et petites capitales","178836ddea2c","62dbeb721cd024de93d07b9ff6af30fa",18,"","3b70f84a65fe1ce523fb04a22ef52be1"],["PHOTO ELYSÉE (LAUSANNE)\nMODÈLE ANIMAL\n200 ANS DE PHOTOGRAPHIE\n4.12.2026–4.4.2027","Capitales: chiffres et ponctuation adaptés","acfd26529c44",["1235ea2069d1a5644484ba8ac13c39aa","cf21068b917cc1f3cde32677a7979115"],19,"",["073eb070b46fc936dd417798fa3941be","4f622314e04df38e820884250350384e"]],["Mobilis 2 zones\tHebdo\tMensuel\tAnnuel\nJunior (6–25 ans)\t28.–\t55.–\t495.–\nAdulte\t39.–\t78.–\t702.–\nSenior (AVS)\t36.–\t71.–\t639.–","Chiffres: elzéviriens dans un tableau","3b73019968db",["708997978222355b023751b1364f2629","2a5e10e9748f5e811f825457bdfe6fca"],20,"",["763039412666e5e41ffd00871df598cf","28b11893e4bda1a2ad5c0f13fe9f7ffe"]],["Rendu digital\nSur Teams, dans le dossier correspondant à l’exercice\nEn un seul fichier (et non plusieurs fichiers dans un dossier)\nAvec l’extension correcte (p. ex. [PDF])\nDans le format mentionné sur le brief (p. ex. [A4])\nDans l’ordre des pages mentionné sur le brief","Petites capitales: sigles avec chiffres","3e83d8ceb2b9",["963178999febcdc492d364b7fd9cbf4a","529dc2bae194e2ccbdc14b9f9e78d4e5"],21,"",["e95cb3cc51075bd6e096f4814de657ea","c5e6f7156637a6fbe0290cd510909af1"]]];
 
 const STORE = "microtypo-quiz-2";
 const $ = id => document.getElementById(id);
@@ -444,7 +447,6 @@ const FEATURES = [   // ordre alphabétique des codes
     ["c2sc", "Capitales en petites capitales"],
     ["case", "Formes sensibles à la casse"],
     ["frac", "Fractions"],
-    ["kern", "Crénage"],
     ["liga", "Ligatures standard"],
     ["lnum", "Chiffres alignés"],
     ["onum", "Chiffres elzéviriens"],
@@ -462,7 +464,8 @@ const phraseBox = $("phrase");
 let fitSize = 150;
 let selected = new Set();
 const canonical = set => [...set].sort().join(" ");
-const featureCSS = set => FEATURES.map(([t]) => '"' + t + '" ' + (set.has(t) ? 1 : 0)).join(", ");
+// le crénage est toujours actif (pas proposé aux élèves) ; les autres fonctions, activées ou non une à une
+const featureCSS = set => FEATURES.map(([t]) => '"' + t + '" ' + (set.has(t) ? 1 : 0)).join(", ") + ', "kern" 1';
 
 // La phrase : les fonctions s'appliquent à toute la phrase, ou seulement aux zones [entre crochets]
 function buildPhrase(target, text, zones) {
@@ -511,6 +514,7 @@ function buildContent(target, text) {
             const row = document.createElement("div");
             row.appendChild(mark());
             const inner = document.createElement("span");
+            inner.className = "ri";
             inner.style.display = "inline-block";
             buildPhrase(inner, l || "​", zones);
             row.appendChild(inner);
@@ -518,15 +522,18 @@ function buildContent(target, text) {
             widthEls.push(inner);
         });
     }
-    return { marks, widthEls };
+    // fin du texte : dernière ligne de base, même quand le paragraphe passe à la ligne tout seul
+    const end = document.createElement("span");
+    end.style.cssText = "display:inline-block;width:0;height:0;vertical-align:baseline";
+    (target.lastElementChild.tagName === "DIV" && !text.includes("\t") ? target.lastElementChild : target).appendChild(end);
+    return { marks, widthEls, end };
 }
 function applyFeatures(target) {
     const off = featureCSS(new Set()), on = featureCSS(selected);
-    const kern = selected.has("kern") ? "normal" : "none";   // Safari ignore "kern" 0 : on passe aussi par font-kerning
     target.querySelectorAll("span").forEach(sp => {
         const zone = sp.classList.contains("zone-on");
         sp.style.fontFeatureSettings = zone ? on : off;
-        sp.style.fontKerning = zone ? kern : "none";
+        sp.style.fontKerning = "normal";   // crénage toujours actif
     });
 }
 // Copie invisible, mise en forme comme la phrase : sert à mesurer largeur et lignes de base
@@ -554,7 +561,10 @@ function fit() {
     const left = margin, right = box.width - margin;
     phraseBox.style.left = left + "px";
     phraseBox.style.right = (box.width - right) + "px";
-    const { m, marks, widthEls } = mirrorOf(text);
+    const { m, marks, widthEls, end } = mirrorOf(text);
+    const wrap = !text.includes("\t") && text.split("\n").some(l => l.replace(/[\[\]]/g, "").length > 80);   // paragraphe
+    m.classList.toggle("wrapmode", wrap);
+    m.style.width = wrap ? (right - left) + "px" : "auto";   // même largeur que la phrase affichée
     m.style.fontSize = "100px";
     const widest = Math.max(1, ...widthEls.map(el => el.getBoundingClientRect().width));
     const lines = marks.length;
@@ -567,12 +577,24 @@ function fit() {
         fitSize = Math.max(20, fitSize * (right - left) / w - 0.5);
         m.style.fontSize = fitSize + "px";
     }
+    if (wrap) {
+        // paragraphe : la plus grande taille (px entiers) où le texte, à la ligne automatiquement, tient en hauteur
+        let lo = 12, hi = 150;
+        while (hi - lo > 1) {
+            const mid = Math.floor((lo + hi) / 2);
+            m.style.fontSize = mid + "px";
+            if (m.getBoundingClientRect().height <= bottom - top && m.scrollWidth <= right - left + 1) lo = mid; else hi = mid;
+        }
+        fitSize = lo;
+        m.style.fontSize = fitSize + "px";
+    }
+    phraseBox.classList.toggle("wrapmode", wrap);
     const ctx = fit.ctx || (fit.ctx = document.createElement("canvas").getContext("2d"));
     ctx.font = "500 " + fitSize + "px 'Source Serif 4', serif";
     const capH = ctx.measureText("H").actualBoundingBoxAscent;
     const mTop = m.getBoundingClientRect().top;
     const first = marks[0].getBoundingClientRect().top - mTop;
-    const last = marks[lines - 1].getBoundingClientRect().top - mTop;
+    const last = (wrap ? end : marks[lines - 1]).getBoundingClientRect().top - mTop;
     const capMiddle = (first - capH + last) / 2;   // des capitales de la 1re ligne à la dernière ligne de base
     phraseBox.style.fontSize = fitSize + "px";
     phraseBox.style.top = ((top + bottom) / 2 - capMiddle - field.clientTop) + "px";   // clientTop : trait du cadre
