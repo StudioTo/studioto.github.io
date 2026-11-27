@@ -67,7 +67,7 @@ Apprendre à dessiner des caractères commence par la capacité à les déconstr
 	**Outil :** InDesign
 
 ## Travaux réalisés
-[🎥 Vidéo Portes Ouvertes](https://kdrive.t-o.studio/app/share/105447/5354138d-66b4-47f6-9d56-56fe22c10441/preview/video/771196)
+[🎥 Synthétiser les paroles d’un morceau de musique](https://kdrive.t-o.studio/app/share/105447/5354138d-66b4-47f6-9d56-56fe22c10441/preview/video/771196)
 
 
 <!-- ## Prendre du plaisir	
