@@ -9,6 +9,7 @@ toc: true
 
 - [Typographie S1 (GR-ID)](#typographie-s1-gr-id)
 - [Typographie S2 (GR)](#typographie-s2-gr)
+- [Travaux réalisés](#travaux-réalisés)
 
 <!-- /toc -->
 
@@ -64,6 +65,9 @@ Apprendre à dessiner des caractères commence par la capacité à les déconstr
 	
 	**Compétence :** définir et appliquer un système de mise en page cohérent pour une publication  
 	**Outil :** InDesign
+
+## Travaux réalisés
+[Vidéo Portes Ouvertes](https://kdrive.t-o.studio/app/share/105447/5354138d-66b4-47f6-9d56-56fe22c10441/preview/video/771196)
 
 
 <!-- ## Prendre du plaisir	
